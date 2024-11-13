@@ -1,0 +1,788 @@
+[
+    {
+        "brand": "Volvo",
+        "model": "2025 Volvo XC40",
+        "price": "167.2 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2025"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2024 Volvo C40",
+        "price": "201 - 232",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c40-2024"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2024 Volvo S60",
+        "price": "190.6 - 272.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2024"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2024 Volvo V60",
+        "price": "185 - 277.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2024"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2024 Volvo V90 Cross Country",
+        "price": "276.6 - 276.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2024"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2024 Volvo XC40",
+        "price": "144.5 - 222",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2024"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2024 Volvo XC60",
+        "price": "232 - 328.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2024"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2024 Volvo XC90",
+        "price": "295.6 - 377.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2024"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2023 Volvo C40",
+        "price": "229 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c40-2023"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2023 Volvo S60",
+        "price": "189 - 271",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2023"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2023 Volvo V60",
+        "price": "194 - 276",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2023"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2023 Volvo V90 Cross Country",
+        "price": "275 - 275",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2023"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2023 Volvo XC40",
+        "price": "142.9 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2023"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2023 Volvo XC60",
+        "price": "222 - 326.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2023"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2023 Volvo XC90",
+        "price": "294 - 376",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2023"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2022 Volvo S60",
+        "price": "184.5 - 271",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2022"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2022 Volvo S90",
+        "price": "244.5 - 312",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2022"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2022 Volvo V60",
+        "price": "189.5 - 276",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2022"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2022 Volvo V90 Cross Country",
+        "price": "264.5 - 264.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2022"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2022 Volvo XC40",
+        "price": "160.7 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2022"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2022 Volvo XC60",
+        "price": "220.5 - 326.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2022"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2022 Volvo XC90",
+        "price": "289.5 - 376",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2022"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2021 Volvo S60",
+        "price": "182 - 264",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2021"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2021 Volvo S90",
+        "price": "239 - 305",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2021"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2021 Volvo V60",
+        "price": "187 - 269",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2021"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2021 Volvo V90 Cross Country",
+        "price": "259 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2021"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2021 Volvo XC40",
+        "price": "159.9 - 204.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2021"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2021 Volvo XC60",
+        "price": "215 - 320.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2021"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2021 Volvo XC90",
+        "price": "287 - 369",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2021"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2020 Volvo S60",
+        "price": "185 - 252",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2020"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2020 Volvo S90",
+        "price": "239 - 305",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2020"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2020 Volvo V60",
+        "price": "190 - 257",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2020"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2020 Volvo V90 Cross Country",
+        "price": "289 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2020"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2020 Volvo XC40",
+        "price": "169.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2020"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2020 Volvo XC60",
+        "price": "230 - 319",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2020"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2020 Volvo XC90",
+        "price": "289 - 420",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2020"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo S60",
+        "price": "185 - 271",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo S90",
+        "price": "239 - 357",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo V40",
+        "price": "139 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo V40 Cross Country",
+        "price": "153 - 153",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo V60",
+        "price": "190 - 275",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo V90 Cross Country",
+        "price": "289 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo XC40",
+        "price": "169.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo XC60",
+        "price": "222 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2019 Volvo XC90",
+        "price": "283 - 470",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2019"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo S60",
+        "price": "165 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo S90",
+        "price": "239 - 357",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo V40",
+        "price": "136 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo V40 Cross Country",
+        "price": "150 - 164",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo V60",
+        "price": "159 - 333",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo V60 Cross Country",
+        "price": "189 - 200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo V90",
+        "price": "243 - 309",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo V90 Cross Country",
+        "price": "276 - 336",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo XC60",
+        "price": "222 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2018 Volvo XC90",
+        "price": "265 - 470",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2018"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo S60",
+        "price": "165 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo S90",
+        "price": "239 - 305",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo V40",
+        "price": "135 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo V40 Cross Country",
+        "price": "149 - 164",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo V60",
+        "price": "178 - 333",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo V60 Cross Country",
+        "price": "189 - 200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo V90",
+        "price": "243 - 309",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo V90 Cross Country",
+        "price": "276 - 336",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo XC60",
+        "price": "198 - 255",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2017 Volvo XC90",
+        "price": "265 - 470",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2017"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo S60",
+        "price": "165 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo S80",
+        "price": "201 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo V40",
+        "price": "135 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo V40 Cross Country",
+        "price": "153.5 - 175.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo V60",
+        "price": "178 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo V60 Cross Country",
+        "price": "189 - 212",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo XC60",
+        "price": "198 - 247",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo XC70",
+        "price": "207 - 231",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2016 Volvo XC90",
+        "price": "260 - 372",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2016"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2015 Volvo S60",
+        "price": "158.5 - 223",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2015"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2015 Volvo S80",
+        "price": "194 - 224",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2015"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2015 Volvo V40",
+        "price": "132 - 176",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2015"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2015 Volvo V40 Cross Country",
+        "price": "142 - 172",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2015"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2015 Volvo V60",
+        "price": "174 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2015"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2015 Volvo XC60",
+        "price": "195 - 237",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2015"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2015 Volvo XC70",
+        "price": "205 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2015"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo S60",
+        "price": "158.5 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo S80",
+        "price": "198 - 225.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo V40",
+        "price": "132 - 174.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo V40 Cross Country",
+        "price": "142 - 162",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo V60",
+        "price": "172 - 209",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo XC60",
+        "price": "191.5 - 235.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo XC70",
+        "price": "224 - 248",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2014 Volvo XC90",
+        "price": "290.9 - 290.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2014"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2013 Volvo S60",
+        "price": "153 - 189",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2013"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2013 Volvo S80",
+        "price": "189 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2013"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2013 Volvo V40",
+        "price": "129.9 - 169.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2013"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2013 Volvo V60",
+        "price": "163 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2013"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2013 Volvo XC60",
+        "price": "185 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2013"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2013 Volvo XC70",
+        "price": "220 - 244",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2013"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2013 Volvo XC90",
+        "price": "288 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2013"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo C30",
+        "price": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo C70",
+        "price": "242 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo S40",
+        "price": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo S60",
+        "price": "152 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo S80",
+        "price": "186 - 216",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo V50",
+        "price": "129 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo V60",
+        "price": "162 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo XC60",
+        "price": "184 - 227",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo XC70",
+        "price": "213 - 237",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2012 Volvo XC90",
+        "price": "281 - 281",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2012"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo C30",
+        "price": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo C70",
+        "price": "239 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo S40",
+        "price": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo S60",
+        "price": "149 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo S80",
+        "price": "183 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo V50",
+        "price": "129 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo XC60",
+        "price": "179 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo XC70",
+        "price": "210 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2011 Volvo XC90",
+        "price": "272 - 282",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2011"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo C30",
+        "price": "119 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo C70",
+        "price": "239 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo S40",
+        "price": "119 - 175",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo S80",
+        "price": "188 - 212",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo V50",
+        "price": "129 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo XC60",
+        "price": "202 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo XC70",
+        "price": "210 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2010 Volvo XC90",
+        "price": "262 - 282",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2010"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo C70",
+        "price": "210 - 210",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2009"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo S40",
+        "price": "119 - 119",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2009"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo S60",
+        "price": "129.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2009"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo S80",
+        "price": "188 - 333",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2009"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo V50",
+        "price": "160 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2009"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo XC60",
+        "price": "199 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2009"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo XC70",
+        "price": "210 - 220",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2009"
+    },
+    {
+        "brand": "Volvo",
+        "model": "2009 Volvo XC90",
+        "price": "262 - 272",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2009"
+    }
+]

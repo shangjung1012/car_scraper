@@ -1,0 +1,20 @@
+[
+    {
+        "brand": "Buick",
+        "model": "2009 Buick Excelle",
+        "price": "57.9 - 64.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-excelle-2009"
+    },
+    {
+        "brand": "Buick",
+        "model": "2008 Buick Excelle",
+        "price": "57.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-excelle-2008"
+    },
+    {
+        "brand": "Buick",
+        "model": "2006 Buick LaCrosse",
+        "price": "93.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-lacrosse-2006"
+    }
+]

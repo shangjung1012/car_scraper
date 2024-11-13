@@ -1,0 +1,908 @@
+[
+    {
+        "brand": "Skoda",
+        "model": "2025 Skoda Enyaq",
+        "price": "163.8 - 163.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-enyaq-2025"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2025 Skoda Enyaq Coupe",
+        "price": "171.8 - 198.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-enyaq-coupe-2025"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2025 Skoda Octavia",
+        "price": "109.8 - 151.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-2025"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2025 Skoda Octavia Combi",
+        "price": "119.8 - 161.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2025"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Fabia",
+        "price": "84.8 - 96.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Kamiq",
+        "price": "95.8 - 106.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kamiq-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Kamiq(NEW)",
+        "price": "102.8 - 108.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kamiq%28new%29-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Karoq",
+        "price": "118.8 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karoq-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Kodiaq",
+        "price": "150.8 - 193.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Kodiaq(NEW)",
+        "price": "153.8 - 173.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq%28new%29-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Octavia",
+        "price": "109.8 - 151.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Octavia Combi",
+        "price": "119.8 - 161.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Scala",
+        "price": "93.8 - 104.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-scala-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Scala(NEW)",
+        "price": "100.8 - 106.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-scala%28new%29-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Superb Combi",
+        "price": "142.8 - 182.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2024 Skoda Superb Sedan",
+        "price": "132.8 - 179.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2024"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Fabia",
+        "price": "81.9 - 93.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Kamiq",
+        "price": "92.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kamiq-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Karoq",
+        "price": "117.9 - 134.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karoq-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Kodiaq",
+        "price": "148.9 - 191.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Octavia",
+        "price": "107.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Octavia Combi",
+        "price": "117.9 - 159.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Scala",
+        "price": "90.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-scala-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Superb Combi",
+        "price": "137.9 - 177.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2023 Skoda Superb Sedan",
+        "price": "127.9 - 174.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2023"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Fabia",
+        "price": "81.9 - 93.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Kamiq",
+        "price": "90.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kamiq-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Karoq",
+        "price": "108.9 - 122.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karoq-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Kodiaq",
+        "price": "146.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Octavia",
+        "price": "103.9 - 115.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Octavia Combi",
+        "price": "113.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Scala",
+        "price": "90.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-scala-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Superb Combi",
+        "price": "137.9 - 177.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2022 Skoda Superb Sedan",
+        "price": "127.9 - 174.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2022"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Fabia",
+        "price": "78.8 - 85.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Fabia Combi",
+        "price": "82.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Kamiq",
+        "price": "87.9 - 100.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kamiq-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Karoq",
+        "price": "99.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karoq-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Kodiaq",
+        "price": "136.9 - 156.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Octavia",
+        "price": "99.9 - 111.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Octavia Combi",
+        "price": "109.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Scala",
+        "price": "89.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-scala-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Superb Combi",
+        "price": "132.9 - 172.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2021 Skoda Superb Sedan",
+        "price": "122.9 - 169.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2021"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Fabia",
+        "price": "78.8 - 78.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Fabia Combi",
+        "price": "82.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Kamiq",
+        "price": "87.9 - 100.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karmiq-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Karoq",
+        "price": "112.9 - 156.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karoq-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda kodiaq",
+        "price": "130.9 - 150.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Octavia",
+        "price": "97.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Octavia Combi",
+        "price": "107.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Scala",
+        "price": "89.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-scala-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2020 Skoda Superb Sedan",
+        "price": "121.9 - 167.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2020"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Citigo",
+        "price": "62.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-citigo-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Fabia",
+        "price": "78.8 - 78.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Fabia Combi",
+        "price": "82.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Karoq",
+        "price": "110.9 - 126.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karoq-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Kodiaq",
+        "price": "129.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Octavia",
+        "price": "79.9 - 134.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Octavia Combi",
+        "price": "99.8 - 144.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Rapid",
+        "price": "92.8 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Rapid Spaceback",
+        "price": "95.8 - 95.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-spaceback-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Superb Combi",
+        "price": "131.9 - 177.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2019 Skoda Superb Sedan",
+        "price": "121.9 - 167.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2019"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Citigo",
+        "price": "62.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-citigo-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Fabia",
+        "price": "68.8 - 78.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Fabia Combi",
+        "price": "72.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Karoq",
+        "price": "109.9 - 125.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-karoq-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Kodiaq",
+        "price": "112.9 - 157.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Octavia",
+        "price": "79.9 - 134.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Octavia Combi",
+        "price": "99.8 - 144.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Rapid",
+        "price": "92.8 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Rapid Spaceback",
+        "price": "95.8 - 95.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-spaceback-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Superb Combi",
+        "price": "129.9 - 177.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2018 Skoda Superb Sedan",
+        "price": "119.9 - 167.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2018"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Citigo",
+        "price": "62.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-citigo-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Fabia",
+        "price": "68.8 - 78.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Fabia Combi",
+        "price": "72.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Kodiaq",
+        "price": "109.9 - 157.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-kodiaq-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Octavia",
+        "price": "95.8 - 131.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Octavia Combi",
+        "price": "105.8 - 151.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Octavia Combi(NEW)",
+        "price": "99.8 - 144.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-new-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Octavia(NEW)",
+        "price": "79.9 - 134.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-new-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Rapid",
+        "price": "79.9 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Rapid Spaceback",
+        "price": "81.9 - 98.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-spaceback-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Superb Combi",
+        "price": "129.9 - 159.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Superb Sedan",
+        "price": "119.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2017 Skoda Yeti",
+        "price": "88.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2017"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Citigo",
+        "price": "59.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-citigo-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Fabia",
+        "price": "68.8 - 78.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Fabia Combi",
+        "price": "72.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Octavia",
+        "price": "95.8 - 131.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Octavia Combi",
+        "price": "105.8 - 151.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Rapid",
+        "price": "79.9 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Rapid Spaceback",
+        "price": "81.9 - 98.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-spaceback-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Superb Combi",
+        "price": "129.9 - 177.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Superb Sedan",
+        "price": "119.9 - 167.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2016 Skoda Yeti",
+        "price": "88.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2016"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Citigo",
+        "price": "59.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-citigo-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Fabia",
+        "price": "78.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Fabia(NEW)",
+        "price": "65.9 - 72.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-new-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Octavia",
+        "price": "105.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Octavia Combi",
+        "price": "115.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Rapid",
+        "price": "92.8 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Rapid Spaceback",
+        "price": "95.8 - 95.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-spaceback-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Roomster",
+        "price": "87.8 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-roomster-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Superb Combi",
+        "price": "145.8 - 155.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Superb Sedan",
+        "price": "129.8 - 145.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2015 Skoda Yeti",
+        "price": "88.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2015"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Citigo",
+        "price": "59.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-citigo-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Fabia",
+        "price": "78.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Fabia Combi",
+        "price": "84.8 - 84.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Octavia",
+        "price": "105.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Octavia Combi",
+        "price": "115.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Rapid",
+        "price": "92.8 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Rapid Spaceback",
+        "price": "95.8 - 95.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-rapid-spaceback-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Roomster",
+        "price": "87.8 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-roomster-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Superb Combi",
+        "price": "145.8 - 155.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Superb Sedan",
+        "price": "129.8 - 145.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2014 Skoda Yeti",
+        "price": "88.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2014"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Fabia",
+        "price": "78.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Fabia Combi",
+        "price": "84.8 - 84.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Octavia",
+        "price": "94.8 - 94.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Octavia Combi",
+        "price": "99.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Roomster",
+        "price": "87.8 - 92.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-roomster-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Superb Combi",
+        "price": "147.8 - 209.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Superb Sedan",
+        "price": "137.8 - 188.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2013 Skoda Yeti",
+        "price": "94.8 - 124.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2013"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Fabia",
+        "price": "69.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Fabia Combi",
+        "price": "83.8 - 83.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Octavia",
+        "price": "108.8 - 108.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Octavia Combi",
+        "price": "101.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Roomster",
+        "price": "86.8 - 91.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-roomster-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Superb Combi",
+        "price": "147.8 - 199.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Superb Sedan",
+        "price": "137.8 - 188.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2012 Skoda Yeti",
+        "price": "94.8 - 124.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2012"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Fabia",
+        "price": "68.8 - 74.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Fabia Combi",
+        "price": "80.8 - 80.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-combi-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Octavia",
+        "price": "106 - 106",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Octavia Combi",
+        "price": "101.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Roomster",
+        "price": "85.8 - 90.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-roomster-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Superb Combi",
+        "price": "135.8 - 199.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Superb Sedan",
+        "price": "132 - 184",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-sedan-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2011 Skoda Yeti",
+        "price": "90.8 - 124.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2011"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2010 Skoda Fabia",
+        "price": "73.8 - 73.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-fabia-2010"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2010 Skoda Octavia",
+        "price": "104 - 104",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-sedan-2010"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2010 Skoda Octavia Combi",
+        "price": "111 - 133.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-octavia-combi-2010"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2010 Skoda Roomster",
+        "price": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-roomster-2010"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2010 Skoda Superb",
+        "price": "129 - 181",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-2010"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2010 Skoda Superb Combi",
+        "price": "152 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-superb-combi-2010"
+    },
+    {
+        "brand": "Skoda",
+        "model": "2010 Skoda Yeti",
+        "price": "88.8 - 88.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/skoda-yeti-2010"
+    }
+]

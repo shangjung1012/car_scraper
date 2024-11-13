@@ -1,0 +1,20 @@
+[
+    {
+        "brand": "Jeep",
+        "model": "2009 Jeep Compass",
+        "price": "124.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-compass-2009"
+    },
+    {
+        "brand": "Jeep",
+        "model": "2009 Jeep Grand Cherokee",
+        "price": "194.5 - 194.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-grand-cherokee-2009"
+    },
+    {
+        "brand": "Jeep",
+        "model": "2008 Jeep Grand Cherokee",
+        "price": "194.5 - 194.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-grand-cherokee-2008"
+    }
+]

@@ -1,0 +1,680 @@
+[
+    {
+        "brand": "Subaru",
+        "model": "2025 Subaru Forester",
+        "price": "118.8 - 129.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2025"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2024 Subaru BRZ",
+        "price": "166.8 - 167.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2024"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2024 Subaru Crosstrek",
+        "price": "114.8 - 124.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-crosstrek-2024"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2024 Subaru Forester",
+        "price": "118.8 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2024"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2024 Subaru WRX Wagon",
+        "price": "188.8 - 188.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-wagon-2024"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2023 Subaru BRZ",
+        "price": "162.8 - 166.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2023"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2023 Subaru Crosstrek",
+        "price": "111.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-crosstrek-2023"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2023 Subaru Forester",
+        "price": "115.8 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2023"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2023 Subaru Outback",
+        "price": "159.8 - 162.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2023"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2023 Subaru Solterra",
+        "price": "189.8 - 189.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-solterra-2023"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2023 Subaru WRX",
+        "price": "172.8 - 172.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2023"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2023 Subaru WRX Wagon",
+        "price": "178.8 - 178.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-wagon-2023"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2022 Subaru BRZ",
+        "price": "152.8 - 156.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2022"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2022 Subaru Forester",
+        "price": "125.8 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2022"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2022 Subaru Outback",
+        "price": "156.8 - 159.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2022"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2022 Subaru XV",
+        "price": "102.8 - 102.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2022"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2021 Subaru Forester",
+        "price": "112.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2021"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2021 Subaru Impreza 5D",
+        "price": "97.8 - 102.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2021"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2021 Subaru Outback",
+        "price": "159.8 - 159.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2021"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2021 Subaru XV",
+        "price": "107.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2021"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2020 Subaru BRZ",
+        "price": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2020"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2020 Subaru Forester",
+        "price": "103 - 126.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2020"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2020 Subaru Impreza 5D",
+        "price": "94.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2020"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2020 Subaru Levorg",
+        "price": "129.8 - 129.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2020"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2020 Subaru Outback",
+        "price": "130 - 130",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2020"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2020 Subaru WRX",
+        "price": "125.8 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2020"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2020 Subaru XV",
+        "price": "99.8 - 109",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2020"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru BRZ",
+        "price": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru Forester",
+        "price": "103 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru Impreza 4D",
+        "price": "82.8 - 97.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru Impreza 5D",
+        "price": "84.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru Levorg",
+        "price": "127 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru Outback",
+        "price": "133 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru WRX",
+        "price": "135 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2019 Subaru XV",
+        "price": "95 - 119",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2019"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru BRZ",
+        "price": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru Forester",
+        "price": "99.8 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru Forester(NEW)",
+        "price": "103 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester%28new%29-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru Impreza 4D",
+        "price": "81.8 - 96.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru Impreza 5D",
+        "price": "83.8 - 98.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru Legacy",
+        "price": "122 - 127",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru Levorg",
+        "price": "0 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru Outback",
+        "price": "129.9 - 135",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru WRX",
+        "price": "127 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2018 Subaru XV",
+        "price": "95 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2018"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru BRZ",
+        "price": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru Forester",
+        "price": "99.8 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru Impreza 4D",
+        "price": "79.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru Impreza 5D",
+        "price": "81.8 - 91.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru Legacy",
+        "price": "122 - 122",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru Levorg",
+        "price": "124 - 130",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru Outback",
+        "price": "135 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru WRX",
+        "price": "141 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru XV",
+        "price": "98 - 108",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2017 Subaru XV(NEW)",
+        "price": "95 - 108",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-new-2017"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru BRZ",
+        "price": "128 - 131",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru Forester",
+        "price": "99 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru Forester(NEW)",
+        "price": "103 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-new-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru Impreza",
+        "price": "80.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru Legacy",
+        "price": "122 - 122",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru Levorg",
+        "price": "122 - 128",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru Outback",
+        "price": "135 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru WRX",
+        "price": "138 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2016 Subaru XV",
+        "price": "98 - 108",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2016"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2015 Subaru BRZ",
+        "price": "128 - 131",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2015"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2015 Subaru Forester",
+        "price": "99 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2015"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2015 Subaru Impreza",
+        "price": "82.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2015"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2015 Subaru Legacy",
+        "price": "122 - 122",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2015"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2015 Subaru Outback",
+        "price": "129 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2015"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2015 Subaru WRX",
+        "price": "136 - 182",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2015"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2015 Subaru XV",
+        "price": "95 - 105",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2015"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru BRZ",
+        "price": "152 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru Forester",
+        "price": "102 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru Impreza",
+        "price": "82.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru Impreza 4D",
+        "price": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru Legacy Wagon",
+        "price": "120 - 132",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru Outback",
+        "price": "138 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru WRX",
+        "price": "139 - 186",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2014 Subaru XV",
+        "price": "98.8 - 115",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2014"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru BRZ",
+        "price": "152 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru Forester",
+        "price": "102 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru Impreza 4D",
+        "price": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru Impreza 5D",
+        "price": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru Impreza(NEW)",
+        "price": "82.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-new-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru Legacy Sedan",
+        "price": "143 - 143",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru Legacy Wagon",
+        "price": "116 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru Outback",
+        "price": "138 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2013 Subaru XV",
+        "price": "98.8 - 115",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2013"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru BRZ",
+        "price": "152 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru Forester",
+        "price": "107 - 116",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru Impreza 4D",
+        "price": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru Impreza 5D",
+        "price": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru Legacy Sedan",
+        "price": "115 - 155",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru Legacy Wagon",
+        "price": "120 - 160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru Outback",
+        "price": "146 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2012 Subaru XV",
+        "price": "111 - 124",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2012"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2011 Subaru Forester",
+        "price": "105 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2011"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2011 Subaru Impreza 4D",
+        "price": "185 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2011"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2011 Subaru Impreza 5D",
+        "price": "98 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2011"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2011 Subaru Legacy Sedan",
+        "price": "110 - 150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2011"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2011 Subaru Legacy Wagon",
+        "price": "116 - 156",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2011"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2011 Subaru Outback",
+        "price": "140 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2011"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2010 Subaru Forester",
+        "price": "105 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2010"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2010 Subaru Impreza",
+        "price": "98 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2010"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2010 Subaru Legacy Sedan",
+        "price": "110 - 150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2010"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2010 Subaru Legacy Wagon",
+        "price": "116 - 156",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2010"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2010 Subaru Outback",
+        "price": "140 - 178",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2010"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2009 Subaru Forester",
+        "price": "118.8 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2009"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2009 Subaru Impreza",
+        "price": "79.8 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2009"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2008 Subaru Forester",
+        "price": "99.8 - 162.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2008"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2008 Subaru Impreza",
+        "price": "113.8 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2008"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2008 Subaru Legacy Station Wagon",
+        "price": "116 - 116",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-station-wagon-2008"
+    },
+    {
+        "brand": "Subaru",
+        "model": "2008 Subaru Outback",
+        "price": "178 - 178",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2008"
+    }
+]

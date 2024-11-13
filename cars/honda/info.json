@@ -1,0 +1,572 @@
+[
+    {
+        "brand": "Honda",
+        "model": "2024 Honda Civic",
+        "price": "139.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2024"
+    },
+    {
+        "brand": "Honda",
+        "model": "2024 Honda CR-V",
+        "price": "105.9 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2024"
+    },
+    {
+        "brand": "Honda",
+        "model": "2024 Honda Fit",
+        "price": "75.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2024"
+    },
+    {
+        "brand": "Honda",
+        "model": "2024 Honda HR-V",
+        "price": "83.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2024"
+    },
+    {
+        "brand": "Honda",
+        "model": "2023 Honda Civic",
+        "price": "139.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2023"
+    },
+    {
+        "brand": "Honda",
+        "model": "2023 Honda CR-V",
+        "price": "99.9 - 117.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2023"
+    },
+    {
+        "brand": "Honda",
+        "model": "2023 Honda CR-V(NEW)",
+        "price": "105.9 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v%28new%29-2023"
+    },
+    {
+        "brand": "Honda",
+        "model": "2023 Honda Fit",
+        "price": "75.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2023"
+    },
+    {
+        "brand": "Honda",
+        "model": "2023 Honda HR-V",
+        "price": "83.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2023"
+    },
+    {
+        "brand": "Honda",
+        "model": "2022 Honda CR-V",
+        "price": "97.9 - 115.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2022"
+    },
+    {
+        "brand": "Honda",
+        "model": "2022 Honda Fit",
+        "price": "74.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2022"
+    },
+    {
+        "brand": "Honda",
+        "model": "2022 Honda HR-V",
+        "price": "81.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2022"
+    },
+    {
+        "brand": "Honda",
+        "model": "2021 Honda CR-V",
+        "price": "96.9 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2021"
+    },
+    {
+        "brand": "Honda",
+        "model": "2021 Honda Fit",
+        "price": "66.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2021"
+    },
+    {
+        "brand": "Honda",
+        "model": "2021 Honda HR-V",
+        "price": "77.7 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2021"
+    },
+    {
+        "brand": "Honda",
+        "model": "2021 Honda Odyssey",
+        "price": "162.9 - 179.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2021"
+    },
+    {
+        "brand": "Honda",
+        "model": "2020 Honda City",
+        "price": "62.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2020"
+    },
+    {
+        "brand": "Honda",
+        "model": "2020 Honda CR-V",
+        "price": "103 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2020"
+    },
+    {
+        "brand": "Honda",
+        "model": "2020 Honda Fit",
+        "price": "66.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2020"
+    },
+    {
+        "brand": "Honda",
+        "model": "2020 Honda HR-V",
+        "price": "77.7 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2020"
+    },
+    {
+        "brand": "Honda",
+        "model": "2020 Honda NSX",
+        "price": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2020"
+    },
+    {
+        "brand": "Honda",
+        "model": "2020 Honda Odyssey",
+        "price": "144.9 - 169.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2020"
+    },
+    {
+        "brand": "Honda",
+        "model": "2019 Honda City",
+        "price": "62.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2019"
+    },
+    {
+        "brand": "Honda",
+        "model": "2019 Honda CR-V",
+        "price": "103 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2019"
+    },
+    {
+        "brand": "Honda",
+        "model": "2019 Honda Fit",
+        "price": "65.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2019"
+    },
+    {
+        "brand": "Honda",
+        "model": "2019 Honda HR-V",
+        "price": "74.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2019"
+    },
+    {
+        "brand": "Honda",
+        "model": "2019 Honda HR-V(NEW)",
+        "price": "77.7 - 84",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v%28new%29-2019"
+    },
+    {
+        "brand": "Honda",
+        "model": "2019 Honda NSX",
+        "price": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2019"
+    },
+    {
+        "brand": "Honda",
+        "model": "2019 Honda Odyssey",
+        "price": "143.9 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2019"
+    },
+    {
+        "brand": "Honda",
+        "model": "2018 Honda City",
+        "price": "62.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2018"
+    },
+    {
+        "brand": "Honda",
+        "model": "2018 Honda CR-V",
+        "price": "91.9 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2018"
+    },
+    {
+        "brand": "Honda",
+        "model": "2018 Honda Fit",
+        "price": "65.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2018"
+    },
+    {
+        "brand": "Honda",
+        "model": "2018 Honda HR-V",
+        "price": "74.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2018"
+    },
+    {
+        "brand": "Honda",
+        "model": "2018 Honda Odyssey",
+        "price": "143.9 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2018"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda Accord",
+        "price": "179.9 - 179.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda City",
+        "price": "58.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda CR-V",
+        "price": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda CR-V(NEW)",
+        "price": "91.9 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-new-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda Fit",
+        "price": "61.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda HR-V",
+        "price": "74.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda NSX",
+        "price": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2017 Honda Odyssey",
+        "price": "145 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2017"
+    },
+    {
+        "brand": "Honda",
+        "model": "2016 Honda Accord",
+        "price": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2016"
+    },
+    {
+        "brand": "Honda",
+        "model": "2016 Honda City",
+        "price": "58.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2016"
+    },
+    {
+        "brand": "Honda",
+        "model": "2016 Honda Civic",
+        "price": "73.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2016"
+    },
+    {
+        "brand": "Honda",
+        "model": "2016 Honda CR-V",
+        "price": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2016"
+    },
+    {
+        "brand": "Honda",
+        "model": "2016 Honda Fit",
+        "price": "61.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2016"
+    },
+    {
+        "brand": "Honda",
+        "model": "2016 Honda Odyssey",
+        "price": "145 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2016"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda Accord",
+        "price": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda City",
+        "price": "58.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda Civic",
+        "price": "73.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda CR-V",
+        "price": "85.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda CR-V(NEW)",
+        "price": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-new-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda CR-Z",
+        "price": "120 - 120",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda Fit",
+        "price": "61.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2015 Honda Odyssey",
+        "price": "145 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2015"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda Accord",
+        "price": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda City",
+        "price": "64.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda Civic",
+        "price": "74.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda Civic(NEW)",
+        "price": "73.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-new-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda CR-V",
+        "price": "85.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda CR-Z",
+        "price": "120 - 120",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda Fit",
+        "price": "63.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2014 Honda Insight Hybrid",
+        "price": "105.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2014"
+    },
+    {
+        "brand": "Honda",
+        "model": "2013 Honda Accord",
+        "price": "99.9 - 134.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2013"
+    },
+    {
+        "brand": "Honda",
+        "model": "2013 Honda Accord(NEW)",
+        "price": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-new-2013"
+    },
+    {
+        "brand": "Honda",
+        "model": "2013 Honda Civic",
+        "price": "74.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2013"
+    },
+    {
+        "brand": "Honda",
+        "model": "2013 Honda CR-V",
+        "price": "85.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2013"
+    },
+    {
+        "brand": "Honda",
+        "model": "2013 Honda CR-Z",
+        "price": "120 - 120",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2013"
+    },
+    {
+        "brand": "Honda",
+        "model": "2013 Honda Fit",
+        "price": "63.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2013"
+    },
+    {
+        "brand": "Honda",
+        "model": "2013 Honda Insight Hybrid",
+        "price": "105.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2013"
+    },
+    {
+        "brand": "Honda",
+        "model": "2012 Honda Accord",
+        "price": "99.9 - 134.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2012"
+    },
+    {
+        "brand": "Honda",
+        "model": "2012 Honda Civic",
+        "price": "74.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2012"
+    },
+    {
+        "brand": "Honda",
+        "model": "2012 Honda CR-V",
+        "price": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2012"
+    },
+    {
+        "brand": "Honda",
+        "model": "2012 Honda CR-Z",
+        "price": "139 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2012"
+    },
+    {
+        "brand": "Honda",
+        "model": "2012 Honda Fit",
+        "price": "63.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2012"
+    },
+    {
+        "brand": "Honda",
+        "model": "2012 Honda Insight Hybrid",
+        "price": "105.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2012"
+    },
+    {
+        "brand": "Honda",
+        "model": "2011 Honda Accord",
+        "price": "95.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2011"
+    },
+    {
+        "brand": "Honda",
+        "model": "2011 Honda Civic",
+        "price": "72.9 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2011"
+    },
+    {
+        "brand": "Honda",
+        "model": "2011 Honda CR-V",
+        "price": "83.9 - 102.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2011"
+    },
+    {
+        "brand": "Honda",
+        "model": "2011 Honda Fit",
+        "price": "62.9 - 65.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2011"
+    },
+    {
+        "brand": "Honda",
+        "model": "2011 Honda Insight Hybrid",
+        "price": "99.9 - 99.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2011"
+    },
+    {
+        "brand": "Honda",
+        "model": "2010 Honda Accord",
+        "price": "92.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2010"
+    },
+    {
+        "brand": "Honda",
+        "model": "2010 Honda Civic",
+        "price": "70.9 - 83.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2010"
+    },
+    {
+        "brand": "Honda",
+        "model": "2010 Honda CR-V",
+        "price": "81.9 - 100.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2010"
+    },
+    {
+        "brand": "Honda",
+        "model": "2010 Honda Fit",
+        "price": "59.9 - 62.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2010"
+    },
+    {
+        "brand": "Honda",
+        "model": "2009 Honda Accord",
+        "price": "90.9 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2009"
+    },
+    {
+        "brand": "Honda",
+        "model": "2009 Honda Civic",
+        "price": "69.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2009"
+    },
+    {
+        "brand": "Honda",
+        "model": "2009 Honda CR-V",
+        "price": "79.9 - 97.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2009"
+    },
+    {
+        "brand": "Honda",
+        "model": "2009 Honda Fit",
+        "price": "58.9 - 61.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2009"
+    },
+    {
+        "brand": "Honda",
+        "model": "2009 Honda Legend",
+        "price": "258 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-legend-2009"
+    },
+    {
+        "brand": "Honda",
+        "model": "2008 Honda Accord",
+        "price": "89.9 - 126.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2008"
+    },
+    {
+        "brand": "Honda",
+        "model": "2008 Honda Civic",
+        "price": "65 - 80.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2008"
+    },
+    {
+        "brand": "Honda",
+        "model": "2008 Honda CR-V",
+        "price": "78.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2008"
+    },
+    {
+        "brand": "Honda",
+        "model": "2008 Honda Legend",
+        "price": "258 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-legend-2008"
+    }
+]

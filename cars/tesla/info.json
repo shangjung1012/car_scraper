@@ -1,0 +1,140 @@
+[
+    {
+        "brand": "Tesla",
+        "model": "2024 Tesla Model 3",
+        "price": "169.99 - 233.79",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2024"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2024 Tesla Model S",
+        "price": "294.99 - 338.49",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2024"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2024 Tesla Model X",
+        "price": "324.99 - 354.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2024"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2024 Tesla Model Y",
+        "price": "173.49 - 236.79",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-y-2024"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2023 Tesla Model S",
+        "price": "294.99 - 344.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2023"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2023 Tesla Model X",
+        "price": "324.99 - 354.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2023"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2023 Tesla Model Y",
+        "price": "179.99 - 238.79",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-y-2023"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2022 Tesla Model 3",
+        "price": "175.49 - 246.89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2022"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2022 Tesla Model S",
+        "price": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2022"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2022 Tesla Model X",
+        "price": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2022"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2021 Tesla Model 3",
+        "price": "165.49 - 222.49",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2021"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2021 Tesla Model S",
+        "price": "0 - 488.39",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2021"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2021 Tesla Model X",
+        "price": "388.89 - 458.39",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2021"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2020 Tesla Model 3",
+        "price": "160.99 - 220.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2020"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2020 Tesla Model S",
+        "price": "305.4 - 372.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2020"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2020 Tesla Model X",
+        "price": "332.8 - 389.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2020"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2019 Tesla Model 3",
+        "price": "155.99 - 214.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2019"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2019 Tesla Model S",
+        "price": "282.1 - 335.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2019"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2019 Tesla Model X",
+        "price": "300.4 - 343.4",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2019"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2018 Tesla Model S",
+        "price": "333.6 - 641.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2018"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2018 Tesla Model X",
+        "price": "385.7 - 666.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2018"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2017 Tesla Model S",
+        "price": "0 - 638.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2017"
+    },
+    {
+        "brand": "Tesla",
+        "model": "2017 Tesla Model X",
+        "price": "0 - 664.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2017"
+    }
+]

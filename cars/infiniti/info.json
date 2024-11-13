@@ -1,0 +1,578 @@
+[
+    {
+        "brand": "Infiniti",
+        "model": "2024 Infiniti Q50",
+        "price": "162 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2024"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2024 Infiniti QX50",
+        "price": "189 - 245",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2024"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2024 Infiniti QX55",
+        "price": "222.5 - 255",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx55-2024"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2024 Infiniti QX60",
+        "price": "268 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2024"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2023 Infiniti Q50",
+        "price": "162 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2023"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2023 Infiniti QX50",
+        "price": "189 - 245",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2023"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2023 Infiniti QX55",
+        "price": "222.5 - 255",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx55-2023"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2023 Infiniti QX60",
+        "price": "268 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2023"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2022 Infiniti Q50",
+        "price": "162 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2022"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2022 Infiniti QX50",
+        "price": "197 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2022"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2022 Infiniti QX55",
+        "price": "222.5 - 255",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx55-2022"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2022 Infiniti QX60",
+        "price": "265 - 279",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2022"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2021 Infiniti Q50",
+        "price": "159 - 197",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2021"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2020 Infiniti Q50",
+        "price": "168.8 - 209.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2020"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2020 Infiniti Q60",
+        "price": "205 - 321",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q60-2020"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2020 Infiniti QX50",
+        "price": "207 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2020"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2020 Infiniti QX60",
+        "price": "251 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2020"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti Q30",
+        "price": "137 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q30-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti Q50",
+        "price": "168.8 - 268",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti Q60",
+        "price": "205 - 321",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q60-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti Q70",
+        "price": "209 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q70-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti QX30",
+        "price": "168 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx30-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti QX50",
+        "price": "188 - 238",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti QX60",
+        "price": "251 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2019 Infiniti QX70",
+        "price": "248 - 266",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx70-2019"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti Q30",
+        "price": "137 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q30-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti Q50",
+        "price": "168.8 - 268",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti Q60",
+        "price": "205 - 319",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q60-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti Q70",
+        "price": "209 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q70-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti QX30",
+        "price": "168 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx30-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti QX50",
+        "price": "199 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti QX60",
+        "price": "245 - 279",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2018 Infiniti QX70",
+        "price": "248 - 266",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx70-2018"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2017 Infiniti Q30",
+        "price": "139 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q30-2017"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2017 Infiniti Q50",
+        "price": "168 - 265",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2017"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2017 Infiniti Q60",
+        "price": "205 - 319",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q60-2017"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2017 Infiniti Q70",
+        "price": "209 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q70-2017"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2017 Infiniti QX50",
+        "price": "199 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2017"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2017 Infiniti QX60",
+        "price": "239 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2017"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2017 Infiniti QX70",
+        "price": "248 - 266",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx70-2017"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2016 Infiniti Q30",
+        "price": "139 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q30-2016"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2016 Infiniti Q50",
+        "price": "168 - 265",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2016"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2016 Infiniti Q60",
+        "price": "235 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q60-2016"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2016 Infiniti Q70",
+        "price": "209 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q70-2016"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2016 Infiniti QX50",
+        "price": "199 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2016"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2016 Infiniti QX60",
+        "price": "239 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2016"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2016 Infiniti QX70",
+        "price": "248 - 256",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx70-2016"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2015 Infiniti Q50",
+        "price": "168 - 255",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2015"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2015 Infiniti Q60",
+        "price": "235 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q60-2015"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2015 Infiniti Q70",
+        "price": "229 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q70-2015"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2015 Infiniti Q70(NEW)",
+        "price": "209 - 270",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q70-new-2015"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2015 Infiniti QX50",
+        "price": "217 - 217",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2015"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2015 Infiniti QX60",
+        "price": "252 - 321",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2015"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2015 Infiniti QX70",
+        "price": "248 - 256",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx70-2015"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2014 Infiniti Q50",
+        "price": "168 - 255",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q50-2014"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2014 Infiniti Q60",
+        "price": "235 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q60-2014"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2014 Infiniti Q70",
+        "price": "229 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-q70-2014"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2014 Infiniti QX50",
+        "price": "217 - 217",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx50-2014"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2014 Infiniti QX60",
+        "price": "252 - 298",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx60-2014"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2014 Infiniti QX70",
+        "price": "248 - 330",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-qx70-2014"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2013 Infiniti EX",
+        "price": "217 - 217",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-ex-2013"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2013 Infiniti FX",
+        "price": "248 - 330",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-fx-2013"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2013 Infiniti G Convertible",
+        "price": "284 - 284",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-convertible-2013"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2013 Infiniti G Coupe",
+        "price": "235 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-coupe-2013"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2013 Infiniti G Sedan",
+        "price": "192 - 221",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-sedan-2013"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2013 Infiniti JX",
+        "price": "250 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-jx-2013"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2013 Infiniti M",
+        "price": "229 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-m-2013"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2012 Infiniti EX",
+        "price": "215 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-ex-2012"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2012 Infiniti FX",
+        "price": "246 - 330",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-fx-2012"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2012 Infiniti G Convertible",
+        "price": "284 - 284",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-convertible-2012"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2012 Infiniti G Coupe",
+        "price": "235 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-coupe-2012"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2012 Infiniti G Sedan",
+        "price": "192 - 221",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-sedan-2012"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2012 Infiniti JX",
+        "price": "250 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-jx-2012"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2012 Infiniti M",
+        "price": "229 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-m-2012"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2011 Infiniti EX",
+        "price": "215 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-ex-2011"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2011 Infiniti FX",
+        "price": "246 - 330",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-fx-2011"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2011 Infiniti G Convertible",
+        "price": "284 - 284",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-convertible-2011"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2011 Infiniti G Coupe",
+        "price": "235 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-coupe-2011"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2011 Infiniti G Sedan",
+        "price": "192 - 221",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-sedan-2011"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2011 Infiniti M",
+        "price": "229 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-m-2011"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2010 Infiniti EX",
+        "price": "210 - 210",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-ex-2010"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2010 Infiniti FX",
+        "price": "240 - 325",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-fx-2010"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2010 Infiniti G Convertible",
+        "price": "282 - 282",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-convertible-2010"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2010 Infiniti G Coupe",
+        "price": "232 - 232",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-coupe-2010"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2010 Infiniti G Sedan",
+        "price": "208 - 208",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-sedan-2010"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2010 Infiniti M",
+        "price": "228 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-m-2010"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2009 Infiniti EX",
+        "price": "206 - 208",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-ex-2009"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2009 Infiniti FX",
+        "price": "235 - 315",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-fx-2009"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2009 Infiniti G Coupe",
+        "price": "229 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-coupe-2009"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2009 Infiniti G Sedan",
+        "price": "205 - 205",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-sedan-2009"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2009 Infiniti M",
+        "price": "256 - 256",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-m-2009"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2008 Infiniti EX",
+        "price": "198 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-ex-2008"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2008 Infiniti FX",
+        "price": "220 - 276",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-fx-2008"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2008 Infiniti G Coupe",
+        "price": "215 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-coupe-2008"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2008 Infiniti G Sedan",
+        "price": "193 - 193",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-g-sedan-2008"
+    },
+    {
+        "brand": "Infiniti",
+        "model": "2008 Infiniti M",
+        "price": "248 - 248",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/infiniti-m-2008"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "brand": "Mg",
+        "model": "2024 MG HS",
+        "price": "91.5 - 121.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2024"
+    },
+    {
+        "brand": "Mg",
+        "model": "2024 MG MG4",
+        "price": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-mg4-2024"
+    },
+    {
+        "brand": "Mg",
+        "model": "2024 MG ZS",
+        "price": "74.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-zs-2024"
+    },
+    {
+        "brand": "Mg",
+        "model": "2023 MG HS",
+        "price": "91.5 - 121.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2023"
+    },
+    {
+        "brand": "Mg",
+        "model": "2023 MG ZS",
+        "price": "74.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-zs-2023"
+    },
+    {
+        "brand": "Mg",
+        "model": "2022 MG HS",
+        "price": "89.9 - 118.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2022"
+    }
+]

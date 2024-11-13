@@ -1,0 +1,884 @@
+[
+    {
+        "brand": "Ford",
+        "model": "2025 Ford Focus 5D",
+        "price": "148.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2025"
+    },
+    {
+        "brand": "Ford",
+        "model": "2025 Ford Focus Wagon",
+        "price": "158.9 - 158.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2025"
+    },
+    {
+        "brand": "Ford",
+        "model": "2025 Ford Tourneo Custom",
+        "price": "149.8 - 182.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2025"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Focus 5D",
+        "price": "83.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Focus Active",
+        "price": "96.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Focus Active Wagon",
+        "price": "96.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-wagon-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Focus Wagon",
+        "price": "89.9 - 156.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Kuga",
+        "price": "94.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Kuga(NEW)",
+        "price": "93.9 - 128.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga%28new%29-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Mustang",
+        "price": "189.9 - 259.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Mustang Mach-E",
+        "price": "189.9 - 249.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-mach-e-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2024 Ford Tourneo Connect",
+        "price": "116.8 - 126.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2024"
+    },
+    {
+        "brand": "Ford",
+        "model": "2023 Ford Focus 5D",
+        "price": "83.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2023"
+    },
+    {
+        "brand": "Ford",
+        "model": "2023 Ford Focus Active",
+        "price": "90.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2023"
+    },
+    {
+        "brand": "Ford",
+        "model": "2023 Ford Focus Wagon",
+        "price": "89.9 - 156.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2023"
+    },
+    {
+        "brand": "Ford",
+        "model": "2023 Ford Kuga",
+        "price": "94.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2023"
+    },
+    {
+        "brand": "Ford",
+        "model": "2023 Ford Ranger",
+        "price": "133.8 - 206.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ramger%28new%29-2023"
+    },
+    {
+        "brand": "Ford",
+        "model": "2023 Ford Tourneo Connect",
+        "price": "112.8 - 124.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2023"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Focus 4D",
+        "price": "70.9 - 94.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Focus 5D",
+        "price": "70.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Focus Active",
+        "price": "85.9 - 91.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Kuga",
+        "price": "93.9 - 122.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Mondeo Wagon",
+        "price": "109.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Mustang",
+        "price": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Ranger",
+        "price": "103.8 - 148.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Tourneo Connect",
+        "price": "106.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2022 Ford Tourneo Custom",
+        "price": "129.9 - 166.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2022"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Focus 4D",
+        "price": "69.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Focus 5D",
+        "price": "69.9 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Focus Active",
+        "price": "83.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Focus Wagon",
+        "price": "129.8 - 143.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Kuga",
+        "price": "89.9 - 121.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Mustang",
+        "price": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Ranger",
+        "price": "104.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Tourneo Connect",
+        "price": "104.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2021 Ford Tourneo Custom",
+        "price": "146.9 - 168.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2021"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford EcoSport",
+        "price": "79.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Focus 4D",
+        "price": "69.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Focus 5D",
+        "price": "69.9 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Focus Wagon",
+        "price": "143.8 - 143.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Kuga",
+        "price": "85.9 - 113.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Kuga(NEW)",
+        "price": "89.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga%28new%29-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Mondeo",
+        "price": "119.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Mondeo Wagon",
+        "price": "132.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Mustang",
+        "price": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Ranger",
+        "price": "104.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2020 Ford Tourneo Custom",
+        "price": "146.9 - 168.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2020"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford EcoSport",
+        "price": "69.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Escort",
+        "price": "57.9 - 67.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escort-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Fiesta",
+        "price": "64.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Focus 4D",
+        "price": "76.8 - 87.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Focus 5D",
+        "price": "67.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Kuga",
+        "price": "85.9 - 113.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Mondeo",
+        "price": "125.9 - 125.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Mondeo Wagon",
+        "price": "135.9 - 135.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Mondeo Wagon(NEW)",
+        "price": "132.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon%28new%29-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Mustang",
+        "price": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Ranger",
+        "price": "146.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2019 Ford Tourneo Custom",
+        "price": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2019"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford EcoSport",
+        "price": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford EcoSport(NEW)",
+        "price": "69.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport%28new%29-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Escort",
+        "price": "57.9 - 67.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escort-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Fiesta",
+        "price": "64.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Focus 4D",
+        "price": "69.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Focus 5D",
+        "price": "67.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Kuga",
+        "price": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Mondeo",
+        "price": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Mondeo Wagon",
+        "price": "135.9 - 135.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Mustang",
+        "price": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Ranger",
+        "price": "143.9 - 143.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Tourneo Custom",
+        "price": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2018 Ford Tourneo Custom(NEW)",
+        "price": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom%28new%29-2018"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford EcoSport",
+        "price": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Fiesta",
+        "price": "60.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Focus 4D",
+        "price": "64.5 - 83.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Focus 5D",
+        "price": "67.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Kuga",
+        "price": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Mondeo",
+        "price": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Mustang",
+        "price": "186.8 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Ranger",
+        "price": "143.9 - 143.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2017 Ford Tourneo Custom",
+        "price": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2017"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford EcoSport",
+        "price": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Fiesta",
+        "price": "58.5 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Focus 4D",
+        "price": "64.5 - 83.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Focus 5D",
+        "price": "67.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Kuga",
+        "price": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Mondeo",
+        "price": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Mustang",
+        "price": "186.8 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Ranger",
+        "price": "143.9 - 143.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2016 Ford Tourneo Custom",
+        "price": "129.9 - 154.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2016"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford EcoSport",
+        "price": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Fiesta",
+        "price": "58.5 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Focus 4D",
+        "price": "59.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Focus 5D",
+        "price": "67.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Kuga",
+        "price": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Mondeo",
+        "price": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Mondeo TDCi",
+        "price": "96.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-tdci-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Mustang",
+        "price": "186.8 - 186.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Ranger",
+        "price": "139.5 - 139.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2015 Ford Tourneo Custom",
+        "price": "129.9 - 154.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2015"
+    },
+    {
+        "brand": "Ford",
+        "model": "2014 Ford EcoSport",
+        "price": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2014"
+    },
+    {
+        "brand": "Ford",
+        "model": "2014 Ford Fiesta",
+        "price": "58.5 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2014"
+    },
+    {
+        "brand": "Ford",
+        "model": "2014 Ford Focus 4D",
+        "price": "59.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2014"
+    },
+    {
+        "brand": "Ford",
+        "model": "2014 Ford Focus 5D",
+        "price": "67.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2014"
+    },
+    {
+        "brand": "Ford",
+        "model": "2014 Ford Kuga",
+        "price": "88.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2014"
+    },
+    {
+        "brand": "Ford",
+        "model": "2014 Ford Mondeo",
+        "price": "96.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2014"
+    },
+    {
+        "brand": "Ford",
+        "model": "2014 Ford Ranger",
+        "price": "139.5 - 139.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2014"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Escape",
+        "price": "67.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Fiesta 4D",
+        "price": "58.8 - 58.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-4d-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Fiesta 5D",
+        "price": "64.8 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-5d-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Focus 4D",
+        "price": "59.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Focus 5D",
+        "price": "66.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Kuga",
+        "price": "88.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Mondeo",
+        "price": "88.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Mustang",
+        "price": "179.8 - 179.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2013 Ford Ranger",
+        "price": "139.5 - 139.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2013"
+    },
+    {
+        "brand": "Ford",
+        "model": "2012 Ford Escape",
+        "price": "67.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2012"
+    },
+    {
+        "brand": "Ford",
+        "model": "2012 Ford Fiesta 4D",
+        "price": "58.8 - 58.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-4d-2012"
+    },
+    {
+        "brand": "Ford",
+        "model": "2012 Ford Fiesta 5D",
+        "price": "64.8 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-5d-2012"
+    },
+    {
+        "brand": "Ford",
+        "model": "2012 Ford Focus 4D",
+        "price": "60.5 - 79.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2012"
+    },
+    {
+        "brand": "Ford",
+        "model": "2012 Ford Focus 5D",
+        "price": "63.5 - 88.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2012"
+    },
+    {
+        "brand": "Ford",
+        "model": "2012 Ford Mondeo",
+        "price": "88.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2012"
+    },
+    {
+        "brand": "Ford",
+        "model": "2012 Ford Ranger",
+        "price": "128.8 - 128.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2012"
+    },
+    {
+        "brand": "Ford",
+        "model": "2011 Ford Escape",
+        "price": "65.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2011"
+    },
+    {
+        "brand": "Ford",
+        "model": "2011 Ford Fiesta",
+        "price": "68.9 - 75.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2011"
+    },
+    {
+        "brand": "Ford",
+        "model": "2011 Ford Focus 4D",
+        "price": "59.5 - 78.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2011"
+    },
+    {
+        "brand": "Ford",
+        "model": "2011 Ford Focus 5D",
+        "price": "62.5 - 87.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2011"
+    },
+    {
+        "brand": "Ford",
+        "model": "2011 Ford i-Max",
+        "price": "70.6 - 88.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2011"
+    },
+    {
+        "brand": "Ford",
+        "model": "2011 Ford Mondeo",
+        "price": "88.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2011"
+    },
+    {
+        "brand": "Ford",
+        "model": "2011 Ford Ranger",
+        "price": "128.8 - 128.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2011"
+    },
+    {
+        "brand": "Ford",
+        "model": "2010 Ford Econovan",
+        "price": "45.3 - 45.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-econovan-2010"
+    },
+    {
+        "brand": "Ford",
+        "model": "2010 Ford Escape",
+        "price": "65.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2010"
+    },
+    {
+        "brand": "Ford",
+        "model": "2010 Ford Fiesta",
+        "price": "68.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2010"
+    },
+    {
+        "brand": "Ford",
+        "model": "2010 Ford Focus",
+        "price": "57.9 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-2010"
+    },
+    {
+        "brand": "Ford",
+        "model": "2010 Ford i-Max",
+        "price": "70.6 - 88.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2010"
+    },
+    {
+        "brand": "Ford",
+        "model": "2010 Ford Mondeo",
+        "price": "83.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2010"
+    },
+    {
+        "brand": "Ford",
+        "model": "2010 Ford Ranger",
+        "price": "126.8 - 126.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2010"
+    },
+    {
+        "brand": "Ford",
+        "model": "2009 Ford Econovan",
+        "price": "40.3 - 57.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-econovan-2009"
+    },
+    {
+        "brand": "Ford",
+        "model": "2009 Ford Escape",
+        "price": "63.9 - 70.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2009"
+    },
+    {
+        "brand": "Ford",
+        "model": "2009 Ford Fiesta",
+        "price": "64.9 - 70.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2009"
+    },
+    {
+        "brand": "Ford",
+        "model": "2009 Ford Focus Powershift",
+        "price": "0.6 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-powershift-2009"
+    },
+    {
+        "brand": "Ford",
+        "model": "2009 Ford i-Max",
+        "price": "68.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2009"
+    },
+    {
+        "brand": "Ford",
+        "model": "2009 Ford Mondeo",
+        "price": "83.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2009"
+    },
+    {
+        "brand": "Ford",
+        "model": "2008 Ford Escape",
+        "price": "69.9 - 106.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2008"
+    },
+    {
+        "brand": "Ford",
+        "model": "2008 Ford Focus",
+        "price": "57.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-2008"
+    },
+    {
+        "brand": "Ford",
+        "model": "2008 Ford i-Max",
+        "price": "69.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2008"
+    },
+    {
+        "brand": "Ford",
+        "model": "2008 Ford Mondeo",
+        "price": "81.9 - 101",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2008"
+    }
+]

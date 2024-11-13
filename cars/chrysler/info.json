@@ -1,0 +1,44 @@
+[
+    {
+        "brand": "Chrysler",
+        "model": "2010 Chrysler Town & Country",
+        "price": "117.9 - 125.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2010"
+    },
+    {
+        "brand": "Chrysler",
+        "model": "2009 Chrysler 300C",
+        "price": "179.9 - 179.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-300c-2009"
+    },
+    {
+        "brand": "Chrysler",
+        "model": "2009 Chrysler PT Cruiser",
+        "price": "102.5 - 102.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-pt-cruiser-2009"
+    },
+    {
+        "brand": "Chrysler",
+        "model": "2009 Chrysler Town & Country",
+        "price": "99.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2009"
+    },
+    {
+        "brand": "Chrysler",
+        "model": "2008 Chrysler 300C",
+        "price": "179.9 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-300c-2008"
+    },
+    {
+        "brand": "Chrysler",
+        "model": "2008 Chrysler PT Cruiser",
+        "price": "102.5 - 102.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-pt-cruiser-2008"
+    },
+    {
+        "brand": "Chrysler",
+        "model": "2008 Chrysler Town & Country",
+        "price": "99.9 - 122.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2008"
+    }
+]

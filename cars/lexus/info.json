@@ -1,0 +1,968 @@
+[
+    {
+        "brand": "Lexus",
+        "model": "2025 Lexus LC",
+        "price": "620 - 650",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2025"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2025 Lexus LC Convertible",
+        "price": "648 - 648",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-convertible-2025"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2025 Lexus NX",
+        "price": "171 - 284.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2025"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2025 Lexus RX",
+        "price": "246 - 361",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2025"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2025 Lexus UX",
+        "price": "149.9 - 171.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ux-2025"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus ES",
+        "price": "177 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus IS",
+        "price": "199 - 209",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus LBX",
+        "price": "129.9 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lbx-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus LC",
+        "price": "620 - 650",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus LC Convertible",
+        "price": "648 - 648",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-convertible-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus LM",
+        "price": "429 - 595",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lm-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus LS",
+        "price": "515 - 590",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus NX",
+        "price": "171 - 284.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus RC",
+        "price": "373 - 521",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus RX",
+        "price": "245 - 361",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2024 Lexus UX",
+        "price": "149.9 - 192.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ux-2024"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus ES",
+        "price": "177 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus IS",
+        "price": "199 - 214",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus LC",
+        "price": "620 - 650",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus LC Convertible",
+        "price": "648 - 648",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-convertible-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus LM",
+        "price": "372 - 520",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lm-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus LS",
+        "price": "505 - 580",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus NX",
+        "price": "171 - 284",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus RC",
+        "price": "373 - 521",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus RX",
+        "price": "245 - 360",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus RZ",
+        "price": "279 - 279",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rz-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2023 Lexus UX",
+        "price": "142.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ux-2023"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus ES",
+        "price": "173 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus IS",
+        "price": "194 - 209",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus LC",
+        "price": "580 - 624",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus LC Convertible",
+        "price": "608 - 614",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-convertible-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus LM",
+        "price": "372 - 520",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lm-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus LS",
+        "price": "475 - 550",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus NX",
+        "price": "163 - 273",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus RC",
+        "price": "373 - 520",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus RX",
+        "price": "231 - 353",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2022 Lexus UX",
+        "price": "142.9 - 169.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ux-2022"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus ES",
+        "price": "169 - 236",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus IS",
+        "price": "189 - 204",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus LC",
+        "price": "560 - 590",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus LC Convertible",
+        "price": "588 - 620",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-convertible-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus LM",
+        "price": "367 - 500",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lm-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus LS",
+        "price": "475 - 550",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus NX",
+        "price": "157 - 250",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus RC",
+        "price": "368 - 500",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus RX",
+        "price": "227 - 347",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2021 Lexus UX",
+        "price": "139.9 - 165.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ux-2021"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus ES",
+        "price": "168 - 236",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus IS",
+        "price": "169 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus LC",
+        "price": "560 - 590",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus LM",
+        "price": "367 - 500",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lm-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus LS",
+        "price": "338 - 502",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus NX",
+        "price": "156 - 250",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus RC",
+        "price": "367 - 499",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus RX",
+        "price": "227 - 347",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2020 Lexus UX",
+        "price": "139.9 - 165.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ux-2020"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus CT",
+        "price": "139 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus ES",
+        "price": "167 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus GS",
+        "price": "221 - 516",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus IS",
+        "price": "169 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus LC",
+        "price": "559 - 589",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus LS",
+        "price": "337 - 501",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus NX",
+        "price": "155 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus RC",
+        "price": "243 - 499",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus RX",
+        "price": "224 - 344",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2019 Lexus UX",
+        "price": "139 - 155",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ux-2019"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus CT",
+        "price": "139 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus ES",
+        "price": "170 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus ES(NEW)",
+        "price": "167 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es%28new%29-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus GS",
+        "price": "221 - 516",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus IS",
+        "price": "173 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus LC",
+        "price": "559 - 589",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus LS",
+        "price": "337 - 497",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus LX",
+        "price": "465 - 515",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus NX",
+        "price": "152 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus RC",
+        "price": "243 - 460",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2018 Lexus RX",
+        "price": "224 - 340",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2018"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus CT",
+        "price": "139 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus ES",
+        "price": "170 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus GS",
+        "price": "221 - 516",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus IS",
+        "price": "173 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus LC",
+        "price": "559 - 589",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lc-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus LS",
+        "price": "367 - 679",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus LX",
+        "price": "465 - 515",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus NX",
+        "price": "195 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus RC",
+        "price": "239 - 457",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2017 Lexus RX",
+        "price": "221 - 331",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2017"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus CT",
+        "price": "139 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus ES",
+        "price": "169 - 227",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus GS",
+        "price": "219 - 509",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus IS",
+        "price": "167 - 236",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus LS",
+        "price": "367 - 679",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus LX",
+        "price": "465 - 515",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus NX",
+        "price": "195 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus RC",
+        "price": "239 - 450",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2016 Lexus RX",
+        "price": "219 - 329",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2016"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus CT",
+        "price": "139 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus ES",
+        "price": "173 - 236",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus GS",
+        "price": "223 - 349",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus IS",
+        "price": "180 - 236",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus LS",
+        "price": "367 - 679",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus LX",
+        "price": "465 - 467",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus NX",
+        "price": "195 - 247",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus RC",
+        "price": "300 - 450",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rc-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2015 Lexus RX",
+        "price": "193 - 325",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2015"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus CT",
+        "price": "139 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus ES",
+        "price": "173 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus GS",
+        "price": "209 - 309",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus IS",
+        "price": "169 - 209",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus LS",
+        "price": "367 - 601",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus LX",
+        "price": "465 - 467",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus NX",
+        "price": "189 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-nx-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2014 Lexus RX",
+        "price": "193 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2014"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus CT",
+        "price": "139 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus ES",
+        "price": "173 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus GS",
+        "price": "223 - 306",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus IS",
+        "price": "169 - 209",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus ISC",
+        "price": "239 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-isc-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus LS",
+        "price": "367 - 598",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus LX",
+        "price": "465 - 467",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2013 Lexus RX",
+        "price": "193 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2013"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus CT",
+        "price": "139 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus ES",
+        "price": "183 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus GS",
+        "price": "223 - 306",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus IS",
+        "price": "185 - 422",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus ISC",
+        "price": "239 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-isc-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus LS",
+        "price": "367 - 599",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus LX",
+        "price": "465 - 465",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2012 Lexus RX",
+        "price": "193 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2012"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus CT",
+        "price": "139 - 175",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ct-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus ES",
+        "price": "183 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus GS",
+        "price": "269 - 287",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus IS",
+        "price": "185 - 422",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus ISC",
+        "price": "239 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-isc-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus LS",
+        "price": "367 - 564",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus LX",
+        "price": "456 - 456",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2011 Lexus RX",
+        "price": "221 - 282",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2011"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus ES",
+        "price": "215 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus GS",
+        "price": "267 - 285",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus IS",
+        "price": "181 - 205",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus ISC",
+        "price": "236 - 256",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-isc-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus LFA",
+        "price": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lfa-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus LS",
+        "price": "375 - 519",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus LX",
+        "price": "419 - 419",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus RX",
+        "price": "255 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2010 Lexus SC",
+        "price": "336 - 336",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-sc-2010"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus ES",
+        "price": "210 - 226",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus GS",
+        "price": "261 - 303",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus IS",
+        "price": "178 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus ISC",
+        "price": "228 - 248",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-isc-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus LS",
+        "price": "381 - 575",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus LX",
+        "price": "403 - 403",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus RX",
+        "price": "249 - 275",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2009 Lexus SC",
+        "price": "325 - 325",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-sc-2009"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2008 Lexus ES",
+        "price": "209 - 225",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-es-2008"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2008 Lexus GS",
+        "price": "258 - 306",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-gs-2008"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2008 Lexus IS",
+        "price": "175 - 196",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2008"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2008 Lexus LS",
+        "price": "381 - 625",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-ls-2008"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2008 Lexus LX",
+        "price": "390 - 390",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-lx-2008"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2008 Lexus RX",
+        "price": "226 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-rx-2008"
+    },
+    {
+        "brand": "Lexus",
+        "model": "2008 Lexus SC",
+        "price": "319 - 319",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-sc-2008"
+    }
+]
