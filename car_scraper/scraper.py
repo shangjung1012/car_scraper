@@ -55,6 +55,8 @@ def get_car_brands(session, headers) -> list:
     logging.info(f"Retrieved car brands: {car_brands}")
     return car_brands
 
+
+# not implemented
 def get_car_details(session, headers, car_url: str) -> dict:
     """
     Fetches detailed information of a car from its detail page.
@@ -172,7 +174,8 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
                 car_soup = BeautifulSoup(car_html_clean, 'html.parser')
 
                 # Extract car details
-                title_tag = car_soup.find('span', class_='title') or car_soup.find('h2', class_='model-name')
+                # title_tag = car_soup.find('span', class_='title') or car_soup.find('h2', class_='model-name')
+                title_tag = car_soup.find('span', class_='title')
                 price_tag = car_soup.find('span', class_='price')
                 link_tag = car_soup.find('a', href=True)
 
@@ -181,16 +184,20 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
                     price = price_tag.text.strip()
                     url = link_tag['href'].strip()
 
+                    '''
                     # Fetch detailed car information from the detail page
                     car_detail = get_car_details(session, headers, url)
                     if not car_detail:
                         logging.warning(f"Failed to get details for car: {title}")
                         continue
+                    '''
+
 
                     # Create a Car object and add it to the list
                     car = Car(
                         brand=brand.capitalize(),
-                        model=car_detail['model'],
+                        # model=car_detail['model'],
+                        model=title,
                         price=price,  # You can choose to use 'year' or other details as needed
                         url=url
                     )
