@@ -52,7 +52,7 @@ def main():
             save_brand_data(brand, cars)
         
         # Optional: Delay between brands to avoid overwhelming the server
-        time.sleep(random.uniform(2, 5))
+        time.sleep(random.uniform(0, 2))
 
     logging.info("Scraping and saving to files completed successfully.")
 

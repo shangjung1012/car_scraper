@@ -211,6 +211,6 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
                 continue
 
         # Delay between requests to avoid rate limiting
-        time.sleep(random.uniform(1, 3))
+        time.sleep(random.uniform(0, 1))
 
     return cars_list
