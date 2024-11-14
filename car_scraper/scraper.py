@@ -4,26 +4,28 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import logging
-from pathlib import Path
 import time
 import random
-from .car import Car
+from pathlib import Path
+from .car_model import CarModel, CarVariant
+
 
 def setup_session():
     """
-    Sets up a requests session with retry strategy.
+    Sets up a requests session with a retry strategy.
     """
     session = requests.Session()
     retry_strategy = requests.packages.urllib3.util.retry.Retry(
-        total=5,
-        backoff_factor=1,
-        status_forcelist=[429, 500, 502, 503, 504],
-        allowed_methods=["HEAD", "GET", "OPTIONS"]
+        total=5,                                     # Total number of retries
+        backoff_factor=1,                           # Wait time multiplier between retries
+        status_forcelist=[429, 500, 502, 503, 504], # HTTP status codes to retry on
+        allowed_methods=["HEAD", "GET", "OPTIONS"]  # HTTP methods to retry
     )
     adapter = requests.adapters.HTTPAdapter(max_retries=retry_strategy)
     session.mount('http://', adapter)
     session.mount('https://', adapter)
     return session
+
 
 def get_car_brands(session, headers) -> list:
     """
@@ -56,10 +58,28 @@ def get_car_brands(session, headers) -> list:
     return car_brands
 
 
-# not implemented
-def get_car_details(session, headers, car_url: str) -> dict:
+def parse_price(price_str: str) -> float:
     """
-    Fetches detailed information of a car from its detail page.
+    Parses the price string and converts it to a float representing the price in 萬.
+
+    Args:
+        price_str (str): Price string (e.g., "93.8 萬").
+
+    Returns:
+        float: Price in 万.
+    """
+    try:
+        # Remove any commas and currency symbols
+        price = price_str.replace(',', '').replace('萬', '').strip()
+        return float(price)
+    except (ValueError, AttributeError):
+        logging.warning(f"Unable to parse price from string: '{price_str}'")
+        return 0.0
+
+
+def get_car_variants(session, headers, car_url: str) -> list:
+    """
+    Fetches detailed information of a car from its detail page, handling multiple variants.
 
     Args:
         session (requests.Session): The requests session object.
@@ -67,61 +87,63 @@ def get_car_details(session, headers, car_url: str) -> dict:
         car_url (str): The URL of the car's detail page.
 
     Returns:
-        dict: A dictionary containing detailed car information.
+        list: A list of CarVariant objects containing detailed car variant information.
     """
     try:
         res = session.get(car_url, headers=headers, timeout=10)
         res.raise_for_status()
     except requests.RequestException as e:
         logging.error(f"Failed to fetch car details from {car_url}: {e}")
-        return {}
+        return []
 
     soup = BeautifulSoup(res.text, 'html.parser')
+    specifications = soup.find_all('li', class_='model-sub')
 
-    # Extract detailed information based on the actual HTML structure
-    # The following selectors are placeholders and should be adjusted to match the website's HTML
-    try:
-        model = soup.find('h1', class_='car-model').text.strip()
-        year = int(soup.find('span', class_='car-year').text.strip())
-        engine_type = soup.find('span', class_='engine-type').text.strip()
-        fuel_efficiency = soup.find('span', class_='fuel-efficiency').text.strip()
-        horsepower = int(soup.find('span', class_='horsepower').text.strip())
-        torque = int(soup.find('span', class_='torque').text.strip())
-        acceleration = float(soup.find('span', class_='acceleration').text.strip())
-        top_speed = int(soup.find('span', class_='top-speed').text.strip())
-        crash_test_rating = soup.find('span', class_='crash-test-rating').text.strip()
-        airbag_count = int(soup.find('span', class_='airbag-count').text.strip())
-        seating_capacity = int(soup.find('span', class_='seating-capacity').text.strip())
-        infotainment = soup.find('span', class_='infotainment').text.strip()
-        upholstery = soup.find('span', class_='upholstery').text.strip()
-        lighting = soup.find('span', class_='lighting').text.strip()
+    variants = []
+    for spec in specifications:
+        try:
+            trim = spec.find('div', class_='model-title').text.strip()
+            details = spec.find('ul').find_all('li')
 
-        return {
-            'model': model,
-            'year': year,
-            'engine_type': engine_type,
-            'fuel_efficiency': fuel_efficiency,
-            'horsepower': horsepower,
-            'torque': torque,
-            'acceleration': acceleration,
-            'top_speed': top_speed,
-            'crash_test_rating': crash_test_rating,
-            'airbag_count': airbag_count,
-            'seating_capacity': seating_capacity,
-            'infotainment': infotainment,
-            'upholstery': upholstery,
-            'lighting': lighting
-        }
-    except AttributeError as e:
-        logging.error(f"Failed to parse car details from {car_url}: {e}")
-        return {}
-    except ValueError as e:
-        logging.error(f"Invalid data format in car details from {car_url}: {e}")
-        return {}
+            # Ensure there are enough details
+            if len(details) < 7:
+                logging.warning(f"Insufficient details for variant '{trim}' in URL: {car_url}")
+                continue
+
+            body_type = details[0].text.strip()
+            price = spec.find_all('span')[1].text.strip() if len(spec.find_all('span')) > 1 else 'Unknown Price'
+            # engine_cc = details[2].text.strip().replace('cc', '').strip()
+            engine_cc = details[2].text.strip()
+            # horsepower = details[4].text.strip().replace('hp', '').strip()
+            horsepower = details[4].text.strip()
+            fuel_type = details[6].text.strip()
+
+           
+            variant = CarVariant(
+                trim_name=trim,
+                price=price,
+                body_type=body_type,
+                # engine_cc=int(engine_cc) if engine_cc.isdigit() else 0,
+                engine_cc=engine_cc,
+                # horsepower=int(horsepower) if horsepower.isdigit() else 0,
+                horsepower=horsepower,
+                fuel_type=fuel_type
+            )
+
+            variants.append(variant)
+        except AttributeError as e:
+            logging.error(f"Failed to parse variant details from {car_url}: {e}")
+            continue
+        except ValueError as e:
+            logging.error(f"Invalid data format in variant details from {car_url}: {e}")
+            continue
+
+    return variants
+
 
 def get_cars_of_brand(session, headers, brand: str) -> list:
     """
-    Fetches the list of cars for a specific brand and returns a list of Car objects.
+    Fetches the list of cars for a specific brand and returns a list of CarModel objects.
 
     Args:
         session (requests.Session): The requests session object.
@@ -129,9 +151,9 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
         brand (str): The car brand identifier.
 
     Returns:
-        list: A list of Car objects for the specified brand.
+        list: A list of CarModel objects for the specified brand.
     """
-    cars_list = []
+    car_models = []
     url = f'https://autos.yahoo.com.tw/new-cars/make/{brand}'
 
     try:
@@ -139,7 +161,7 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
         res.raise_for_status()
     except requests.RequestException as e:
         logging.error(f"Failed to fetch brand page for {brand}: {e}")
-        return cars_list
+        return car_models
 
     soup = BeautifulSoup(res.text, 'html.parser')
 
@@ -147,7 +169,7 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
     year_titles = soup.find_all('div', class_='year-title')
     if not year_titles:
         logging.warning(f"No year titles found for brand {brand}.")
-        return cars_list
+        return car_models
 
     years = [year_title.text.strip() for year_title in year_titles]
     logging.info(f"Found years for {brand}: {years}")
@@ -173,37 +195,46 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
                 car_html_clean = car_html.replace('\\', '')
                 car_soup = BeautifulSoup(car_html_clean, 'html.parser')
 
-                # Extract car details
-                # title_tag = car_soup.find('span', class_='title') or car_soup.find('h2', class_='model-name')
+                # Extract car model details
                 title_tag = car_soup.find('span', class_='title')
-                price_tag = car_soup.find('span', class_='price')
+                price_range_tag = car_soup.find('span', class_='price')
                 link_tag = car_soup.find('a', href=True)
 
-                if title_tag and price_tag and link_tag:
+                if title_tag and price_range_tag and link_tag:
                     title = title_tag.text.strip()
-                    price = price_tag.text.strip()
+                    price_range = price_range_tag.text.strip()
                     url = link_tag['href'].strip()
 
-                    '''
-                    # Fetch detailed car information from the detail page
-                    car_detail = get_car_details(session, headers, url)
-                    if not car_detail:
-                        logging.warning(f"Failed to get details for car: {title}")
+                    # Extract year and model name from the title
+                    # Example: "2024 Audi A3 Sportback"
+                    try:
+                        year_in_title, model_name = title.split(' ', 1)
+                        year_in_title = int(year_in_title)
+                    except ValueError:
+                        year_in_title = year  # Fallback to the year from the loop
+                        model_name = title
+
+                    # Fetch detailed car variants from the detail page
+                    car_variants = get_car_variants(session, headers, url)
+                    if not car_variants:
+                        logging.warning(f"No variants found for car: {title} ({url})")
                         continue
-                    '''
 
-
-                    # Create a Car object and add it to the list
-                    car = Car(
+                    # Create a CarModel object
+                    car_model = CarModel(
                         brand=brand.capitalize(),
-                        # model=car_detail['model'],
-                        model=title,
-                        price=price,  # You can choose to use 'year' or other details as needed
+                        model_name=model_name,
+                        year=year_in_title,
+                        price_range=price_range,
                         url=url
                     )
-                    cars_list.append(car)
 
-                    logging.info(f"Added car: {car}")
+                    # Add all variants to the CarModel
+                    for variant in car_variants:
+                        car_model.add_variant(variant)
+                        logging.info(f"Added variant: {variant} to model: {car_model}")
+
+                    car_models.append(car_model)
                 else:
                     logging.warning("Incomplete car information, skipping.")
             except Exception as e:
@@ -211,6 +242,6 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
                 continue
 
         # Delay between requests to avoid rate limiting
-        time.sleep(random.uniform(0, 1))
+        time.sleep(random.uniform(1, 3))
 
-    return cars_list
+    return car_models

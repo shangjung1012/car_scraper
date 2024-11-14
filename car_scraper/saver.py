@@ -3,7 +3,7 @@
 import json
 import logging
 from pathlib import Path
-from .car import Car
+from .car_model import CarModel
 
 def save_brand_data(brand: str, cars_list: list, base_dir: str = './cars'):
     """
