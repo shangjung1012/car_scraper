@@ -1,788 +1,5029 @@
 [
     {
         "brand": "Volvo",
-        "model": "2025 Volvo XC40",
-        "price": "167.2 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2025"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2024 Volvo C40",
-        "price": "201 - 232",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c40-2024"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2024 Volvo S60",
-        "price": "190.6 - 272.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2024"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2024 Volvo V60",
-        "price": "185 - 277.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2024"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2024 Volvo V90 Cross Country",
-        "price": "276.6 - 276.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2024"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2024 Volvo XC40",
-        "price": "144.5 - 222",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2024"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2024 Volvo XC60",
-        "price": "232 - 328.1",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2024"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2024 Volvo XC90",
-        "price": "295.6 - 377.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2024"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2023 Volvo C40",
-        "price": "229 - 229",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c40-2023"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2023 Volvo S60",
-        "price": "189 - 271",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2023"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2023 Volvo V60",
-        "price": "194 - 276",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2023"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2023 Volvo V90 Cross Country",
-        "price": "275 - 275",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2023"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2023 Volvo XC40",
-        "price": "142.9 - 219",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2023"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2023 Volvo XC60",
-        "price": "222 - 326.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2023"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2023 Volvo XC90",
-        "price": "294 - 376",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2023"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2022 Volvo S60",
-        "price": "184.5 - 271",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2022"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2022 Volvo S90",
-        "price": "244.5 - 312",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2022"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2022 Volvo V60",
-        "price": "189.5 - 276",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2022"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2022 Volvo V90 Cross Country",
-        "price": "264.5 - 264.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2022"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2022 Volvo XC40",
-        "price": "160.7 - 219",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2022"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2022 Volvo XC60",
-        "price": "220.5 - 326.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2022"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2022 Volvo XC90",
-        "price": "289.5 - 376",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2022"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2021 Volvo S60",
-        "price": "182 - 264",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2021"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2021 Volvo S90",
-        "price": "239 - 305",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2021"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2021 Volvo V60",
-        "price": "187 - 269",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2021"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2021 Volvo V90 Cross Country",
-        "price": "259 - 259",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2021"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2021 Volvo XC40",
-        "price": "159.9 - 204.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2021"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2021 Volvo XC60",
-        "price": "215 - 320.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2021"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2021 Volvo XC90",
-        "price": "287 - 369",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2021"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2020 Volvo S60",
-        "price": "185 - 252",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2020"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2020 Volvo S90",
-        "price": "239 - 305",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2020"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2020 Volvo V60",
-        "price": "190 - 257",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2020"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2020 Volvo V90 Cross Country",
-        "price": "289 - 299",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2020"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2020 Volvo XC40",
-        "price": "169.9 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2020"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2020 Volvo XC60",
-        "price": "230 - 319",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2020"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2020 Volvo XC90",
-        "price": "289 - 420",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2020"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo S60",
-        "price": "185 - 271",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo S90",
-        "price": "239 - 357",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo V40",
-        "price": "139 - 139",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo V40 Cross Country",
-        "price": "153 - 153",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo V60",
-        "price": "190 - 275",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo V90 Cross Country",
-        "price": "289 - 299",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo XC40",
-        "price": "169.9 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo XC60",
-        "price": "222 - 299",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2019 Volvo XC90",
-        "price": "283 - 470",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2019"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo S60",
-        "price": "165 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo S90",
-        "price": "239 - 357",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo V40",
-        "price": "136 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo V40 Cross Country",
-        "price": "150 - 164",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo V60",
-        "price": "159 - 333",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo V60 Cross Country",
-        "price": "189 - 200",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo V90",
-        "price": "243 - 309",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo V90 Cross Country",
-        "price": "276 - 336",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo XC60",
-        "price": "222 - 299",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2018 Volvo XC90",
-        "price": "265 - 470",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2018"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo S60",
-        "price": "165 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo S90",
-        "price": "239 - 305",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo V40",
-        "price": "135 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo V40 Cross Country",
-        "price": "149 - 164",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo V60",
-        "price": "178 - 333",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo V60 Cross Country",
-        "price": "189 - 200",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo V90",
-        "price": "243 - 309",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo V90 Cross Country",
-        "price": "276 - 336",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo XC60",
-        "price": "198 - 255",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2017 Volvo XC90",
-        "price": "265 - 470",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2017"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo S60",
-        "price": "165 - 229",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo S80",
-        "price": "201 - 229",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo V40",
-        "price": "135 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo V40 Cross Country",
-        "price": "153.5 - 175.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo V60",
-        "price": "178 - 239",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo V60 Cross Country",
-        "price": "189 - 212",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo XC60",
-        "price": "198 - 247",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo XC70",
-        "price": "207 - 231",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2016 Volvo XC90",
-        "price": "260 - 372",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2016"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2015 Volvo S60",
-        "price": "158.5 - 223",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2015"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2015 Volvo S80",
-        "price": "194 - 224",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2015"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2015 Volvo V40",
-        "price": "132 - 176",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2015"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2015 Volvo V40 Cross Country",
-        "price": "142 - 172",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2015"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2015 Volvo V60",
-        "price": "174 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2015"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2015 Volvo XC60",
-        "price": "195 - 237",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2015"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2015 Volvo XC70",
-        "price": "205 - 229",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2015"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo S60",
-        "price": "158.5 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo S80",
-        "price": "198 - 225.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo V40",
-        "price": "132 - 174.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo V40 Cross Country",
-        "price": "142 - 162",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo V60",
-        "price": "172 - 209",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo XC60",
-        "price": "191.5 - 235.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo XC70",
-        "price": "224 - 248",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2014 Volvo XC90",
-        "price": "290.9 - 290.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2014"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2013 Volvo S60",
-        "price": "153 - 189",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2013"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2013 Volvo S80",
-        "price": "189 - 219",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2013"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2013 Volvo V40",
-        "price": "129.9 - 169.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2013"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2013 Volvo V60",
-        "price": "163 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2013"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2013 Volvo XC60",
-        "price": "185 - 229",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2013"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2013 Volvo XC70",
-        "price": "220 - 244",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2013"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2013 Volvo XC90",
-        "price": "288 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2013"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo C30",
-        "price": "119 - 139",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo C70",
-        "price": "242 - 242",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo S40",
-        "price": "119 - 139",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo S60",
-        "price": "152 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo S80",
-        "price": "186 - 216",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo V50",
-        "price": "129 - 149",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo V60",
-        "price": "162 - 198",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo XC60",
-        "price": "184 - 227",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo XC70",
-        "price": "213 - 237",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2012 Volvo XC90",
-        "price": "281 - 281",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2012"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo C30",
-        "price": "119 - 139",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo C70",
-        "price": "239 - 239",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo S40",
-        "price": "119 - 139",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo S60",
-        "price": "149 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo S80",
-        "price": "183 - 258",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo V50",
-        "price": "129 - 149",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo XC60",
-        "price": "179 - 239",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo XC70",
-        "price": "210 - 242",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2011 Volvo XC90",
-        "price": "272 - 282",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2011"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo C30",
-        "price": "119 - 149",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo C70",
-        "price": "239 - 239",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo S40",
-        "price": "119 - 175",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo S80",
-        "price": "188 - 212",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo V50",
-        "price": "129 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo XC60",
-        "price": "202 - 239",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo XC70",
-        "price": "210 - 242",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2010 Volvo XC90",
-        "price": "262 - 282",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2010"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo C70",
-        "price": "210 - 210",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2009"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo S40",
-        "price": "119 - 119",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2009"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo S60",
-        "price": "129.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2009"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo S80",
-        "price": "188 - 333",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2009"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo V50",
-        "price": "160 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2009"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo XC60",
-        "price": "199 - 219",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2009"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo XC70",
-        "price": "210 - 220",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2009"
-    },
-    {
-        "brand": "Volvo",
-        "model": "2009 Volvo XC90",
-        "price": "262 - 272",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2009"
+        "model_name": "Volvo XC40",
+        "year": 2025,
+        "price_range": "167.2 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2025",
+        "variants": [
+            {
+                "trim_name": "Plus B3",
+                "price": "167.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "163hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultra B4",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C40",
+        "year": 2024,
+        "price_range": "201 - 232",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c40-2024",
+        "variants": [
+            {
+                "trim_name": "Recharge Plus Single Motor",
+                "price": "201",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 602km",
+                "horsepower": "238hp/42.8kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Recharge Ultimate Twin Motor",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 668km",
+                "horsepower": "408hp/68.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2024,
+        "price_range": "190.6 - 272.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2024",
+        "variants": [
+            {
+                "trim_name": "Plus B4",
+                "price": "190.6",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "272.6",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2024,
+        "price_range": "185 - 277.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2024",
+        "variants": [
+            {
+                "trim_name": "Plus B3",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "163hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B4",
+                "price": "220",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Plus Recharge T8",
+                "price": "240.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "277.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2024,
+        "price_range": "276.6 - 276.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2024",
+        "variants": [
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "276.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC40",
+        "year": 2024,
+        "price_range": "144.5 - 222",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2024",
+        "variants": [
+            {
+                "trim_name": "Plus T2",
+                "price": "144.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1477cc",
+                "horsepower": "129hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Recharge Plus Single Motor",
+                "price": "191",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 567km",
+                "horsepower": "238hp/42.8kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Ultimate B4",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge Ultimate Twin Motor",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 623km",
+                "horsepower": "408hp/68.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2024,
+        "price_range": "232 - 328.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2024",
+        "variants": [
+            {
+                "trim_name": "Plus B5 AWD",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Plus Recharge T8",
+                "price": "257.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "262.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "294.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Rechrge T8 Polestar",
+                "price": "328.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2024,
+        "price_range": "295.6 - 377.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2024",
+        "variants": [
+            {
+                "trim_name": "Plus B5 AWD",
+                "price": "295.6",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "337.1",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Plus Recharge T8",
+                "price": "341.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "377.6",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C40",
+        "year": 2023,
+        "price_range": "229 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c40-2023",
+        "variants": [
+            {
+                "trim_name": "Recharge Ultimate Twin Motor",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 514km",
+                "horsepower": "408hp/67.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2023,
+        "price_range": "189 - 271",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2023",
+        "variants": [
+            {
+                "trim_name": "Plus B4",
+                "price": "189",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "229.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "271",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2023,
+        "price_range": "194 - 276",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2023",
+        "variants": [
+            {
+                "trim_name": "Plus B4",
+                "price": "194",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "234.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Plus Recharge T8",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "276",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2023,
+        "price_range": "275 - 275",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2023",
+        "variants": [
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "275",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC40",
+        "year": 2023,
+        "price_range": "142.9 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2023",
+        "variants": [
+            {
+                "trim_name": "Plus T2",
+                "price": "142.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1477cc",
+                "horsepower": "129hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Recharge Plus Single Motor",
+                "price": "179",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 486km",
+                "horsepower": "231hp/33.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plus B4",
+                "price": "182.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "209",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge Ultimate Twin Motor",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 465km",
+                "horsepower": "408hp/67.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2023,
+        "price_range": "222 - 326.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2023",
+        "variants": [
+            {
+                "trim_name": "Plus B4",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Plus Recharge T8",
+                "price": "255.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "261.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "292.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Rechrge T8 Polestar",
+                "price": "326.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2023,
+        "price_range": "294 - 376",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2023",
+        "variants": [
+            {
+                "trim_name": "Plus B5 AWD",
+                "price": "294",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate B5 AWD",
+                "price": "335.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Plus Recharge T8",
+                "price": "339",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultimate Recharge T8",
+                "price": "376",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2022,
+        "price_range": "184.5 - 271",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2022",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "184.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "224.7",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8",
+                "price": "271",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S90",
+        "year": 2022,
+        "price_range": "244.5 - 312",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2022",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "244.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B4 Inscription",
+                "price": "275.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8 Inscription",
+                "price": "312",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2022,
+        "price_range": "189.5 - 276",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2022",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "189.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "229.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8 Momentum",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8 Inscription",
+                "price": "276",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2022,
+        "price_range": "264.5 - 264.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2022",
+        "variants": [
+            {
+                "trim_name": "B5 Momentum",
+                "price": "264.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC40",
+        "year": 2022,
+        "price_range": "160.7 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2022",
+        "variants": [
+            {
+                "trim_name": "T3 Momentum",
+                "price": "160.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "1477cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "B4 Momentum",
+                "price": "178.4",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "207",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge P8 AWD",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 465km",
+                "horsepower": "408hp/67.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2022,
+        "price_range": "220.5 - 326.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2022",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "220.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8 Momentum",
+                "price": "255.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "259.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8 Inscription",
+                "price": "292.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Rechrge T8 Polestar",
+                "price": "326.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2022,
+        "price_range": "289.5 - 376",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2022",
+        "variants": [
+            {
+                "trim_name": "B5 Momentum七人座",
+                "price": "289.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design七人座",
+                "price": "335.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8 Momentum七人座",
+                "price": "339",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Recharge T8 Inscription七人座",
+                "price": "376",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2021,
+        "price_range": "182 - 264",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2021",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "182",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "222.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Recharge Inscription",
+                "price": "264",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "390hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S90",
+        "year": 2021,
+        "price_range": "239 - 305",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2021",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "239",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B4 Inscription",
+                "price": "270",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Recharge Inscription",
+                "price": "305",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "390hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2021,
+        "price_range": "187 - 269",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2021",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "187",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "227.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Recharge Inscription",
+                "price": "269",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "390hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2021,
+        "price_range": "259 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2021",
+        "variants": [
+            {
+                "trim_name": "B5 Momentum",
+                "price": "259",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC40",
+        "year": 2021,
+        "price_range": "159.9 - 204.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2021",
+        "variants": [
+            {
+                "trim_name": "T3 Momentum",
+                "price": "159.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1477cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "B4 Momentum",
+                "price": "175.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "204.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2021,
+        "price_range": "215 - 320.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2021",
+        "variants": [
+            {
+                "trim_name": "B4 Momentum",
+                "price": "215",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B4 Momentum Plus",
+                "price": "224.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "197hp@4800~5400rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "254.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Recharge  Inscription",
+                "price": "285.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "390hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Rechrge Polestar",
+                "price": "320.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "405hp/68.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2021,
+        "price_range": "287 - 369",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2021",
+        "variants": [
+            {
+                "trim_name": "B5 Momentum七人座",
+                "price": "287",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "B5 R-Design七人座",
+                "price": "333",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Recharge Inscription七人座",
+                "price": "369",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "390hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2020,
+        "price_range": "185 - 252",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2020",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "220",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "252",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "340hp/60.2kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S90",
+        "year": 2020,
+        "price_range": "239 - 305",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2020",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "239",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "299",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription",
+                "price": "305",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2020,
+        "price_range": "190 - 257",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2020",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "190",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "225",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "257",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "340hp/60.2kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2020,
+        "price_range": "289 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2020",
+        "variants": [
+            {
+                "trim_name": "D5 Special Edition勁階裝備版",
+                "price": "289",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 Special Edition勁階裝備版",
+                "price": "299",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC40",
+        "year": 2020,
+        "price_range": "169.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2020",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "169.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4 R-Design",
+                "price": "183",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "252hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2020,
+        "price_range": "230 - 319",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2020",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum",
+                "price": "230",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum",
+                "price": "236.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "B5 Momentum",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "252",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "B5 R-Design",
+                "price": "254.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "269",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription",
+                "price": "305",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Polestar",
+                "price": "319",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "422hp/68.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2020,
+        "price_range": "289 - 420",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2020",
+        "variants": [
+            {
+                "trim_name": "T5 Momentum七人座",
+                "price": "289",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "B5 Momentum七人座",
+                "price": "291.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "D5 Momentum七人座",
+                "price": "299",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design七人座",
+                "price": "333",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "B5 R-Design七人座",
+                "price": "333",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "D5 Inscription七人座",
+                "price": "356",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T8 Inscription七人座",
+                "price": "369",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T6 Inscription七人座",
+                "price": "372",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Excellence四人座",
+                "price": "420",
+                "body_type": "5門 4人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2019,
+        "price_range": "185 - 271",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2019",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "220",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "271",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "340hp/60.2kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S90",
+        "year": 2019,
+        "price_range": "239 - 357",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2019",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "239",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "299",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription",
+                "price": "357",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40",
+        "year": 2019,
+        "price_range": "139 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2019",
+        "variants": [
+            {
+                "trim_name": "T3安全智尚版",
+                "price": "139",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "152hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40 Cross Country",
+        "year": 2019,
+        "price_range": "153 - 153",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2019",
+        "variants": [
+            {
+                "trim_name": "T4輕旅漫遊版",
+                "price": "153",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2019,
+        "price_range": "190 - 275",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2019",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "190",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "225",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "275",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "340hp/60.2kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2019,
+        "price_range": "289 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2019",
+        "variants": [
+            {
+                "trim_name": "D5 Adventure Edition",
+                "price": "289",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 Adventure Edition",
+                "price": "299",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC40",
+        "year": 2019,
+        "price_range": "169.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc40-2018",
+        "variants": [
+            {
+                "trim_name": "T4 Momentum",
+                "price": "169.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4 R-Design",
+                "price": "183",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "252hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2019,
+        "price_range": "222 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2019",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "249",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription",
+                "price": "269",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription",
+                "price": "299",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 R-Design",
+                "price": "299",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2019,
+        "price_range": "283 - 470",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2019",
+        "variants": [
+            {
+                "trim_name": "T5 Momentum七人座",
+                "price": "283",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 Momentum七人座",
+                "price": "293",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design七人座",
+                "price": "333",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 Inscription七人座",
+                "price": "350",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 Inscription七人座",
+                "price": "372",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription七人座",
+                "price": "385",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Excellence四人座",
+                "price": "470",
+                "body_type": "5門 4人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2018,
+        "price_range": "165 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2018",
+        "variants": [
+            {
+                "trim_name": "T4安全運動版",
+                "price": "165",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全運動版",
+                "price": "170",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T4安全旗艦版",
+                "price": "180",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全旗艦版",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "199",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S90",
+        "year": 2018,
+        "price_range": "239 - 357",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2018",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum",
+                "price": "239",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum",
+                "price": "255",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription",
+                "price": "357",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40",
+        "year": 2018,
+        "price_range": "136 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2018",
+        "variants": [
+            {
+                "trim_name": "T3安全運動版",
+                "price": "136",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "152hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全運動版",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T3安全旗艦版",
+                "price": "150",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "152hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5安全旗艦版",
+                "price": "180",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40 Cross Country",
+        "year": 2018,
+        "price_range": "150 - 164",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2018",
+        "variants": [
+            {
+                "trim_name": "T4安全運動版",
+                "price": "150",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4安全旗艦版",
+                "price": "164",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2018,
+        "price_range": "159 - 333",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2018",
+        "variants": [
+            {
+                "trim_name": "D3安全運動版",
+                "price": "159",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "150hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T4安全運動版",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全運動版",
+                "price": "174",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D3安全旗艦版",
+                "price": "174",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "150hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T4安全旗艦版",
+                "price": "184",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全旗艦版",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "209",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 R-Design",
+                "price": "247",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Polestar",
+                "price": "333",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "367hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60 Cross Country",
+        "year": 2018,
+        "price_range": "189 - 200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2018",
+        "variants": [
+            {
+                "trim_name": "D4安全運動版",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4安全旗艦版",
+                "price": "200",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90",
+        "year": 2018,
+        "price_range": "243 - 309",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-2018",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum",
+                "price": "243",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum",
+                "price": "259",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 Inscription",
+                "price": "293",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Inscription",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2018,
+        "price_range": "276 - 336",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2018",
+        "variants": [
+            {
+                "trim_name": "D5 Plus AWD",
+                "price": "276",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 Plus AWD",
+                "price": "286",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 Pro AWD",
+                "price": "326",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 Pro AWD",
+                "price": "336",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2018,
+        "price_range": "222 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2018",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum安全旗艦版",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum安全旗艦版",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "249",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription奢華旗艦版",
+                "price": "259",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 R-Design",
+                "price": "264",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription奢華旗艦版",
+                "price": "299",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2018,
+        "price_range": "265 - 470",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2018",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum五人座",
+                "price": "265",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum七人座",
+                "price": "283",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 Momentum七人座",
+                "price": "293",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Inscription七人座",
+                "price": "340",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 Inscription七人座",
+                "price": "350",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T8 R-Design七人座",
+                "price": "378",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Inscription七人座",
+                "price": "385",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Excellence四人座",
+                "price": "470",
+                "body_type": "5門 4人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2017,
+        "price_range": "165 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2017",
+        "variants": [
+            {
+                "trim_name": "T4運動版",
+                "price": "165",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4運動版",
+                "price": "170",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T4安全旗艦版",
+                "price": "180",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5運動版",
+                "price": "182",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全旗艦版",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "199",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S90",
+        "year": 2017,
+        "price_range": "239 - 305",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s90-2017",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum",
+                "price": "239",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum",
+                "price": "255",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 Inscription",
+                "price": "289",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Inscription",
+                "price": "305",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40",
+        "year": 2017,
+        "price_range": "135 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2017",
+        "variants": [
+            {
+                "trim_name": "T3運動版",
+                "price": "135",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "152hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4運動版",
+                "price": "144",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T3安全旗艦版",
+                "price": "150",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "152hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5安全旗艦版",
+                "price": "180",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40 Cross Country",
+        "year": 2017,
+        "price_range": "149 - 164",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2017",
+        "variants": [
+            {
+                "trim_name": "T4運動版",
+                "price": "149",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4安全旗艦版",
+                "price": "164",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2017,
+        "price_range": "178 - 333",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2017",
+        "variants": [
+            {
+                "trim_name": "D4運動版",
+                "price": "178",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5運動版",
+                "price": "192",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全旗艦版",
+                "price": "193",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "209",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 R-Design",
+                "price": "247",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Polestar",
+                "price": "333",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "367hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60 Cross Country",
+        "year": 2017,
+        "price_range": "189 - 200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2017",
+        "variants": [
+            {
+                "trim_name": "D4豪華版",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4安全旗艦版",
+                "price": "200",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90",
+        "year": 2017,
+        "price_range": "243 - 309",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-2017",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum",
+                "price": "243",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Momentum",
+                "price": "259",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 Inscription",
+                "price": "293",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 Inscription",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "254hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V90 Cross Country",
+        "year": 2017,
+        "price_range": "276 - 336",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v90-cross-country-2017",
+        "variants": [
+            {
+                "trim_name": "D5 Plus AWD",
+                "price": "276",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 Plus AWD",
+                "price": "286",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 Pro AWD",
+                "price": "326",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 Pro AWD",
+                "price": "336",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2017,
+        "price_range": "198 - 255",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2017",
+        "variants": [
+            {
+                "trim_name": "T5豪華版",
+                "price": "198",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4豪華版",
+                "price": "201",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5安全旗艦版",
+                "price": "213",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "216",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4安全旗艦版",
+                "price": "216",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5豪華版",
+                "price": "221.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "220hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5安全旗艦版",
+                "price": "236.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "220hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 R-Design",
+                "price": "255",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2017,
+        "price_range": "265 - 470",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2017",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum五人座",
+                "price": "265",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 Momentum七人座",
+                "price": "293",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 Inscription七人座",
+                "price": "350",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "235hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 R-Design七人座",
+                "price": "367",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription七人座",
+                "price": "372",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T8 Inscription七人座",
+                "price": "385",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "T8 Excellence四人座",
+                "price": "470",
+                "body_type": "5門 4人座",
+                "engine_cc": "1969cc",
+                "horsepower": "407hp/65.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2016,
+        "price_range": "165 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2016",
+        "variants": [
+            {
+                "trim_name": "T4豪華版",
+                "price": "165",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4豪華版",
+                "price": "170",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "182",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4旗艦版",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4旗艦版",
+                "price": "193",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "207",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 R-Design",
+                "price": "229",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2016,
+        "price_range": "201 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2016",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "201",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 豪華版",
+                "price": "206",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "224",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "229",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40",
+        "year": 2016,
+        "price_range": "135 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2016",
+        "variants": [
+            {
+                "trim_name": "T3豪華版",
+                "price": "135",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "152hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4豪華版",
+                "price": "144",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T3旗艦版",
+                "price": "157",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "152hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5豪華版",
+                "price": "158",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "168",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5旗艦版",
+                "price": "180",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40 Cross Country",
+        "year": 2016,
+        "price_range": "153.5 - 175.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2016",
+        "variants": [
+            {
+                "trim_name": "D4豪華版",
+                "price": "153.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4旗艦版",
+                "price": "175.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2016,
+        "price_range": "178 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2016",
+        "variants": [
+            {
+                "trim_name": "D4 豪華版",
+                "price": "178",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "192",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "201",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "217",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 R-Design",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60 Cross Country",
+        "year": 2016,
+        "price_range": "189 - 212",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-cross-country-2016",
+        "variants": [
+            {
+                "trim_name": "D4 豪華版",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "212",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2016,
+        "price_range": "198 - 247",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2016",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "198",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 豪華版",
+                "price": "201",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "221",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "221.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "220hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "224",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "224",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "244.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "220hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 R-Design",
+                "price": "247",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2016,
+        "price_range": "207 - 231",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2016",
+        "variants": [
+            {
+                "trim_name": "D4 豪華版",
+                "price": "207",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "231",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2016,
+        "price_range": "260 - 372",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2016",
+        "variants": [
+            {
+                "trim_name": "D4 Momentum五人座",
+                "price": "260",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 Momentum七人座",
+                "price": "275",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 Momentum五人座",
+                "price": "278",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "225hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 Momentum+五人座",
+                "price": "285",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 Momentum+七人座",
+                "price": "300",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 Momentum+五人座",
+                "price": "303",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "225hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 Momentum+七人座",
+                "price": "318",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "225hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 Inscription七人座",
+                "price": "350",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "225hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6 R-Design七人座",
+                "price": "367",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 Inscription七人座",
+                "price": "372",
+                "body_type": "5門 7人座",
+                "engine_cc": "1969cc",
+                "horsepower": "320hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2015,
+        "price_range": "158.5 - 223",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2015",
+        "variants": [
+            {
+                "trim_name": "T4豪華版",
+                "price": "158.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4豪華版",
+                "price": "167",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T4旗艦版",
+                "price": "178.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "181",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4旗艦版",
+                "price": "187",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "204",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 旗艦版",
+                "price": "223",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2015,
+        "price_range": "194 - 224",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2015",
+        "variants": [
+            {
+                "trim_name": "D4 雅緻版",
+                "price": "194",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "201",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 豪華版",
+                "price": "204",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "221",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "224",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40",
+        "year": 2015,
+        "price_range": "132 - 176",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2015",
+        "variants": [
+            {
+                "trim_name": "T4豪華版",
+                "price": "132",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4旗艦版",
+                "price": "152",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5豪華版",
+                "price": "156",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "164",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5旗艦版",
+                "price": "176",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40 Cross Country",
+        "year": 2015,
+        "price_range": "142 - 172",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2015",
+        "variants": [
+            {
+                "trim_name": "D2豪華版",
+                "price": "142",
+                "body_type": "5門 5人座",
+                "engine_cc": "1560cc",
+                "horsepower": "115hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4豪華版",
+                "price": "152",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D2旗艦版",
+                "price": "162",
+                "body_type": "5門 5人座",
+                "engine_cc": "1560cc",
+                "horsepower": "115hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4旗艦版",
+                "price": "172",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "190hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2015,
+        "price_range": "174 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2015",
+        "variants": [
+            {
+                "trim_name": "D4 豪華版",
+                "price": "174",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "191",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "194",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "214",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T6 旗艦款",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "306hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2015,
+        "price_range": "195 - 237",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2015",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "195",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 豪華版",
+                "price": "195",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "215",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "217",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "221",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "237",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2015,
+        "price_range": "205 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2015",
+        "variants": [
+            {
+                "trim_name": "D4 豪華版",
+                "price": "205",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2014,
+        "price_range": "158.5 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2014",
+        "variants": [
+            {
+                "trim_name": "T4豪華版",
+                "price": "158.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4豪華版",
+                "price": "165",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T4旗艦版",
+                "price": "178.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "179",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4旗艦版",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "199",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2014,
+        "price_range": "198 - 225.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2014",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "198",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "205.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "218",
+                "body_type": "4門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "225.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40",
+        "year": 2014,
+        "price_range": "132 - 174.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2014",
+        "variants": [
+            {
+                "trim_name": "T4豪華版",
+                "price": "132",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4旗艦版",
+                "price": "152",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5豪華版",
+                "price": "154.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5旗艦版",
+                "price": "174.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40 Cross Country",
+        "year": 2014,
+        "price_range": "142 - 162",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-cross-country-2014",
+        "variants": [
+            {
+                "trim_name": "D2豪華版",
+                "price": "142",
+                "body_type": "5門 5人座",
+                "engine_cc": "1560cc",
+                "horsepower": "115hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D2旗艦版",
+                "price": "162",
+                "body_type": "5門 5人座",
+                "engine_cc": "1560cc",
+                "horsepower": "115hp@3600rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2014,
+        "price_range": "172 - 209",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2014",
+        "variants": [
+            {
+                "trim_name": "D4 豪華版",
+                "price": "172",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "192",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "209",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2014,
+        "price_range": "191.5 - 235.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2014",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "191.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 豪華版",
+                "price": "195",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "211.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "215",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "181hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "215.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "235.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2014,
+        "price_range": "224 - 248",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2014",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "224",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "248",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2014,
+        "price_range": "290.9 - 290.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2014",
+        "variants": [
+            {
+                "trim_name": "D5 總裁版",
+                "price": "290.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2400cc",
+                "horsepower": "200hp@3900rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2013,
+        "price_range": "153 - 189",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2013",
+        "variants": [
+            {
+                "trim_name": "T4 豪華版",
+                "price": "153",
+                "body_type": "4門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 豪華版",
+                "price": "156",
+                "body_type": "4門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "169",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4 旗艦版",
+                "price": "173",
+                "body_type": "4門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "176",
+                "body_type": "4門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "189",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2013,
+        "price_range": "189 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2013",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "189",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "199",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "209",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "219",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V40",
+        "year": 2013,
+        "price_range": "129.9 - 169.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v40-2013",
+        "variants": [
+            {
+                "trim_name": "T4豪華版",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4旗艦版",
+                "price": "149.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5豪華版",
+                "price": "149.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "213hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5旗艦版",
+                "price": "169.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "213hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2013,
+        "price_range": "163 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2013",
+        "variants": [
+            {
+                "trim_name": "D4 豪華版",
+                "price": "163",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "183",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2013,
+        "price_range": "185 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2013",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 豪華版",
+                "price": "186",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "205",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4 旗艦版",
+                "price": "206",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "209",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2013,
+        "price_range": "220 - 244",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2013",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "220",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "244",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2013,
+        "price_range": "288 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2013",
+        "variants": [
+            {
+                "trim_name": "D5 總裁版",
+                "price": "288",
+                "body_type": "5門 7人座",
+                "engine_cc": "2400cc",
+                "horsepower": "200hp@3900rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C30",
+        "year": 2012,
+        "price_range": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2012",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "119",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4",
+                "price": "129",
+                "body_type": "3門 4人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "139",
+                "body_type": "3門 4人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C70",
+        "year": 2012,
+        "price_range": "242 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2012",
+        "variants": [
+            {
+                "trim_name": "T5",
+                "price": "242",
+                "body_type": "2門 4人座",
+                "engine_cc": "2521cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S40",
+        "year": 2012,
+        "price_range": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2012",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "119",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4",
+                "price": "129",
+                "body_type": "4門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "139",
+                "body_type": "4門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2012,
+        "price_range": "152 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2012",
+        "variants": [
+            {
+                "trim_name": "T4 豪華版",
+                "price": "152",
+                "body_type": "4門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "168",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4 旗艦版",
+                "price": "172",
+                "body_type": "4門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2012,
+        "price_range": "186 - 216",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2012",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "186",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "196",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "206",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "216",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V50",
+        "year": 2012,
+        "price_range": "129 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2012",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "129",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4",
+                "price": "139",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "149",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V60",
+        "year": 2012,
+        "price_range": "162 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v60-2012",
+        "variants": [
+            {
+                "trim_name": "D3豪華版",
+                "price": "162",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D3旗艦版",
+                "price": "182",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "163hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "198",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2012,
+        "price_range": "184 - 227",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2012",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "184",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "204",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "207",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "227",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2012,
+        "price_range": "213 - 237",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2012",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "213",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "237",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "215hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2012,
+        "price_range": "281 - 281",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2012",
+        "variants": [
+            {
+                "trim_name": "D5 總裁版",
+                "price": "281",
+                "body_type": "5門 7人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C30",
+        "year": 2011,
+        "price_range": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2011",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "119",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4",
+                "price": "129",
+                "body_type": "3門 4人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "139",
+                "body_type": "3門 4人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C70",
+        "year": 2011,
+        "price_range": "239 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2011",
+        "variants": [
+            {
+                "trim_name": "T5",
+                "price": "239",
+                "body_type": "2門 4人座",
+                "engine_cc": "2521cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S40",
+        "year": 2011,
+        "price_range": "119 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2011",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "119",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4",
+                "price": "129",
+                "body_type": "4門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "139",
+                "body_type": "4門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2011,
+        "price_range": "149 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2011",
+        "variants": [
+            {
+                "trim_name": "T4 豪華版",
+                "price": "149",
+                "body_type": "4門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 豪華版",
+                "price": "165",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T4 旗艦版",
+                "price": "169",
+                "body_type": "4門 5人座",
+                "engine_cc": "1595cc",
+                "horsepower": "180hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2011,
+        "price_range": "183 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2011",
+        "variants": [
+            {
+                "trim_name": "T5 擁者無懼升級版豪華版",
+                "price": "183",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "192",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 擁者無懼升級版旗艦版",
+                "price": "203",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "212",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 旗艦版",
+                "price": "238",
+                "body_type": "4門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.2 總裁版",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V50",
+        "year": 2011,
+        "price_range": "129 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2011",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "129",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D4",
+                "price": "139",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D4 R-Design",
+                "price": "149",
+                "body_type": "5門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "177hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2011,
+        "price_range": "179 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2011",
+        "variants": [
+            {
+                "trim_name": "T5 豪華版",
+                "price": "179",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 旗艦版",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "202",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 旗艦版",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2011,
+        "price_range": "210 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2011",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "210",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 旗艦版",
+                "price": "242",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "243hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2011,
+        "price_range": "272 - 282",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2011",
+        "variants": [
+            {
+                "trim_name": "D5 總裁版",
+                "price": "272",
+                "body_type": "5門 7人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 總裁版",
+                "price": "282",
+                "body_type": "5門 7人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C30",
+        "year": 2010,
+        "price_range": "119 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c30-2010",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "119",
+                "body_type": "5門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 R-Design",
+                "price": "149",
+                "body_type": "5門 4人座",
+                "engine_cc": "2400cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C70",
+        "year": 2010,
+        "price_range": "239 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2010",
+        "variants": [
+            {
+                "trim_name": "T5",
+                "price": "239",
+                "body_type": "2門 4人座",
+                "engine_cc": "2521cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S40",
+        "year": 2010,
+        "price_range": "119 - 175",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2010",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "119",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "175",
+                "body_type": "4門 5人座",
+                "engine_cc": "2521cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2010,
+        "price_range": "188 - 212",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2010",
+        "variants": [
+            {
+                "trim_name": "2.5T 豪華版",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "2521cc",
+                "horsepower": "231hp@4800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "192",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.5T 旗艦版",
+                "price": "203",
+                "body_type": "4門 5人座",
+                "engine_cc": "2521cc",
+                "horsepower": "231hp@4800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "212",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V50",
+        "year": 2010,
+        "price_range": "129 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2010",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "129",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 R-Design",
+                "price": "160",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5 R-Design",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "2521cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2010,
+        "price_range": "202 - 239",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2010",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "202",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 旗艦版",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2010,
+        "price_range": "210 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2010",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "210",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 豪華版",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "205hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 旗艦版",
+                "price": "242",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2010,
+        "price_range": "262 - 282",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2010",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "262",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 總裁版",
+                "price": "272",
+                "body_type": "5門 7人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 豪華版",
+                "price": "272",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.2 總裁版",
+                "price": "282",
+                "body_type": "5門 7人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo C70",
+        "year": 2009,
+        "price_range": "210 - 210",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-c70-2009",
+        "variants": [
+            {
+                "trim_name": "T5",
+                "price": "210",
+                "body_type": "2門 4人座",
+                "engine_cc": "2521cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S40",
+        "year": 2009,
+        "price_range": "119 - 119",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s40-2009",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "119",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "145hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S60",
+        "year": 2009,
+        "price_range": "129.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s60-2009",
+        "variants": [
+            {
+                "trim_name": "2.0T 雋永典藏版",
+                "price": "129.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1984cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo S80",
+        "year": 2009,
+        "price_range": "188 - 333",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-s80-2009",
+        "variants": [
+            {
+                "trim_name": "2.5T 豪華版",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "2521cc",
+                "horsepower": "200hp@4500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 豪華版",
+                "price": "192",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.5T 旗艦版",
+                "price": "203",
+                "body_type": "4門 5人座",
+                "engine_cc": "2521cc",
+                "horsepower": "200hp@4500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "207",
+                "body_type": "4門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T6",
+                "price": "262",
+                "body_type": "4門 5人座",
+                "engine_cc": "2953cc",
+                "horsepower": "285hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V8",
+                "price": "333",
+                "body_type": "4門 5人座",
+                "engine_cc": "4414cc",
+                "horsepower": "315hp@5950rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo V50",
+        "year": 2009,
+        "price_range": "160 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-v50-2009",
+        "variants": [
+            {
+                "trim_name": "D5 R-Design",
+                "price": "160",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "T5",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "2521cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2009,
+        "price_range": "199 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2009",
+        "variants": [
+            {
+                "trim_name": "D5 豪華版",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "D5 旗艦版",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC70",
+        "year": 2009,
+        "price_range": "210 - 220",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc70-2009",
+        "variants": [
+            {
+                "trim_name": "D5",
+                "price": "210",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2",
+                "price": "220",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC90",
+        "year": 2009,
+        "price_range": "262 - 272",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc90-2009",
+        "variants": [
+            {
+                "trim_name": "D5 七人座",
+                "price": "262",
+                "body_type": "5門 5人座",
+                "engine_cc": "2400cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 七人座",
+                "price": "272",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "238hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

@@ -1,140 +1,423 @@
 [
     {
         "brand": "Tesla",
-        "model": "2024 Tesla Model 3",
-        "price": "169.99 - 233.79",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2024"
+        "model_name": "Tesla Model 3",
+        "year": 2024,
+        "price_range": "169.99 - 233.79",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2024",
+        "variants": [
+            {
+                "trim_name": "後輪驅動",
+                "price": "169.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 527km",
+                "horsepower": "261hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "199.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 608km",
+                "horsepower": "346hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "233.79",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 568km",
+                "horsepower": "460hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2024 Tesla Model S",
-        "price": "294.99 - 338.49",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2024"
+        "model_name": "Tesla Model S",
+        "year": 2024,
+        "price_range": "294.99 - 338.49",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2024",
+        "variants": [
+            {
+                "trim_name": "標準版",
+                "price": "294.99",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 638km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "338.49",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 603km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2024 Tesla Model X",
-        "price": "324.99 - 354.99",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2024"
+        "model_name": "Tesla Model X",
+        "year": 2024,
+        "price_range": "324.99 - 354.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2024",
+        "variants": [
+            {
+                "trim_name": "標準版五人座",
+                "price": "324.99",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 597km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "標準版七人座",
+                "price": "336.29",
+                "body_type": "5門 7人座",
+                "engine_cc": "滿電續航 597km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "標準版六人座",
+                "price": "345.99",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 597km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "354.99",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 564km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2024 Tesla Model Y",
-        "price": "173.49 - 236.79",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-y-2024"
+        "model_name": "Tesla Model Y",
+        "year": 2024,
+        "price_range": "173.49 - 236.79",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-y-2024",
+        "variants": [
+            {
+                "trim_name": "後輪驅動",
+                "price": "173.49",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 438km",
+                "horsepower": "256hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "210.79",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 547km",
+                "horsepower": "371hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "236.79",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 525km",
+                "horsepower": "437hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2023 Tesla Model S",
-        "price": "294.99 - 344.99",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2023"
+        "model_name": "Tesla Model S",
+        "year": 2023,
+        "price_range": "294.99 - 344.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2023",
+        "variants": [
+            {
+                "trim_name": "標準版五人座",
+                "price": "324.99",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "標準版七人座",
+                "price": "336.29",
+                "body_type": "5門 7人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "標準版六人座",
+                "price": "345.99",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "354.99",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 536km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2023 Tesla Model X",
-        "price": "324.99 - 354.99",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2023"
+        "model_name": "Tesla Model X",
+        "year": 2023,
+        "price_range": "324.99 - 354.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2023",
+        "variants": [
+            {
+                "trim_name": "標準版五人座",
+                "price": "324.99",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "標準版七人座",
+                "price": "336.29",
+                "body_type": "5門 7人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "標準版六人座",
+                "price": "345.99",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "354.99",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 536km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2023 Tesla Model Y",
-        "price": "179.99 - 238.79",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-y-2023"
+        "model_name": "Tesla Model Y",
+        "year": 2023,
+        "price_range": "179.99 - 238.79",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-y-2023",
+        "variants": [
+            {
+                "trim_name": "後輪驅動",
+                "price": "179.99",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 438km",
+                "horsepower": "256hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "212.79",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 542km",
+                "horsepower": "371hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "238.79",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 525km",
+                "horsepower": "437hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2022 Tesla Model 3",
-        "price": "175.49 - 246.89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2022"
+        "model_name": "Tesla Model 3",
+        "year": 2022,
+        "price_range": "175.49 - 246.89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2022",
+        "variants": [
+            {
+                "trim_name": "標準版",
+                "price": "175.49",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 485km",
+                "horsepower": "261hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "223.4",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 619km",
+                "horsepower": "346hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "246.89",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 563km",
+                "horsepower": "450hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2022 Tesla Model S",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2022"
+        "model_name": "Tesla Model S",
+        "year": 2022,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2022",
+        "variants": [
+            {
+                "trim_name": "標準版",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 652km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 637km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2022 Tesla Model X",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2022"
+        "model_name": "Tesla Model X",
+        "year": 2022,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2022",
+        "variants": [
+            {
+                "trim_name": "標準版",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "售價未公布",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 536km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2021 Tesla Model 3",
-        "price": "165.49 - 222.49",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2021"
+        "model_name": "Tesla Model 3",
+        "year": 2021,
+        "price_range": "165.49 - 222.49",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2021",
+        "variants": [
+            {
+                "trim_name": "Standard Range Plus",
+                "price": "165.49",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 448km",
+                "horsepower": "261hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "197.29",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 614km",
+                "horsepower": "346hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "222.49",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 567km",
+                "horsepower": "450hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2021 Tesla Model S",
-        "price": "0 - 488.39",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2021"
+        "model_name": "Tesla Model S",
+        "year": 2021,
+        "price_range": "0 - 488.39",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2021",
+        "variants": [
+            {
+                "trim_name": "Plaid＋",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 837km",
+                "horsepower": "1100hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "363.89",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 663km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "488.39",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 628km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Tesla",
-        "model": "2021 Tesla Model X",
-        "price": "388.89 - 458.39",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2021"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2020 Tesla Model 3",
-        "price": "160.99 - 220.99",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2020"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2020 Tesla Model S",
-        "price": "305.4 - 372.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2020"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2020 Tesla Model X",
-        "price": "332.8 - 389.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2020"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2019 Tesla Model 3",
-        "price": "155.99 - 214.99",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2019"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2019 Tesla Model S",
-        "price": "282.1 - 335.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2019"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2019 Tesla Model X",
-        "price": "300.4 - 343.4",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2019"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2018 Tesla Model S",
-        "price": "333.6 - 641.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2018"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2018 Tesla Model X",
-        "price": "385.7 - 666.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2018"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2017 Tesla Model S",
-        "price": "0 - 638.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2017"
-    },
-    {
-        "brand": "Tesla",
-        "model": "2017 Tesla Model X",
-        "price": "0 - 664.1",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2017"
+        "model_name": "Tesla Model X",
+        "year": 2021,
+        "price_range": "388.89 - 458.39",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2021",
+        "variants": [
+            {
+                "trim_name": "Long Range",
+                "price": "388.89",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 580km",
+                "horsepower": "670hp",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Plaid",
+                "price": "458.39",
+                "body_type": "5門 6人座",
+                "engine_cc": "滿電續航 547km",
+                "horsepower": "1020hp",
+                "fuel_type": "電動"
+            }
+        ]
     }
 ]

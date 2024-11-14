@@ -1,110 +1,556 @@
 [
     {
         "brand": "Smart",
-        "model": "2019 Smart Forfour",
-        "price": "75 - 86",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2019"
+        "model_name": "Smart Forfour",
+        "year": 2019,
+        "price_range": "75 - 86",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2019",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "75",
+                "body_type": "5門 4人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Pure",
+                "price": "80",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Passion",
+                "price": "86",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2019 Smart Fortwo",
-        "price": "72 - 77",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2019"
+        "model_name": "Smart Fortwo",
+        "year": 2019,
+        "price_range": "72 - 77",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2019",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "72",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "52kW Passion",
+                "price": "77",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2018 Smart Forfour",
-        "price": "74 - 84",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2018"
+        "model_name": "Smart Forfour",
+        "year": 2018,
+        "price_range": "74 - 84",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2018",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "74",
+                "body_type": "5門 4人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Pure",
+                "price": "79",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Passion",
+                "price": "84",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2018 Smart Fortwo",
-        "price": "71 - 76",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2018"
+        "model_name": "Smart Fortwo",
+        "year": 2018,
+        "price_range": "71 - 76",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2018",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "71",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "52kW Passion",
+                "price": "76",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2017 Smart Forfour",
-        "price": "73 - 83",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2017"
+        "model_name": "Smart Forfour",
+        "year": 2017,
+        "price_range": "73 - 83",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2017",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "73",
+                "body_type": "5門 4人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Pure",
+                "price": "78",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Passion",
+                "price": "83",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2017 Smart Fortwo",
-        "price": "68 - 73",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2017"
+        "model_name": "Smart Fortwo",
+        "year": 2017,
+        "price_range": "68 - 73",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2017",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "68",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "52kW Passion",
+                "price": "73",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2016 Smart Forfour",
-        "price": "71 - 83",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2016"
+        "model_name": "Smart Forfour",
+        "year": 2016,
+        "price_range": "71 - 83",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2016",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "71",
+                "body_type": "5門 4人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Pure",
+                "price": "76",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Passion",
+                "price": "83",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2016 Smart Fortwo",
-        "price": "66 - 71",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2016"
+        "model_name": "Smart Fortwo",
+        "year": 2016,
+        "price_range": "66 - 71",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2016",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "66",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "52kW Passion",
+                "price": "71",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2015 Smart Forfour",
-        "price": "71 - 83",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2015"
+        "model_name": "Smart Forfour",
+        "year": 2015,
+        "price_range": "71 - 83",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-forfour-2015",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "71",
+                "body_type": "5門 4人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Pure",
+                "price": "76",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "66kW Passion",
+                "price": "83",
+                "body_type": "5門 4人座",
+                "engine_cc": "898cc",
+                "horsepower": "90hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2015 Smart Fortwo",
-        "price": "65.5 - 85.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2015"
+        "model_name": "Smart Fortwo",
+        "year": 2015,
+        "price_range": "65.5 - 85.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2015",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "65.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "72",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "85.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2015 Smart Fortwo(NEW)",
-        "price": "66 - 71",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-new-2015"
+        "model_name": "Smart Fortwo(NEW)",
+        "year": 2015,
+        "price_range": "66 - 71",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-new-2015",
+        "variants": [
+            {
+                "trim_name": "52kW Pure",
+                "price": "66",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "52kW Passion",
+                "price": "71",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2014 Smart Fortwo",
-        "price": "65.5 - 85.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2014"
+        "model_name": "Smart Fortwo",
+        "year": 2014,
+        "price_range": "65.5 - 85.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2014",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "65.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "72",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "85.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2013 Smart Fortwo",
-        "price": "65.5 - 85.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2013"
+        "model_name": "Smart Fortwo",
+        "year": 2013,
+        "price_range": "65.5 - 85.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2013",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "65.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "72",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "85.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2012 Smart Fortwo",
-        "price": "65.5 - 85.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2012"
+        "model_name": "Smart Fortwo",
+        "year": 2012,
+        "price_range": "65.5 - 85.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2012",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "65.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "72",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "85.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2011 Smart Fortwo",
-        "price": "71.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2011"
+        "model_name": "Smart Fortwo",
+        "year": 2011,
+        "price_range": "71.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2011",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "71.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "81.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "89.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2010 Smart Fortwo",
-        "price": "71.5 - 86.1",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2010"
+        "model_name": "Smart Fortwo",
+        "year": 2010,
+        "price_range": "71.5 - 86.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2010",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "71.5",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "78.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "86.1",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2009 Smart Fortwo",
-        "price": "68.8 - 82.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2009"
+        "model_name": "Smart Fortwo",
+        "year": 2009,
+        "price_range": "68.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2009",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "68.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "75.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "82.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Smart",
-        "model": "2008 Smart Fortwo",
-        "price": "68.8 - 82.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2008"
+        "model_name": "Smart Fortwo",
+        "year": 2008,
+        "price_range": "68.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/smart-fortwo-2008",
+        "variants": [
+            {
+                "trim_name": "mhd Pure",
+                "price": "68.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "mhd Passion",
+                "price": "75.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "71hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Passion 62kW",
+                "price": "82.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "999cc",
+                "horsepower": "84hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

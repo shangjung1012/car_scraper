@@ -1,38 +1,152 @@
 [
     {
         "brand": "Mg",
-        "model": "2024 MG HS",
-        "price": "91.5 - 121.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2024"
+        "model_name": "MG HS",
+        "year": 2024,
+        "price_range": "91.5 - 121.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2024",
+        "variants": [
+            {
+                "trim_name": "1.5T旗艦版",
+                "price": "91.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "180hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T AWD旗艦版",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "223hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV馭電版",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "291hp/49.0kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Mg",
-        "model": "2024 MG MG4",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-mg4-2024"
+        "model_name": "MG MG4",
+        "year": 2024,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-mg4-2024",
+        "variants": [
+            {
+                "trim_name": "XPower",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 491km",
+                "horsepower": "435hp/61.2kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV旗艦版",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 567km",
+                "horsepower": "204hp/25.5kgm",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Mg",
-        "model": "2024 MG ZS",
-        "price": "74.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-zs-2024"
+        "model_name": "MG ZS",
+        "year": 2024,
+        "price_range": "74.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-zs-2024",
+        "variants": [
+            {
+                "trim_name": "1.5旗艦版",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mg",
-        "model": "2023 MG HS",
-        "price": "91.5 - 121.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2023"
+        "model_name": "MG HS",
+        "year": 2023,
+        "price_range": "91.5 - 121.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2023",
+        "variants": [
+            {
+                "trim_name": "1.5T旗艦版",
+                "price": "91.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "180hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T AWD旗艦版",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "223hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV馭電版",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "291hp/49.0kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Mg",
-        "model": "2023 MG ZS",
-        "price": "74.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-zs-2023"
+        "model_name": "MG ZS",
+        "year": 2023,
+        "price_range": "74.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-zs-2023",
+        "variants": [
+            {
+                "trim_name": "1.5旗艦版",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mg",
-        "model": "2022 MG HS",
-        "price": "89.9 - 118.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2022"
+        "model_name": "MG HS",
+        "year": 2022,
+        "price_range": "89.9 - 118.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mg-hs-2022",
+        "variants": [
+            {
+                "trim_name": "1.5T旗艦版",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "180hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV馭電版",
+                "price": "118.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "291hp/49.0kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     }
 ]

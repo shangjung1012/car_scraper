@@ -1,98 +1,514 @@
 [
     {
         "brand": "Daihatsu",
-        "model": "2016 Daihatsu Terios",
-        "price": "89.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2016"
+        "model_name": "Daihatsu Terios",
+        "year": 2016,
+        "price_range": "89.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2016",
+        "variants": [
+            {
+                "trim_name": "1.5 4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2015 Daihatsu Terios",
-        "price": "81.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2015"
+        "model_name": "Daihatsu Terios",
+        "year": 2015,
+        "price_range": "81.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2015",
+        "variants": [
+            {
+                "trim_name": "1.5 2WD MX",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 2WD LX",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD MX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2014 Daihatsu Terios",
-        "price": "81.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2014"
+        "model_name": "Daihatsu Terios",
+        "year": 2014,
+        "price_range": "81.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2014",
+        "variants": [
+            {
+                "trim_name": "1.5 2WD MX",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 2WD LX",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD MX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2013 Daihatsu Sirion",
-        "price": "65.8 - 68.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2013"
+        "model_name": "Daihatsu Sirion",
+        "year": 2013,
+        "price_range": "65.8 - 68.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2013",
+        "variants": [
+            {
+                "trim_name": "1.5 Sport+",
+                "price": "65.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport影音版",
+                "price": "68.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2013 Daihatsu Terios",
-        "price": "81.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2013"
+        "model_name": "Daihatsu Terios",
+        "year": 2013,
+        "price_range": "81.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2013",
+        "variants": [
+            {
+                "trim_name": "1.5 2WD MX",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 2WD LX",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD MX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2012 Daihatsu Sirion",
-        "price": "65.8 - 68.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2012"
+        "model_name": "Daihatsu Sirion",
+        "year": 2012,
+        "price_range": "65.8 - 68.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2012",
+        "variants": [
+            {
+                "trim_name": "1.5 Sport+",
+                "price": "65.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport影音版",
+                "price": "68.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2012 Daihatsu Terios",
-        "price": "81.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2012"
+        "model_name": "Daihatsu Terios",
+        "year": 2012,
+        "price_range": "81.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2012",
+        "variants": [
+            {
+                "trim_name": "2WD MX",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2WD LX",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD MX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2011 Daihatsu Sirion",
-        "price": "65.8 - 68.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2011"
+        "model_name": "Daihatsu Sirion",
+        "year": 2011,
+        "price_range": "65.8 - 68.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2011",
+        "variants": [
+            {
+                "trim_name": "1.5 Sport+",
+                "price": "65.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport影音版",
+                "price": "68.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2011 Daihatsu Terios",
-        "price": "81.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2011"
+        "model_name": "Daihatsu Terios",
+        "year": 2011,
+        "price_range": "81.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2011",
+        "variants": [
+            {
+                "trim_name": "2WD MX",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2WD LX",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD MX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2010 Daihatsu Sirion",
-        "price": "65.8 - 68.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2010"
+        "model_name": "Daihatsu Sirion",
+        "year": 2010,
+        "price_range": "65.8 - 68.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2010",
+        "variants": [
+            {
+                "trim_name": "1.5 Sport+",
+                "price": "65.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport影音版",
+                "price": "68.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2010 Daihatsu Terios",
-        "price": "81.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2010"
+        "model_name": "Daihatsu Terios",
+        "year": 2010,
+        "price_range": "81.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2010",
+        "variants": [
+            {
+                "trim_name": "2WD MX",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2WD LX",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD MX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2009 Daihatsu Sirion",
-        "price": "65.8 - 68.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2009"
+        "model_name": "Daihatsu Sirion",
+        "year": 2009,
+        "price_range": "65.8 - 68.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2009",
+        "variants": [
+            {
+                "trim_name": "1.5 Sport",
+                "price": "65.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport Plus",
+                "price": "68.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2009 Daihatsu Terios",
-        "price": "79.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2009"
+        "model_name": "Daihatsu Terios",
+        "year": 2009,
+        "price_range": "79.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2009",
+        "variants": [
+            {
+                "trim_name": "1.5 2WD SX",
+                "price": "79.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 2WD MX",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 2WD LX",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD MX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD LX",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2008 Daihatsu Coo",
-        "price": "71.8 - 71.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-coo-2008"
+        "model_name": "Daihatsu Coo",
+        "year": 2008,
+        "price_range": "71.8 - 71.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-coo-2008",
+        "variants": [
+            {
+                "trim_name": "1.5 MX",
+                "price": "71.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2008 Daihatsu Sirion",
-        "price": "53.8 - 61.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2008"
+        "model_name": "Daihatsu Sirion",
+        "year": 2008,
+        "price_range": "53.8 - 61.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-sirion-2008",
+        "variants": [
+            {
+                "trim_name": "1.3 Std",
+                "price": "53.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1298cc",
+                "horsepower": "87hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.3 High",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1298cc",
+                "horsepower": "87hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport",
+                "price": "61.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Daihatsu",
-        "model": "2008 Daihatsu Terios",
-        "price": "74.8 - 79.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2008"
+        "model_name": "Daihatsu Terios",
+        "year": 2008,
+        "price_range": "74.8 - 79.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/daihatsu-terios-2008",
+        "variants": [
+            {
+                "trim_name": "1.5 2WD",
+                "price": "74.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 4WD",
+                "price": "79.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1495cc",
+                "horsepower": "105hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

@@ -1,362 +1,1414 @@
 [
     {
         "brand": "Ssangyong",
-        "model": "2024 Ssangyong Rexton",
-        "price": "189.8 - 189.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2024"
+        "model_name": "Ssangyong Rexton",
+        "year": 2024,
+        "price_range": "189.8 - 189.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2024",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華旗艦型",
+                "price": "189.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2024 Ssangyong Rexton Sports",
-        "price": "119.8 - 148.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2024"
+        "model_name": "Ssangyong Rexton Sports",
+        "year": 2024,
+        "price_range": "119.8 - 148.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2024",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD越野版",
+                "price": "119.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2157cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2柴油4WD悍將版",
+                "price": "148.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2157cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2023 Ssangyong Korando",
-        "price": "104.8 - 148",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2023"
+        "model_name": "Ssangyong Korando",
+        "year": 2023,
+        "price_range": "104.8 - 148",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2023",
+        "variants": [
+            {
+                "trim_name": "1.5汽油菁英版",
+                "price": "104.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5汽油旗艦版",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油旗艦版",
+                "price": "129.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "e-Motion旗艦版",
+                "price": "148",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 347km",
+                "horsepower": "190hp/36.7kgm",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2023 Ssangyong Rexton",
-        "price": "178.8 - 178.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2023"
+        "model_name": "Ssangyong Rexton",
+        "year": 2023,
+        "price_range": "178.8 - 178.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2023",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "178.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2023 Ssangyong Rexton Sports",
-        "price": "139.8 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2023"
+        "model_name": "Ssangyong Rexton Sports",
+        "year": 2023,
+        "price_range": "139.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2023",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "139.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2157cc",
+                "horsepower": "181hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2022 Ssangyong Korando",
-        "price": "104.8 - 129.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2022"
+        "model_name": "Ssangyong Korando",
+        "year": 2022,
+        "price_range": "104.8 - 129.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2022",
+        "variants": [
+            {
+                "trim_name": "1.5汽油菁英版",
+                "price": "104.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5汽油旗艦版",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油旗艦版",
+                "price": "129.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2022 Ssangyong Rexton",
-        "price": "173.8 - 173.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2022"
+        "model_name": "Ssangyong Rexton",
+        "year": 2022,
+        "price_range": "173.8 - 173.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2022",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "173.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2022 Ssangyong Rexton Sports",
-        "price": "136.8 - 136.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2022"
+        "model_name": "Ssangyong Rexton Sports",
+        "year": 2022,
+        "price_range": "136.8 - 136.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2022",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "136.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2157cc",
+                "horsepower": "181hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2021 Ssangyong Rexton",
-        "price": "168.8 - 168.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2021"
+        "model_name": "Ssangyong Rexton",
+        "year": 2021,
+        "price_range": "168.8 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2021",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "168.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2021 Ssangyong Rexton Sports",
-        "price": "134.8 - 134.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rextonsports-2021"
+        "model_name": "Ssangyong Rexton Sports",
+        "year": 2021,
+        "price_range": "134.8 - 134.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rextonsports-2021",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "134.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2157cc",
+                "horsepower": "181hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2021 Ssangyong Tivoli",
-        "price": "79.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2021"
+        "model_name": "Ssangyong Tivoli",
+        "year": 2021,
+        "price_range": "79.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2021",
+        "variants": [
+            {
+                "trim_name": "1.5汽油經典型",
+                "price": "79.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油菁英型",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1..5汽油豪華型",
+                "price": "95.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油旗艦型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2020 Ssangyong Rexton",
-        "price": "186.8 - 186.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2020"
+        "model_name": "Ssangyong Rexton",
+        "year": 2020,
+        "price_range": "186.8 - 186.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2020",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "186.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "181hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2020 Ssangyong Rexton Sports",
-        "price": "136.8 - 136.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2020"
+        "model_name": "Ssangyong Rexton Sports",
+        "year": 2020,
+        "price_range": "136.8 - 136.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2020",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "136.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2157cc",
+                "horsepower": "181hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2020 Ssangyong Tivoli",
-        "price": "74.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2020"
+        "model_name": "Ssangyong Tivoli",
+        "year": 2020,
+        "price_range": "74.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2020",
+        "variants": [
+            {
+                "trim_name": "1.5汽油經典型",
+                "price": "74.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5汽油菁英型",
+                "price": "79.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油菁英型",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "136hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1..5汽油豪華型",
+                "price": "95.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "163hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油旗艦型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "136hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2020 Ssangyong XLV",
-        "price": "105.8 - 105.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-xlv-2020"
+        "model_name": "Ssangyong XLV",
+        "year": 2020,
+        "price_range": "105.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-xlv-2020",
+        "variants": [
+            {
+                "trim_name": "1.6柴油豪華型AWD",
+                "price": "105.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2019 Ssangyong Rexton",
-        "price": "186.8 - 186.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2019"
+        "model_name": "Ssangyong Rexton",
+        "year": 2019,
+        "price_range": "186.8 - 186.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2019",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "186.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "181hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2019 Ssangyong Rexton Sports",
-        "price": "136.8 - 136.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2019"
+        "model_name": "Ssangyong Rexton Sports",
+        "year": 2019,
+        "price_range": "136.8 - 136.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-sports-2019",
+        "variants": [
+            {
+                "trim_name": "2.2柴油4WD豪華型",
+                "price": "136.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2157cc",
+                "horsepower": "181hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2019 Ssangyong Tivoli",
-        "price": "74.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2019"
+        "model_name": "Ssangyong Tivoli",
+        "year": 2019,
+        "price_range": "74.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2019",
+        "variants": [
+            {
+                "trim_name": "1.6汽油經典版",
+                "price": "74.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油菁英版",
+                "price": "82.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6汽油豪華型",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油豪華型",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6柴油豪華型AWD",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2019 Ssangyong XLV",
-        "price": "105.8 - 105.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-xlv-2019"
+        "model_name": "Ssangyong XLV",
+        "year": 2019,
+        "price_range": "105.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-xlv-2019",
+        "variants": [
+            {
+                "trim_name": "1.6柴油豪華型AWD",
+                "price": "105.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2018 Ssangyong Actyon Sports",
-        "price": "132.8 - 132.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2018"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2018,
+        "price_range": "132.8 - 132.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2018",
+        "variants": [
+            {
+                "trim_name": "2.0d 4WD",
+                "price": "132.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2018 Ssangyong Stavic",
-        "price": "156.8 - 165.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2018"
+        "model_name": "Ssangyong Stavic",
+        "year": 2018,
+        "price_range": "156.8 - 165.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2018",
+        "variants": [
+            {
+                "trim_name": "2.2d RWD",
+                "price": "156.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "178hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2d 4WD",
+                "price": "165.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "178hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2018 Ssangyong Tivoli",
-        "price": "73.8 - 106.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2018"
+        "model_name": "Ssangyong Tivoli",
+        "year": 2018,
+        "price_range": "73.8 - 106.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2018",
+        "variants": [
+            {
+                "trim_name": "1.6汽油安全特仕版",
+                "price": "73.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油豪華型",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6柴油豪華型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6柴油豪華型AWD",
+                "price": "106.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2018 Ssangyong XLV",
-        "price": "118.8 - 118.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-xlv-2018"
+        "model_name": "Ssangyong XLV",
+        "year": 2018,
+        "price_range": "118.8 - 118.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-xlv-2018",
+        "variants": [
+            {
+                "trim_name": "1.6柴油豪華型AWD",
+                "price": "118.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2017 Ssangyong Actyon Sports",
-        "price": "132.8 - 132.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2017"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2017,
+        "price_range": "132.8 - 132.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2017",
+        "variants": [
+            {
+                "trim_name": "2.0d 4WD",
+                "price": "132.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2017 Ssangyong Stavic",
-        "price": "156.8 - 165.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2017"
+        "model_name": "Ssangyong Stavic",
+        "year": 2017,
+        "price_range": "156.8 - 165.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2017",
+        "variants": [
+            {
+                "trim_name": "2.2d RWD",
+                "price": "156.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "178hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2d 4WD",
+                "price": "165.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "178hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2017 Ssangyong Tivoli",
-        "price": "76.8 - 105.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2017"
+        "model_name": "Ssangyong Tivoli",
+        "year": 2017,
+        "price_range": "76.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2017",
+        "variants": [
+            {
+                "trim_name": "1.6 G經典型",
+                "price": "76.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GL菁英型",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 D經典型",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3000~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6 GLX豪華型",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 DL菁英型",
+                "price": "93.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3000~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6 GLX雙彩特仕版",
+                "price": "95.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 DLX豪華型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3000~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6 DLX雙彩特仕版",
+                "price": "105.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3000~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2016 Ssangyong Stavic",
-        "price": "152.8 - 152.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2016"
+        "model_name": "Ssangyong Stavic",
+        "year": 2016,
+        "price_range": "152.8 - 152.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2016",
+        "variants": [
+            {
+                "trim_name": "2.2d",
+                "price": "152.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2157cc",
+                "horsepower": "178hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2016 Ssangyong Tivoli",
-        "price": "76.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2016"
+        "model_name": "Ssangyong Tivoli",
+        "year": 2016,
+        "price_range": "76.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-tivoli-2016",
+        "variants": [
+            {
+                "trim_name": "1.6 G經典型",
+                "price": "76.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GL菁英型",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 D經典型",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3000~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6 GLX豪華型",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 DL菁英型",
+                "price": "93.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3000~4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.6 DLX豪華型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1597cc",
+                "horsepower": "115hp@3000~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2015 Ssangyong Actyon Sports",
-        "price": "138 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2015"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2015,
+        "price_range": "138 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2015",
+        "variants": [
+            {
+                "trim_name": "A200S 4WD",
+                "price": "138",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2015 Ssangyong Rexton W",
-        "price": "157 - 157",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-w-2015"
+        "model_name": "Ssangyong Rexton W",
+        "year": 2015,
+        "price_range": "157 - 157",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-w-2015",
+        "variants": [
+            {
+                "trim_name": "RX200 e-XDi",
+                "price": "157",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2015 Ssangyong Stavic",
-        "price": "149 - 149",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2015"
+        "model_name": "Ssangyong Stavic",
+        "year": 2015,
+        "price_range": "149 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2015",
+        "variants": [
+            {
+                "trim_name": "SV200 2WD",
+                "price": "149",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2014 Ssangyong Actyon Sports",
-        "price": "138 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2014"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2014,
+        "price_range": "138 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2014",
+        "variants": [
+            {
+                "trim_name": "A200S 4WD",
+                "price": "138",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2014 Ssangyong Rexton W",
-        "price": "157 - 157",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-w-2014"
+        "model_name": "Ssangyong Rexton W",
+        "year": 2014,
+        "price_range": "157 - 157",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-w-2014",
+        "variants": [
+            {
+                "trim_name": "RX200 e-XDi",
+                "price": "157",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2014 Ssangyong Stavic",
-        "price": "149 - 149",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2014"
+        "model_name": "Ssangyong Stavic",
+        "year": 2014,
+        "price_range": "149 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2014",
+        "variants": [
+            {
+                "trim_name": "SV200 2WD",
+                "price": "149",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@3400~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2013 Ssangyong Actyon Sports",
-        "price": "138 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2013"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2013,
+        "price_range": "138 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2013",
+        "variants": [
+            {
+                "trim_name": "A200S 4WD",
+                "price": "138",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2013 Ssangyong Korando",
-        "price": "114.8 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2013"
+        "model_name": "Ssangyong Korando",
+        "year": 2013,
+        "price_range": "114.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2013",
+        "variants": [
+            {
+                "trim_name": "e-XDi 200 2WD豪華版",
+                "price": "114.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "e-XDi 200 AWD旗艦版",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2013 Ssangyong Kyron",
-        "price": "139.8 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2013"
+        "model_name": "Ssangyong Kyron",
+        "year": 2013,
+        "price_range": "139.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2013",
+        "variants": [
+            {
+                "trim_name": "M200 Xdi",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2013 Ssangyong Rexton W",
-        "price": "157 - 157",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-w-2013"
+        "model_name": "Ssangyong Rexton W",
+        "year": 2013,
+        "price_range": "157 - 157",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-w-2013",
+        "variants": [
+            {
+                "trim_name": "RX200 e-XDi",
+                "price": "157",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2013 Ssangyong Stavic",
-        "price": "169.8 - 169.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2013"
+        "model_name": "Ssangyong Stavic",
+        "year": 2013,
+        "price_range": "169.8 - 169.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2013",
+        "variants": [
+            {
+                "trim_name": "SV270 2WD",
+                "price": "169.8",
+                "body_type": "5門 79人座",
+                "engine_cc": "2696cc",
+                "horsepower": "165hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2012 Ssangyong Actyon Sports",
-        "price": "128 - 128",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2012"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2012,
+        "price_range": "128 - 128",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2012",
+        "variants": [
+            {
+                "trim_name": "A200S 4WD",
+                "price": "128",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2012 Ssangyong Korando",
-        "price": "114.8 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2012"
+        "model_name": "Ssangyong Korando",
+        "year": 2012,
+        "price_range": "114.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-korando-2012",
+        "variants": [
+            {
+                "trim_name": "e-XDi 200 2WD豪華版",
+                "price": "114.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "e-XDi 200 AWD旗艦版",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2012 Ssangyong Kyron",
-        "price": "139.8 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2012"
+        "model_name": "Ssangyong Kyron",
+        "year": 2012,
+        "price_range": "139.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2012",
+        "variants": [
+            {
+                "trim_name": "M200 Xdi",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2012 Ssangyong Rexton Ⅱ",
-        "price": "188 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2012"
+        "model_name": "Ssangyong Rexton Ⅱ",
+        "year": 2012,
+        "price_range": "188 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2012",
+        "variants": [
+            {
+                "trim_name": "RX270 XVT",
+                "price": "188",
+                "body_type": "5門 7人座",
+                "engine_cc": "2696cc",
+                "horsepower": "186hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2012 Ssangyong Stavic",
-        "price": "169.8 - 169.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2012"
+        "model_name": "Ssangyong Stavic",
+        "year": 2012,
+        "price_range": "169.8 - 169.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2012",
+        "variants": [
+            {
+                "trim_name": "SV270 2WD",
+                "price": "169.8",
+                "body_type": "5門 79人座",
+                "engine_cc": "2696cc",
+                "horsepower": "165hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2011 Ssangyong Actyon Sports",
-        "price": "128 - 128",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2011"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2011,
+        "price_range": "128 - 128",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2011",
+        "variants": [
+            {
+                "trim_name": "A200S 4WD",
+                "price": "128",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2011 Ssangyong Kyron",
-        "price": "142.8 - 146.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2011"
+        "model_name": "Ssangyong Kyron",
+        "year": 2011,
+        "price_range": "142.8 - 146.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2011",
+        "variants": [
+            {
+                "trim_name": "M200 XDi LV豪華勁裝版",
+                "price": "142.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "M200 XDi榮耀限量版",
+                "price": "146.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2011 Ssangyong Rexton Ⅱ",
-        "price": "215 - 215",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2011"
+        "model_name": "Ssangyong Rexton Ⅱ",
+        "year": 2011,
+        "price_range": "215 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2011",
+        "variants": [
+            {
+                "trim_name": "RX270 XVT",
+                "price": "215",
+                "body_type": "5門 7人座",
+                "engine_cc": "2696cc",
+                "horsepower": "186hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2011 Ssangyong Stavic",
-        "price": "169.8 - 169.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2011"
+        "model_name": "Ssangyong Stavic",
+        "year": 2011,
+        "price_range": "169.8 - 169.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2011",
+        "variants": [
+            {
+                "trim_name": "SV270 2WD",
+                "price": "169.8",
+                "body_type": "5門 79人座",
+                "engine_cc": "2696cc",
+                "horsepower": "165hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2010 Ssangyong Actyon Sports",
-        "price": "118 - 128",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2010"
+        "model_name": "Ssangyong Actyon Sports",
+        "year": 2010,
+        "price_range": "118 - 128",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-sports-2010",
+        "variants": [
+            {
+                "trim_name": "A200S 2WD",
+                "price": "118",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "A200S 4WD",
+                "price": "128",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2010 Ssangyong Kyron",
-        "price": "142.8 - 142.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2010"
+        "model_name": "Ssangyong Kyron",
+        "year": 2010,
+        "price_range": "142.8 - 142.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2010",
+        "variants": [
+            {
+                "trim_name": "M200 XDi",
+                "price": "142.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2010 Ssangyong Rexton II",
-        "price": "215 - 215",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-ii-2010"
+        "model_name": "Ssangyong Rexton II",
+        "year": 2010,
+        "price_range": "215 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-ii-2010",
+        "variants": [
+            {
+                "trim_name": "RX270 XVT",
+                "price": "215",
+                "body_type": "5門 7人座",
+                "engine_cc": "2696cc",
+                "horsepower": "186hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2010 Ssangyong Stavic",
-        "price": "169.8 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2010"
+        "model_name": "Ssangyong Stavic",
+        "year": 2010,
+        "price_range": "169.8 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2010",
+        "variants": [
+            {
+                "trim_name": "SV270 2WD",
+                "price": "169.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2696cc",
+                "horsepower": "165hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SV270 AWD",
+                "price": "188",
+                "body_type": "5門 7人座",
+                "engine_cc": "2696cc",
+                "horsepower": "165hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2009 Ssangyong Actyon",
-        "price": "118 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-2009"
+        "model_name": "Ssangyong Actyon",
+        "year": 2009,
+        "price_range": "118 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-2009",
+        "variants": [
+            {
+                "trim_name": "Sports A200S 2WD",
+                "price": "118",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "A200 XDi 2WD",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "145hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Sports A200S 4WD",
+                "price": "128",
+                "body_type": "4門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "A200 XDi 4WD",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "145hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2009 Ssangyong Kyron",
-        "price": "139.8 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2009"
+        "model_name": "Ssangyong Kyron",
+        "year": 2009,
+        "price_range": "139.8 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2009",
+        "variants": [
+            {
+                "trim_name": "M200 XDi",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "145hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "M270 XDi",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "2696cc",
+                "horsepower": "176hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2009 Ssangyong Rexton II",
-        "price": "215 - 215",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-ii-2009"
+        "model_name": "Ssangyong Rexton II",
+        "year": 2009,
+        "price_range": "215 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-ii-2009",
+        "variants": [
+            {
+                "trim_name": "RX270 XVT",
+                "price": "215",
+                "body_type": "5門 7人座",
+                "engine_cc": "2696cc",
+                "horsepower": "191hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2009 Ssangyong Stavic",
-        "price": "169.8 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2009"
+        "model_name": "Ssangyong Stavic",
+        "year": 2009,
+        "price_range": "169.8 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2009",
+        "variants": [
+            {
+                "trim_name": "SV270 2WD",
+                "price": "169.8",
+                "body_type": "5門 79人座",
+                "engine_cc": "2696cc",
+                "horsepower": "165ps/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SV270 AWD",
+                "price": "188",
+                "body_type": "5門 79人座",
+                "engine_cc": "2696cc",
+                "horsepower": "165ps/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2008 Ssangyong Actyon",
-        "price": "115 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-2008"
+        "model_name": "Ssangyong Actyon",
+        "year": 2008,
+        "price_range": "115 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-actyon-2008",
+        "variants": [
+            {
+                "trim_name": "Sports A200S 2WD",
+                "price": "115",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "A200 XDi 2WD",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "145hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Sports A200S 4WD",
+                "price": "125",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "141hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "A200 XDi 4WD",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "145hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2008 Ssangyong Kyron",
-        "price": "139.8 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2008"
+        "model_name": "Ssangyong Kyron",
+        "year": 2008,
+        "price_range": "139.8 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-kyron-2008",
+        "variants": [
+            {
+                "trim_name": "M200 XDi",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "145hp/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "M270 XDi",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "2696cc",
+                "horsepower": "176hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2008 Ssangyong Rexton",
-        "price": "215 - 215",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2008"
+        "model_name": "Ssangyong Rexton",
+        "year": 2008,
+        "price_range": "215 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-rexton-2008",
+        "variants": [
+            {
+                "trim_name": "RX270 XVT",
+                "price": "215",
+                "body_type": "5門 7人座",
+                "engine_cc": "2696cc",
+                "horsepower": "191hp/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Ssangyong",
-        "model": "2008 Ssangyong Stavic",
-        "price": "169.8 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2008"
+        "model_name": "Ssangyong Stavic",
+        "year": 2008,
+        "price_range": "169.8 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ssangyong-stavic-2008",
+        "variants": [
+            {
+                "trim_name": "SV270 2WD",
+                "price": "169.8",
+                "body_type": "5門 79人座",
+                "engine_cc": "2696cc",
+                "horsepower": "170ps/4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SV270 AWD",
+                "price": "188",
+                "body_type": "5門 79人座",
+                "engine_cc": "2696cc",
+                "horsepower": "170ps/4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     }
 ]

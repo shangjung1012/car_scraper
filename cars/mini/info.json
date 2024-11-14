@@ -1,482 +1,2634 @@
 [
     {
         "brand": "Mini",
-        "model": "2025 Mini Hatch 5D",
-        "price": "158 - 186",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2025"
-    },
-    {
-        "brand": "Mini",
-        "model": "2024 Mini Countryman",
-        "price": "177 - 246",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2024"
-    },
-    {
-        "brand": "Mini",
-        "model": "2024 Mini Hatch",
-        "price": "153 - 181",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2024"
-    },
-    {
-        "brand": "Mini",
-        "model": "2023 Mini Cabrio",
-        "price": "189 - 189",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2023"
-    },
-    {
-        "brand": "Mini",
-        "model": "2023 Mini Clubman",
-        "price": "168 - 230",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2023"
-    },
-    {
-        "brand": "Mini",
-        "model": "2023 Mini Countryman",
-        "price": "139 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2023"
-    },
-    {
-        "brand": "Mini",
-        "model": "2023 Mini Hatch",
-        "price": "132 - 205",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2023"
-    },
-    {
-        "brand": "Mini",
-        "model": "2023 Mini Hatch 5D",
-        "price": "135 - 179",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2023"
-    },
-    {
-        "brand": "Mini",
-        "model": "2022 Mini Cabrio",
-        "price": "186 - 186",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2022"
-    },
-    {
-        "brand": "Mini",
-        "model": "2022 Mini Clubman",
-        "price": "165 - 226",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2022"
-    },
-    {
-        "brand": "Mini",
-        "model": "2022 Mini Countryman",
-        "price": "138 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2022"
-    },
-    {
-        "brand": "Mini",
-        "model": "2022 Mini Hatch",
-        "price": "121 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2022"
-    },
-    {
-        "brand": "Mini",
-        "model": "2022 Mini Hatch 5D",
-        "price": "125 - 173",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2022"
-    },
-    {
-        "brand": "Mini",
-        "model": "2021 Mini Cabrio",
-        "price": "183 - 183",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-mini-cabrio-2021"
-    },
-    {
-        "brand": "Mini",
-        "model": "2021 Mini Clubman",
-        "price": "163 - 222",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2021"
-    },
-    {
-        "brand": "Mini",
-        "model": "2021 Mini Countryman",
-        "price": "135 - 232",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2021"
-    },
-    {
-        "brand": "Mini",
-        "model": "2021 Mini Hatch",
-        "price": "115 - 193",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2021"
-    },
-    {
-        "brand": "Mini",
-        "model": "2021 Mini Hatch 5D",
-        "price": "119 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2021"
-    },
-    {
-        "brand": "Mini",
-        "model": "2020 Mini Cabrio",
-        "price": "183 - 183",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2020"
-    },
-    {
-        "brand": "Mini",
-        "model": "2020 Mini Clubman",
-        "price": "163 - 222",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2020"
-    },
-    {
-        "brand": "Mini",
-        "model": "2020 Mini Countryman",
-        "price": "137 - 227",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2020"
-    },
-    {
-        "brand": "Mini",
-        "model": "2020 Mini Hatch",
-        "price": "115 - 193",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2020"
-    },
-    {
-        "brand": "Mini",
-        "model": "2020 Mini Hatch 5D",
-        "price": "119 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2020"
-    },
-    {
-        "brand": "Mini",
-        "model": "2019 Mini Cabrio",
-        "price": "165 - 179",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2019"
-    },
-    {
-        "brand": "Mini",
-        "model": "2019 Mini Clubman",
-        "price": "163 - 212",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2019"
-    },
-    {
-        "brand": "Mini",
-        "model": "2019 Mini Countryman",
-        "price": "133 - 216",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2019"
-    },
-    {
-        "brand": "Mini",
-        "model": "2019 Mini Hatch",
-        "price": "113 - 193",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2019"
-    },
-    {
-        "brand": "Mini",
-        "model": "2019 Mini Hatch 5D",
-        "price": "118 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2019"
-    },
-    {
-        "brand": "Mini",
-        "model": "2018 Mini Cabrio",
-        "price": "165 - 179",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2018"
-    },
-    {
-        "brand": "Mini",
-        "model": "2018 Mini Clubman",
-        "price": "163 - 212",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2018"
-    },
-    {
-        "brand": "Mini",
-        "model": "2018 Mini Countryman",
-        "price": "161 - 216",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2018"
-    },
-    {
-        "brand": "Mini",
-        "model": "2018 Mini Hatch",
-        "price": "113 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2018"
-    },
-    {
-        "brand": "Mini",
-        "model": "2018 Mini Hatch 5D",
-        "price": "118 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2018"
-    },
-    {
-        "brand": "Mini",
-        "model": "2018 Mini Hatch 5D(NEW)",
-        "price": "118 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d%28new%29-2018"
-    },
-    {
-        "brand": "Mini",
-        "model": "2018 Mini Hatch(NEW)",
-        "price": "113 - 193",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch%28new%29-2018"
-    },
-    {
-        "brand": "Mini",
-        "model": "2017 Mini Cabrio",
-        "price": "160 - 178",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2017"
-    },
-    {
-        "brand": "Mini",
-        "model": "2017 Mini Clubman",
-        "price": "163 - 215",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2017"
-    },
-    {
-        "brand": "Mini",
-        "model": "2017 Mini Countryman",
-        "price": "161 - 216",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2017"
-    },
-    {
-        "brand": "Mini",
-        "model": "2017 Mini Hatch",
-        "price": "113 - 165",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2017"
-    },
-    {
-        "brand": "Mini",
-        "model": "2017 Mini Hatch 5D",
-        "price": "118 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2017"
-    },
-    {
-        "brand": "Mini",
-        "model": "2016 Mini Cabrio",
-        "price": "160 - 178",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2016"
-    },
-    {
-        "brand": "Mini",
-        "model": "2016 Mini Clubman",
-        "price": "163 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2016"
-    },
-    {
-        "brand": "Mini",
-        "model": "2016 Mini Countryman",
-        "price": "128 - 202",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2016"
-    },
-    {
-        "brand": "Mini",
-        "model": "2016 Mini Hatch",
-        "price": "113 - 192",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2016"
-    },
-    {
-        "brand": "Mini",
-        "model": "2016 Mini Hatch 5D",
-        "price": "118 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2016"
-    },
-    {
-        "brand": "Mini",
-        "model": "2015 Mini Countryman",
-        "price": "128 - 202",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2015"
-    },
-    {
-        "brand": "Mini",
-        "model": "2015 Mini Hatch",
-        "price": "113 - 192",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2015"
-    },
-    {
-        "brand": "Mini",
-        "model": "2015 Mini Hatch 5D",
-        "price": "118 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2015"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Cabrio",
-        "price": "161 - 183",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Clubman",
-        "price": "145 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Countryman",
-        "price": "128 - 217",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Coupe",
-        "price": "140 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-coupe-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Hatch",
-        "price": "107 - 186",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Hatch(NEW)",
-        "price": "113 - 165",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-new-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Paceman",
-        "price": "165 - 223",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-paceman-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2014 Mini Roadster",
-        "price": "183 - 183",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-roadster-2014"
-    },
-    {
-        "brand": "Mini",
-        "model": "2013 Mini Cabrio",
-        "price": "156 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2013"
-    },
-    {
-        "brand": "Mini",
-        "model": "2013 Mini Clubman",
-        "price": "145 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2013"
-    },
-    {
-        "brand": "Mini",
-        "model": "2013 Mini Countryman",
-        "price": "128 - 189",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2013"
-    },
-    {
-        "brand": "Mini",
-        "model": "2013 Mini Coupe",
-        "price": "139 - 161",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-coupe-2013"
-    },
-    {
-        "brand": "Mini",
-        "model": "2013 Mini Hatch",
-        "price": "107 - 160",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2013"
-    },
-    {
-        "brand": "Mini",
-        "model": "2013 Mini Paceman",
-        "price": "165 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-paceman-2013"
-    },
-    {
-        "brand": "Mini",
-        "model": "2013 Mini Roadster",
-        "price": "181 - 181",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-roadster-2013"
-    },
-    {
-        "brand": "Mini",
-        "model": "2012 Mini Cabrio",
-        "price": "156 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2012"
-    },
-    {
-        "brand": "Mini",
-        "model": "2012 Mini Clubman",
-        "price": "145 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2012"
-    },
-    {
-        "brand": "Mini",
-        "model": "2012 Mini Countryman",
-        "price": "128 - 189",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2012"
-    },
-    {
-        "brand": "Mini",
-        "model": "2012 Mini Coupe",
-        "price": "138 - 161",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-coupe-2012"
-    },
-    {
-        "brand": "Mini",
-        "model": "2012 Mini Hatch",
-        "price": "107 - 159",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2012"
-    },
-    {
-        "brand": "Mini",
-        "model": "2011 Mini Cabrio",
-        "price": "156 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2011"
-    },
-    {
-        "brand": "Mini",
-        "model": "2011 Mini Clubman",
-        "price": "145 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2011"
-    },
-    {
-        "brand": "Mini",
-        "model": "2011 Mini Countryman",
-        "price": "140 - 189",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2011"
-    },
-    {
-        "brand": "Mini",
-        "model": "2011 Mini Hatch",
-        "price": "107 - 159",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2011"
-    },
-    {
-        "brand": "Mini",
-        "model": "2010 Mini Cooper",
-        "price": "135 - 160",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-2010"
-    },
-    {
-        "brand": "Mini",
-        "model": "2010 Mini Cooper Cabrio",
-        "price": "155 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-cabrio-2010"
-    },
-    {
-        "brand": "Mini",
-        "model": "2010 Mini Cooper Clubman",
-        "price": "143 - 169",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-clubman-2010"
-    },
-    {
-        "brand": "Mini",
-        "model": "2009 Mini Cooper",
-        "price": "131 - 156",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-2009"
-    },
-    {
-        "brand": "Mini",
-        "model": "2009 Mini Cooper Cabrio",
-        "price": "152 - 177",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-cabrio-2009"
-    },
-    {
-        "brand": "Mini",
-        "model": "2009 Mini Cooper Clubman",
-        "price": "142 - 168",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-clubman-2009"
-    },
-    {
-        "brand": "Mini",
-        "model": "2008 Mini Cooper",
-        "price": "131 - 156",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-2008"
-    },
-    {
-        "brand": "Mini",
-        "model": "2008 Mini Cooper Clubman",
-        "price": "139 - 165",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-clubman-2008"
+        "model_name": "Mini Hatch 5D",
+        "year": 2025,
+        "price_range": "158 - 186",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2025",
+        "variants": [
+            {
+                "trim_name": "Cooper C",
+                "price": "158",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "156hp@4900rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "186",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "204hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2024,
+        "price_range": "177 - 246",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2024",
+        "variants": [
+            {
+                "trim_name": "C",
+                "price": "177",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "170hp@4700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "S ALL4",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "218hp@5000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "SE ALL4",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 433km",
+                "horsepower": "313hp/50.4kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "246",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "300hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2024,
+        "price_range": "153 - 181",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2024",
+        "variants": [
+            {
+                "trim_name": "Cooper C",
+                "price": "153",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "156hp@4900rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "181",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "204hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2023,
+        "price_range": "189 - 189",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2023",
+        "variants": [
+            {
+                "trim_name": "Cooper S",
+                "price": "189",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2023,
+        "price_range": "168 - 230",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2023",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "168",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S ALL4",
+                "price": "195",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "230",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2023,
+        "price_range": "139 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2023",
+        "variants": [
+            {
+                "trim_name": "Cooper Soda",
+                "price": "139",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "186",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2023,
+        "price_range": "132 - 205",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2023",
+        "variants": [
+            {
+                "trim_name": "Cooper Soda",
+                "price": "132",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "147",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Electric Cooper S E",
+                "price": "155",
+                "body_type": "3門 4人座",
+                "engine_cc": "滿電續航 234km",
+                "horsepower": "184hp/27.5kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "175",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "205",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2023,
+        "price_range": "135 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2023",
+        "variants": [
+            {
+                "trim_name": "Cooper Soda",
+                "price": "135",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "151",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "179",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2022,
+        "price_range": "186 - 186",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2022",
+        "variants": [
+            {
+                "trim_name": "Cooper S",
+                "price": "186",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2022,
+        "price_range": "165 - 226",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2022",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "165",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S ALL4",
+                "price": "191",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "226",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2022,
+        "price_range": "138 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2022",
+        "variants": [
+            {
+                "trim_name": "Cooper Soda",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2022,
+        "price_range": "121 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2022",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "121",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Electric Cooper SE",
+                "price": "155",
+                "body_type": "3門 4人座",
+                "engine_cc": "滿電續航 234km",
+                "horsepower": "184hp/27.5kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "199",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2022,
+        "price_range": "125 - 173",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2022",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "125",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "149",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "173",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2021,
+        "price_range": "183 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-mini-cabrio-2021",
+        "variants": [
+            {
+                "trim_name": "Cooper S",
+                "price": "183",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2021,
+        "price_range": "163 - 222",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2021",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "163",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "222",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2021,
+        "price_range": "135 - 232",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2021",
+        "variants": [
+            {
+                "trim_name": "Cooper Soda",
+                "price": "135",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "178hp@5000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2021,
+        "price_range": "115 - 193",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2021",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "115",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "193",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2021,
+        "price_range": "119 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2021",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "119",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2020,
+        "price_range": "183 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2020",
+        "variants": [
+            {
+                "trim_name": "Cooper S",
+                "price": "183",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2020,
+        "price_range": "163 - 222",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2020",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "163",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "222",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2020,
+        "price_range": "137 - 227",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2020",
+        "variants": [
+            {
+                "trim_name": "Cooper Soda",
+                "price": "137",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper Deluxe豪華野營版",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S Deluxe豪華野營版",
+                "price": "193",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "227",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "306hp@5000~6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2020,
+        "price_range": "115 - 193",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2020",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "115",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "193",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2020,
+        "price_range": "119 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2020",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "119",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2019,
+        "price_range": "165 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2019",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "165",
+                "body_type": "2門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "179",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2019,
+        "price_range": "163 - 212",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2019",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "163",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "212",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2019,
+        "price_range": "133 - 216",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2019",
+        "variants": [
+            {
+                "trim_name": "Cooper Soda",
+                "price": "133",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "216",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2019,
+        "price_range": "113 - 193",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2019",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "113",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "193",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2019,
+        "price_range": "118 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2019",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2018,
+        "price_range": "165 - 179",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2018",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "165",
+                "body_type": "2門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "179",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2018,
+        "price_range": "163 - 212",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2018",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "163",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "212",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2018,
+        "price_range": "161 - 216",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2018",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "216",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S E ALL4",
+                "price": "216",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "224hp/39.3kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2018,
+        "price_range": "113 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2018",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "113",
+                "body_type": "3門 4人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "199",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2018,
+        "price_range": "118 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2018",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D(NEW)",
+        "year": 2018,
+        "price_range": "118 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d%28new%29-2018",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch(NEW)",
+        "year": 2018,
+        "price_range": "113 - 193",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch%28new%29-2018",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "113",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "102hp@3900~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "193",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2017,
+        "price_range": "160 - 178",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2017",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "160",
+                "body_type": "2門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "178",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2017,
+        "price_range": "163 - 215",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2017",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "163",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "215",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2017,
+        "price_range": "161 - 216",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2017",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "161",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works ALL4",
+                "price": "216",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2017,
+        "price_range": "113 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2017",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "113",
+                "body_type": "3門 4人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2017,
+        "price_range": "118 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2017",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2016,
+        "price_range": "160 - 178",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2016",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "160",
+                "body_type": "2門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "178",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2016,
+        "price_range": "163 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2016",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "163",
+                "body_type": "6門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "185",
+                "body_type": "6門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2016,
+        "price_range": "128 - 202",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2016",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "149",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "172",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper SD",
+                "price": "172",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "143hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "202",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2016,
+        "price_range": "113 - 192",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2016",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "113",
+                "body_type": "3門 4人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S手排版",
+                "price": "158",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S自排版",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works手排版",
+                "price": "185",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works自排版",
+                "price": "192",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2016,
+        "price_range": "118 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2016",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2015,
+        "price_range": "128 - 202",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2015",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "149",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "172",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper SD",
+                "price": "172",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "143hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "202",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2015,
+        "price_range": "113 - 192",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2015",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "113",
+                "body_type": "3門 4人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S手排版",
+                "price": "158",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S自排版",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works手排版",
+                "price": "185",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works自排版",
+                "price": "192",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "231hp@5200~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch 5D",
+        "year": 2015,
+        "price_range": "118 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-5d-2015",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2014,
+        "price_range": "161 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2014",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "161",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "183",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2014,
+        "price_range": "145 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2014",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2014,
+        "price_range": "128 - 217",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2014",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "159",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "182",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper SD",
+                "price": "182",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "143hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "217",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Coupe",
+        "year": 2014,
+        "price_range": "140 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-coupe-2014",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "140",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "188",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "211hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2014,
+        "price_range": "107 - 186",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2014",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "107",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "136",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "160",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "186",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "211hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch(NEW)",
+        "year": 2014,
+        "price_range": "113 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-new-2014",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "113",
+                "body_type": "3門 4人座",
+                "engine_cc": "1198cc",
+                "horsepower": "102hp@4250~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "141",
+                "body_type": "3門 4人座",
+                "engine_cc": "1499cc",
+                "horsepower": "136hp@4500~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S手排版",
+                "price": "158",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S自排版",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "192hp@4700~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Paceman",
+        "year": 2014,
+        "price_range": "165 - 223",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-paceman-2014",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "188",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "John Cooper Works",
+                "price": "223",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Roadster",
+        "year": 2014,
+        "price_range": "183 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-roadster-2014",
+        "variants": [
+            {
+                "trim_name": "Cooper S",
+                "price": "183",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2013,
+        "price_range": "156 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2013",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "156",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "180",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2013,
+        "price_range": "145 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2013",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2013,
+        "price_range": "128 - 189",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2013",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "159",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper SD",
+                "price": "182",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "143hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "182",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S ALL4",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Coupe",
+        "year": 2013,
+        "price_range": "139 - 161",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-coupe-2013",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "139",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "161",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2013,
+        "price_range": "107 - 160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2013",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "107",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "136",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "160",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Paceman",
+        "year": 2013,
+        "price_range": "165 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-paceman-2013",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "165",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "188",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Roadster",
+        "year": 2013,
+        "price_range": "181 - 181",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-roadster-2013",
+        "variants": [
+            {
+                "trim_name": "Cooper S",
+                "price": "181",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2012,
+        "price_range": "156 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2012",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "156",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "180",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2012,
+        "price_range": "145 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2012",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2012,
+        "price_range": "128 - 189",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2012",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper",
+                "price": "158",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper SD",
+                "price": "168",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "143hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "181",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S ALL4",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Coupe",
+        "year": 2012,
+        "price_range": "138 - 161",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-coupe-2012",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "138",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "161",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2012,
+        "price_range": "107 - 159",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2012",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "107",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper Pepper",
+                "price": "119",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper Chili",
+                "price": "135",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "159",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cabrio",
+        "year": 2011,
+        "price_range": "156 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cabrio-2011",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "156",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "180",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Clubman",
+        "year": 2011,
+        "price_range": "145 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-clubman-2011",
+        "variants": [
+            {
+                "trim_name": "Cooper",
+                "price": "145",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "169",
+                "body_type": "5門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Countryman",
+        "year": 2011,
+        "price_range": "140 - 189",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-countryman-2011",
+        "variants": [
+            {
+                "trim_name": "Cooper Pepper",
+                "price": "140",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper Chili",
+                "price": "158",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S Pepper",
+                "price": "167",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S Chili",
+                "price": "181",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S ALL4",
+                "price": "189",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Hatch",
+        "year": 2011,
+        "price_range": "107 - 159",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-hatch-2011",
+        "variants": [
+            {
+                "trim_name": "One",
+                "price": "107",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "98hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper Pepper",
+                "price": "119",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper Chili",
+                "price": "135",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cooper S",
+                "price": "159",
+                "body_type": "3門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "184hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper",
+        "year": 2010,
+        "price_range": "135 - 160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-2010",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "135",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "160",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper Cabrio",
+        "year": 2010,
+        "price_range": "155 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-cabrio-2010",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "155",
+                "body_type": "2門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "180",
+                "body_type": "2門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper Clubman",
+        "year": 2010,
+        "price_range": "143 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-clubman-2010",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "143",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "169",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper",
+        "year": 2009,
+        "price_range": "131 - 156",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-2009",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "131",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "156",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper Cabrio",
+        "year": 2009,
+        "price_range": "152 - 177",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-cabrio-2009",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "152",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "177",
+                "body_type": "2門 4人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper Clubman",
+        "year": 2009,
+        "price_range": "142 - 168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-clubman-2009",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "142",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "168",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper",
+        "year": 2008,
+        "price_range": "131 - 156",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-2008",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "131",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "156",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mini",
+        "model_name": "Mini Cooper Clubman",
+        "year": 2008,
+        "price_range": "139 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mini-cooper-clubman-2008",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "139",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "165",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "175hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

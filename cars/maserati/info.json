@@ -1,374 +1,2208 @@
 [
     {
         "brand": "Maserati",
-        "model": "2025 Maserati GranTurismo",
-        "price": "788 - 958",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2025"
+        "model_name": "Maserati GranTurismo",
+        "year": 2025,
+        "price_range": "788 - 958",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2025",
+        "variants": [
+            {
+                "trim_name": "Modena",
+                "price": "788",
+                "body_type": "2門 4人座",
+                "engine_cc": "2992cc",
+                "horsepower": "490hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Folgore",
+                "price": "899",
+                "body_type": "2門 4人座",
+                "engine_cc": "滿電續航 450km",
+                "horsepower": "760hp/137.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "958",
+                "body_type": "2門 4人座",
+                "engine_cc": "2992cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2025 Maserati Grecale",
-        "price": "358 - 588",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grecale-2025"
+        "model_name": "Maserati Grecale",
+        "year": 2025,
+        "price_range": "358 - 588",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grecale-2025",
+        "variants": [
+            {
+                "trim_name": "GT",
+                "price": "358",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "300hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Modena",
+                "price": "408",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Folgore",
+                "price": "499",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 501km",
+                "horsepower": "550hp/83.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "588",
+                "body_type": "5門 5人座",
+                "engine_cc": "3000cc",
+                "horsepower": "530hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2024 Maserati GranCabrio",
-        "price": "1028 - 1028",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2024"
+        "model_name": "Maserati GranCabrio",
+        "year": 2024,
+        "price_range": "1028 - 1028",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2024",
+        "variants": [
+            {
+                "trim_name": "Trofeo",
+                "price": "1028",
+                "body_type": "2門 4人座",
+                "engine_cc": "2992cc",
+                "horsepower": "542hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2024 Maserati GranTurismo",
-        "price": "888 - 1388",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2024"
+        "model_name": "Maserati GranTurismo",
+        "year": 2024,
+        "price_range": "888 - 1388",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2024",
+        "variants": [
+            {
+                "trim_name": "Modena",
+                "price": "888",
+                "body_type": "2門 4人座",
+                "engine_cc": "2992cc",
+                "horsepower": "490hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "1058",
+                "body_type": "2門 4人座",
+                "engine_cc": "2992cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo Primaserie 75週年紀念版",
+                "price": "1388",
+                "body_type": "2門 4人座",
+                "engine_cc": "2992cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2024 Maserati Grecale",
-        "price": "358 - 618",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grecale-2024"
+        "model_name": "Maserati Grecale",
+        "year": 2024,
+        "price_range": "358 - 618",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grecale-2024",
+        "variants": [
+            {
+                "trim_name": "GT",
+                "price": "358",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "300hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Modena",
+                "price": "408",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "618",
+                "body_type": "5門 5人座",
+                "engine_cc": "3000cc",
+                "horsepower": "530hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2024 Maserati Levante",
-        "price": "458 - 798",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2024"
+        "model_name": "Maserati Levante",
+        "year": 2024,
+        "price_range": "458 - 798",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2024",
+        "variants": [
+            {
+                "trim_name": "GT Performance",
+                "price": "458",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Modena S F Tributo",
+                "price": "798",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2024 Maserati MC20",
-        "price": "1338 - 1338",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-mc20-2024"
+        "model_name": "Maserati MC20",
+        "year": 2024,
+        "price_range": "1338 - 1338",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-mc20-2024",
+        "variants": [
+            {
+                "trim_name": "3.0",
+                "price": "1338",
+                "body_type": "2門 2人座",
+                "engine_cc": "3000cc",
+                "horsepower": "630hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2024 Maserati MC20 Cielo",
-        "price": "1580 - 1580",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-mc20-cielo-2024"
+        "model_name": "Maserati MC20 Cielo",
+        "year": 2024,
+        "price_range": "1580 - 1580",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-mc20-cielo-2024",
+        "variants": [
+            {
+                "trim_name": "3.0",
+                "price": "1580",
+                "body_type": "2門 2人座",
+                "engine_cc": "3000cc",
+                "horsepower": "630hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2024 Maserati Quattroporte",
-        "price": "638 - 638",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2024"
+        "model_name": "Maserati Quattroporte",
+        "year": 2024,
+        "price_range": "638 - 638",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2024",
+        "variants": [
+            {
+                "trim_name": "GT",
+                "price": "638",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2023 Maserati Grecale",
-        "price": "355 - 618",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grecale-2023"
+        "model_name": "Maserati Grecale",
+        "year": 2023,
+        "price_range": "355 - 618",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grecale-2023",
+        "variants": [
+            {
+                "trim_name": "GT Launch Edition",
+                "price": "355",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "300hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GT",
+                "price": "378",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "300hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Modena",
+                "price": "438",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "618",
+                "body_type": "5門 5人座",
+                "engine_cc": "3000cc",
+                "horsepower": "530hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2023 Maserati Levante",
-        "price": "458 - 798",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2023"
+        "model_name": "Maserati Levante",
+        "year": 2023,
+        "price_range": "458 - 798",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2023",
+        "variants": [
+            {
+                "trim_name": "GT Performance",
+                "price": "458",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Modena S F Tributo",
+                "price": "798",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2022 Maserati Ghibli",
-        "price": "385 - 718",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2022"
+        "model_name": "Maserati Ghibli",
+        "year": 2022,
+        "price_range": "385 - 718",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2022",
+        "variants": [
+            {
+                "trim_name": "GT",
+                "price": "385",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Modena",
+                "price": "488",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fragment",
+                "price": "628",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "718",
+                "body_type": "4門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "580hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2022 Maserati Levante",
-        "price": "388 - 898",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2022"
+        "model_name": "Maserati Levante",
+        "year": 2022,
+        "price_range": "388 - 898",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2022",
+        "variants": [
+            {
+                "trim_name": "GT",
+                "price": "388",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GT Eracle Edition",
+                "price": "458",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GT Sport",
+                "price": "488",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Modena",
+                "price": "568",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Modena S",
+                "price": "658",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Modena Trofeo Line",
+                "price": "668",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "898",
+                "body_type": "5門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "580hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2022 Maserati MC20",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-mc20-2022"
+        "model_name": "Maserati MC20",
+        "year": 2022,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-mc20-2022",
+        "variants": [
+            {
+                "trim_name": "3.0",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "3000cc",
+                "horsepower": "630hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2022 Maserati Quattroporte",
-        "price": "598 - 978",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2022"
+        "model_name": "Maserati Quattroporte",
+        "year": 2022,
+        "price_range": "598 - 978",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2022",
+        "variants": [
+            {
+                "trim_name": "GT",
+                "price": "598",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "978",
+                "body_type": "4門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "580hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2021 Maserati Ghibli",
-        "price": "358 - 698",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2021"
+        "model_name": "Maserati Ghibli",
+        "year": 2021,
+        "price_range": "358 - 698",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2021",
+        "variants": [
+            {
+                "trim_name": "MHEV",
+                "price": "358",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Elite",
+                "price": "378",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "MHEV GranSport",
+                "price": "458",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "330hp@5750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "488",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "F Tributo Edition",
+                "price": "558",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "698",
+                "body_type": "4門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "580hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2021 Maserati Levante",
-        "price": "378 - 898",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2021"
+        "model_name": "Maserati Levante",
+        "year": 2021,
+        "price_range": "378 - 898",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2021",
+        "variants": [
+            {
+                "trim_name": "Elite",
+                "price": "378",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "558",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "F Tributo Edition",
+                "price": "638",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "898",
+                "body_type": "5門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "580hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2021 Maserati Quattroporte",
-        "price": "598 - 978",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2021"
+        "model_name": "Maserati Quattroporte",
+        "year": 2021,
+        "price_range": "598 - 978",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2021",
+        "variants": [
+            {
+                "trim_name": "Veloce＋",
+                "price": "598",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "638",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "978",
+                "body_type": "4門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "580hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2020 Maserati Ghibli",
-        "price": "390 - 570",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2020"
+        "model_name": "Maserati Ghibli",
+        "year": 2020,
+        "price_range": "390 - 570",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2020",
+        "variants": [
+            {
+                "trim_name": "Elite",
+                "price": "390",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "480",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4  GranSport",
+                "price": "570",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2020 Maserati Levante",
-        "price": "358 - 938",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2020"
+        "model_name": "Maserati Levante",
+        "year": 2020,
+        "price_range": "358 - 938",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2020",
+        "variants": [
+            {
+                "trim_name": "Elite",
+                "price": "358",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Forza＋",
+                "price": "478",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "558",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S GranSport",
+                "price": "638",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS",
+                "price": "778",
+                "body_type": "5門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "550hp@6250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "938",
+                "body_type": "5門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "590hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2020 Maserati Quattroporte",
-        "price": "598 - 888",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2020"
+        "model_name": "Maserati Quattroporte",
+        "year": 2020,
+        "price_range": "598 - 888",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2020",
+        "variants": [
+            {
+                "trim_name": "Veloce＋",
+                "price": "598",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "638",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4 GranSport",
+                "price": "758",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS",
+                "price": "888",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6500~6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2019 Maserati Ghibli",
-        "price": "388 - 558",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2019"
+        "model_name": "Maserati Ghibli",
+        "year": 2019,
+        "price_range": "388 - 558",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2019",
+        "variants": [
+            {
+                "trim_name": "Elite",
+                "price": "388",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "450",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4  GranSport",
+                "price": "558",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2019 Maserati GranTurismo",
-        "price": "758 - 838",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2019"
+        "model_name": "Maserati GranTurismo",
+        "year": 2019,
+        "price_range": "758 - 838",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2019",
+        "variants": [
+            {
+                "trim_name": "Sport",
+                "price": "758",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "MC",
+                "price": "838",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2019 Maserati Levante",
-        "price": "458 - 898",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2019"
+        "model_name": "Maserati Levante",
+        "year": 2019,
+        "price_range": "458 - 898",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2019",
+        "variants": [
+            {
+                "trim_name": "Forza",
+                "price": "458",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "528",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S GranSport",
+                "price": "628",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS",
+                "price": "768",
+                "body_type": "5門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "550hp@6250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "898",
+                "body_type": "5門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "590hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2019 Maserati Quattroporte",
-        "price": "578 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2019"
+        "model_name": "Maserati Quattroporte",
+        "year": 2019,
+        "price_range": "578 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2019",
+        "variants": [
+            {
+                "trim_name": "Veloce＋",
+                "price": "578",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "598",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4 GranSport",
+                "price": "748",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS GranSport",
+                "price": "878",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6500~6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2018 Maserati Ghibli",
-        "price": "388 - 558",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2018"
+        "model_name": "Maserati Ghibli",
+        "year": 2018,
+        "price_range": "388 - 558",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2018",
+        "variants": [
+            {
+                "trim_name": "Diesel",
+                "price": "388",
+                "body_type": "4門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Elite",
+                "price": "399",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "450",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranLusso Zegna Edition",
+                "price": "450",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4  GranSport",
+                "price": "528",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4  GranSport Nerissimo Edition",
+                "price": "558",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2018 Maserati GranCabrio",
-        "price": "878 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2018"
+        "model_name": "Maserati GranCabrio",
+        "year": 2018,
+        "price_range": "878 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2018",
+        "variants": [
+            {
+                "trim_name": "Sport",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2018 Maserati GranTurismo",
-        "price": "758 - 838",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2018"
+        "model_name": "Maserati GranTurismo",
+        "year": 2018,
+        "price_range": "758 - 838",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2018",
+        "variants": [
+            {
+                "trim_name": "Sport",
+                "price": "758",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "MC",
+                "price": "838",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2018 Maserati Levante",
-        "price": "458 - 898",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2018"
+        "model_name": "Maserati Levante",
+        "year": 2018,
+        "price_range": "458 - 898",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2018",
+        "variants": [
+            {
+                "trim_name": "Diesel Forza",
+                "price": "458",
+                "body_type": "5門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Forza",
+                "price": "458",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "528",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranLusso",
+                "price": "528",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranLusso  Zegna Edition",
+                "price": "528",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S GranSport",
+                "price": "608",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S GranLusso",
+                "price": "608",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S GranLusso  Zegna Edition",
+                "price": "608",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S GranSport Nerissimo Edition",
+                "price": "628",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Trofeo",
+                "price": "898",
+                "body_type": "5門 5人座",
+                "engine_cc": "3799cc",
+                "horsepower": "590hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2018 Maserati Quattroporte",
-        "price": "568 - 958",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2018"
+        "model_name": "Maserati Quattroporte",
+        "year": 2018,
+        "price_range": "568 - 958",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2018",
+        "variants": [
+            {
+                "trim_name": "Standard",
+                "price": "568",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Veloce",
+                "price": "578",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranSport",
+                "price": "598",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GranLusso Zegna Edition",
+                "price": "598",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4 GranSport",
+                "price": "728",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS GranLusso",
+                "price": "858",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6500~6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS GranSport Nerissimo Edition",
+                "price": "958",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2017 Maserati Ghibli",
-        "price": "399 - 528",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2017"
+        "model_name": "Maserati Ghibli",
+        "year": 2017,
+        "price_range": "399 - 528",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2017",
+        "variants": [
+            {
+                "trim_name": "3.0 V6 Elite",
+                "price": "399",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Diesel",
+                "price": "408",
+                "body_type": "4門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 Premium",
+                "price": "468",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4",
+                "price": "528",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2017 Maserati GranCabrio",
-        "price": "948 - 948",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2017"
+        "model_name": "Maserati GranCabrio",
+        "year": 2017,
+        "price_range": "948 - 948",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2017",
+        "variants": [
+            {
+                "trim_name": "Sport Sessanta Edition",
+                "price": "948",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2017 Maserati GranTurismo",
-        "price": "788 - 888",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2017"
+        "model_name": "Maserati GranTurismo",
+        "year": 2017,
+        "price_range": "788 - 888",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2017",
+        "variants": [
+            {
+                "trim_name": "Sport MC Sport Line",
+                "price": "788",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "MC Stradale",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport Sessanta Edition",
+                "price": "888",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2017 Maserati Levante",
-        "price": "478 - 628",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2017"
+        "model_name": "Maserati Levante",
+        "year": 2017,
+        "price_range": "478 - 628",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-levante-2017",
+        "variants": [
+            {
+                "trim_name": "350",
+                "price": "478",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Diesel",
+                "price": "478",
+                "body_type": "5門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "350 Luxury",
+                "price": "528",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "608",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Sport",
+                "price": "628",
+                "body_type": "5門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "430hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2017 Maserati Quattroporte",
-        "price": "568 - 858",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2017"
+        "model_name": "Maserati Quattroporte",
+        "year": 2017,
+        "price_range": "568 - 858",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2017",
+        "variants": [
+            {
+                "trim_name": "350",
+                "price": "568",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "350 GranSport",
+                "price": "588",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "350hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4 Elite",
+                "price": "678",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4 GranLusso",
+                "price": "728",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4 GranSport",
+                "price": "728",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS GranLusso",
+                "price": "858",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6500~6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS GranSport",
+                "price": "858",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6500~6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2016 Maserati Ghibli",
-        "price": "408 - 588",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2016"
+        "model_name": "Maserati Ghibli",
+        "year": 2016,
+        "price_range": "408 - 588",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2016",
+        "variants": [
+            {
+                "trim_name": "Diesel",
+                "price": "408",
+                "body_type": "4門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6",
+                "price": "412",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 V6 Premium",
+                "price": "458",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 V6 Sport",
+                "price": "488",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4",
+                "price": "558",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4 Plus",
+                "price": "588",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2016 Maserati GranCabrio",
-        "price": "878 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2016"
+        "model_name": "Maserati GranCabrio",
+        "year": 2016,
+        "price_range": "878 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2016",
+        "variants": [
+            {
+                "trim_name": "Sport 4.7",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2016 Maserati GranTurismo",
-        "price": "625 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2016"
+        "model_name": "Maserati GranTurismo",
+        "year": 2016,
+        "price_range": "625 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2016",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "625",
+                "body_type": "2門 4人座",
+                "engine_cc": "4244cc",
+                "horsepower": "405hp@7100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport MC Sport Line Limited Edition",
+                "price": "788",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "MC Stradale Trofeo Limited Edition",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "MC Stradale Nero Limited Edition",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2016 Maserati Quattroporte",
-        "price": "558 - 818",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2016"
+        "model_name": "Maserati Quattroporte",
+        "year": 2016,
+        "price_range": "558 - 818",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2016",
+        "variants": [
+            {
+                "trim_name": "3.0 V6",
+                "price": "558",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Diesel",
+                "price": "558",
+                "body_type": "4門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S Q4",
+                "price": "668",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS",
+                "price": "818",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2015 Maserati Ghibli",
-        "price": "389 - 568",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2015"
+        "model_name": "Maserati Ghibli",
+        "year": 2015,
+        "price_range": "389 - 568",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2015",
+        "variants": [
+            {
+                "trim_name": "Diesel",
+                "price": "389",
+                "body_type": "4門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6",
+                "price": "412",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 V6 Premium",
+                "price": "458",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 V6 Sport",
+                "price": "488",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4",
+                "price": "568",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2015 Maserati GranCabrio",
-        "price": "878 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2015"
+        "model_name": "Maserati GranCabrio",
+        "year": 2015,
+        "price_range": "878 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2015",
+        "variants": [
+            {
+                "trim_name": "Sport 4.7",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2015 Maserati GranTurismo",
-        "price": "625 - 855",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2015"
+        "model_name": "Maserati GranTurismo",
+        "year": 2015,
+        "price_range": "625 - 855",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2015",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "625",
+                "body_type": "2門 4人座",
+                "engine_cc": "4244cc",
+                "horsepower": "405hp@7100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport Auto",
+                "price": "765",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 MC Stradale",
+                "price": "855",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2015 Maserati Quattroporte",
-        "price": "558 - 818",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2015"
+        "model_name": "Maserati Quattroporte",
+        "year": 2015,
+        "price_range": "558 - 818",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2015",
+        "variants": [
+            {
+                "trim_name": "Diesel",
+                "price": "558",
+                "body_type": "4門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6",
+                "price": "598",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4",
+                "price": "668",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS",
+                "price": "818",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2014 Maserati Ghibli",
-        "price": "389 - 512",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2014"
+        "model_name": "Maserati Ghibli",
+        "year": 2014,
+        "price_range": "389 - 512",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-ghibli-2014",
+        "variants": [
+            {
+                "trim_name": "Diesel",
+                "price": "389",
+                "body_type": "4門 5人座",
+                "engine_cc": "2987cc",
+                "horsepower": "275hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6",
+                "price": "412",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 V6 Premium",
+                "price": "458",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "330hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Q4",
+                "price": "512",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2014 Maserati GranCabrio",
-        "price": "878 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2014"
+        "model_name": "Maserati GranCabrio",
+        "year": 2014,
+        "price_range": "878 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2014",
+        "variants": [
+            {
+                "trim_name": "Sport 4.7",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2014 Maserati GranTurismo",
-        "price": "758 - 848",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2014"
+        "model_name": "Maserati GranTurismo",
+        "year": 2014,
+        "price_range": "758 - 848",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2014",
+        "variants": [
+            {
+                "trim_name": "4.7 Sport Auto",
+                "price": "758",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport",
+                "price": "788",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 MC Stradale",
+                "price": "848",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2014 Maserati Quattroporte",
-        "price": "668 - 818",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2014"
+        "model_name": "Maserati Quattroporte",
+        "year": 2014,
+        "price_range": "668 - 818",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2014",
+        "variants": [
+            {
+                "trim_name": "S Q4",
+                "price": "668",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS",
+                "price": "818",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2013 Maserati GranCabrio",
-        "price": "845 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2013"
+        "model_name": "Maserati GranCabrio",
+        "year": 2013,
+        "price_range": "845 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2013",
+        "variants": [
+            {
+                "trim_name": "4.7",
+                "price": "845",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport 4.7",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2013 Maserati GranTurismo",
-        "price": "618 - 848",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2013"
+        "model_name": "Maserati GranTurismo",
+        "year": 2013,
+        "price_range": "618 - 848",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2013",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "618",
+                "body_type": "2門 4人座",
+                "engine_cc": "4244cc",
+                "horsepower": "405hp@7100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport Auto",
+                "price": "758",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport",
+                "price": "788",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 MC Stradale",
+                "price": "848",
+                "body_type": "2門 2人座",
+                "engine_cc": "4691cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2013 Maserati Quattroporte",
-        "price": "668 - 818",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2013"
+        "model_name": "Maserati Quattroporte",
+        "year": 2013,
+        "price_range": "668 - 818",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2013",
+        "variants": [
+            {
+                "trim_name": "S Q4",
+                "price": "668",
+                "body_type": "4門 5人座",
+                "engine_cc": "2979cc",
+                "horsepower": "410hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GTS",
+                "price": "818",
+                "body_type": "4門 5人座",
+                "engine_cc": "3798cc",
+                "horsepower": "530hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2012 Maserati GranCabrio",
-        "price": "845 - 878",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2012"
+        "model_name": "Maserati GranCabrio",
+        "year": 2012,
+        "price_range": "845 - 878",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2012",
+        "variants": [
+            {
+                "trim_name": "4.7",
+                "price": "845",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport 4.7",
+                "price": "878",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2012 Maserati GranTurismo",
-        "price": "618 - 848",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2012"
+        "model_name": "Maserati GranTurismo",
+        "year": 2012,
+        "price_range": "618 - 848",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2012",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "618",
+                "body_type": "2門 4人座",
+                "engine_cc": "4244cc",
+                "horsepower": "405hp@7100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 S Auto",
+                "price": "750",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport Auto",
+                "price": "758",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Auto MC Sport Line",
+                "price": "780",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Red S Auto",
+                "price": "780",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport",
+                "price": "788",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "460hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 MC Stradale",
+                "price": "848",
+                "body_type": "2門 2人座",
+                "engine_cc": "4691cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2012 Maserati Quattroporte",
-        "price": "768 - 778",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2012"
+        "model_name": "Maserati Quattroporte",
+        "year": 2012,
+        "price_range": "768 - 778",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2012",
+        "variants": [
+            {
+                "trim_name": "4.7 S Executive GT",
+                "price": "768",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "430hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport GTS",
+                "price": "778",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2011 Maserati GranCabrio",
-        "price": "845 - 845",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2011"
+        "model_name": "Maserati GranCabrio",
+        "year": 2011,
+        "price_range": "845 - 845",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2011",
+        "variants": [
+            {
+                "trim_name": "4.7",
+                "price": "845",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2011 Maserati GranTurismo",
-        "price": "750 - 848",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2011"
+        "model_name": "Maserati GranTurismo",
+        "year": 2011,
+        "price_range": "750 - 848",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2011",
+        "variants": [
+            {
+                "trim_name": "4.7 S Auto",
+                "price": "750",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Red S Auto",
+                "price": "780",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Auto MC Sport Line",
+                "price": "780",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S MC 4.7",
+                "price": "788",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 MC Stradale",
+                "price": "848",
+                "body_type": "2門 2人座",
+                "engine_cc": "4691cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2011 Maserati Quattroporte",
-        "price": "718 - 778",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2011"
+        "model_name": "Maserati Quattroporte",
+        "year": 2011,
+        "price_range": "718 - 778",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2011",
+        "variants": [
+            {
+                "trim_name": "Sport Lusso",
+                "price": "718",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 S Executive GT",
+                "price": "768",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "430hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport GTS",
+                "price": "778",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2010 Maserati GranCabrio",
-        "price": "818 - 818",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2010"
+        "model_name": "Maserati GranCabrio",
+        "year": 2010,
+        "price_range": "818 - 818",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-grancabrio-2010",
+        "variants": [
+            {
+                "trim_name": "4.7",
+                "price": "818",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2010 Maserati GranTurismo",
-        "price": "738 - 768",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2010"
+        "model_name": "Maserati GranTurismo",
+        "year": 2010,
+        "price_range": "738 - 768",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-granturismo-2010",
+        "variants": [
+            {
+                "trim_name": "4.7 S Auto",
+                "price": "738",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Red S Auto",
+                "price": "768",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 MC Auto",
+                "price": "768",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2010 Maserati Quattroporte",
-        "price": "768 - 788",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2010"
+        "model_name": "Maserati Quattroporte",
+        "year": 2010,
+        "price_range": "768 - 788",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2010",
+        "variants": [
+            {
+                "trim_name": "4.7 S",
+                "price": "768",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "430hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport GT S",
+                "price": "778",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 Sport GT S-MC",
+                "price": "788",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2009 Maserati Gran Turismo",
-        "price": "688 - 756",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-gran-turismo-2009"
+        "model_name": "Maserati Gran Turismo",
+        "year": 2009,
+        "price_range": "688 - 756",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-gran-turismo-2009",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "688",
+                "body_type": "2門 4人座",
+                "engine_cc": "4244cc",
+                "horsepower": "405hp@7100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Automatic",
+                "price": "728",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "756",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2009 Maserati Quattroporte",
-        "price": "698 - 778",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2009"
+        "model_name": "Maserati Quattroporte",
+        "year": 2009,
+        "price_range": "698 - 778",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-quattroporte-2009",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "698",
+                "body_type": "4門 4人座",
+                "engine_cc": "4244cc",
+                "horsepower": "400hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.7 S",
+                "price": "768",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "430hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT S",
+                "price": "778",
+                "body_type": "4門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Maserati",
-        "model": "2008 Maserati Gran Turismo",
-        "price": "688 - 756",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-gran-turismo-2008"
+        "model_name": "Maserati Gran Turismo",
+        "year": 2008,
+        "price_range": "688 - 756",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/maserati-gran-turismo-2008",
+        "variants": [
+            {
+                "trim_name": "標準款",
+                "price": "688",
+                "body_type": "2門 4人座",
+                "engine_cc": "4244cc",
+                "horsepower": "405hp@7100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "756",
+                "body_type": "2門 4人座",
+                "engine_cc": "4691cc",
+                "horsepower": "440hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

@@ -1,62 +1,188 @@
 [
     {
         "brand": "Renault",
-        "model": "2010 Renault Grand Scenic",
-        "price": "117.5 - 117.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-grand-scenic-2010"
+        "model_name": "Renault Grand Scenic",
+        "year": 2010,
+        "price_range": "117.5 - 117.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-grand-scenic-2010",
+        "variants": [
+            {
+                "trim_name": "1.9 dCi",
+                "price": "117.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2010 Renault Megane Hatch",
-        "price": "102.8 - 102.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-hatch-2010"
+        "model_name": "Renault Megane Hatch",
+        "year": 2010,
+        "price_range": "102.8 - 102.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-hatch-2010",
+        "variants": [
+            {
+                "trim_name": "1.9 dCi",
+                "price": "102.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2010 Renault Megane Sedan",
-        "price": "104.8 - 104.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-sedan-2010"
+        "model_name": "Renault Megane Sedan",
+        "year": 2010,
+        "price_range": "104.8 - 104.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-sedan-2010",
+        "variants": [
+            {
+                "trim_name": "1.9 dCi",
+                "price": "104.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2009 Renault Grand Scenic",
-        "price": "122.8 - 122.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-grand-scenic-2009"
+        "model_name": "Renault Grand Scenic",
+        "year": 2009,
+        "price_range": "122.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-grand-scenic-2009",
+        "variants": [
+            {
+                "trim_name": "1.9 dCi",
+                "price": "122.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2009 Renault Megane Hatch",
-        "price": "102.8 - 102.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-hatch-2009"
+        "model_name": "Renault Megane Hatch",
+        "year": 2009,
+        "price_range": "102.8 - 102.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-hatch-2009",
+        "variants": [
+            {
+                "trim_name": "1.9 dCi",
+                "price": "102.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2009 Renault Megane Sedan",
-        "price": "104.8 - 104.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-sedan-2009"
+        "model_name": "Renault Megane Sedan",
+        "year": 2009,
+        "price_range": "104.8 - 104.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-sedan-2009",
+        "variants": [
+            {
+                "trim_name": "1.9 dCi",
+                "price": "104.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2008 Renault Megane Cabriolet",
-        "price": "160 - 160",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-cabriolet-2008"
+        "model_name": "Renault Megane Cabriolet",
+        "year": 2008,
+        "price_range": "160 - 160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-cabriolet-2008",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "160",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "136hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2008 Renault Megane Hatch",
-        "price": "87.9 - 104",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-hatch-2008"
+        "model_name": "Renault Megane Hatch",
+        "year": 2008,
+        "price_range": "87.9 - 104",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-hatch-2008",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "115hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "136hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.9 dCi Turbo",
+                "price": "104",
+                "body_type": "5門 5人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2008 Renault Megane Sedan",
-        "price": "104 - 104",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-sedan-2008"
+        "model_name": "Renault Megane Sedan",
+        "year": 2008,
+        "price_range": "104 - 104",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-megane-sedan-2008",
+        "variants": [
+            {
+                "trim_name": "1.9 dCi Turbo",
+                "price": "104",
+                "body_type": "4門 5人座",
+                "engine_cc": "1870cc",
+                "horsepower": "130hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Renault",
-        "model": "2008 Renault Scenic",
-        "price": "96.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-scenic-2008"
+        "model_name": "Renault Scenic",
+        "year": 2008,
+        "price_range": "96.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/renault-scenic-2008",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "115hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

@@ -1,20 +1,53 @@
 [
     {
         "brand": "Jeep",
-        "model": "2009 Jeep Compass",
-        "price": "124.9 - 124.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-compass-2009"
+        "model_name": "Jeep Compass",
+        "year": 2009,
+        "price_range": "124.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-compass-2009",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "124.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2360cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Jeep",
-        "model": "2009 Jeep Grand Cherokee",
-        "price": "194.5 - 194.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-grand-cherokee-2009"
+        "model_name": "Jeep Grand Cherokee",
+        "year": 2009,
+        "price_range": "194.5 - 194.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-grand-cherokee-2009",
+        "variants": [
+            {
+                "trim_name": "3.7",
+                "price": "194.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "3700cc",
+                "horsepower": "209hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Jeep",
-        "model": "2008 Jeep Grand Cherokee",
-        "price": "194.5 - 194.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-grand-cherokee-2008"
+        "model_name": "Jeep Grand Cherokee",
+        "year": 2008,
+        "price_range": "194.5 - 194.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/jeep-grand-cherokee-2008",
+        "variants": [
+            {
+                "trim_name": "3.7",
+                "price": "194.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "3700cc",
+                "horsepower": "209hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

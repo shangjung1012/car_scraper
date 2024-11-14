@@ -1,332 +1,937 @@
 [
     {
         "brand": "Mclaren",
-        "model": "2025 McLaren 750 S",
-        "price": "1708 - 1708",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-2025"
+        "model_name": "McLaren 750 S",
+        "year": 2025,
+        "price_range": "1708 - 1708",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-2025",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1708",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "750hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2025 McLaren 750 S Spider",
-        "price": "1868 - 1868",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-spider-2025"
+        "model_name": "McLaren 750 S Spider",
+        "year": 2025,
+        "price_range": "1868 - 1868",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-spider-2025",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1868",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "750hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2025 McLaren Artura",
-        "price": "1398 - 1398",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2025"
+        "model_name": "McLaren Artura",
+        "year": 2025,
+        "price_range": "1398 - 1398",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2025",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1398",
+                "body_type": "2門 2人座",
+                "engine_cc": "2993cc",
+                "horsepower": "700hp/73.4kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2025 McLaren Artura Spider",
-        "price": "1528 - 1528",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-spider-2025"
+        "model_name": "McLaren Artura Spider",
+        "year": 2025,
+        "price_range": "1528 - 1528",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-spider-2025",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1528",
+                "body_type": "2門 2人座",
+                "engine_cc": "2993cc",
+                "horsepower": "700hp/73.4kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2024 McLaren 750 S",
-        "price": "1658 - 1658",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-2024"
+        "model_name": "McLaren 750 S",
+        "year": 2024,
+        "price_range": "1658 - 1658",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-2024",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1658",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "750hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2024 McLaren 750 S Spider",
-        "price": "1788 - 1788",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-spider-2024"
+        "model_name": "McLaren 750 S Spider",
+        "year": 2024,
+        "price_range": "1788 - 1788",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-spider-2024",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1788",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "750hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2024 McLaren Artura",
-        "price": "1358 - 1358",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2024"
+        "model_name": "McLaren Artura",
+        "year": 2024,
+        "price_range": "1358 - 1358",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2024",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1358",
+                "body_type": "2門 2人座",
+                "engine_cc": "2993cc",
+                "horsepower": "680hp/73.4kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2023 McLaren 750 S",
-        "price": "1658 - 1658",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-2023"
+        "model_name": "McLaren 750 S",
+        "year": 2023,
+        "price_range": "1658 - 1658",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-750-s-2023",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1658",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "750hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2023 McLaren Artura",
-        "price": "1358 - 1358",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2023"
+        "model_name": "McLaren Artura",
+        "year": 2023,
+        "price_range": "1358 - 1358",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2023",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1358",
+                "body_type": "2門 2人座",
+                "engine_cc": "2993cc",
+                "horsepower": "680hp/73.4kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2023 McLaren GT",
-        "price": "1260 - 1260",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2023"
+        "model_name": "McLaren GT",
+        "year": 2023,
+        "price_range": "1260 - 1260",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2023",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1260",
+                "body_type": "3門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "620hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2022 McLaren 720 S",
-        "price": "1620 - 1620",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2022"
+        "model_name": "McLaren 720 S",
+        "year": 2022,
+        "price_range": "1620 - 1620",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2022",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1620",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2022 McLaren 720 S Spider",
-        "price": "1768 - 1768",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2022"
+        "model_name": "McLaren 720 S Spider",
+        "year": 2022,
+        "price_range": "1768 - 1768",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2022",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1768",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2022 McLaren Artura",
-        "price": "1328 - 1328",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2021"
+        "model_name": "McLaren Artura",
+        "year": 2022,
+        "price_range": "1328 - 1328",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-artura-2021",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1328",
+                "body_type": "2門 2人座",
+                "engine_cc": "2993cc",
+                "horsepower": "680hp/73.4kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2022 McLaren GT",
-        "price": "1260 - 1260",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2022"
+        "model_name": "McLaren GT",
+        "year": 2022,
+        "price_range": "1260 - 1260",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2022",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1260",
+                "body_type": "3門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "620hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2021 McLaren 720 S",
-        "price": "1620 - 1620",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2021"
+        "model_name": "McLaren 720 S",
+        "year": 2021,
+        "price_range": "1620 - 1620",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2021",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1620",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2021 McLaren 720 S SpIder",
-        "price": "1768 - 1768",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2021"
+        "model_name": "McLaren 720 S SpIder",
+        "year": 2021,
+        "price_range": "1768 - 1768",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2021",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1768",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2021 McLaren 765 LT",
-        "price": "2568 - 2568",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-765-lt-2021"
+        "model_name": "McLaren 765 LT",
+        "year": 2021,
+        "price_range": "2568 - 2568",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-765-lt-2021",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "2568",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "765hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2021 McLaren GT",
-        "price": "1260 - 1260",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2021"
+        "model_name": "McLaren GT",
+        "year": 2021,
+        "price_range": "1260 - 1260",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2021",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1260",
+                "body_type": "3門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "620hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2020 McLaren 540 C",
-        "price": "899 - 899",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2020"
+        "model_name": "McLaren 540 C",
+        "year": 2020,
+        "price_range": "899 - 899",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "899",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "540hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2020 McLaren 570 S",
-        "price": "1088 - 1088",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2020"
+        "model_name": "McLaren 570 S",
+        "year": 2020,
+        "price_range": "1088 - 1088",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1088",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2020 McLaren 570 S Spider",
-        "price": "1188 - 1188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-spider-2020"
+        "model_name": "McLaren 570 S Spider",
+        "year": 2020,
+        "price_range": "1188 - 1188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-spider-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1188",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2020 McLaren 720 S",
-        "price": "1620 - 1620",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2020"
+        "model_name": "McLaren 720 S",
+        "year": 2020,
+        "price_range": "1620 - 1620",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1620",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2020 McLaren 720 S Spider",
-        "price": "1768 - 1768",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2020"
+        "model_name": "McLaren 720 S Spider",
+        "year": 2020,
+        "price_range": "1768 - 1768",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1768",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2020 McLaren 765 LT",
-        "price": "2368 - 2368",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-765-lt-2020"
+        "model_name": "McLaren 765 LT",
+        "year": 2020,
+        "price_range": "2368 - 2368",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-765-lt-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "2368",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "765hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2020 McLaren GT",
-        "price": "1260 - 1260",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2020"
+        "model_name": "McLaren GT",
+        "year": 2020,
+        "price_range": "1260 - 1260",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1260",
+                "body_type": "3門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "620hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 540 C",
-        "price": "899 - 899",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2019"
+        "model_name": "McLaren 540 C",
+        "year": 2019,
+        "price_range": "899 - 899",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "899",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "540hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 570 GT",
-        "price": "1188 - 1188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-gt-2019"
+        "model_name": "McLaren 570 GT",
+        "year": 2019,
+        "price_range": "1188 - 1188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-gt-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1188",
+                "body_type": "3門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 570 S",
-        "price": "1088 - 1088",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2019"
+        "model_name": "McLaren 570 S",
+        "year": 2019,
+        "price_range": "1088 - 1088",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1088",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 570 S Spider",
-        "price": "1188 - 1188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-spider-2019"
+        "model_name": "McLaren 570 S Spider",
+        "year": 2019,
+        "price_range": "1188 - 1188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-spider-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1188",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 600 LT",
-        "price": "1380 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-600lt-2019"
+        "model_name": "McLaren 600 LT",
+        "year": 2019,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-600lt-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1380",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "600hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 600 LT Spider",
-        "price": "1480 - 1480",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-600-lt-spider-2019"
+        "model_name": "McLaren 600 LT Spider",
+        "year": 2019,
+        "price_range": "1480 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-600-lt-spider-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1480",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "600hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 720 S",
-        "price": "1620 - 1620",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2019"
+        "model_name": "McLaren 720 S",
+        "year": 2019,
+        "price_range": "1620 - 1620",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1620",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren 720 S Spider",
-        "price": "1768 - 1768",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2019"
+        "model_name": "McLaren 720 S Spider",
+        "year": 2019,
+        "price_range": "1768 - 1768",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-spider-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1768",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2019 McLaren GT",
-        "price": "1260 - 1260",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2019"
+        "model_name": "McLaren GT",
+        "year": 2019,
+        "price_range": "1260 - 1260",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-gt-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1260",
+                "body_type": "3門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "620hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2018 McLaren 540 C",
-        "price": "899 - 899",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2018"
+        "model_name": "McLaren 540 C",
+        "year": 2018,
+        "price_range": "899 - 899",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2018",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "899",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "540hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2018 McLaren 570 GT",
-        "price": "1188 - 1188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-gt-2018"
+        "model_name": "McLaren 570 GT",
+        "year": 2018,
+        "price_range": "1188 - 1188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-gt-2018",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1188",
+                "body_type": "3門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2018 McLaren 570 S",
-        "price": "1088 - 1088",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2018"
+        "model_name": "McLaren 570 S",
+        "year": 2018,
+        "price_range": "1088 - 1088",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2018",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1088",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2018 McLaren 570 S Spider",
-        "price": "1188 - 1188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-spider-2018"
+        "model_name": "McLaren 570 S Spider",
+        "year": 2018,
+        "price_range": "1188 - 1188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-spider-2018",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1188",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2018 McLaren 600 LT",
-        "price": "1380 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-600lt-2018"
+        "model_name": "McLaren 600 LT",
+        "year": 2018,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-600lt-2018",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1380",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "600hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2018 McLaren 720 S",
-        "price": "1620 - 1620",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2018"
+        "model_name": "McLaren 720 S",
+        "year": 2018,
+        "price_range": "1620 - 1620",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-720-s-2018",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1620",
+                "body_type": "2門 2人座",
+                "engine_cc": "3994cc",
+                "horsepower": "720hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2017 McLaren 540 C",
-        "price": "899 - 899",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2017"
+        "model_name": "McLaren 540 C",
+        "year": 2017,
+        "price_range": "899 - 899",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2017",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "899",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "540hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2017 McLaren 570 GT",
-        "price": "1188 - 1188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-gt-2017"
+        "model_name": "McLaren 570 GT",
+        "year": 2017,
+        "price_range": "1188 - 1188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-gt-2017",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1188",
+                "body_type": "3門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2017 McLaren 570 S",
-        "price": "1088 - 1088",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2017"
+        "model_name": "McLaren 570 S",
+        "year": 2017,
+        "price_range": "1088 - 1088",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2017",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1088",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2016 McLaren 540 C",
-        "price": "988 - 988",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2016"
+        "model_name": "McLaren 540 C",
+        "year": 2016,
+        "price_range": "988 - 988",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-540-c-2016",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "988",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "540hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2016 McLaren 570 S",
-        "price": "1168 - 1168",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2016"
+        "model_name": "McLaren 570 S",
+        "year": 2016,
+        "price_range": "1168 - 1168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-570-s-2016",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1168",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "570hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2016 McLaren 650 S",
-        "price": "1535 - 1535",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-2016"
+        "model_name": "McLaren 650 S",
+        "year": 2016,
+        "price_range": "1535 - 1535",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-2016",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1535",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "650hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2016 McLaren 650 S Spider",
-        "price": "1680 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-spider-2016"
+        "model_name": "McLaren 650 S Spider",
+        "year": 2016,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-spider-2016",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "650hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2015 McLaren 650 S",
-        "price": "1535 - 1535",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-2015"
+        "model_name": "McLaren 650 S",
+        "year": 2015,
+        "price_range": "1535 - 1535",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-2015",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1535",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "650hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2015 McLaren 650 S Spider",
-        "price": "1680 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-spider-2015"
+        "model_name": "McLaren 650 S Spider",
+        "year": 2015,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-spider-2015",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "650hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2014 McLaren 12C",
-        "price": "1385 - 1385",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-2014"
+        "model_name": "McLaren 12C",
+        "year": 2014,
+        "price_range": "1385 - 1385",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-2014",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1385",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "625hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2014 McLaren 12C Spider",
-        "price": "1535 - 1535",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-spider-2014"
+        "model_name": "McLaren 12C Spider",
+        "year": 2014,
+        "price_range": "1535 - 1535",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-spider-2014",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1535",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "625hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2014 McLaren 650 S",
-        "price": "1535 - 1535",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-2014"
+        "model_name": "McLaren 650 S",
+        "year": 2014,
+        "price_range": "1535 - 1535",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-2014",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1535",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "650hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2014 McLaren 650 S Spider",
-        "price": "1680 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-spider-2014"
+        "model_name": "McLaren 650 S Spider",
+        "year": 2014,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-650-s-spider-2014",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "650hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2013 McLaren 12C",
-        "price": "1385 - 1385",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-2013"
+        "model_name": "McLaren 12C",
+        "year": 2013,
+        "price_range": "1385 - 1385",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-2013",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "1385",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "625hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mclaren",
-        "model": "2013 McLaren 12C Spider",
-        "price": "1535 - 1535",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-spider-2013"
+        "model_name": "McLaren 12C Spider",
+        "year": 2013,
+        "price_range": "1535 - 1535",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mclaren-12c-spider-2013",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1535",
+                "body_type": "2門 2人座",
+                "engine_cc": "3799cc",
+                "horsepower": "625hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

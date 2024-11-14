@@ -1,884 +1,5029 @@
 [
     {
         "brand": "Ford",
-        "model": "2025 Ford Focus 5D",
-        "price": "148.9 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2025"
-    },
-    {
-        "brand": "Ford",
-        "model": "2025 Ford Focus Wagon",
-        "price": "158.9 - 158.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2025"
-    },
-    {
-        "brand": "Ford",
-        "model": "2025 Ford Tourneo Custom",
-        "price": "149.8 - 182.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2025"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Focus 5D",
-        "price": "83.9 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Focus Active",
-        "price": "96.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Focus Active Wagon",
-        "price": "96.9 - 104.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-wagon-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Focus Wagon",
-        "price": "89.9 - 156.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Kuga",
-        "price": "94.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Kuga(NEW)",
-        "price": "93.9 - 128.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga%28new%29-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Mustang",
-        "price": "189.9 - 259.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Mustang Mach-E",
-        "price": "189.9 - 249.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-mach-e-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2024 Ford Tourneo Connect",
-        "price": "116.8 - 126.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2024"
-    },
-    {
-        "brand": "Ford",
-        "model": "2023 Ford Focus 5D",
-        "price": "83.9 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2023"
-    },
-    {
-        "brand": "Ford",
-        "model": "2023 Ford Focus Active",
-        "price": "90.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2023"
-    },
-    {
-        "brand": "Ford",
-        "model": "2023 Ford Focus Wagon",
-        "price": "89.9 - 156.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2023"
-    },
-    {
-        "brand": "Ford",
-        "model": "2023 Ford Kuga",
-        "price": "94.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2023"
-    },
-    {
-        "brand": "Ford",
-        "model": "2023 Ford Ranger",
-        "price": "133.8 - 206.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ramger%28new%29-2023"
-    },
-    {
-        "brand": "Ford",
-        "model": "2023 Ford Tourneo Connect",
-        "price": "112.8 - 124.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2023"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Focus 4D",
-        "price": "70.9 - 94.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Focus 5D",
-        "price": "70.9 - 138.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Focus Active",
-        "price": "85.9 - 91.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Kuga",
-        "price": "93.9 - 122.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Mondeo Wagon",
-        "price": "109.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Mustang",
-        "price": "196.9 - 243.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Ranger",
-        "price": "103.8 - 148.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Tourneo Connect",
-        "price": "106.8 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2022 Ford Tourneo Custom",
-        "price": "129.9 - 166.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2022"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Focus 4D",
-        "price": "69.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Focus 5D",
-        "price": "69.9 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Focus Active",
-        "price": "83.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Focus Wagon",
-        "price": "129.8 - 143.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Kuga",
-        "price": "89.9 - 121.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Mustang",
-        "price": "196.9 - 243.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Ranger",
-        "price": "104.8 - 149.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Tourneo Connect",
-        "price": "104.8 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2021 Ford Tourneo Custom",
-        "price": "146.9 - 168.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2021"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford EcoSport",
-        "price": "79.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Focus 4D",
-        "price": "69.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Focus 5D",
-        "price": "69.9 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Focus Wagon",
-        "price": "143.8 - 143.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Kuga",
-        "price": "85.9 - 113.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Kuga(NEW)",
-        "price": "89.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga%28new%29-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Mondeo",
-        "price": "119.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Mondeo Wagon",
-        "price": "132.9 - 132.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Mustang",
-        "price": "196.9 - 243.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Ranger",
-        "price": "104.8 - 149.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2020 Ford Tourneo Custom",
-        "price": "146.9 - 168.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2020"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford EcoSport",
-        "price": "69.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Escort",
-        "price": "57.9 - 67.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escort-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Fiesta",
-        "price": "64.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Focus 4D",
-        "price": "76.8 - 87.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Focus 5D",
-        "price": "67.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Kuga",
-        "price": "85.9 - 113.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Mondeo",
-        "price": "125.9 - 125.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Mondeo Wagon",
-        "price": "135.9 - 135.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Mondeo Wagon(NEW)",
-        "price": "132.9 - 132.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon%28new%29-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Mustang",
-        "price": "196.9 - 243.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Ranger",
-        "price": "146.8 - 149.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2019 Ford Tourneo Custom",
-        "price": "146.9 - 165.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2019"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford EcoSport",
-        "price": "69.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford EcoSport(NEW)",
-        "price": "69.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport%28new%29-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Escort",
-        "price": "57.9 - 67.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escort-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Fiesta",
-        "price": "64.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Focus 4D",
-        "price": "69.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Focus 5D",
-        "price": "67.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Kuga",
-        "price": "85.9 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Mondeo",
-        "price": "125.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Mondeo Wagon",
-        "price": "135.9 - 135.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Mustang",
-        "price": "196.9 - 243.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Ranger",
-        "price": "143.9 - 143.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Tourneo Custom",
-        "price": "146.9 - 165.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2018 Ford Tourneo Custom(NEW)",
-        "price": "146.9 - 165.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom%28new%29-2018"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford EcoSport",
-        "price": "69.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Fiesta",
-        "price": "60.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Focus 4D",
-        "price": "64.5 - 83.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Focus 5D",
-        "price": "67.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Kuga",
-        "price": "85.9 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Mondeo",
-        "price": "125.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Mustang",
-        "price": "186.8 - 235",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Ranger",
-        "price": "143.9 - 143.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2017 Ford Tourneo Custom",
-        "price": "146.9 - 165.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2017"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford EcoSport",
-        "price": "69.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Fiesta",
-        "price": "58.5 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Focus 4D",
-        "price": "64.5 - 83.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Focus 5D",
-        "price": "67.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Kuga",
-        "price": "85.9 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Mondeo",
-        "price": "125.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Mustang",
-        "price": "186.8 - 235",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Ranger",
-        "price": "143.9 - 143.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2016 Ford Tourneo Custom",
-        "price": "129.9 - 154.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2016"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford EcoSport",
-        "price": "69.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Fiesta",
-        "price": "58.5 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Focus 4D",
-        "price": "59.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Focus 5D",
-        "price": "67.9 - 138.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Kuga",
-        "price": "85.9 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Mondeo",
-        "price": "125.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Mondeo TDCi",
-        "price": "96.9 - 105.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-tdci-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Mustang",
-        "price": "186.8 - 186.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Ranger",
-        "price": "139.5 - 139.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2015 Ford Tourneo Custom",
-        "price": "129.9 - 154.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2015"
-    },
-    {
-        "brand": "Ford",
-        "model": "2014 Ford EcoSport",
-        "price": "69.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2014"
-    },
-    {
-        "brand": "Ford",
-        "model": "2014 Ford Fiesta",
-        "price": "58.5 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2014"
-    },
-    {
-        "brand": "Ford",
-        "model": "2014 Ford Focus 4D",
-        "price": "59.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2014"
-    },
-    {
-        "brand": "Ford",
-        "model": "2014 Ford Focus 5D",
-        "price": "67.9 - 138.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2014"
-    },
-    {
-        "brand": "Ford",
-        "model": "2014 Ford Kuga",
-        "price": "88.8 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2014"
-    },
-    {
-        "brand": "Ford",
-        "model": "2014 Ford Mondeo",
-        "price": "96.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2014"
-    },
-    {
-        "brand": "Ford",
-        "model": "2014 Ford Ranger",
-        "price": "139.5 - 139.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2014"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Escape",
-        "price": "67.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Fiesta 4D",
-        "price": "58.8 - 58.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-4d-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Fiesta 5D",
-        "price": "64.8 - 76.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-5d-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Focus 4D",
-        "price": "59.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Focus 5D",
-        "price": "66.9 - 138.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Kuga",
-        "price": "88.8 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Mondeo",
-        "price": "88.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Mustang",
-        "price": "179.8 - 179.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2013 Ford Ranger",
-        "price": "139.5 - 139.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2013"
-    },
-    {
-        "brand": "Ford",
-        "model": "2012 Ford Escape",
-        "price": "67.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2012"
-    },
-    {
-        "brand": "Ford",
-        "model": "2012 Ford Fiesta 4D",
-        "price": "58.8 - 58.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-4d-2012"
-    },
-    {
-        "brand": "Ford",
-        "model": "2012 Ford Fiesta 5D",
-        "price": "64.8 - 76.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-5d-2012"
-    },
-    {
-        "brand": "Ford",
-        "model": "2012 Ford Focus 4D",
-        "price": "60.5 - 79.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2012"
-    },
-    {
-        "brand": "Ford",
-        "model": "2012 Ford Focus 5D",
-        "price": "63.5 - 88.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2012"
-    },
-    {
-        "brand": "Ford",
-        "model": "2012 Ford Mondeo",
-        "price": "88.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2012"
-    },
-    {
-        "brand": "Ford",
-        "model": "2012 Ford Ranger",
-        "price": "128.8 - 128.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2012"
-    },
-    {
-        "brand": "Ford",
-        "model": "2011 Ford Escape",
-        "price": "65.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2011"
-    },
-    {
-        "brand": "Ford",
-        "model": "2011 Ford Fiesta",
-        "price": "68.9 - 75.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2011"
-    },
-    {
-        "brand": "Ford",
-        "model": "2011 Ford Focus 4D",
-        "price": "59.5 - 78.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2011"
-    },
-    {
-        "brand": "Ford",
-        "model": "2011 Ford Focus 5D",
-        "price": "62.5 - 87.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2011"
-    },
-    {
-        "brand": "Ford",
-        "model": "2011 Ford i-Max",
-        "price": "70.6 - 88.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2011"
-    },
-    {
-        "brand": "Ford",
-        "model": "2011 Ford Mondeo",
-        "price": "88.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2011"
-    },
-    {
-        "brand": "Ford",
-        "model": "2011 Ford Ranger",
-        "price": "128.8 - 128.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2011"
-    },
-    {
-        "brand": "Ford",
-        "model": "2010 Ford Econovan",
-        "price": "45.3 - 45.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-econovan-2010"
-    },
-    {
-        "brand": "Ford",
-        "model": "2010 Ford Escape",
-        "price": "65.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2010"
-    },
-    {
-        "brand": "Ford",
-        "model": "2010 Ford Fiesta",
-        "price": "68.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2010"
-    },
-    {
-        "brand": "Ford",
-        "model": "2010 Ford Focus",
-        "price": "57.9 - 85.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-2010"
-    },
-    {
-        "brand": "Ford",
-        "model": "2010 Ford i-Max",
-        "price": "70.6 - 88.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2010"
-    },
-    {
-        "brand": "Ford",
-        "model": "2010 Ford Mondeo",
-        "price": "83.9 - 104.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2010"
-    },
-    {
-        "brand": "Ford",
-        "model": "2010 Ford Ranger",
-        "price": "126.8 - 126.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2010"
-    },
-    {
-        "brand": "Ford",
-        "model": "2009 Ford Econovan",
-        "price": "40.3 - 57.1",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-econovan-2009"
-    },
-    {
-        "brand": "Ford",
-        "model": "2009 Ford Escape",
-        "price": "63.9 - 70.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2009"
-    },
-    {
-        "brand": "Ford",
-        "model": "2009 Ford Fiesta",
-        "price": "64.9 - 70.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2009"
-    },
-    {
-        "brand": "Ford",
-        "model": "2009 Ford Focus Powershift",
-        "price": "0.6 - 85.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-powershift-2009"
-    },
-    {
-        "brand": "Ford",
-        "model": "2009 Ford i-Max",
-        "price": "68.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2009"
-    },
-    {
-        "brand": "Ford",
-        "model": "2009 Ford Mondeo",
-        "price": "83.9 - 103.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2009"
-    },
-    {
-        "brand": "Ford",
-        "model": "2008 Ford Escape",
-        "price": "69.9 - 106.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2008"
-    },
-    {
-        "brand": "Ford",
-        "model": "2008 Ford Focus",
-        "price": "57.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-2008"
-    },
-    {
-        "brand": "Ford",
-        "model": "2008 Ford i-Max",
-        "price": "69.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2008"
-    },
-    {
-        "brand": "Ford",
-        "model": "2008 Ford Mondeo",
-        "price": "81.9 - 101",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2008"
+        "model_name": "Ford Focus 5D",
+        "year": 2025,
+        "price_range": "148.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2025",
+        "variants": [
+            {
+                "trim_name": "ST X 6MT",
+                "price": "148.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Wagon",
+        "year": 2025,
+        "price_range": "158.9 - 158.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2025",
+        "variants": [
+            {
+                "trim_name": "ST X",
+                "price": "158.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2025,
+        "price_range": "149.8 - 182.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2025",
+        "variants": [
+            {
+                "trim_name": "Kombi Trend 六座",
+                "price": "149.8",
+                "body_type": "5門 6人座",
+                "engine_cc": "1996cc",
+                "horsepower": "136hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Kombi Trend 九座",
+                "price": "156.8",
+                "body_type": "4門 9人座",
+                "engine_cc": "1996cc",
+                "horsepower": "136hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Kombi Limited 八座",
+                "price": "164.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "1996cc",
+                "horsepower": "136hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Bus Titanium 八座",
+                "price": "182.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2024,
+        "price_range": "83.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2024",
+        "variants": [
+            {
+                "trim_name": "X",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Vignale",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST X 6MT",
+                "price": "148.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Active",
+        "year": 2024,
+        "price_range": "96.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2024",
+        "variants": [
+            {
+                "trim_name": "Vignale",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Active Wagon",
+        "year": 2024,
+        "price_range": "96.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-wagon-2024",
+        "variants": [
+            {
+                "trim_name": "X",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Vignale",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Wagon",
+        "year": 2024,
+        "price_range": "89.9 - 156.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2024",
+        "variants": [
+            {
+                "trim_name": "X",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line X",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Vignale",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST X",
+                "price": "156.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2024,
+        "price_range": "94.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2024",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180超質X",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180旗艦",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180 ST-Line Sport",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD ST-Line Performance",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD Vignale(客貨車版)",
+                "price": "123.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD Vignale",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga(NEW)",
+        "year": 2024,
+        "price_range": "93.9 - 128.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga%28new%29-2024",
+        "variants": [
+            {
+                "trim_name": "1.5T Vignale",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "187hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T Active",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "187hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T Vignale(客車版)",
+                "price": "108.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "187hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T AWD ST-Line",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "255hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T Active(客車版)",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "187hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T AWD ST-Line(客車版)",
+                "price": "128.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "255hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2024,
+        "price_range": "189.9 - 259.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2024",
+        "variants": [
+            {
+                "trim_name": "EcoBoost Premium",
+                "price": "189.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "305hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Premium",
+                "price": "236.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5038cc",
+                "horsepower": "446hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Dark Horse Premium",
+                "price": "259.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5038cc",
+                "horsepower": "454hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang Mach-E",
+        "year": 2024,
+        "price_range": "189.9 - 249.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-mach-e-2024",
+        "variants": [
+            {
+                "trim_name": "Select",
+                "price": "189.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 471km",
+                "horsepower": "288hp/43.8kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Premium",
+                "price": "230.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 539km",
+                "horsepower": "368hp/59.1kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "GT",
+                "price": "249.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 486km",
+                "horsepower": "592hp/87.7kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Connect",
+        "year": 2024,
+        "price_range": "116.8 - 126.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2024",
+        "variants": [
+            {
+                "trim_name": "2.0玩樂版",
+                "price": "116.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1968cc",
+                "horsepower": "122hp@2750~4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0玩咖版",
+                "price": "126.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1968cc",
+                "horsepower": "122hp@2750~4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2023,
+        "price_range": "83.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2023",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182 X",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 ST-Line X",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 ST-Line Vignale",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST X 6MT",
+                "price": "148.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Active",
+        "year": 2023,
+        "price_range": "90.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2023",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182 X",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 Vignale",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Wagon",
+        "year": 2023,
+        "price_range": "89.9 - 156.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2023",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182 X",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 ST-Line X",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 ST-Line Vignale",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST X",
+                "price": "156.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2023,
+        "price_range": "94.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2023",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180超質X",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180旗艦",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180旗艦X",
+                "price": "110.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD ST-Line X",
+                "price": "123.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD Vignale",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2023,
+        "price_range": "133.8 - 206.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ramger%28new%29-2023",
+        "variants": [
+            {
+                "trim_name": "XLT",
+                "price": "133.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Wildtrak",
+                "price": "156.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "205hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Raptor",
+                "price": "206.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2956cc",
+                "horsepower": "292hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Connect",
+        "year": 2023,
+        "price_range": "112.8 - 124.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2023",
+        "variants": [
+            {
+                "trim_name": "2.0玩樂版",
+                "price": "112.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1968cc",
+                "horsepower": "122hp@2750~4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0玩咖版",
+                "price": "124.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1968cc",
+                "horsepower": "122hp@2750~4250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2022,
+        "price_range": "70.9 - 94.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2022",
+        "variants": [
+            {
+                "trim_name": "1.5 Ti-VCT美夢型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 Lv2超質型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 17 SLA型",
+                "price": "90.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Lommel X",
+                "price": "94.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2022,
+        "price_range": "70.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2022",
+        "variants": [
+            {
+                "trim_name": "1.5 Ti-VCT成真型",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 Lv2超質型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Lommel X",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST 6MT",
+                "price": "138.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Active",
+        "year": 2022,
+        "price_range": "85.9 - 91.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2022",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182 Lv2超質型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182任性版",
+                "price": "91.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2022,
+        "price_range": "93.9 - 122.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2022",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180 Lv2超質型",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚X",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180旗艦X",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD旗艦X",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD ST-Line X",
+                "price": "122.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo Wagon",
+        "year": 2022,
+        "price_range": "109.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2021",
+        "variants": [
+            {
+                "trim_name": "2.0 Hybrid",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "187hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "ST-Line 2.0 EcoBlue",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2022,
+        "price_range": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2022",
+        "variants": [
+            {
+                "trim_name": "EcoBoost Premium",
+                "price": "196.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "290hp@5400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Premium",
+                "price": "243.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5038cc",
+                "horsepower": "449hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2022,
+        "price_range": "103.8 - 148.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2022",
+        "variants": [
+            {
+                "trim_name": "職人型",
+                "price": "103.8",
+                "body_type": "4門 2+2人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "全能型",
+                "price": "118.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "運動型",
+                "price": "148.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "213hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Connect",
+        "year": 2022,
+        "price_range": "106.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2022",
+        "variants": [
+            {
+                "trim_name": "1.5玩樂版",
+                "price": "106.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1499cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.5玩咖版",
+                "price": "119.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1499cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2022,
+        "price_range": "129.9 - 166.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2022",
+        "variants": [
+            {
+                "trim_name": "九座Kombi",
+                "price": "129.9",
+                "body_type": "4門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "九座尊爵型",
+                "price": "146.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "八座尊爵型",
+                "price": "146.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "八座豪華型",
+                "price": "166.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2021,
+        "price_range": "69.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2021",
+        "variants": [
+            {
+                "trim_name": "1.5 Ti-VCT美夢版",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182佛心版",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 17 SLA",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Lommel",
+                "price": "92.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2021,
+        "price_range": "69.9 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2021",
+        "variants": [
+            {
+                "trim_name": "1.5 Ti-VCT成真版",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182時尚版",
+                "price": "80.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Lommel",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST",
+                "price": "137.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Active",
+        "year": 2021,
+        "price_range": "83.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-active-2021",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182好動版",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182任性版",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Wagon",
+        "year": 2021,
+        "price_range": "129.8 - 143.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2021",
+        "variants": [
+            {
+                "trim_name": "ST SLS Edition",
+                "price": "129.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST",
+                "price": "143.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2021,
+        "price_range": "89.9 - 121.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2021",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180雅緻型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180 Lv2超質型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚X",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180旗艦X",
+                "price": "108.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD旗艦X",
+                "price": "118.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD ST-Line X",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2021,
+        "price_range": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2021",
+        "variants": [
+            {
+                "trim_name": "EcoBoost Premium",
+                "price": "196.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "290hp@5400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Premium",
+                "price": "243.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5038cc",
+                "horsepower": "449hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2021,
+        "price_range": "104.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2021",
+        "variants": [
+            {
+                "trim_name": "職人型",
+                "price": "104.8",
+                "body_type": "4門 2+2人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "全能型",
+                "price": "119.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "運動型",
+                "price": "149.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "213hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Connect",
+        "year": 2021,
+        "price_range": "104.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-connect-2021",
+        "variants": [
+            {
+                "trim_name": "1.5玩心版",
+                "price": "104.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1499cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.5玩樂版",
+                "price": "106.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1499cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1.5玩咖版",
+                "price": "119.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1499cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2021,
+        "price_range": "146.9 - 168.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2021",
+        "variants": [
+            {
+                "trim_name": "九座尊爵型",
+                "price": "146.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "149.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "168.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport",
+        "year": 2020,
+        "price_range": "79.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2020",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 125旗艦型",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2020,
+        "price_range": "69.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2020",
+        "variants": [
+            {
+                "trim_name": "1.5 Ti-VCT美夢版",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182佛心版",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 17 SLA",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Lommel",
+                "price": "92.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2020,
+        "price_range": "69.9 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2020",
+        "variants": [
+            {
+                "trim_name": "1.5 Ti-VCT成真版",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182時尚版",
+                "price": "80.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line Lommel",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST",
+                "price": "137.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Wagon",
+        "year": 2020,
+        "price_range": "143.8 - 143.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-wagon-2020",
+        "variants": [
+            {
+                "trim_name": "ST",
+                "price": "143.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "280hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2020,
+        "price_range": "85.9 - 113.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2020",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182全民便利型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 CP360型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油CP360型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "EcoBoost 245 CP360旗艦型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga(NEW)",
+        "year": 2020,
+        "price_range": "89.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga%28new%29-2020",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180雅緻型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180旗艦型",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 250 AWD ST-Line",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2020,
+        "price_range": "119.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2020",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240珍藏型",
+                "price": "119.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo Wagon",
+        "year": 2020,
+        "price_range": "132.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2020",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240跑旅車型",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2020,
+        "price_range": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2020",
+        "variants": [
+            {
+                "trim_name": "EcoBoost Premium",
+                "price": "196.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "290hp@5400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Premium",
+                "price": "243.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5038cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2020,
+        "price_range": "104.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2020",
+        "variants": [
+            {
+                "trim_name": "職人型",
+                "price": "104.8",
+                "body_type": "4門 2+2人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "全能型",
+                "price": "119.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "運動型",
+                "price": "149.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "213hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2020,
+        "price_range": "146.9 - 168.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2020",
+        "variants": [
+            {
+                "trim_name": "九座長軸尊爵型",
+                "price": "146.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "長軸尊爵型",
+                "price": "149.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3250~3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "短軸豪華型",
+                "price": "163.3",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "長軸豪華型",
+                "price": "168.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport",
+        "year": 2019,
+        "price_range": "69.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2019",
+        "variants": [
+            {
+                "trim_name": "1.5都會時尚型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125旗艦型",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escort",
+        "year": 2019,
+        "price_range": "57.9 - 67.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escort-2019",
+        "variants": [
+            {
+                "trim_name": "1.5雅緻型",
+                "price": "57.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "113hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5時尚型",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "113hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2019,
+        "price_range": "64.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2019",
+        "variants": [
+            {
+                "trim_name": "1.5運動型",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125運動型",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2019,
+        "price_range": "76.8 - 87.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2019",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182時尚型",
+                "price": "76.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 17 TSR",
+                "price": "87.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2019,
+        "price_range": "67.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2019",
+        "variants": [
+            {
+                "trim_name": "1.5 Ti-VCT時尚型",
+                "price": "67.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182時尚經典型",
+                "price": "78.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "ST-Line",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2019,
+        "price_range": "85.9 - 113.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2019",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 182全民便利型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 182 CP360型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 245 CP360旗艦型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油CP360型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2019,
+        "price_range": "125.9 - 125.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2019",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240",
+                "price": "125.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo Wagon",
+        "year": 2019,
+        "price_range": "135.9 - 135.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2019",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240",
+                "price": "135.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo Wagon(NEW)",
+        "year": 2019,
+        "price_range": "132.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon%28new%29-2019",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2019,
+        "price_range": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2019",
+        "variants": [
+            {
+                "trim_name": "EcoBoost Premium",
+                "price": "196.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "290hp@5400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Premium",
+                "price": "243.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5038cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2019,
+        "price_range": "146.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 Bi-Turbo Wildtrak",
+                "price": "146.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "213hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Bi-Turbo Wildtrak旗艦型",
+                "price": "149.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1996cc",
+                "horsepower": "213hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2019,
+        "price_range": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2019",
+        "variants": [
+            {
+                "trim_name": "長軸尊爵型",
+                "price": "146.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "短軸豪華型",
+                "price": "163.3",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "長軸豪華型",
+                "price": "165.3",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport",
+        "year": 2018,
+        "price_range": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2018",
+        "variants": [
+            {
+                "trim_name": "1.5都會時尚型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5都會尊貴型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport(NEW)",
+        "year": 2018,
+        "price_range": "69.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport%28new%29-2018",
+        "variants": [
+            {
+                "trim_name": "1.5都會時尚型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "123hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125旗艦型",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escort",
+        "year": 2018,
+        "price_range": "57.9 - 67.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escort-2018",
+        "variants": [
+            {
+                "trim_name": "1.5雅緻型",
+                "price": "57.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "113hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5時尚型",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "113hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2018,
+        "price_range": "64.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2018",
+        "variants": [
+            {
+                "trim_name": "1.5運動型",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125運動型",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2018,
+        "price_range": "69.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2018",
+        "variants": [
+            {
+                "trim_name": "1.6時尚經典型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚經典型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2018,
+        "price_range": "67.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2018",
+        "variants": [
+            {
+                "trim_name": "1.6時尚型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚型",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180頂級運動型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2018,
+        "price_range": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2018",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180雅緻型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚經典型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "EcoBoost 245旗艦型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2018,
+        "price_range": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2018",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240",
+                "price": "125.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi",
+                "price": "132.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Hybrid",
+                "price": "139.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "190hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo Wagon",
+        "year": 2018,
+        "price_range": "135.9 - 135.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-wagon-2018",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240",
+                "price": "135.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2018,
+        "price_range": "196.9 - 243.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2018",
+        "variants": [
+            {
+                "trim_name": "EcoBoost Premium",
+                "price": "196.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "290hp@5400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Premium",
+                "price": "243.9",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5038cc",
+                "horsepower": "450hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2018,
+        "price_range": "143.9 - 143.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2018",
+        "variants": [
+            {
+                "trim_name": "3,2 Wildtrak",
+                "price": "143.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3198cc",
+                "horsepower": "200hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2018,
+        "price_range": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2018",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "146.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "165.3",
+                "body_type": "5門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom(NEW)",
+        "year": 2018,
+        "price_range": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom%28new%29-2018",
+        "variants": [
+            {
+                "trim_name": "長軸尊爵型",
+                "price": "146.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "短軸豪華型",
+                "price": "163.3",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "長軸豪華型",
+                "price": "165.3",
+                "body_type": "5門 8人座",
+                "engine_cc": "1995cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport",
+        "year": 2017,
+        "price_range": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2017",
+        "variants": [
+            {
+                "trim_name": "1.5都會時尚型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5都會尊貴型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5燻黑勁裝版",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2017,
+        "price_range": "60.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2017",
+        "variants": [
+            {
+                "trim_name": "1.5時尚型",
+                "price": "60.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5運動型",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125運動型",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2017,
+        "price_range": "64.5 - 83.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2017",
+        "variants": [
+            {
+                "trim_name": "1.6汽油舒適型",
+                "price": "64.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油時尚型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125汽油時尚經典型",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油時尚型",
+                "price": "83.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2017,
+        "price_range": "67.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2017",
+        "variants": [
+            {
+                "trim_name": "1.6汽油時尚型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125汽油時尚型",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180汽油時尚型",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油時尚型",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "EcoBoost 180汽油頂級運動型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2017,
+        "price_range": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2017",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180雅緻型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚經典型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "182hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 245時尚經典型",
+                "price": "111.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 245旗艦型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "245hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2017,
+        "price_range": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2017",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240",
+                "price": "125.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi",
+                "price": "129.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Hybrid",
+                "price": "139.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "190hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2017,
+        "price_range": "186.8 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2017",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 320",
+                "price": "186.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "317hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 GT",
+                "price": "235",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4951cc",
+                "horsepower": "421hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2017,
+        "price_range": "143.9 - 143.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2017",
+        "variants": [
+            {
+                "trim_name": "3,2 Wildtrak",
+                "price": "143.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3198cc",
+                "horsepower": "200hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2017,
+        "price_range": "146.9 - 165.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2017",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "146.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "130hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "165.3",
+                "body_type": "5門 9人座",
+                "engine_cc": "1995cc",
+                "horsepower": "170hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport",
+        "year": 2016,
+        "price_range": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2016",
+        "variants": [
+            {
+                "trim_name": "1.5都會時尚型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5都會尊貴型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2016,
+        "price_range": "58.5 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2016",
+        "variants": [
+            {
+                "trim_name": "1.5雅緻型",
+                "price": "58.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5時尚型",
+                "price": "60.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5運動型",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125運動型",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2016,
+        "price_range": "64.5 - 83.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2016",
+        "variants": [
+            {
+                "trim_name": "1.6汽油舒適型",
+                "price": "64.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油時尚型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125汽油時尚經典型",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油時尚型",
+                "price": "83.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2016,
+        "price_range": "67.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2016",
+        "variants": [
+            {
+                "trim_name": "1.6汽油時尚型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 125汽油時尚型",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180汽油時尚型",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi柴油時尚型",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "EcoBoost 180汽油頂級運動型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2016,
+        "price_range": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2016",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 180雅緻型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 180時尚經典型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 240時尚經典型",
+                "price": "107.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "EcoBoost 240旗艦型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油時尚經典型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2016,
+        "price_range": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2016",
+        "variants": [
+            {
+                "trim_name": "EcoBoost 240",
+                "price": "125.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi",
+                "price": "129.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Hybrid",
+                "price": "139.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "190hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2016,
+        "price_range": "186.8 - 235",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2016",
+        "variants": [
+            {
+                "trim_name": "2.3 EcoBoost",
+                "price": "186.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "314hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 GT",
+                "price": "235",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4951cc",
+                "horsepower": "421hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2016,
+        "price_range": "143.9 - 143.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2016",
+        "variants": [
+            {
+                "trim_name": "3,2 Wildtrak",
+                "price": "143.9",
+                "body_type": "4門 2人座",
+                "engine_cc": "3198cc",
+                "horsepower": "200hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2016,
+        "price_range": "129.9 - 154.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2016",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "129.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "2198cc",
+                "horsepower": "125hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "尊爵型(選配後座獨立空調)",
+                "price": "134.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "2198cc",
+                "horsepower": "125hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "154.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "2198cc",
+                "horsepower": "155hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport",
+        "year": 2015,
+        "price_range": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2015",
+        "variants": [
+            {
+                "trim_name": "1.5都會時尚型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5都會尊貴型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2015,
+        "price_range": "58.5 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2015",
+        "variants": [
+            {
+                "trim_name": "1.5雅緻型",
+                "price": "58.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5時尚型",
+                "price": "60.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5運動型",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.0 EcoBoost運動型",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2015,
+        "price_range": "59.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2015",
+        "variants": [
+            {
+                "trim_name": "1.6汽油舒適型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油運動型",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油時尚經典型",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2015,
+        "price_range": "67.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2015",
+        "variants": [
+            {
+                "trim_name": "1.6汽油時尚型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油時尚經典型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "170hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油運動型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "170hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油頂級運動型",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "ST",
+                "price": "138.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2015,
+        "price_range": "85.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2015",
+        "variants": [
+            {
+                "trim_name": "1.5雅緻型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5時尚型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5時尚經典型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0時尚經典型",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油時尚經典型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2015,
+        "price_range": "125.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2015",
+        "variants": [
+            {
+                "trim_name": "2.0 EcoBoost",
+                "price": "125.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi",
+                "price": "129.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "180hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Hybrid",
+                "price": "139.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "190hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo TDCi",
+        "year": 2015,
+        "price_range": "96.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-tdci-2015",
+        "variants": [
+            {
+                "trim_name": "2.0經典型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0豪華型",
+                "price": "105.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2015,
+        "price_range": "186.8 - 186.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2015",
+        "variants": [
+            {
+                "trim_name": "2.3 EcoBoost",
+                "price": "186.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2261cc",
+                "horsepower": "314hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2015,
+        "price_range": "139.5 - 139.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2015",
+        "variants": [
+            {
+                "trim_name": "Wildtrak運動旗艦型",
+                "price": "139.5",
+                "body_type": "4門 2人座",
+                "engine_cc": "3198cc",
+                "horsepower": "200hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Tourneo Custom",
+        "year": 2015,
+        "price_range": "129.9 - 154.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-tourneo-custom-2015",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "129.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "2198cc",
+                "horsepower": "125hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "尊爵型(選配後座獨立空調)",
+                "price": "134.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "2198cc",
+                "horsepower": "125hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "154.9",
+                "body_type": "5門 9人座",
+                "engine_cc": "2198cc",
+                "horsepower": "155hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford EcoSport",
+        "year": 2014,
+        "price_range": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ecosport-2014",
+        "variants": [
+            {
+                "trim_name": "1.5都會時尚型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5都會尊貴型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2014,
+        "price_range": "58.5 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2014",
+        "variants": [
+            {
+                "trim_name": "1.5雅緻型",
+                "price": "58.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5時尚型",
+                "price": "60.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5運動型",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "112hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.0 EcoBoost運動型",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "125hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2014,
+        "price_range": "59.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2014",
+        "variants": [
+            {
+                "trim_name": "1.6汽油舒適型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油運動型",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油豪華型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油時尚經典型",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2014,
+        "price_range": "67.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2014",
+        "variants": [
+            {
+                "trim_name": "1.6汽油時尚型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油時尚經典型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "170hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油運動型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "170hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油頂級運動型",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "ST",
+                "price": "138.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2014,
+        "price_range": "88.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2014",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "88.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "177hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6時尚型",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "177hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6時尚經典型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "177hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0運動型",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2014,
+        "price_range": "96.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2014",
+        "variants": [
+            {
+                "trim_name": "2.0 TDCi經典型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost經典型",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi豪華型",
+                "price": "105.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost豪華型",
+                "price": "109.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost運動旗艦型",
+                "price": "119.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2014,
+        "price_range": "139.5 - 139.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2014",
+        "variants": [
+            {
+                "trim_name": "Wildtrak運動旗艦型",
+                "price": "139.5",
+                "body_type": "4門 2人座",
+                "engine_cc": "3198cc",
+                "horsepower": "200hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escape",
+        "year": 2013,
+        "price_range": "67.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2013",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD XLS",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 2WD XLT",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta 4D",
+        "year": 2013,
+        "price_range": "58.8 - 58.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-4d-2013",
+        "variants": [
+            {
+                "trim_name": "1.6 Powershift時尚版",
+                "price": "58.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "122hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta 5D",
+        "year": 2013,
+        "price_range": "64.8 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-5d-2013",
+        "variants": [
+            {
+                "trim_name": "1.6 Powershift運動版",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "122hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4時尚版",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1388cc",
+                "horsepower": "96hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Titanium運動版",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2013,
+        "price_range": "59.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2013",
+        "variants": [
+            {
+                "trim_name": "1.6汽油舒適型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油時尚經典型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6汽油豪華型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油時尚經典型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2013,
+        "price_range": "66.9 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2013",
+        "variants": [
+            {
+                "trim_name": "1.6汽油時尚型",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "125hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油時尚經典型",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "170hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油運動型",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "170hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油頂級運動型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "ST",
+                "price": "138.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Kuga",
+        "year": 2013,
+        "price_range": "88.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-kuga-2013",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "88.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "177hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6時尚型",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "177hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6時尚經典型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "177hp@5700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0運動型",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "242hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2013,
+        "price_range": "88.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2013",
+        "variants": [
+            {
+                "trim_name": "2.3高效汽油經典型",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi經典型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost經典型",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi豪華型",
+                "price": "105.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost豪華型",
+                "price": "109.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost運動旗艦型",
+                "price": "119.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mustang",
+        "year": 2013,
+        "price_range": "179.8 - 179.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mustang-2013",
+        "variants": [
+            {
+                "trim_name": "3.7 V6",
+                "price": "179.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3726cc",
+                "horsepower": "305hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2013,
+        "price_range": "139.5 - 139.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2013",
+        "variants": [
+            {
+                "trim_name": "Wildtrak運動旗艦型",
+                "price": "139.5",
+                "body_type": "4門 2人座",
+                "engine_cc": "3198cc",
+                "horsepower": "200hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escape",
+        "year": 2012,
+        "price_range": "67.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2012",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD XLS",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 2WD XLT",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta 4D",
+        "year": 2012,
+        "price_range": "58.8 - 58.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-4d-2012",
+        "variants": [
+            {
+                "trim_name": "1.6 Powershift時尚版",
+                "price": "58.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "122hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta 5D",
+        "year": 2012,
+        "price_range": "64.8 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-5d-2012",
+        "variants": [
+            {
+                "trim_name": "1.6 Powershift運動版",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "122hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4時尚版",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1388cc",
+                "horsepower": "96hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Titanium運動版",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2012,
+        "price_range": "60.5 - 79.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2012",
+        "variants": [
+            {
+                "trim_name": "Comfort 1.8經典款",
+                "price": "60.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia 1.8豪華款",
+                "price": "65.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "TDCi Ghia 2.0豪華經典款",
+                "price": "79.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2012,
+        "price_range": "63.5 - 88.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2012",
+        "variants": [
+            {
+                "trim_name": "Comfort 1.8經典款",
+                "price": "63.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sports 2.0運動旗艦款",
+                "price": "68.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "TDCi 2.0運動時尚款",
+                "price": "81.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "TDCi 2.0運動旗艦款",
+                "price": "88.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2012,
+        "price_range": "88.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2012",
+        "variants": [
+            {
+                "trim_name": "2.3高效汽油經典型",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi經典型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost經典型",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi豪華型",
+                "price": "105.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost豪華型",
+                "price": "109.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost運動旗艦型",
+                "price": "119.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2012,
+        "price_range": "128.8 - 128.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2012",
+        "variants": [
+            {
+                "trim_name": "TDCi",
+                "price": "128.8",
+                "body_type": "4門 2人座",
+                "engine_cc": "2953cc",
+                "horsepower": "156hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escape",
+        "year": 2011,
+        "price_range": "65.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2011",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD XLS",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 2WD XLT",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2011,
+        "price_range": "68.9 - 75.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2011",
+        "variants": [
+            {
+                "trim_name": "1.4時尚版",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1388cc",
+                "horsepower": "96hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4時尚版(鈦銀紫)",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1388cc",
+                "horsepower": "96hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6運動版",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6運動版(鈦銀紫)",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 4D",
+        "year": 2011,
+        "price_range": "59.5 - 78.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-4d-2011",
+        "variants": [
+            {
+                "trim_name": "Comfort 1.8經典款",
+                "price": "59.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia 1.8豪華款",
+                "price": "64.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "TDCi Ghia 2.0豪華經典款",
+                "price": "78.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus 5D",
+        "year": 2011,
+        "price_range": "62.5 - 87.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-5d-2011",
+        "variants": [
+            {
+                "trim_name": "Comfort 1.8經典款",
+                "price": "62.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sports 2.0運動旗艦款",
+                "price": "67.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "TDCi 2.0運動時尚款",
+                "price": "80.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "TDCi 2.0運動旗艦款",
+                "price": "87.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford i-Max",
+        "year": 2011,
+        "price_range": "70.6 - 88.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2011",
+        "variants": [
+            {
+                "trim_name": "GLX五人座",
+                "price": "70.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia七人座",
+                "price": "77.6",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia Ltd六人座",
+                "price": "88.6",
+                "body_type": "5門 6人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2011,
+        "price_range": "88.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2011",
+        "variants": [
+            {
+                "trim_name": "2.3高效汽油經典型",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi經典型",
+                "price": "96",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost經典型",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi豪華型",
+                "price": "105.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 TDCi運動旗艦型",
+                "price": "109",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "163hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost豪華型",
+                "price": "109.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 EcoBoost運動旗艦型",
+                "price": "119.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2011,
+        "price_range": "128.8 - 128.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2011",
+        "variants": [
+            {
+                "trim_name": "TDCi",
+                "price": "128.8",
+                "body_type": "4門 2人座",
+                "engine_cc": "2953cc",
+                "horsepower": "156hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Econovan",
+        "year": 2010,
+        "price_range": "45.3 - 45.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-econovan-2010",
+        "variants": [
+            {
+                "trim_name": "底盤車",
+                "price": "45.3",
+                "body_type": "2門 3人座",
+                "engine_cc": "1998cc",
+                "horsepower": "100hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "貨車",
+                "price": "45.9",
+                "body_type": "2門 3人座",
+                "engine_cc": "1998cc",
+                "horsepower": "100hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escape",
+        "year": 2010,
+        "price_range": "65.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2010",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD XLS",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 2WD XLT",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2010,
+        "price_range": "68.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2010",
+        "variants": [
+            {
+                "trim_name": "1.4時尚版",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1388cc",
+                "horsepower": "96hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4時尚版(鈦銀紫)",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1388cc",
+                "horsepower": "96hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6運動版",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus",
+        "year": 2010,
+        "price_range": "57.9 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-2010",
+        "variants": [
+            {
+                "trim_name": "Comfort 1.8四門經典款",
+                "price": "57.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Comfort 1.8五門經典款",
+                "price": "60.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia 1.8四門豪華款",
+                "price": "62.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sports 2.0五門運動旗艦款",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "TDCi Ghia 2.0四門豪華經典款",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "TDCi 2.0五門運動時尚款",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "TDCi 2.0五門運動旗艦款",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford i-Max",
+        "year": 2010,
+        "price_range": "70.6 - 88.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2010",
+        "variants": [
+            {
+                "trim_name": "GLX五人座",
+                "price": "70.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia七人座",
+                "price": "77.6",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia Ltd六人座",
+                "price": "88.6",
+                "body_type": "5門 6人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2010,
+        "price_range": "83.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2010",
+        "variants": [
+            {
+                "trim_name": "2.3汽油經典型",
+                "price": "83.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油經典型",
+                "price": "91.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.3汽油旗艦型",
+                "price": "92.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0柴油豪華型",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0柴油運動旗艦型",
+                "price": "104.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Ranger",
+        "year": 2010,
+        "price_range": "126.8 - 126.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-ranger-2010",
+        "variants": [
+            {
+                "trim_name": "TDCi",
+                "price": "126.8",
+                "body_type": "4門 2人座",
+                "engine_cc": "2953cc",
+                "horsepower": "156hp@3000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Econovan",
+        "year": 2009,
+        "price_range": "40.3 - 57.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-econovan-2009",
+        "variants": [
+            {
+                "trim_name": "底盤車",
+                "price": "40.3",
+                "body_type": "2門 3人座",
+                "engine_cc": "1998cc",
+                "horsepower": "100hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "貨車",
+                "price": "44.6",
+                "body_type": "2門 3人座",
+                "engine_cc": "1998cc",
+                "horsepower": "100hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "商務車",
+                "price": "57.1",
+                "body_type": "5門 9人座",
+                "engine_cc": "1998cc",
+                "horsepower": "100hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escape",
+        "year": 2009,
+        "price_range": "63.9 - 70.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2009",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD XLS",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 2WD XLT",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Fiesta",
+        "year": 2009,
+        "price_range": "64.9 - 70.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-fiesta-2009",
+        "variants": [
+            {
+                "trim_name": "Trend 1.4",
+                "price": "64.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1388cc",
+                "horsepower": "96hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Titanium 1.6",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1596cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus Powershift",
+        "year": 2009,
+        "price_range": "0.6 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-powershift-2009",
+        "variants": [
+            {
+                "trim_name": "Comfort 1.8汽油Test",
+                "price": "0.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Comfort 1.8汽油四門經典型",
+                "price": "58.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Comfort 1.8汽油五門經典型",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia 1.8汽油四門豪華型",
+                "price": "63.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia 2.0汽油四門豪華旗艦型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sports 2.0汽油五門經典型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "TDCi Ghia 2.0柴油四門豪華經典型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "TDCi Sports 2.0柴油五門運動時尚型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "TDCi Sports 2.0柴油五門運動旗艦型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford i-Max",
+        "year": 2009,
+        "price_range": "68.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2009",
+        "variants": [
+            {
+                "trim_name": "GLX五人座",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia七人座",
+                "price": "75.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia-Ltd六人座",
+                "price": "86.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2009,
+        "price_range": "83.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2009",
+        "variants": [
+            {
+                "trim_name": "2.3 汽油經典型",
+                "price": "83.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 汽油豪華型",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 柴油經典型",
+                "price": "90.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.3 汽油旗艦型",
+                "price": "92.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 柴油豪華型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 柴油運動旗艦型",
+                "price": "103.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Escape",
+        "year": 2008,
+        "price_range": "69.9 - 106.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-escape-2008",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD XLS",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 2WD XLT",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 V6",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2967cc",
+                "horsepower": "197hp@5900rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Focus",
+        "year": 2008,
+        "price_range": "57.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-focus-2008",
+        "variants": [
+            {
+                "trim_name": "1.8 Komfort",
+                "price": "57.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 Romantische",
+                "price": "60.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 Ghia",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "132hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S2.0",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Ghia",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi 4D",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 TDCi 5D",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford i-Max",
+        "year": 2008,
+        "price_range": "69.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-i-max-2008",
+        "variants": [
+            {
+                "trim_name": "GLX",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia",
+                "price": "76.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia-X",
+                "price": "81.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Ghia-Ltd",
+                "price": "86.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "1999cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model_name": "Ford Mondeo",
+        "year": 2008,
+        "price_range": "81.9 - 101",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ford-mondeo-2008",
+        "variants": [
+            {
+                "trim_name": "2.3 經典型",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 豪華型",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi 經典型",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.3 旗艦型",
+                "price": "94.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "165hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TDCi 豪華型",
+                "price": "94.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 TDCi 運動旗艦型",
+                "price": "101",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     }
 ]

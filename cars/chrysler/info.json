@@ -1,44 +1,169 @@
 [
     {
         "brand": "Chrysler",
-        "model": "2010 Chrysler Town & Country",
-        "price": "117.9 - 125.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2010"
+        "model_name": "Chrysler Town & Country",
+        "year": 2010,
+        "price_range": "117.9 - 125.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2010",
+        "variants": [
+            {
+                "trim_name": "3.3 豪華型",
+                "price": "117.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.3 旗艦型",
+                "price": "125.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Chrysler",
-        "model": "2009 Chrysler 300C",
-        "price": "179.9 - 179.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-300c-2009"
+        "model_name": "Chrysler 300C",
+        "year": 2009,
+        "price_range": "179.9 - 179.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-300c-2009",
+        "variants": [
+            {
+                "trim_name": "2.7",
+                "price": "179.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2736cc",
+                "horsepower": "190hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Chrysler",
-        "model": "2009 Chrysler PT Cruiser",
-        "price": "102.5 - 102.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-pt-cruiser-2009"
+        "model_name": "Chrysler PT Cruiser",
+        "year": 2009,
+        "price_range": "102.5 - 102.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-pt-cruiser-2009",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "102.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2429cc",
+                "horsepower": "141hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Chrysler",
-        "model": "2009 Chrysler Town & Country",
-        "price": "99.9 - 124.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2009"
+        "model_name": "Chrysler Town & Country",
+        "year": 2009,
+        "price_range": "99.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2009",
+        "variants": [
+            {
+                "trim_name": "3.3 精緻型",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.3 豪華型",
+                "price": "116.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.3 旗艦型",
+                "price": "124.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Chrysler",
-        "model": "2008 Chrysler 300C",
-        "price": "179.9 - 198",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-300c-2008"
+        "model_name": "Chrysler 300C",
+        "year": 2008,
+        "price_range": "179.9 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-300c-2008",
+        "variants": [
+            {
+                "trim_name": "2.7",
+                "price": "179.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2736cc",
+                "horsepower": "190hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.5",
+                "price": "198",
+                "body_type": "4門 5人座",
+                "engine_cc": "3518cc",
+                "horsepower": "245hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Chrysler",
-        "model": "2008 Chrysler PT Cruiser",
-        "price": "102.5 - 102.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-pt-cruiser-2008"
+        "model_name": "Chrysler PT Cruiser",
+        "year": 2008,
+        "price_range": "102.5 - 102.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-pt-cruiser-2008",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "102.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2429cc",
+                "horsepower": "141hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Chrysler",
-        "model": "2008 Chrysler Town & Country",
-        "price": "99.9 - 122.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2008"
+        "model_name": "Chrysler Town & Country",
+        "year": 2008,
+        "price_range": "99.9 - 122.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/chrysler-town-amp-country-2008",
+        "variants": [
+            {
+                "trim_name": "3.3 精緻型",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.3 豪華型",
+                "price": "115.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.3 旗艦型",
+                "price": "122.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3301cc",
+                "horsepower": "174hp@5100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

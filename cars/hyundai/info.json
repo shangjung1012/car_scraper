@@ -1,800 +1,5159 @@
 [
     {
         "brand": "Hyundai",
-        "model": "2024 Hyundai Custin",
-        "price": "132.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-custin-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Ioniq 5",
-        "price": "159.9 - 259.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-5-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Ioniq 6",
-        "price": "159.9 - 209.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-6-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Kona Electric",
-        "price": "139.9 - 154.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Santa Fe",
-        "price": "172.9 - 202.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Staria",
-        "price": "158.8 - 222.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-staria-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Tucson L",
-        "price": "101.9 - 128.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-l-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Venue",
-        "price": "72.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2024 Hyundai Venue(NEW)",
-        "price": "73.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue%28new%29-2024"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Custin",
-        "price": "132.9 - 146.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-custin-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Ioniq 5",
-        "price": "159.9 - 207.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-5-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Ioniq 6",
-        "price": "169.9 - 209.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-6-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Kona",
-        "price": "98.9 - 107.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Kona Electric",
-        "price": "131.9 - 162.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Santa Fe",
-        "price": "154.9 - 181.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Staria",
-        "price": "156.8 - 217.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-staria-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Tucson L",
-        "price": "99.9 - 128.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-l-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2023 Hyundai Venue",
-        "price": "68.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2023"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2022 Hyundai Ioniq 5",
-        "price": "148 - 192",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-5-2022"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2022 Hyundai Kona",
-        "price": "95.9 - 107.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2022"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2022 Hyundai Kona Electric",
-        "price": "131.9 - 162.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2022"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2022 Hyundai Santa Fe",
-        "price": "149.9 - 196.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2022"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2022 Hyundai Staria",
-        "price": "156.8 - 217.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-satria-2022"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2022 Hyundai Tucson L",
-        "price": "97.9 - 106.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-l-2022"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2022 Hyundai Venue",
-        "price": "68.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2022"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Elantra",
-        "price": "65.9 - 85.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Grand Starex",
-        "price": "139.8 - 156.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Ioniq",
-        "price": "105.9 - 105.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Kona",
-        "price": "79.9 - 102.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Kona Electric",
-        "price": "124.9 - 154.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Kona(NEW)",
-        "price": "84.9 - 99.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona%28new%29-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Santa Fe",
-        "price": "129.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Santa Fe(NEW)",
-        "price": "139.9 - 184.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe%28new%29-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Tucson",
-        "price": "84.9 - 105.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2021 Hyundai Venue",
-        "price": "65.9 - 75.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2021"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2020 Hyundai Elantra",
-        "price": "64.9 - 85.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2020"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2020 Hyundai Grand Starex",
-        "price": "137.8 - 149.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2020"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2020 Hyundai Kona",
-        "price": "79.9 - 102.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2020"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2020 Hyundai Santa Fe",
-        "price": "129.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2020"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2020 Hyundai Tucson",
-        "price": "84.9 - 114.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2020"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2020 Hyundai Veloster",
-        "price": "115.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2020"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Elantra",
-        "price": "59.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Elantra(NEW)",
-        "price": "64.9 - 85.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra%28new%29-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Grand Starex",
-        "price": "137.8 - 155.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Ioniq",
-        "price": "101.9 - 101.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Kona",
-        "price": "79.9 - 98.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Santa Fe",
-        "price": "102.9 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Tucson",
-        "price": "82.9 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Tucson(NEW)",
-        "price": "89.9 - 114.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson%28new%29-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2019 Hyundai Veloster",
-        "price": "115.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2019"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2018 Hyundai Elantra",
-        "price": "59.9 - 111.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2018"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2018 Hyundai Grand Starex",
-        "price": "135.8 - 149.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2018"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2018 Hyundai Ioniq",
-        "price": "101.9 - 101.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2018"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2018 Hyundai Santa Fe",
-        "price": "102.9 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2018"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2018 Hyundai Tucson",
-        "price": "82.9 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2018"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Elantra EX",
-        "price": "69.9 - 75.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-ex-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Elantra(NEW)",
-        "price": "64.9 - 109.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-new-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Genesis",
-        "price": "288 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-genesis-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Grand Starex",
-        "price": "135.8 - 149.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Ioniq",
-        "price": "99.9 - 99.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Santa Fe",
-        "price": "103.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Santa Fe(NEW)",
-        "price": "99.8 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-new-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Tucson",
-        "price": "82.9 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Veloster",
-        "price": "117.9 - 117.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2017 Hyundai Verna",
-        "price": "53.9 - 59.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-verna-2017"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Elantra EX",
-        "price": "69.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-ex-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Genesis",
-        "price": "288 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-genesis-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Grand Starex",
-        "price": "135.8 - 149.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai i10",
-        "price": "44.9 - 51.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai ix35",
-        "price": "78.9 - 102.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Santa Fe",
-        "price": "103.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Sonata",
-        "price": "135.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Tucson",
-        "price": "82.9 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Veloster",
-        "price": "109.9 - 115.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2016 Hyundai Verna",
-        "price": "55.9 - 67.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-verna-2016"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2015 Hyundai Elantra EX",
-        "price": "66.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-ex-2015"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2015 Hyundai i10",
-        "price": "44.9 - 51.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2015"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2015 Hyundai ix35",
-        "price": "77.9 - 101.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2015"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2015 Hyundai Santa Fe",
-        "price": "99.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2015"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2015 Hyundai Sonata",
-        "price": "135.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2015"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2015 Hyundai Veloster",
-        "price": "109.9 - 109.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2015"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2015 Hyundai Veloster(NEW)",
-        "price": "109.9 - 115.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-new-2015"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2014 Hyundai Azera",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2014"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2014 Hyundai Elantra",
-        "price": "65.9 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2014"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2014 Hyundai i10",
-        "price": "48.9 - 50.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2014"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2014 Hyundai ix35",
-        "price": "76.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2014"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2014 Hyundai Santa Fe",
-        "price": "102.9 - 147.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2014"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2014 Hyundai Veloster",
-        "price": "109 - 109",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2014"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai Azera",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai Elantra",
-        "price": "65.9 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai Grand Starex",
-        "price": "116.8 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai i10",
-        "price": "42.9 - 48.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai i30",
-        "price": "63.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai ix35",
-        "price": "76.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai Santa Fe",
-        "price": "109.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2013 Hyundai Sonata",
-        "price": "99.9 - 110.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2013"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai Azera",
-        "price": "168.8 - 168.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai Elantra",
-        "price": "68.9 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai Grand Starex",
-        "price": "111.8 - 131.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai i10",
-        "price": "41.9 - 47.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai i30",
-        "price": "59.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai i30 CW",
-        "price": "76.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-cw-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai ix35",
-        "price": "76.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai Santa Fe",
-        "price": "101.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2012 Hyundai Sonata",
-        "price": "91.9 - 110.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2012"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai Grand Starex",
-        "price": "111.8 - 131.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai i10",
-        "price": "39.9 - 51.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai i30",
-        "price": "59.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai i30 CW",
-        "price": "64.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-cw-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai ix35",
-        "price": "76.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai Matrix",
-        "price": "56.9 - 56.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-matrix-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai Santa Fe",
-        "price": "101.9 - 123.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2011 Hyundai Sonata",
-        "price": "89.9 - 108.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2011"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai Grand Starex",
-        "price": "111.8 - 131.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai i10",
-        "price": "39.9 - 51.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai i30",
-        "price": "58.9 - 65.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai i30 CW",
-        "price": "63.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-cw-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai ix35",
-        "price": "74.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai Matrix",
-        "price": "52.9 - 60.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-matrix-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai Porter",
-        "price": "62.9 - 69.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-porter-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2010 Hyundai Santa Fe",
-        "price": "94.9 - 118.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2010"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2009 Hyundai Getz",
-        "price": "46.9 - 50.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-getz-2009"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2009 Hyundai i10",
-        "price": "39.9 - 50.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2009"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2009 Hyundai i30",
-        "price": "58.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2009"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2009 Hyundai Lavita",
-        "price": "52.9 - 60.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-lavita-2009"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2009 Hyundai Santa Fe",
-        "price": "91.9 - 118.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2009"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2009 Hyundai Tucson",
-        "price": "70.9 - 91.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2009"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2008 Hyundai Azera",
-        "price": "158 - 158",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2008"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2008 Hyundai Getz",
-        "price": "46.9 - 50.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-getz-2008"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2008 Hyundai Matrix",
-        "price": "54.1 - 60.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-matrix-2008"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2008 Hyundai Santa Fe",
-        "price": "91.9 - 118.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2008"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2008 Hyundai Sonata",
-        "price": "89.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2008"
-    },
-    {
-        "brand": "Hyundai",
-        "model": "2008 Hyundai Tucson",
-        "price": "67.8 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2008"
+        "model_name": "Hyundai Custin",
+        "year": 2024,
+        "price_range": "132.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-custin-2024",
+        "variants": [
+            {
+                "trim_name": "GLT-A",
+                "price": "132.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1497cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLT-B",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1497cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq 5",
+        "year": 2024,
+        "price_range": "159.9 - 259.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-5-2024",
+        "variants": [
+            {
+                "trim_name": "EV400",
+                "price": "159.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 438km",
+                "horsepower": "167hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600",
+                "price": "187.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 612km",
+                "horsepower": "225hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600 Performance",
+                "price": "207.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 565km",
+                "horsepower": "321hp/61.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "N",
+                "price": "259.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 565km",
+                "horsepower": "650hp/78.5kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq 6",
+        "year": 2024,
+        "price_range": "159.9 - 209.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-6-2024",
+        "variants": [
+            {
+                "trim_name": "EV400",
+                "price": "159.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 546km",
+                "horsepower": "149hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600",
+                "price": "189.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 730km",
+                "horsepower": "225hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600 Performance",
+                "price": "209.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 618km",
+                "horsepower": "321hp/61.7kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona Electric",
+        "year": 2024,
+        "price_range": "139.9 - 154.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2024",
+        "variants": [
+            {
+                "trim_name": "EV450-A",
+                "price": "139.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 448km",
+                "horsepower": "133hp/26.0kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV450-B",
+                "price": "149.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 448km",
+                "horsepower": "133hp/26.0kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV450-C",
+                "price": "154.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 448km",
+                "horsepower": "133hp/26.0kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2024,
+        "price_range": "172.9 - 202.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2024",
+        "variants": [
+            {
+                "trim_name": "GLTH-A",
+                "price": "172.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp/37.4kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GLTH-B",
+                "price": "187.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp/37.4kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GLTH-B Premium",
+                "price": "192.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp/37.4kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GLTH-C",
+                "price": "197.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp/37.4kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "GLTH-C Premium",
+                "price": "202.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "218hp/37.4kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Staria",
+        "year": 2024,
+        "price_range": "158.8 - 222.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-staria-2024",
+        "variants": [
+            {
+                "trim_name": "GLD-A",
+                "price": "158.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "GLD-B",
+                "price": "170.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "GLD-C",
+                "price": "187.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "CEO-A",
+                "price": "211.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "CEO-B",
+                "price": "222.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson L",
+        "year": 2024,
+        "price_range": "101.9 - 128.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-l-2024",
+        "variants": [
+            {
+                "trim_name": "GLT-A",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLT-B",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Turbo Hybrid GLT-A",
+                "price": "110.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "N Line",
+                "price": "111.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Turbo Hybrid GLT-B",
+                "price": "120.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Turbo Hybrid GLT-C",
+                "price": "128.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Venue",
+        "year": 2024,
+        "price_range": "72.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2024",
+        "variants": [
+            {
+                "trim_name": "GLB",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB 懷特黑",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB 義式咖",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC 懷特黑",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC 義式咖",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Venue(NEW)",
+        "year": 2024,
+        "price_range": "73.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue%28new%29-2024",
+        "variants": [
+            {
+                "trim_name": "GLA",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Custin",
+        "year": 2023,
+        "price_range": "132.9 - 146.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-custin-2023",
+        "variants": [
+            {
+                "trim_name": "GLT-A旗艦",
+                "price": "132.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1497cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLT-B VIP",
+                "price": "146.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1497cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq 5",
+        "year": 2023,
+        "price_range": "159.9 - 207.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-5-2023",
+        "variants": [
+            {
+                "trim_name": "EV400",
+                "price": "159.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 438km",
+                "horsepower": "167hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600",
+                "price": "187.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 612km",
+                "horsepower": "225hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600 Performance",
+                "price": "207.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 565km",
+                "horsepower": "321hp/61.7kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq 6",
+        "year": 2023,
+        "price_range": "169.9 - 209.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-6-2023",
+        "variants": [
+            {
+                "trim_name": "EV400",
+                "price": "169.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 546km",
+                "horsepower": "149hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600",
+                "price": "189.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 730km",
+                "horsepower": "225hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV600 Performance",
+                "price": "209.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 618km",
+                "horsepower": "321hp/61.7kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona",
+        "year": 2023,
+        "price_range": "98.9 - 107.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2023",
+        "variants": [
+            {
+                "trim_name": "1.6t N Line GLT-A",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t N Line GLT-B",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona Electric",
+        "year": 2023,
+        "price_range": "131.9 - 162.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2023",
+        "variants": [
+            {
+                "trim_name": "EV300",
+                "price": "131.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 312km",
+                "horsepower": "136hp/40.3kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV500",
+                "price": "162.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 482km",
+                "horsepower": "204hp/40.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2023,
+        "price_range": "154.9 - 181.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2023",
+        "variants": [
+            {
+                "trim_name": "渦輪油電GLTH-A",
+                "price": "154.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "柴油GLD-B",
+                "price": "167.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2151cc",
+                "horsepower": "193hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-C",
+                "price": "179.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-C六人座",
+                "price": "181.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Staria",
+        "year": 2023,
+        "price_range": "156.8 - 217.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-staria-2023",
+        "variants": [
+            {
+                "trim_name": "GLD-A",
+                "price": "156.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "GLD-B",
+                "price": "168.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "GLD-C",
+                "price": "184.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "CEO-A",
+                "price": "206.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "CEO-B",
+                "price": "217.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson L",
+        "year": 2023,
+        "price_range": "99.9 - 128.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-l-2023",
+        "variants": [
+            {
+                "trim_name": "GLT-A",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLT-B",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Turbo Hybrid GLT-A",
+                "price": "110.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Turbo Hybrid GLT-B",
+                "price": "120.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Turbo Hybrid GLT-C",
+                "price": "128.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp/35.7kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Venue",
+        "year": 2023,
+        "price_range": "68.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2023",
+        "variants": [
+            {
+                "trim_name": "GLA",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB 懷特黑B&W",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC 懷特黑B&W",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq 5",
+        "year": 2022,
+        "price_range": "148 - 192",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-5-2022",
+        "variants": [
+            {
+                "trim_name": "EV400",
+                "price": "148",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 438km",
+                "horsepower": "169hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV500",
+                "price": "172",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 567km",
+                "horsepower": "217hp/35.6kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV500 Performance",
+                "price": "192",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 496km",
+                "horsepower": "306hp/61.9kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona",
+        "year": 2022,
+        "price_range": "95.9 - 107.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2022",
+        "variants": [
+            {
+                "trim_name": "1.6t勁化",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t N Line GLT-A",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t N Line GLT-B",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona Electric",
+        "year": 2022,
+        "price_range": "131.9 - 162.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2022",
+        "variants": [
+            {
+                "trim_name": "EV300",
+                "price": "131.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 312km",
+                "horsepower": "136hp/40.3kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV500",
+                "price": "162.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 482km",
+                "horsepower": "204hp/40.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2022,
+        "price_range": "149.9 - 196.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2022",
+        "variants": [
+            {
+                "trim_name": "渦輪油電GLTH-B Premium",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "柴油GLD-A",
+                "price": "157.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2151cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油GLD-B",
+                "price": "167.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2151cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-C",
+                "price": "175.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-C六人座",
+                "price": "177.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "柴油GLD-C",
+                "price": "182.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2151cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-D",
+                "price": "194.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-D六人座",
+                "price": "196.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Staria",
+        "year": 2022,
+        "price_range": "156.8 - 217.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-satria-2022",
+        "variants": [
+            {
+                "trim_name": "GLD-A",
+                "price": "156.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "GLD-B",
+                "price": "168.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "GLD-C",
+                "price": "184.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "CEO-A",
+                "price": "206.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "CEO-B",
+                "price": "217.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "177hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson L",
+        "year": 2022,
+        "price_range": "97.9 - 106.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-l-2022",
+        "variants": [
+            {
+                "trim_name": "GLT-A",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLT-B",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "180hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Venue",
+        "year": 2022,
+        "price_range": "68.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2022",
+        "variants": [
+            {
+                "trim_name": "GLA",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB 懷特黑B&W",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC 懷特黑B&W",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra",
+        "year": 2021,
+        "price_range": "65.9 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2021",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "菁英型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "驚艷旗艦型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport極速型",
+                "price": "85.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2021,
+        "price_range": "139.8 - 156.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2021",
+        "variants": [
+            {
+                "trim_name": "尊貴",
+                "price": "139.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦",
+                "price": "150.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦(天窗)",
+                "price": "156.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq",
+        "year": 2021,
+        "price_range": "105.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2021",
+        "variants": [
+            {
+                "trim_name": "Hybrid 1.6",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1580cc",
+                "horsepower": "141hp/27kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona",
+        "year": 2021,
+        "price_range": "79.9 - 102.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2021",
+        "variants": [
+            {
+                "trim_name": "1.6t勁動",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t勁智Plus",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t勁化Plus",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Hybrid",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1580cc",
+                "horsepower": "141hp/27.0kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona Electric",
+        "year": 2021,
+        "price_range": "124.9 - 154.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-electric-2021",
+        "variants": [
+            {
+                "trim_name": "EV300",
+                "price": "124.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 312km",
+                "horsepower": "136hp/40.3kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "EV500",
+                "price": "154.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 482km",
+                "horsepower": "204hp/40.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona(NEW)",
+        "year": 2021,
+        "price_range": "84.9 - 99.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona%28new%29-2021",
+        "variants": [
+            {
+                "trim_name": "1.6t勁智",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t勁化",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t N Line",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "198hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2021,
+        "price_range": "129.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2021",
+        "variants": [
+            {
+                "trim_name": "2.4汽油尊爵",
+                "price": "129.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "185hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4汽油旗艦",
+                "price": "139.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "185hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2柴油旗艦",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe(NEW)",
+        "year": 2021,
+        "price_range": "139.9 - 184.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe%28new%29-2021",
+        "variants": [
+            {
+                "trim_name": "渦輪油電GLTH-A",
+                "price": "139.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "柴油GLD-A",
+                "price": "144.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2151cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-B",
+                "price": "147.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "柴油GLD-B",
+                "price": "154.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2151cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油GLD-C",
+                "price": "169.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2151cc",
+                "horsepower": "202hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-C",
+                "price": "169.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "渦輪油電GLTH-D",
+                "price": "184.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1598cc",
+                "horsepower": "230hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2021,
+        "price_range": "84.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2021",
+        "variants": [
+            {
+                "trim_name": "2.0 Premium經典",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Premium豪華",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Turbo豪華",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Turbo領袖",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Turbo旗艦",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Venue",
+        "year": 2021,
+        "price_range": "65.9 - 75.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-venue-2021",
+        "variants": [
+            {
+                "trim_name": "GLA",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLB",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLC",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "123hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra",
+        "year": 2020,
+        "price_range": "64.9 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2020",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport極速型",
+                "price": "85.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2020,
+        "price_range": "137.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2020",
+        "variants": [
+            {
+                "trim_name": "尊貴型",
+                "price": "137.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "149.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona",
+        "year": 2020,
+        "price_range": "79.9 - 102.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2020",
+        "variants": [
+            {
+                "trim_name": "1.6t 2WD勁動型",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t 2WD Plus勁智型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t 2WD Plus勁化型",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Hybrid",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1580cc",
+                "horsepower": "141hp/27.0kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2020,
+        "price_range": "129.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2020",
+        "variants": [
+            {
+                "trim_name": "2.4汽油尊爵",
+                "price": "129.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "185hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4汽油旗艦",
+                "price": "139.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "185hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2柴油旗艦",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2020,
+        "price_range": "84.9 - 114.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2020",
+        "variants": [
+            {
+                "trim_name": "汽油經典",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油雅緻",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油豪華",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油尊爵",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油旗艦",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油旗艦4WD",
+                "price": "114.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Veloster",
+        "year": 2020,
+        "price_range": "115.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2020",
+        "variants": [
+            {
+                "trim_name": "1.6 Turbo",
+                "price": "115.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Turbo風暴銀特仕車",
+                "price": "119.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra",
+        "year": 2019,
+        "price_range": "59.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2019",
+        "variants": [
+            {
+                "trim_name": "悍動型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油尊貴型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport極速型",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra(NEW)",
+        "year": 2019,
+        "price_range": "64.9 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra%28new%29-2019",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport極速型",
+                "price": "85.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2019,
+        "price_range": "137.8 - 155.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2019",
+        "variants": [
+            {
+                "trim_name": "尊貴型",
+                "price": "137.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "149.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型(天窗)",
+                "price": "155.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq",
+        "year": 2019,
+        "price_range": "101.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2019",
+        "variants": [
+            {
+                "trim_name": "Hybrid 1.6",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1580cc",
+                "horsepower": "141hp/27kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Kona",
+        "year": 2019,
+        "price_range": "79.9 - 98.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-kona-2019",
+        "variants": [
+            {
+                "trim_name": "1.6t 2WD勁動型",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t 2WD勁智型",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t 2WD勁化型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6t 4WD極致型",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2019,
+        "price_range": "102.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2019",
+        "variants": [
+            {
+                "trim_name": "2.4首席款",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2貴族款",
+                "price": "112.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2貴族款7人座",
+                "price": "119.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款7人座",
+                "price": "148.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2019,
+        "price_range": "82.9 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2019",
+        "variants": [
+            {
+                "trim_name": "汽油豪華",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油時尚Turbo",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油尊貴Turbo",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油旗艦4WD",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson(NEW)",
+        "year": 2019,
+        "price_range": "89.9 - 114.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson%28new%29-2019",
+        "variants": [
+            {
+                "trim_name": "汽油雅緻",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油豪華",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油尊爵",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油旗艦",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油旗艦4WD",
+                "price": "114.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Veloster",
+        "year": 2019,
+        "price_range": "115.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2019",
+        "variants": [
+            {
+                "trim_name": "1.6 Turbo",
+                "price": "115.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Turbo風暴銀特仕車",
+                "price": "119.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra",
+        "year": 2018,
+        "price_range": "59.9 - 111.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2018",
+        "variants": [
+            {
+                "trim_name": "悍動型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "152hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "152hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油尊貴型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "菁英型",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "152hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "111.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2018,
+        "price_range": "135.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2018",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "135.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "137.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "149.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq",
+        "year": 2018,
+        "price_range": "101.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2018",
+        "variants": [
+            {
+                "trim_name": "Hybrid 1.6",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1580cc",
+                "horsepower": "141hp/27kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2018,
+        "price_range": "102.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2018",
+        "variants": [
+            {
+                "trim_name": "2.4首席款",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2豪華款",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2貴族款",
+                "price": "112.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2貴族款7人座",
+                "price": "119.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2菁英款",
+                "price": "123.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款7人座",
+                "price": "148.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2018,
+        "price_range": "82.9 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2018",
+        "variants": [
+            {
+                "trim_name": "汽油豪華",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油時尚Turbo",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油尊貴Turbo",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油魅力",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油菁英",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油旗艦4WD",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra EX",
+        "year": 2017,
+        "price_range": "69.9 - 75.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-ex-2017",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "146hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "146hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra(NEW)",
+        "year": 2017,
+        "price_range": "64.9 - 109.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-new-2017",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "128hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "152hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "152hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油尊貴型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "菁英型",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "152hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "109.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "204hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Genesis",
+        "year": 2017,
+        "price_range": "288 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-genesis-2017",
+        "variants": [
+            {
+                "trim_name": "3.8 V6",
+                "price": "288",
+                "body_type": "4門 5人座",
+                "engine_cc": "3778cc",
+                "horsepower": "315hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2017,
+        "price_range": "135.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2017",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "135.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "137.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "149.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Ioniq",
+        "year": 2017,
+        "price_range": "99.9 - 99.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ioniq-2017",
+        "variants": [
+            {
+                "trim_name": "Hybrid 1.6",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1580cc",
+                "horsepower": "141hp/27kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2017,
+        "price_range": "103.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2017",
+        "variants": [
+            {
+                "trim_name": "2.2豪華款",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.4首席款",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "192hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2貴族款",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2菁英款",
+                "price": "124.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款",
+                "price": "133.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款7人座",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe(NEW)",
+        "year": 2017,
+        "price_range": "99.8 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-new-2017",
+        "variants": [
+            {
+                "trim_name": "2.4首席款",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2豪華款",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2貴族款",
+                "price": "112.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2菁英款",
+                "price": "123.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款7人座",
+                "price": "148.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2017,
+        "price_range": "82.9 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2017",
+        "variants": [
+            {
+                "trim_name": "汽油豪華",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油時尚",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油時尚Turbo",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油尊貴",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油尊貴Turbo",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "177hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油魅力",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油菁英",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油旗艦4WD",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Veloster",
+        "year": 2017,
+        "price_range": "117.9 - 117.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2017",
+        "variants": [
+            {
+                "trim_name": "1.6 Turbo旗艦款",
+                "price": "117.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "186hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Verna",
+        "year": 2017,
+        "price_range": "53.9 - 59.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-verna-2017",
+        "variants": [
+            {
+                "trim_name": "1.6 小資尊爵版",
+                "price": "53.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "124hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 小資旗艦版",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "124hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra EX",
+        "year": 2016,
+        "price_range": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-ex-2016",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "146hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "146hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Genesis",
+        "year": 2016,
+        "price_range": "288 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-genesis-2016",
+        "variants": [
+            {
+                "trim_name": "3.8 V6",
+                "price": "288",
+                "body_type": "4門 5人座",
+                "engine_cc": "3778cc",
+                "horsepower": "315hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2016,
+        "price_range": "135.8 - 149.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2016",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "135.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "137.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "149.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3600rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2016,
+        "price_range": "44.9 - 51.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2016",
+        "variants": [
+            {
+                "trim_name": "手排旗艦款",
+                "price": "44.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "手排享樂款",
+                "price": "46.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "自排旗艦款",
+                "price": "49.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "自排享樂款",
+                "price": "51.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai ix35",
+        "year": 2016,
+        "price_range": "78.9 - 102.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2016",
+        "variants": [
+            {
+                "trim_name": "汽油2.0豪華",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油2.0尊貴",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油2.0豪華",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油2.0尊貴",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油2.0旗艦2WD",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油2.0旗艦4WD",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2016,
+        "price_range": "103.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2016",
+        "variants": [
+            {
+                "trim_name": "2.2豪華款",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.4首席款",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "192hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2貴族款",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2菁英款",
+                "price": "124.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款",
+                "price": "133.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款7人座",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Sonata",
+        "year": 2016,
+        "price_range": "135.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2016",
+        "variants": [
+            {
+                "trim_name": "2.4豪華款",
+                "price": "135.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦款",
+                "price": "149.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2016,
+        "price_range": "82.9 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2016",
+        "variants": [
+            {
+                "trim_name": "汽油豪華",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油時尚",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油尊貴",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油魅力",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油菁英",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油旗艦4WD",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "185hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Veloster",
+        "year": 2016,
+        "price_range": "109.9 - 115.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2016",
+        "variants": [
+            {
+                "trim_name": "1.6 Turbo豪華款",
+                "price": "109.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "186hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Turbo旗艦款",
+                "price": "115.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "186hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Verna",
+        "year": 2016,
+        "price_range": "55.9 - 67.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-verna-2016",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型時尚款",
+                "price": "55.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "124hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊爵型時尚款",
+                "price": "60.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "124hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊爵型酷跑款",
+                "price": "61.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "124hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦型時尚款",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "124hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦型酷跑款",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "124hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra EX",
+        "year": 2015,
+        "price_range": "66.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-ex-2015",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "146hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "146hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "146hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2015,
+        "price_range": "44.9 - 51.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2015",
+        "variants": [
+            {
+                "trim_name": "手排旗艦款",
+                "price": "44.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "手排享樂款",
+                "price": "46.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "自排旗艦款",
+                "price": "49.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "自排享樂款",
+                "price": "51.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1248cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai ix35",
+        "year": 2015,
+        "price_range": "77.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2015",
+        "variants": [
+            {
+                "trim_name": "汽油2.0豪華",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油2.0尊貴",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油2.0豪華",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油2.0尊貴",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油2.0旗艦4WD",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2015,
+        "price_range": "99.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2015",
+        "variants": [
+            {
+                "trim_name": "2.4君爵款",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "192hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2豪華款",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.4首席款",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "192hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2貴族款",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2尊爵款",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2菁英款",
+                "price": "124.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2皇家款",
+                "price": "130.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款",
+                "price": "133.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2領袖款7人座",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Sonata",
+        "year": 2015,
+        "price_range": "135.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2015",
+        "variants": [
+            {
+                "trim_name": "2.4豪華款",
+                "price": "135.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦款",
+                "price": "149.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Veloster",
+        "year": 2015,
+        "price_range": "109.9 - 109.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2015",
+        "variants": [
+            {
+                "trim_name": "1.6 Turbo GDi",
+                "price": "109.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "186hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Veloster(NEW)",
+        "year": 2015,
+        "price_range": "109.9 - 115.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-new-2015",
+        "variants": [
+            {
+                "trim_name": "1.6 Turbo豪華款",
+                "price": "109.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "186hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Turbo旗艦款",
+                "price": "115.9",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "186hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Azera",
+        "year": 2014,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2014",
+        "variants": [
+            {
+                "trim_name": "3.0 V6",
+                "price": "售價未公布",
+                "body_type": "4門 5人座",
+                "engine_cc": "2999cc",
+                "horsepower": "250hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra",
+        "year": 2014,
+        "price_range": "65.9 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2014",
+        "variants": [
+            {
+                "trim_name": "1.8 GLS經典型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 GLS豪華型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 GLS旗艦型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2014,
+        "price_range": "48.9 - 50.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2014",
+        "variants": [
+            {
+                "trim_name": "自排豪華款",
+                "price": "48.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "自排旗艦款",
+                "price": "50.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai ix35",
+        "year": 2014,
+        "price_range": "76.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2014",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 2.4尊貴型",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 2.4 旗艦型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 VG Turbo尊貴型",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 VG Turbo旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2014,
+        "price_range": "102.9 - 147.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2014",
+        "variants": [
+            {
+                "trim_name": "2.2豪華款",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2旗艦款",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2貴族款",
+                "price": "112.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2尊爵款",
+                "price": "120.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2皇家款",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2皇家款7人座",
+                "price": "147.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Veloster",
+        "year": 2014,
+        "price_range": "109 - 109",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-veloster-2014",
+        "variants": [
+            {
+                "trim_name": "1.6 Turbo GDi",
+                "price": "109",
+                "body_type": "4門 4人座",
+                "engine_cc": "1591cc",
+                "horsepower": "186hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Azera",
+        "year": 2013,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2013",
+        "variants": [
+            {
+                "trim_name": "3.0 V6",
+                "price": "售價未公布",
+                "body_type": "4門 5人座",
+                "engine_cc": "2999cc",
+                "horsepower": "250hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra",
+        "year": 2013,
+        "price_range": "65.9 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2013",
+        "variants": [
+            {
+                "trim_name": "1.8 GLS經典型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 GLS豪華型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 GLS旗艦型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2013,
+        "price_range": "116.8 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2013",
+        "variants": [
+            {
+                "trim_name": "豪華型MT",
+                "price": "116.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型AT",
+                "price": "126.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "滑軌型AT",
+                "price": "129.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "商務型AT",
+                "price": "131.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型AT",
+                "price": "137.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2013,
+        "price_range": "42.9 - 48.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2013",
+        "variants": [
+            {
+                "trim_name": "手排旗艦款",
+                "price": "42.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "自排旗艦款",
+                "price": "48.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30",
+        "year": 2013,
+        "price_range": "63.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2013",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai ix35",
+        "year": 2013,
+        "price_range": "76.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2013",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 2.4尊貴型",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 2.4 旗艦型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 VG Turbo尊貴型",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 VG Turbo旗艦型",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "184hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2013,
+        "price_range": "109.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2013",
+        "variants": [
+            {
+                "trim_name": "2.2 eVGT旗艦型5人座",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT旗艦型7人座",
+                "price": "119.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT 4WD",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Sonata",
+        "year": 2013,
+        "price_range": "99.9 - 110.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2013",
+        "variants": [
+            {
+                "trim_name": "2.4 GL",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "178hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 GLS",
+                "price": "110.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "178hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Azera",
+        "year": 2012,
+        "price_range": "168.8 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2012",
+        "variants": [
+            {
+                "trim_name": "3.0 V6",
+                "price": "168.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2999cc",
+                "horsepower": "250hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Elantra",
+        "year": 2012,
+        "price_range": "68.9 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-elantra-2012",
+        "variants": [
+            {
+                "trim_name": "1.8 GLS豪華型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 GLS旗艦型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1797cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2012,
+        "price_range": "111.8 - 131.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2012",
+        "variants": [
+            {
+                "trim_name": "豪華型MT",
+                "price": "111.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型AT",
+                "price": "119.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "滑軌型",
+                "price": "122.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "商務型",
+                "price": "124.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "131.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2012,
+        "price_range": "41.9 - 47.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2012",
+        "variants": [
+            {
+                "trim_name": "手排旗艦款",
+                "price": "41.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "自排旗艦款",
+                "price": "47.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30",
+        "year": 2012,
+        "price_range": "59.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2012",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30 CW",
+        "year": 2012,
+        "price_range": "76.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-cw-2012",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "115hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "115hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai ix35",
+        "year": 2012,
+        "price_range": "76.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2012",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 2.4尊貴型",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 2.4 旗艦型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2012,
+        "price_range": "101.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2012",
+        "variants": [
+            {
+                "trim_name": "2.2 eVGT豪華型5人座",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT旗艦型5人座",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT 4WD",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT旗艦型7人座",
+                "price": "119.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Sonata",
+        "year": 2012,
+        "price_range": "91.9 - 110.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2012",
+        "variants": [
+            {
+                "trim_name": "2.0 GL",
+                "price": "91.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 GL",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "178hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 GLS",
+                "price": "110.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "178hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2011,
+        "price_range": "111.8 - 131.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2011",
+        "variants": [
+            {
+                "trim_name": "豪華型MT",
+                "price": "111.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型AT",
+                "price": "119.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "商務型",
+                "price": "124.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "131.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2011,
+        "price_range": "39.9 - 51.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2011",
+        "variants": [
+            {
+                "trim_name": "手排款",
+                "price": "39.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "經典款",
+                "price": "45.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華款",
+                "price": "47.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦款",
+                "price": "51.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "69hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30",
+        "year": 2011,
+        "price_range": "59.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2011",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30 CW",
+        "year": 2011,
+        "price_range": "64.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-cw-2011",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "64.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "115hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "115hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai ix35",
+        "year": 2011,
+        "price_range": "76.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2011",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4尊貴型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "177hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Matrix",
+        "year": 2011,
+        "price_range": "56.9 - 56.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-matrix-2011",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "56.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2011,
+        "price_range": "101.9 - 123.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2011",
+        "variants": [
+            {
+                "trim_name": "2.2 eVGT豪華型5人座",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT旗艦型5人座",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT旗艦型7人座",
+                "price": "119.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT 4WD",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 eVGT 4WD旗艦型7人座",
+                "price": "123.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2199cc",
+                "horsepower": "197hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Sonata",
+        "year": 2011,
+        "price_range": "89.9 - 108.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2011",
+        "variants": [
+            {
+                "trim_name": "2.0 GL",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 GL",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "178hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 GLS",
+                "price": "108.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "178hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Grand Starex",
+        "year": 2010,
+        "price_range": "111.8 - 131.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-grand-starex-2010",
+        "variants": [
+            {
+                "trim_name": "豪華型(MT)",
+                "price": "111.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "119.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "商務型",
+                "price": "124.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "125.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "131.8",
+                "body_type": "5門 9人座",
+                "engine_cc": "2497cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2010,
+        "price_range": "39.9 - 51.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2010",
+        "variants": [
+            {
+                "trim_name": "手排款",
+                "price": "39.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "經典款A1",
+                "price": "45.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "經典款A5",
+                "price": "48.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦款",
+                "price": "51.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30",
+        "year": 2010,
+        "price_range": "58.9 - 65.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2010",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "58.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30 CW",
+        "year": 2010,
+        "price_range": "63.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-cw-2010",
+        "variants": [
+            {
+                "trim_name": "經典型",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "115hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1582cc",
+                "horsepower": "115hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai ix35",
+        "year": 2010,
+        "price_range": "74.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-ix35-2010",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "166hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Matrix",
+        "year": 2010,
+        "price_range": "52.9 - 60.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-matrix-2010",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "52.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "經典型",
+                "price": "54.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "影音型",
+                "price": "60.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Porter",
+        "year": 2010,
+        "price_range": "62.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-porter-2010",
+        "variants": [
+            {
+                "trim_name": "標準型",
+                "price": "62.9",
+                "body_type": "2門 2人座",
+                "engine_cc": "2497cc",
+                "horsepower": "123hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "座艙加長型",
+                "price": "64.9",
+                "body_type": "2門 2人座",
+                "engine_cc": "2497cc",
+                "horsepower": "123hp@3800rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "座艙加長型(4AT)",
+                "price": "69.9",
+                "body_type": "2門 2人座",
+                "engine_cc": "2497cc",
+                "horsepower": "123hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2010,
+        "price_range": "94.9 - 118.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2010",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型五人座",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "旗艦型七人座",
+                "price": "118.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Getz",
+        "year": 2009,
+        "price_range": "46.9 - 50.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-getz-2009",
+        "variants": [
+            {
+                "trim_name": "1.4 Junior",
+                "price": "46.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1399cc",
+                "horsepower": "97hp@6700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 Cross",
+                "price": "48.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1399cc",
+                "horsepower": "97hp@6700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 Recaro",
+                "price": "50.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1399cc",
+                "horsepower": "97hp@6700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i10",
+        "year": 2009,
+        "price_range": "39.9 - 50.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i10-2009",
+        "variants": [
+            {
+                "trim_name": "手排型",
+                "price": "39.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "經典型",
+                "price": "44.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "48.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "50.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1086cc",
+                "horsepower": "66hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai i30",
+        "year": 2009,
+        "price_range": "58.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-i30-2009",
+        "variants": [
+            {
+                "trim_name": "1.6 經典型",
+                "price": "58.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 豪華型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "CW 1.6 經典型",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 旗艦型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "CW 1.6 旗艦型",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1591cc",
+                "horsepower": "122hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Lavita",
+        "year": 2009,
+        "price_range": "52.9 - 60.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-lavita-2009",
+        "variants": [
+            {
+                "trim_name": "1.6 GLD-R",
+                "price": "52.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GLD-S",
+                "price": "54.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GLD-T",
+                "price": "60.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2009,
+        "price_range": "91.9 - 118.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2009",
+        "variants": [
+            {
+                "trim_name": "2.7 雅致",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.7 豪華",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 DSL豪華",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.7 旗艦",
+                "price": "100.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 DSL旗艦",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.7 旗艦七人",
+                "price": "114.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 DSL旗艦七人",
+                "price": "118.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2009,
+        "price_range": "70.9 - 91.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2009",
+        "variants": [
+            {
+                "trim_name": "2.0 DX-A",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1975cc",
+                "horsepower": "142hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V-DX-A豪華",
+                "price": "80.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "V-DX-B尊爵",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "V-DX-C旗艦",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "V-DX-D影音旗艦",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Azera",
+        "year": 2008,
+        "price_range": "158 - 158",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-azera-2008",
+        "variants": [
+            {
+                "trim_name": "3.3",
+                "price": "158",
+                "body_type": "4門 5人座",
+                "engine_cc": "3342cc",
+                "horsepower": "235hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Getz",
+        "year": 2008,
+        "price_range": "46.9 - 50.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-getz-2008",
+        "variants": [
+            {
+                "trim_name": "1.4 Junior",
+                "price": "46.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1399cc",
+                "horsepower": "97hp@6700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 Cross",
+                "price": "48.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1399cc",
+                "horsepower": "97hp@6700rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 Recaro",
+                "price": "50.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1399cc",
+                "horsepower": "97hp@6700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Matrix",
+        "year": 2008,
+        "price_range": "54.1 - 60.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-matrix-2008",
+        "variants": [
+            {
+                "trim_name": "1.6 GLD",
+                "price": "54.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "1599cc",
+                "horsepower": "102hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 GLS-S",
+                "price": "58.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1795cc",
+                "horsepower": "123hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 GLS-R",
+                "price": "60.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1795cc",
+                "horsepower": "123hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Santa Fe",
+        "year": 2008,
+        "price_range": "91.9 - 118.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-santa-fe-2008",
+        "variants": [
+            {
+                "trim_name": "2.7 雅致",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.7 豪華",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 DSL豪華",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.7 旗艦",
+                "price": "100.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 DSL旗艦",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.7 旗艦七人",
+                "price": "114.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2656cc",
+                "horsepower": "189hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 DSL旗艦七人",
+                "price": "118.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2188cc",
+                "horsepower": "155hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Sonata",
+        "year": 2008,
+        "price_range": "89.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-sonata-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 DSL豪華版",
+                "price": "89.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 DSL尊爵版",
+                "price": "99.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "140hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "model_name": "Hyundai Tucson",
+        "year": 2008,
+        "price_range": "67.8 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/hyundai-tucson-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 DX精緻",
+                "price": "67.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1975cc",
+                "horsepower": "142hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 DX-A",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1975cc",
+                "horsepower": "142hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 DX尊爵",
+                "price": "73.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1975cc",
+                "horsepower": "142hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 DX旗艦",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1975cc",
+                "horsepower": "142hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 V-DX豪華",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 V-DX尊爵",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 EX旗艦",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1975cc",
+                "horsepower": "142hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 V-DX旗艦",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 V-DX旗艦影音",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1991cc",
+                "horsepower": "136hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.7 V6旗艦",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2656cc",
+                "horsepower": "175hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

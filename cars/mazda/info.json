@@ -1,890 +1,5238 @@
 [
     {
         "brand": "Mazda",
-        "model": "2025 Mazda 2",
-        "price": "69.9 - 69.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2025"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2025 Mazda 3 4D",
-        "price": "86.8 - 101.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2025"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2025 Mazda 3 5D",
-        "price": "87.8 - 101.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2025"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2025 Mazda CX-30",
-        "price": "93.8 - 111.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2025"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2025 Mazda CX-5",
-        "price": "107.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2025"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2025 Mazda CX-60",
-        "price": "118.9 - 171.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-60-2025"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda 2",
-        "price": "78.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda 3 4D",
-        "price": "79.8 - 101.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda 3 5D",
-        "price": "87.8 - 101.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda CX-3",
-        "price": "85.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda CX-30",
-        "price": "93.8 - 111.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda CX-5",
-        "price": "107.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda CX-60",
-        "price": "118.9 - 171.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-60-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda CX-90",
-        "price": "179 - 211",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-90-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2024 Mazda MX-5",
-        "price": "140 - 159",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2024"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda 2",
-        "price": "74.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda 3 4D",
-        "price": "79.8 - 100.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-4d-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda 3 5D",
-        "price": "87.8 - 122.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda 6",
-        "price": "124.9 - 124.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda 6 Wagon",
-        "price": "121.9 - 134.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda CX-3",
-        "price": "77.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda CX-30",
-        "price": "83.8 - 111.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda CX-5",
-        "price": "99.9 - 143",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda CX-9",
-        "price": "149.9 - 187.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2023 Mazda MX-5",
-        "price": "135 - 152",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2023"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda 2",
-        "price": "74.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda 3 4D",
-        "price": "79.8 - 100.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda 3 5D",
-        "price": "87.8 - 122.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda 6",
-        "price": "124.9 - 124.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda 6 Wagon",
-        "price": "121.9 - 132.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda CX-3",
-        "price": "77.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda CX-30",
-        "price": "83.8 - 111.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda CX-5",
-        "price": "99.9 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda CX-9",
-        "price": "149.9 - 192.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2022 Mazda MX-5",
-        "price": "135 - 152",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2022"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda 2",
-        "price": "74.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda 3 4D",
-        "price": "79.9 - 98.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda 3 5D",
-        "price": "85.9 - 99.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda 6",
-        "price": "124.9 - 124.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda 6 Wagon",
-        "price": "121.9 - 132.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda CX-3",
-        "price": "78.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda CX-30",
-        "price": "86.9 - 109.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda CX-5",
-        "price": "98.9 - 136.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda CX-9",
-        "price": "149.9 - 188.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2021 Mazda MX-5",
-        "price": "134 - 151",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2021"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda 2",
-        "price": "74.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda 3 4D",
-        "price": "79.9 - 97.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda 3 5D",
-        "price": "90.9 - 98.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda 6",
-        "price": "124.9 - 124.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda 6 Wagon",
-        "price": "121.9 - 132.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda CX-3",
-        "price": "84.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda CX-30",
-        "price": "89.9 - 109.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda CX-5",
-        "price": "109.9 - 136.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda CX-9",
-        "price": "173.9 - 188.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2020 Mazda MX-5",
-        "price": "134 - 151",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2020"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda 2",
-        "price": "69.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda 3 4D",
-        "price": "78.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda 3 4D(NEW)",
-        "price": "79.9 - 97.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d%28new%29-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda 3 5D",
-        "price": "79.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda 3 5D(NEW)",
-        "price": "90.9 - 98.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d%28new%29-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda 6",
-        "price": "114.9 - 124.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda 6 Wagon",
-        "price": "121.9 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda CX-3",
-        "price": "78.9 - 103.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda CX-5",
-        "price": "99.9 - 136.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda CX-9",
-        "price": "149.8 - 184.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2019 Mazda MX-5",
-        "price": "133 - 152",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2019"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda 2",
-        "price": "65.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda 3 4D",
-        "price": "73.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda 3 5D",
-        "price": "74.9 - 93.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda 6",
-        "price": "114.9 - 123.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda 6 Wagon",
-        "price": "119.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda CX-3",
-        "price": "78.9 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda CX-3(NEW)",
-        "price": "78.9 - 103.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3%28new%29-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda CX-5",
-        "price": "99.8 - 117.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda CX-9",
-        "price": "149.8 - 177.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2018 Mazda MX-5",
-        "price": "132 - 150",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2018"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda 2",
-        "price": "64.9 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda 2(NEW)",
-        "price": "65.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-new-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda 3 4D",
-        "price": "69.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda 3 5D",
-        "price": "78.9 - 93.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda 6",
-        "price": "111.9 - 138.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda 6 Wagon",
-        "price": "138.9 - 138.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda CX-3",
-        "price": "77.9 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda CX-5",
-        "price": "103.9 - 134.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda CX-5(NEW)",
-        "price": "99.8 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-new-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda CX-9",
-        "price": "148.9 - 176.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2017 Mazda MX-5",
-        "price": "132 - 150",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2017"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda 2",
-        "price": "64.9 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda 3 4D",
-        "price": "69.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda 3 5D",
-        "price": "76.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda 5",
-        "price": "75.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda 6",
-        "price": "111 - 138.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda CX-3",
-        "price": "77.9 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda CX-5",
-        "price": "103.9 - 134.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2016 Mazda MX-5",
-        "price": "129.8 - 129.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2016"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda 3 4D",
-        "price": "69.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda 3 5D",
-        "price": "80.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda 5",
-        "price": "75.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda 6",
-        "price": "97.9 - 136.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda 6(NEW)",
-        "price": "110 - 138.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-new-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda CX-5",
-        "price": "106.8 - 133.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda CX-5(NEW)",
-        "price": "101.9 - 133.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-new-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2015 Mazda CX-9",
-        "price": "168 - 168",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2015"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2014 Mazda 2",
-        "price": "69.9 - 69.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2014"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2014 Mazda 3 4D",
-        "price": "59.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2014"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2014 Mazda 3 5D",
-        "price": "67.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2014"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2014 Mazda 5",
-        "price": "75.9 - 98.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2014"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2014 Mazda 6",
-        "price": "97.9 - 136.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2014"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2014 Mazda CX-5",
-        "price": "106.8 - 133.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2014"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2014 Mazda CX-9",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2014"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2013 Mazda 2",
-        "price": "67.9 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2013"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2013 Mazda 3 4D",
-        "price": "59.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2013"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2013 Mazda 3 5D",
-        "price": "67.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2013"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2013 Mazda 5",
-        "price": "72.5 - 98.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2013"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2013 Mazda 6",
-        "price": "95.9 - 123.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2013"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2013 Mazda CX-5",
-        "price": "129.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2013"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2013 Mazda CX-9",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2013"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2012 Mazda 2",
-        "price": "69.9 - 75.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2012"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2012 Mazda 3 4D",
-        "price": "63.9 - 80.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2012"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2012 Mazda 3 5D",
-        "price": "69.9 - 90.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2012"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2012 Mazda 5",
-        "price": "73.5 - 99.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2012"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2012 Mazda 6",
-        "price": "99.9 - 127.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2012"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2012 Mazda CX-7",
-        "price": "171 - 171",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-7-2012"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2012 Mazda CX-9",
-        "price": "197.9 - 197.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2012"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2011 Mazda 2",
-        "price": "67.9 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2011"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2011 Mazda 3 4D",
-        "price": "61.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2011"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2011 Mazda 3 5D",
-        "price": "67.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2011"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2011 Mazda 5",
-        "price": "71.5 - 91.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2011"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2011 Mazda 6",
-        "price": "94.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2011"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2011 Mazda CX-7",
-        "price": "159.9 - 159.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-7-2011"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2011 Mazda CX-9",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2011"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2010 Mazda 2",
-        "price": "65.9 - 71.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2010"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2010 Mazda 3 4D",
-        "price": "59.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2010"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2010 Mazda 3 5D",
-        "price": "65.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2010"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2010 Mazda 5",
-        "price": "69.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2010"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2010 Mazda 6",
-        "price": "94.9 - 119.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2010"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2010 Mazda CX-7",
-        "price": "159.9 - 159.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-7-2010"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2010 Mazda CX-9",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2010"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2009 Mazda 2",
-        "price": "64.5 - 71.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2009"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2009 Mazda 3",
-        "price": "49.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-2009"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2009 Mazda 5",
-        "price": "67.9 - 86.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2009"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2009 Mazda 6",
-        "price": "95.9 - 117.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2009"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2009 Mazda Tribute",
-        "price": "69.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-tribute-2009"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2008 Mazda 2",
-        "price": "57.5 - 63.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2008"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2008 Mazda 3",
-        "price": "57.5 - 79",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-2008"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2008 Mazda 5",
-        "price": "71.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2008"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2008 Mazda 6",
-        "price": "86.9 - 108.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2008"
-    },
-    {
-        "brand": "Mazda",
-        "model": "2008 Mazda Tribute",
-        "price": "76 - 106",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-tribute-2008"
+        "model_name": "Mazda 2",
+        "year": 2025,
+        "price_range": "69.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2025",
+        "variants": [
+            {
+                "trim_name": "15S Midnight Edition",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2025,
+        "price_range": "86.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2025",
+        "variants": [
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "86.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "94.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "101.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2025,
+        "price_range": "87.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2025",
+        "variants": [
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "87.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "93.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Retro Sports Edition",
+                "price": "98.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "101.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-30",
+        "year": 2025,
+        "price_range": "93.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2025",
+        "variants": [
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "93.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "101.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Retro Sports Edition",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "111.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2025,
+        "price_range": "107.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2025",
+        "variants": [
+            {
+                "trim_name": "20S Select",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Select Plus",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T Retro Sports Edition",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD GT Premium",
+                "price": "139.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-60",
+        "year": 2025,
+        "price_range": "118.9 - 171.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-60-2025",
+        "variants": [
+            {
+                "trim_name": "25S Elite",
+                "price": "118.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "192hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25S Elite Plus",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "192hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25S AWD Premium",
+                "price": "141.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "192hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "33T AWD Exclusive Sport",
+                "price": "168.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "3283cc",
+                "horsepower": "284hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "33T AWD Premium Modern",
+                "price": "171.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "3283cc",
+                "horsepower": "284hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "33T AWD Premium Sport",
+                "price": "171.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "3283cc",
+                "horsepower": "284hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2024,
+        "price_range": "78.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2024",
+        "variants": [
+            {
+                "trim_name": "15S Urban Sport",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2024,
+        "price_range": "79.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2024",
+        "variants": [
+            {
+                "trim_name": "20S",
+                "price": "79.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "86.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "94.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "101.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2024,
+        "price_range": "87.8 - 101.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2024",
+        "variants": [
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "87.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "93.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Retro Sports Edition",
+                "price": "98.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "101.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2024,
+        "price_range": "85.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2024",
+        "variants": [
+            {
+                "trim_name": "20S Proactive Touring",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Vivid Edition",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-30",
+        "year": 2024,
+        "price_range": "93.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2024",
+        "variants": [
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "93.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "101.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Retro Sports Edition",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "111.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2024,
+        "price_range": "107.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2024",
+        "variants": [
+            {
+                "trim_name": "20S Select",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Select Plus",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T Retro Sports Edition",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T GT Sport",
+                "price": "133",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD GT Premium",
+                "price": "139.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-60",
+        "year": 2024,
+        "price_range": "118.9 - 171.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-60-2024",
+        "variants": [
+            {
+                "trim_name": "25S Elite",
+                "price": "118.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "192hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25S Elite Plus",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "192hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25S AWD Exclusive",
+                "price": "139.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "192hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "33T AWD Exclusive Sport",
+                "price": "168.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "3283cc",
+                "horsepower": "284hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "33T AWD Premium Sport",
+                "price": "171.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "3283cc",
+                "horsepower": "284hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "33T AWD Premium Modern",
+                "price": "171.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "3283cc",
+                "horsepower": "284hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-90",
+        "year": 2024,
+        "price_range": "179 - 211",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-90-2024",
+        "variants": [
+            {
+                "trim_name": "33T AWD Elite",
+                "price": "179",
+                "body_type": "5門 7人座",
+                "engine_cc": "3283cc",
+                "horsepower": "345hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "33T AWD Premium",
+                "price": "203",
+                "body_type": "5門 7人座",
+                "engine_cc": "3283cc",
+                "horsepower": "345hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "33T AWD Premium Captain Seat",
+                "price": "211",
+                "body_type": "5門 6人座",
+                "engine_cc": "3283cc",
+                "horsepower": "345hp@5000~6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2024,
+        "price_range": "140 - 159",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2024",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "140",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RS",
+                "price": "150",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF",
+                "price": "159",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2023,
+        "price_range": "74.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2023",
+        "variants": [
+            {
+                "trim_name": "15S",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "15S Proactive Touring",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2023,
+        "price_range": "79.8 - 100.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-4d-2023",
+        "variants": [
+            {
+                "trim_name": "20S",
+                "price": "79.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "86.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "93.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium Plus",
+                "price": "99.3",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "100.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2023,
+        "price_range": "87.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2023",
+        "variants": [
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "87.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium Plus",
+                "price": "99.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "100.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "e-Skyactiv X Edition",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2023,
+        "price_range": "124.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2023",
+        "variants": [
+            {
+                "trim_name": "20S Signature",
+                "price": "124.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6 Wagon",
+        "year": 2023,
+        "price_range": "121.9 - 134.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2023",
+        "variants": [
+            {
+                "trim_name": "20S Premium",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25S Signature",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25S 20th Anniversary Edition",
+                "price": "134.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2023,
+        "price_range": "77.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2023",
+        "variants": [
+            {
+                "trim_name": "20S",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Proactive Touring",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-30",
+        "year": 2023,
+        "price_range": "83.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2023",
+        "variants": [
+            {
+                "trim_name": "20S",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "90.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Proactive Touring",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "104.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium Plus",
+                "price": "110.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "111.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2023,
+        "price_range": "99.9 - 143",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2023",
+        "variants": [
+            {
+                "trim_name": "20S Touring SE",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Elite SE",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Elite Plus SE",
+                "price": "112.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium SE",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T 2WD Proactive Touring SE",
+                "price": "125",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T 2WD Sport Edition SE",
+                "price": "133",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD Signature SE",
+                "price": "143",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2023,
+        "price_range": "149.9 - 187.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2023",
+        "variants": [
+            {
+                "trim_name": "25T 2WD Touring SE",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T 2WD Premium SE",
+                "price": "169.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T 2WD Premium SE - Captain Seat",
+                "price": "171.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD Signature SE",
+                "price": "183.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD Signature SE - Captain Seat",
+                "price": "187.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2023,
+        "price_range": "135 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2023",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "135",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RS",
+                "price": "145",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF",
+                "price": "152",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2022,
+        "price_range": "74.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2022",
+        "variants": [
+            {
+                "trim_name": "15S",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "15S Proactive Touring",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2022,
+        "price_range": "79.8 - 100.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2022",
+        "variants": [
+            {
+                "trim_name": "20S",
+                "price": "79.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "86.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "93.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium Plus",
+                "price": "99.3",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "100.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2022,
+        "price_range": "87.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2022",
+        "variants": [
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "87.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium Plus",
+                "price": "99.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "100.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "e-Skyactiv X Edition",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "180hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2022,
+        "price_range": "124.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2022",
+        "variants": [
+            {
+                "trim_name": "旗艦進化型",
+                "price": "124.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6 Wagon",
+        "year": 2022,
+        "price_range": "121.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2022",
+        "variants": [
+            {
+                "trim_name": "黑艷版",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5旗艦進化型",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2022,
+        "price_range": "77.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2022",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦進化型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-30",
+        "year": 2022,
+        "price_range": "83.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2022",
+        "variants": [
+            {
+                "trim_name": "20S",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "90.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Proactive Touring",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "104.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium Plus",
+                "price": "110.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Signature",
+                "price": "111.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2022,
+        "price_range": "99.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2022",
+        "variants": [
+            {
+                "trim_name": "20S Touring",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Carbon Edition",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Carbon Edition Plus",
+                "price": "114.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "20S Premium",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T 2WD Proactive Touring",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T 2WD Sport Edition",
+                "price": "137.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD Signature",
+                "price": "148.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2022,
+        "price_range": "149.9 - 192.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2022",
+        "variants": [
+            {
+                "trim_name": "25T 2WD Touring",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T 2WD Premium - Captain Seat",
+                "price": "176.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD Signature",
+                "price": "188.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "25T AWD Signature - Captain Seat",
+                "price": "192.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2022,
+        "price_range": "135 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2022",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "135",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Red Top",
+                "price": "139.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF",
+                "price": "152",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2021,
+        "price_range": "74.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2021",
+        "variants": [
+            {
+                "trim_name": "1.5旗艦型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5旗艦安全型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2021,
+        "price_range": "79.9 - 98.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2021",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動尊榮安全版",
+                "price": "84.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動旗艦版",
+                "price": "91.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦進化型",
+                "price": "98.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2021,
+        "price_range": "85.9 - 99.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2021",
+        "variants": [
+            {
+                "trim_name": "2.0型動尊榮安全版",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動旗艦版",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦進化型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動旗艦進化版",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2021,
+        "price_range": "124.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2021",
+        "variants": [
+            {
+                "trim_name": "旗艦進化型",
+                "price": "124.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6 Wagon",
+        "year": 2021,
+        "price_range": "121.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2021",
+        "variants": [
+            {
+                "trim_name": "黑艷版",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5旗艦進化型",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2021,
+        "price_range": "78.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2021",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-30",
+        "year": 2021,
+        "price_range": "86.9 - 109.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2021",
+        "variants": [
+            {
+                "trim_name": "2.0型動尊榮版",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動頂級版",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦進化型",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動旗艦進化版",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2021,
+        "price_range": "98.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2021",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0黑艷頂級版",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0黑艷旗艦版",
+                "price": "111.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動旗艦版",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 2WD旗艦型",
+                "price": "125.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 AWD旗艦進化型",
+                "price": "136.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2021,
+        "price_range": "149.9 - 188.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2021",
+        "variants": [
+            {
+                "trim_name": "2WD尊榮型",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2WD黑艷版",
+                "price": "173.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "AWD旗艦進化型",
+                "price": "188.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2021,
+        "price_range": "134 - 151",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2021",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "134",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Red Top",
+                "price": "138",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF",
+                "price": "151",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2020,
+        "price_range": "74.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2020",
+        "variants": [
+            {
+                "trim_name": "1.5旗艦型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5旗艦安全型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2020,
+        "price_range": "79.9 - 97.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2020",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "95.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Bose旗艦型",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2020,
+        "price_range": "90.9 - 98.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2020",
+        "variants": [
+            {
+                "trim_name": "2.0頂級型",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Bose旗艦型",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2020,
+        "price_range": "124.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2020",
+        "variants": [
+            {
+                "trim_name": "旗艦進化型",
+                "price": "124.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6 Wagon",
+        "year": 2020,
+        "price_range": "121.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2020",
+        "variants": [
+            {
+                "trim_name": "旗艦型",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5旗艦進化型",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2020,
+        "price_range": "84.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2020",
+        "variants": [
+            {
+                "trim_name": "2.0頂級羨定版",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦羨定版",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-30",
+        "year": 2020,
+        "price_range": "89.9 - 109.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-30-2020",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦進化型",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2020,
+        "price_range": "109.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2020",
+        "variants": [
+            {
+                "trim_name": "2.0頂級獻定版",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 2WD頂級型",
+                "price": "111.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦獻定版",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 2WD旗艦經典型",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 2WD旗艦經典型",
+                "price": "125.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 AWD旗艦進化型",
+                "price": "136.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2020,
+        "price_range": "173.9 - 188.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2020",
+        "variants": [
+            {
+                "trim_name": "2WD旗艦型",
+                "price": "173.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "AWD旗艦進化型",
+                "price": "188.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2020,
+        "price_range": "134 - 151",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2020",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "134",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF",
+                "price": "151",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2019,
+        "price_range": "69.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2019",
+        "variants": [
+            {
+                "trim_name": "1.5尊榮型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5頂級型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2019,
+        "price_range": "78.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2019",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮進化版",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮安全版",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D(NEW)",
+        "year": 2019,
+        "price_range": "79.9 - 97.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d%28new%29-2019",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "95.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Bose旗艦型",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2019,
+        "price_range": "79.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2019",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮進化版",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮安全版",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D(NEW)",
+        "year": 2019,
+        "price_range": "90.9 - 98.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d%28new%29-2019",
+        "variants": [
+            {
+                "trim_name": "2.0頂級型",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Bose旗艦型",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2019,
+        "price_range": "114.9 - 124.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2019",
+        "variants": [
+            {
+                "trim_name": "SKY-G",
+                "price": "114.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G旗艦進化型",
+                "price": "124.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6 Wagon",
+        "year": 2019,
+        "price_range": "121.9 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2019",
+        "variants": [
+            {
+                "trim_name": "SKY-G旗艦型",
+                "price": "121.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2.5旗艦進化型",
+                "price": "132.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D旗艦型",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "190hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2019,
+        "price_range": "78.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 SKY-G尊榮型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 SKY-G頂級型",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 SKY-G旗艦型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 SKY-D旗艦型",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1757cc",
+                "horsepower": "116hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2019,
+        "price_range": "99.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2019",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD豪華型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD HUD頂級型",
+                "price": "111.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD環景頂級型",
+                "price": "111.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD旗艦經典型",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2.5 2WD旗艦經典型",
+                "price": "125.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2.5 AWD旗艦進化型",
+                "price": "136.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "194hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2019,
+        "price_range": "149.8 - 184.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2019",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD",
+                "price": "149.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD旗艦型",
+                "price": "171.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G AWD旗艦型",
+                "price": "179.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G AWD旗艦進化型",
+                "price": "184.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2019,
+        "price_range": "133 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2019",
+        "variants": [
+            {
+                "trim_name": "2.0手排款",
+                "price": "133",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0",
+                "price": "134",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF旗艦型",
+                "price": "152",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "184hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2018,
+        "price_range": "65.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2018",
+        "variants": [
+            {
+                "trim_name": "1.5豪華型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5尊榮型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5頂級型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2018,
+        "price_range": "73.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2018",
+        "variants": [
+            {
+                "trim_name": "2.0豪華進化版",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮進化版",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮安全版",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "92.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2018,
+        "price_range": "74.9 - 93.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2018",
+        "variants": [
+            {
+                "trim_name": "2.0豪華進化版",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮進化版",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮安全版",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2018,
+        "price_range": "114.9 - 123.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2018",
+        "variants": [
+            {
+                "trim_name": "SKY-G",
+                "price": "114.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G旗艦進化型",
+                "price": "123.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6 Wagon",
+        "year": 2018,
+        "price_range": "119.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2018",
+        "variants": [
+            {
+                "trim_name": "SKY-G旗艦型",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2018,
+        "price_range": "78.9 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 SKY-G尊榮型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 SKY-G頂級型",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 SKY-D旗艦型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "105hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3(NEW)",
+        "year": 2018,
+        "price_range": "78.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3%28new%29-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 SKY-G尊榮型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 SKY-G頂級型",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 SKY-G旗艦型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 SKY-D旗艦型",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1757cc",
+                "horsepower": "116hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2018,
+        "price_range": "99.8 - 117.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2018",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD尊榮型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD頂級型",
+                "price": "110.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD環景旗艦版",
+                "price": "115.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD旗艦型",
+                "price": "117.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2018,
+        "price_range": "149.8 - 177.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2018",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD",
+                "price": "149.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD風格旗艦版",
+                "price": "166.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD旗艦型",
+                "price": "169.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G AWD旗艦型",
+                "price": "177.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2018,
+        "price_range": "132 - 150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2018",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "132",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "160hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF旗艦型",
+                "price": "150",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "160hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2017,
+        "price_range": "64.9 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2017",
+        "variants": [
+            {
+                "trim_name": "1.5豪華型",
+                "price": "64.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5尊榮型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5頂級型",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2(NEW)",
+        "year": 2017,
+        "price_range": "65.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-new-2017",
+        "variants": [
+            {
+                "trim_name": "1.5豪華型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5尊榮型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5頂級型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2017,
+        "price_range": "69.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2017",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮安全版",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "92.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2017,
+        "price_range": "78.9 - 93.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2017",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮安全版",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2017,
+        "price_range": "111.9 - 138.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2017",
+        "variants": [
+            {
+                "trim_name": "SKY-G",
+                "price": "111.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G頂級型",
+                "price": "116.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D頂級型",
+                "price": "138.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6 Wagon",
+        "year": 2017,
+        "price_range": "138.9 - 138.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-wagon-2017",
+        "variants": [
+            {
+                "trim_name": "SKY-D頂級型",
+                "price": "138.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2017,
+        "price_range": "77.9 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 SKY-G尊榮型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-ACTIVSENSE安心特仕版",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 SKY-G頂級型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 SKY-D頂級型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "105hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2017,
+        "price_range": "103.9 - 134.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2017",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD+",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D 2WD",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SKY-D AWD",
+                "price": "134.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5(NEW)",
+        "year": 2017,
+        "price_range": "99.8 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-new-2017",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD尊榮型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD頂級型",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD旗艦型",
+                "price": "117.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D 2WD頂級型",
+                "price": "126.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SKY-D AWD旗艦型",
+                "price": "145",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2017,
+        "price_range": "148.9 - 176.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2017",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD",
+                "price": "148.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD風格旗艦版",
+                "price": "165.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G 2WD旗艦型",
+                "price": "168.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G AWD風格旗艦版",
+                "price": "173.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G AWD旗艦型",
+                "price": "176.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2488cc",
+                "horsepower": "230hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2017,
+        "price_range": "132 - 150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2017",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "132",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "160hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF",
+                "price": "148",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "160hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RF旗艦型",
+                "price": "150",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "160hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2016,
+        "price_range": "64.9 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2016",
+        "variants": [
+            {
+                "trim_name": "1.5豪華型",
+                "price": "64.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5尊貴型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5頂級型",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1496cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2016,
+        "price_range": "69.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2016",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2016,
+        "price_range": "76.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2016",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2016,
+        "price_range": "75.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2016",
+        "variants": [
+            {
+                "trim_name": "尊榮型",
+                "price": "75.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "84.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級影音旗艦型",
+                "price": "92.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2016,
+        "price_range": "111 - 138.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2016",
+        "variants": [
+            {
+                "trim_name": "SKY-G+",
+                "price": "111",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D頂級型",
+                "price": "138.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-3",
+        "year": 2016,
+        "price_range": "77.9 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-3-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 SKYACTIVE-G尊貴",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 SKYACTIVE-G頂級型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 SKYACTIVE-D頂級型",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "105hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2016,
+        "price_range": "103.9 - 134.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2016",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD+",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D 2WD",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SKY-D AWD",
+                "price": "134.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda MX-5",
+        "year": 2016,
+        "price_range": "129.8 - 129.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-mx-5-2016",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "129.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "160hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2015,
+        "price_range": "69.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2015",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2015,
+        "price_range": "80.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2015",
+        "variants": [
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "80.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2015,
+        "price_range": "75.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2015",
+        "variants": [
+            {
+                "trim_name": "尊榮型",
+                "price": "75.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "78.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "84.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "91.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級影音旗艦型",
+                "price": "92.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2015,
+        "price_range": "97.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2015",
+        "variants": [
+            {
+                "trim_name": "2.0汽油尊貴型",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油頂級型",
+                "price": "116.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2柴油旗艦型",
+                "price": "136.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6(NEW)",
+        "year": 2015,
+        "price_range": "110 - 138.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-new-2015",
+        "variants": [
+            {
+                "trim_name": "SKY-G",
+                "price": "110",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D尊貴型",
+                "price": "125.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SKY-D頂級型",
+                "price": "138.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2015,
+        "price_range": "106.8 - 133.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2015",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD",
+                "price": "106.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-G AWD",
+                "price": "116.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "153hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D 2WD",
+                "price": "121.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SKY-D AWD",
+                "price": "133.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5(NEW)",
+        "year": 2015,
+        "price_range": "101.9 - 133.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-new-2015",
+        "variants": [
+            {
+                "trim_name": "SKY-G 2WD",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "165hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SKY-D 2WD",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SKY-D AWD",
+                "price": "133.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2015,
+        "price_range": "168 - 168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2015",
+        "variants": [
+            {
+                "trim_name": "3.7 V6",
+                "price": "168",
+                "body_type": "5門 7人座",
+                "engine_cc": "3726cc",
+                "horsepower": "277hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2014,
+        "price_range": "69.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2014",
+        "variants": [
+            {
+                "trim_name": "1.5 頂級型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2014,
+        "price_range": "59.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2014",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 頂級型",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2014,
+        "price_range": "67.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2014",
+        "variants": [
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 S",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "167hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2014,
+        "price_range": "75.9 - 98.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2014",
+        "variants": [
+            {
+                "trim_name": "七人座尊榮型",
+                "price": "75.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座豪華型",
+                "price": "78.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座尊爵型",
+                "price": "84.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級型",
+                "price": "91.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級安全影音旗艦",
+                "price": "98.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2014,
+        "price_range": "97.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2014",
+        "variants": [
+            {
+                "trim_name": "2.0汽油尊貴型",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0汽油頂級型",
+                "price": "116.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2柴油旗艦型",
+                "price": "136.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2014,
+        "price_range": "106.8 - 133.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2014",
+        "variants": [
+            {
+                "trim_name": "汽油2.0 2WD",
+                "price": "106.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "汽油2.0 AWD",
+                "price": "116.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "153hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "柴油2.2 2WD",
+                "price": "121.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "柴油2.2 AWD",
+                "price": "133.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2191cc",
+                "horsepower": "175hp@4500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2014,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2014",
+        "variants": [
+            {
+                "trim_name": "3.7 V6",
+                "price": "189.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3726cc",
+                "horsepower": "277hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2013,
+        "price_range": "67.9 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2013",
+        "variants": [
+            {
+                "trim_name": "1.5 尊貴型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 頂級型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2013,
+        "price_range": "59.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2013",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 頂級型",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2013,
+        "price_range": "67.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2013",
+        "variants": [
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 S",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "167hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2013,
+        "price_range": "72.5 - 98.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2013",
+        "variants": [
+            {
+                "trim_name": "五人座尊榮型",
+                "price": "72.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座豪華型",
+                "price": "78.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座尊爵型",
+                "price": "84.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級型",
+                "price": "91.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級安全影音旗艦",
+                "price": "98.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2013,
+        "price_range": "95.9 - 123.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2013",
+        "variants": [
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "95.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "111.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5S",
+                "price": "123.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-5",
+        "year": 2013,
+        "price_range": "129.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-5-2013",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "154hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2013,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2013",
+        "variants": [
+            {
+                "trim_name": "3.7 V6",
+                "price": "189.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3726cc",
+                "horsepower": "277hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2012,
+        "price_range": "69.9 - 75.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2012",
+        "variants": [
+            {
+                "trim_name": "1.5 尊貴型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 頂級型",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2012,
+        "price_range": "63.9 - 80.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2012",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "63.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 頂級型",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "80.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2012,
+        "price_range": "69.9 - 90.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2012",
+        "variants": [
+            {
+                "trim_name": "1.6型動版",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0型動版",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 S型動版",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "167hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2012,
+        "price_range": "73.5 - 99.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2012",
+        "variants": [
+            {
+                "trim_name": "五人座尊榮型",
+                "price": "73.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座豪華型",
+                "price": "82.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座尊爵型",
+                "price": "85.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級型",
+                "price": "92.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級安全影音旗艦",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2012,
+        "price_range": "99.9 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2012",
+        "variants": [
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "115.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5S",
+                "price": "127.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-7",
+        "year": 2012,
+        "price_range": "171 - 171",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-7-2012",
+        "variants": [
+            {
+                "trim_name": "2.3 Turbo",
+                "price": "171",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "238hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2012,
+        "price_range": "197.9 - 197.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2012",
+        "variants": [
+            {
+                "trim_name": "3.7 V6",
+                "price": "197.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3726cc",
+                "horsepower": "277hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2011,
+        "price_range": "67.9 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2011",
+        "variants": [
+            {
+                "trim_name": "1.5 尊貴型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 頂級型",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2011,
+        "price_range": "61.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2011",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "61.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 頂級型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2011,
+        "price_range": "67.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2011",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5S",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "167hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2011,
+        "price_range": "71.5 - 91.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2011",
+        "variants": [
+            {
+                "trim_name": "五人座尊榮型",
+                "price": "71.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座豪華型",
+                "price": "78.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座尊爵型",
+                "price": "81.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級型",
+                "price": "88.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座影音旗艦型",
+                "price": "91.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2011,
+        "price_range": "94.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2011",
+        "variants": [
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "94.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "107.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5S",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-7",
+        "year": 2011,
+        "price_range": "159.9 - 159.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-7-2011",
+        "variants": [
+            {
+                "trim_name": "2.3 Turbo",
+                "price": "159.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "238hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2011,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2011",
+        "variants": [
+            {
+                "trim_name": "3.7 V6",
+                "price": "189.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3726cc",
+                "horsepower": "277hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2010,
+        "price_range": "65.9 - 71.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2010",
+        "variants": [
+            {
+                "trim_name": "1.5 尊貴型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 頂級型",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 4D",
+        "year": 2010,
+        "price_range": "59.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-4d-2010",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 頂級型",
+                "price": "63.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 影音旗艦型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3 5D",
+        "year": 2010,
+        "price_range": "65.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-5d-2010",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "106hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "151hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5S",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "167hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2010,
+        "price_range": "69.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2010",
+        "variants": [
+            {
+                "trim_name": "五人座尊榮型",
+                "price": "69.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座豪華型",
+                "price": "75.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座尊爵型",
+                "price": "79.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座尊貴型",
+                "price": "82.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人座頂級型",
+                "price": "86.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2010,
+        "price_range": "94.9 - 119.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2010",
+        "variants": [
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "94.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "107.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5S",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-7",
+        "year": 2010,
+        "price_range": "159.9 - 159.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-7-2010",
+        "variants": [
+            {
+                "trim_name": "2.3 Turbo",
+                "price": "159.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "238hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda CX-9",
+        "year": 2010,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-cx-9-2010",
+        "variants": [
+            {
+                "trim_name": "3.7 V6",
+                "price": "189.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "3726cc",
+                "horsepower": "277hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2009,
+        "price_range": "64.5 - 71.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2009",
+        "variants": [
+            {
+                "trim_name": "1.5 尊貴型",
+                "price": "64.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 頂級型",
+                "price": "67.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3",
+        "year": 2009,
+        "price_range": "49.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-2009",
+        "variants": [
+            {
+                "trim_name": "1.6 Genki",
+                "price": "49.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "58.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 頂級型",
+                "price": "61.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Sport 性能版",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Mazdaspeed版",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2009,
+        "price_range": "67.9 - 86.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2009",
+        "variants": [
+            {
+                "trim_name": "2.0尊榮型五人座",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0豪華型七人座",
+                "price": "73.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊爵型七人座",
+                "price": "77.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型七人座",
+                "price": "81.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型七人座",
+                "price": "86.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2009,
+        "price_range": "95.9 - 117.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2009",
+        "variants": [
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "95.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "105.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 優賞版 4D",
+                "price": "115.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 頂級型",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda Tribute",
+        "year": 2009,
+        "price_range": "69.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-tribute-2009",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD精裝版",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD頂級型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 2",
+        "year": 2008,
+        "price_range": "57.5 - 63.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-2-2008",
+        "variants": [
+            {
+                "trim_name": "1.5 尊貴型",
+                "price": "57.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 頂級型",
+                "price": "60.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Sport",
+                "price": "63.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "103hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 3",
+        "year": 2008,
+        "price_range": "57.5 - 79",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-3-2008",
+        "variants": [
+            {
+                "trim_name": "1.6 尊貴型",
+                "price": "57.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 頂級型",
+                "price": "60.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "107hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "65.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Sport",
+                "price": "66.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D 2.0",
+                "price": "79",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "150hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 5",
+        "year": 2008,
+        "price_range": "71.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-5-2008",
+        "variants": [
+            {
+                "trim_name": "2.0豪華型",
+                "price": "71.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊爵型",
+                "price": "75.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊貴型",
+                "price": "79.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "86.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1998cc",
+                "horsepower": "148hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda 6",
+        "year": 2008,
+        "price_range": "86.9 - 108.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-6-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 尊貴型",
+                "price": "86.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 頂級型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "147hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 優賞版 4D",
+                "price": "106.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5",
+                "price": "108.9",
+                "body_type": "",
+                "engine_cc": "",
+                "horsepower": "",
+                "fuel_type": ""
+            },
+            {
+                "trim_name": "2.5",
+                "price": "108.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2488cc",
+                "horsepower": "170hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "model_name": "Mazda Tribute",
+        "year": 2008,
+        "price_range": "76 - 106",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mazda-tribute-2008",
+        "variants": [
+            {
+                "trim_name": "2.3 2WD精裝版",
+                "price": "76",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.3 4WD頂級型",
+                "price": "86",
+                "body_type": "5門 5人座",
+                "engine_cc": "2261cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 V6旗艦型",
+                "price": "106",
+                "body_type": "5門 5人座",
+                "engine_cc": "2967cc",
+                "horsepower": "197hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

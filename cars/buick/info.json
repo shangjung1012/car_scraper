@@ -1,20 +1,101 @@
 [
     {
         "brand": "Buick",
-        "model": "2009 Buick Excelle",
-        "price": "57.9 - 64.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-excelle-2009"
+        "model_name": "Buick Excelle",
+        "year": 2009,
+        "price_range": "57.9 - 64.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-excelle-2009",
+        "variants": [
+            {
+                "trim_name": "1.6 豪華",
+                "price": "57.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "109hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 雙安",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "122hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Buick",
-        "model": "2008 Buick Excelle",
-        "price": "57.9 - 69.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-excelle-2008"
+        "model_name": "Buick Excelle",
+        "year": 2008,
+        "price_range": "57.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-excelle-2008",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "57.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "109hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 雙安",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "122hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 雙安LPG",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "122hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 頂級",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "122hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Buick",
-        "model": "2006 Buick LaCrosse",
-        "price": "93.9 - 136.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-lacrosse-2006"
+        "model_name": "Buick LaCrosse",
+        "year": 2006,
+        "price_range": "93.9 - 136.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/buick-lacrosse-2006",
+        "variants": [
+            {
+                "trim_name": "2.4 豪華",
+                "price": "93.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2384cc",
+                "horsepower": "168hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 影音",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2384cc",
+                "horsepower": "168hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 旗艦",
+                "price": "136.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2980cc",
+                "horsepower": "176hp@5400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

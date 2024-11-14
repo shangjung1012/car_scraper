@@ -1,512 +1,1535 @@
 [
     {
         "brand": "Ferrari",
-        "model": "2025 Ferrari 12Cilindri",
-        "price": "2403.8 - 2403.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-12cilindri-2025"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2024 Ferrari 296 GTB",
-        "price": "1688 - 1688",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gtb-2024"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2024 Ferrari 296 GTS",
-        "price": "1822 - 1822",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gts-2024"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2024 Ferrari Purosangue",
-        "price": "2221 - 2221",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-purosangue-2024"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2024 Ferrari Roma Spider",
-        "price": "1353 - 1353",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-roma-spider-2024"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2023 Ferrari 296 GTB",
-        "price": "1688 - 1688",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gtb-2023"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2023 Ferrari 296 GTS",
-        "price": "1822 - 1822",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gts-2023"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2023 Ferrari Purosangue",
-        "price": "2221 - 2221",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-purosangue-2023"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2022 Ferrari 296 GTB",
-        "price": "1655 - 1655",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gtb-2022"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2022 Ferrari Portofino",
-        "price": "1241 - 1241",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2022"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2022 Ferrari Roma",
-        "price": "1185 - 1185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-roma-2022"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2022 Ferrari SF90",
-        "price": "2385 - 2385",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-2022"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2022 Ferrari SF90 Spider",
-        "price": "2625 - 2625",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-spider-2022"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2021 Ferrari 812 GTS",
-        "price": "1980 - 1980",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-gts-2021"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2021 Ferrari F8 Spider",
-        "price": "1628 - 1628",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-spider-2021"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2021 Ferrari F8 Tributo",
-        "price": "1485 - 1485",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-tributo-2021"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2021 Ferrari Portofino",
-        "price": "1241 - 1241",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2021"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2021 Ferrari Roma",
-        "price": "1185 - 1185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-roma-2021"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2021 Ferrari SF90",
-        "price": "2385 - 2385",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-2021"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2021 Ferrari SF90 Spider",
-        "price": "2625 - 2625",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-spider-2021"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2020 Ferrari 812 GTS",
-        "price": "1980 - 1980",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-gts-2020"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2020 Ferrari 812 Superfast",
-        "price": "1831 - 1831",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-superfast-2020"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2020 Ferrari F8 Spider",
-        "price": "1628 - 1628",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-spider-2020"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2020 Ferrari F8 Tributo",
-        "price": "1485 - 1485",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-tributo-2020"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2020 Ferrari GTC4 Lusso",
-        "price": "1390 - 1685",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2020"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2020 Ferrari Portofino",
-        "price": "1228 - 1228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2020"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2020 Ferrari SF90",
-        "price": "2385 - 2385",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-stradale-2020"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2019 Ferrari 488",
-        "price": "1450 - 1797.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-2019"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2019 Ferrari 488 Spider",
-        "price": "1616 - 1982.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2019"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2019 Ferrari 812 Superfast",
-        "price": "1831 - 1831",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-superfast-2019"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2019 Ferrari F8 Tributo",
-        "price": "1485 - 1485",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-tributo-2019"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2019 Ferrari GTC4 Lusso",
-        "price": "1390 - 1685",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2019"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2019 Ferrari Portofino",
-        "price": "1228 - 1228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2019"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2018 Ferrari 488",
-        "price": "1450 - 1797.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2018"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2018 Ferrari 488 Spider",
-        "price": "1616 - 1616",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2018"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2018 Ferrari 812 Superfast",
-        "price": "1831 - 1831",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-superfast-2018"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2018 Ferrari GTC4 Lusso",
-        "price": "1390 - 1685",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2018"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2018 Ferrari Portofino",
-        "price": "1228 - 1228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2018"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2017 Ferrari 488",
-        "price": "1450 - 1450",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2017"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2017 Ferrari 488 Spider",
-        "price": "1616 - 1616",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2017"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2017 Ferrari California T",
-        "price": "1190 - 1190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2017"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2017 Ferrari F12 Berlinetta",
-        "price": "1761 - 1761",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2017"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2017 Ferrari GTC4 Lusso",
-        "price": "1390 - 1685",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2017"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2016 Ferrari 488",
-        "price": "1450 - 1450",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2016"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2016 Ferrari 488 Spider",
-        "price": "1616 - 1616",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2016"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2016 Ferrari California T",
-        "price": "1190 - 1190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2016"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2016 Ferrari F12 Berlinetta",
-        "price": "1761 - 1761",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2016"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2016 Ferrari FF",
-        "price": "1713.6 - 1713.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2016"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2015 Ferrari 458",
-        "price": "1379 - 1614",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-2015"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2015 Ferrari 458 Spider",
-        "price": "1536 - 1536",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2015"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2015 Ferrari 488",
-        "price": "1381 - 1381",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2015"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2015 Ferrari California T",
-        "price": "1190 - 1190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2015"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2015 Ferrari F12 Berlinetta",
-        "price": "1761 - 1761",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2015"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2015 Ferrari FF",
-        "price": "1713.6 - 1713.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2015"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2014 Ferrari 458",
-        "price": "1379 - 1614",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-2014"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2014 Ferrari 458 Spider",
-        "price": "1536 - 1536",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2014"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2014 Ferrari California 30",
-        "price": "1150 - 1150",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-30-2014"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2014 Ferrari California T",
-        "price": "1190 - 1190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2014"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2014 Ferrari F12 Berlinetta",
-        "price": "1761 - 1761",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2014"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2014 Ferrari FF",
-        "price": "1713.6 - 1713.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2014"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2013 Ferrari 458 Italia",
-        "price": "1345 - 1345",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2013"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2013 Ferrari 458 Spider",
-        "price": "1498 - 1498",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2013"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2013 Ferrari California 30",
-        "price": "1150 - 1150",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-30-2013"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2013 Ferrari F12 Berlinetta",
-        "price": "1718 - 1718",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2013"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2013 Ferrari FF",
-        "price": "1680 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2013"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2012 Ferrari 458 Italia",
-        "price": "1345 - 1345",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2012"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2012 Ferrari 458 Spider",
-        "price": "1498 - 1498",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2012"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2012 Ferrari 599 GTB Fiorano",
-        "price": "1819 - 1819",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-gtb-fiorano-2012"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2012 Ferrari California 30",
-        "price": "1150 - 1150",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-30-2012"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2012 Ferrari FF",
-        "price": "1680 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2012"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2011 Ferrari 458 Italia",
-        "price": "1338 - 1338",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2011"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2011 Ferrari 599 GTB Fiorano",
-        "price": "1819 - 1819",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-gtb-fiorano-2011"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2011 Ferrari 612",
-        "price": "1750 - 1750",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2011"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2011 Ferrari California",
-        "price": "1160 - 1160",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-2011"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2010 Ferrari 458 Italia",
-        "price": "1338 - 1338",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2010"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2010 Ferrari 599  GTB Fiorano",
-        "price": "1819 - 1819",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-gtb-fiorano-2010"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2010 Ferrari 612",
-        "price": "1750 - 1750",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2010"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2010 Ferrari California",
-        "price": "1160 - 1160",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-2010"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2009 Ferrari 599",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-2009"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2009 Ferrari 612",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2009"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2009 Ferrari California",
-        "price": "1160 - 1160",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-2009"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2009 Ferrari F430",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f430-2009"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2008 Ferrari 599",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-2008"
-    },
-    {
-        "brand": "Ferrari",
-        "model": "2008 Ferrari 612",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2008"
-    },
-    {
+        "model_name": "Ferrari 12Cilindri",
+        "year": 2025,
+        "price_range": "2403.8 - 2403.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-12cilindri-2025",
+        "variants": [
+            {
+                "trim_name": "6.5 V12",
+                "price": "2403.8",
+                "body_type": "3門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "830hp@9250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 296 GTB",
+        "year": 2024,
+        "price_range": "1688 - 1688",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gtb-2024",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1688",
+                "body_type": "2門 2人座",
+                "engine_cc": "2992cc",
+                "horsepower": "830hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 296 GTS",
+        "year": 2024,
+        "price_range": "1822 - 1822",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gts-2024",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1822",
+                "body_type": "2門 2人座",
+                "engine_cc": "2992cc",
+                "horsepower": "830hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Purosangue",
+        "year": 2024,
+        "price_range": "2221 - 2221",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-purosangue-2024",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2221",
+                "body_type": "5門 4人座",
+                "engine_cc": "6496cc",
+                "horsepower": "725hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Roma Spider",
+        "year": 2024,
+        "price_range": "1353 - 1353",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-roma-spider-2024",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1353",
+                "body_type": "2門 2＋2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "620hp@5750~7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 296 GTB",
+        "year": 2023,
+        "price_range": "1688 - 1688",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gtb-2023",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1688",
+                "body_type": "2門 2人座",
+                "engine_cc": "2992cc",
+                "horsepower": "830hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
         "brand": "Ferrari",
-        "model": "2008 Ferrari F430",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f430-2008"
+        "model_name": "Ferrari 296 GTS",
+        "year": 2023,
+        "price_range": "1822 - 1822",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gts-2023",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1822",
+                "body_type": "2門 2人座",
+                "engine_cc": "2992cc",
+                "horsepower": "830hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Purosangue",
+        "year": 2023,
+        "price_range": "2221 - 2221",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-purosangue-2023",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2221",
+                "body_type": "5門 4人座",
+                "engine_cc": "6496cc",
+                "horsepower": "725hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 296 GTB",
+        "year": 2022,
+        "price_range": "1655 - 1655",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-296-gtb-2022",
+        "variants": [
+            {
+                "trim_name": "V6 Hybrid",
+                "price": "1655",
+                "body_type": "2門 2人座",
+                "engine_cc": "2992cc",
+                "horsepower": "830hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Portofino",
+        "year": 2022,
+        "price_range": "1241 - 1241",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2022",
+        "variants": [
+            {
+                "trim_name": "M",
+                "price": "1241",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "620hp@5750~7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Roma",
+        "year": 2022,
+        "price_range": "1185 - 1185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-roma-2022",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1185",
+                "body_type": "2門 2＋2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "620hp@5750~7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari SF90",
+        "year": 2022,
+        "price_range": "2385 - 2385",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-2022",
+        "variants": [
+            {
+                "trim_name": "Stradale",
+                "price": "2385",
+                "body_type": "2門 2人座",
+                "engine_cc": "3990cc",
+                "horsepower": "1000hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari SF90 Spider",
+        "year": 2022,
+        "price_range": "2625 - 2625",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-spider-2022",
+        "variants": [
+            {
+                "trim_name": "Hybrid",
+                "price": "2625",
+                "body_type": "2門 2人座",
+                "engine_cc": "3990cc",
+                "horsepower": "1000hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 812 GTS",
+        "year": 2021,
+        "price_range": "1980 - 1980",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-gts-2021",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1980",
+                "body_type": "2門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "800hp@8500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F8 Spider",
+        "year": 2021,
+        "price_range": "1628 - 1628",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-spider-2021",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1628",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F8 Tributo",
+        "year": 2021,
+        "price_range": "1485 - 1485",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-tributo-2021",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1485",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Portofino",
+        "year": 2021,
+        "price_range": "1241 - 1241",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2021",
+        "variants": [
+            {
+                "trim_name": "M",
+                "price": "1241",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "620hp@5750~7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Roma",
+        "year": 2021,
+        "price_range": "1185 - 1185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-roma-2021",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1185",
+                "body_type": "2門 2＋2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "620hp@5750~7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari SF90",
+        "year": 2021,
+        "price_range": "2385 - 2385",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-2021",
+        "variants": [
+            {
+                "trim_name": "Stradale",
+                "price": "2385",
+                "body_type": "2門 2人座",
+                "engine_cc": "3990cc",
+                "horsepower": "1000hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari SF90 Spider",
+        "year": 2021,
+        "price_range": "2625 - 2625",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-spider-2021",
+        "variants": [
+            {
+                "trim_name": "Hybrid",
+                "price": "2625",
+                "body_type": "2門 2人座",
+                "engine_cc": "3990cc",
+                "horsepower": "1000hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 812 GTS",
+        "year": 2020,
+        "price_range": "1980 - 1980",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-gts-2020",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1980",
+                "body_type": "2門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "800hp@8500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 812 Superfast",
+        "year": 2020,
+        "price_range": "1831 - 1831",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-superfast-2020",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1831",
+                "body_type": "2門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "800hp@8500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F8 Spider",
+        "year": 2020,
+        "price_range": "1628 - 1628",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-spider-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1628",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F8 Tributo",
+        "year": 2020,
+        "price_range": "1485 - 1485",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-tributo-2020",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1485",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari GTC4 Lusso",
+        "year": 2020,
+        "price_range": "1390 - 1685",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2020",
+        "variants": [
+            {
+                "trim_name": "T V8",
+                "price": "1390",
+                "body_type": "3門 4人座",
+                "engine_cc": "3855cc",
+                "horsepower": "610hp@7500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12",
+                "price": "1685",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "690hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Portofino",
+        "year": 2020,
+        "price_range": "1228 - 1228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2020",
+        "variants": [
+            {
+                "trim_name": "3.8 V8",
+                "price": "1228",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "600hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari SF90",
+        "year": 2020,
+        "price_range": "2385 - 2385",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-sf90-stradale-2020",
+        "variants": [
+            {
+                "trim_name": "Stradale",
+                "price": "2385",
+                "body_type": "2門 2人座",
+                "engine_cc": "3990cc",
+                "horsepower": "1000hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488",
+        "year": 2019,
+        "price_range": "1450 - 1797.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-2019",
+        "variants": [
+            {
+                "trim_name": "GTB V8",
+                "price": "1450",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Pista V8",
+                "price": "1797.5",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488 Spider",
+        "year": 2019,
+        "price_range": "1616 - 1982.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1616",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Pista V8",
+                "price": "1982.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 812 Superfast",
+        "year": 2019,
+        "price_range": "1831 - 1831",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-superfast-2019",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1831",
+                "body_type": "2門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "800hp@8500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F8 Tributo",
+        "year": 2019,
+        "price_range": "1485 - 1485",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f8-tributo-2019",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1485",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari GTC4 Lusso",
+        "year": 2019,
+        "price_range": "1390 - 1685",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2019",
+        "variants": [
+            {
+                "trim_name": "T V8",
+                "price": "1390",
+                "body_type": "3門 4人座",
+                "engine_cc": "3855cc",
+                "horsepower": "610hp@7500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12",
+                "price": "1685",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "690hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Portofino",
+        "year": 2019,
+        "price_range": "1228 - 1228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2019",
+        "variants": [
+            {
+                "trim_name": "3.8 V8",
+                "price": "1228",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "600hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488",
+        "year": 2018,
+        "price_range": "1450 - 1797.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2018",
+        "variants": [
+            {
+                "trim_name": "GTB V8",
+                "price": "1450",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Pista V8",
+                "price": "1797.5",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "720hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488 Spider",
+        "year": 2018,
+        "price_range": "1616 - 1616",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2018",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1616",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 812 Superfast",
+        "year": 2018,
+        "price_range": "1831 - 1831",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-812-superfast-2018",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1831",
+                "body_type": "2門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "800hp@8500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari GTC4 Lusso",
+        "year": 2018,
+        "price_range": "1390 - 1685",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2018",
+        "variants": [
+            {
+                "trim_name": "T V8",
+                "price": "1390",
+                "body_type": "3門 4人座",
+                "engine_cc": "3855cc",
+                "horsepower": "610hp@7500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12",
+                "price": "1685",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "690hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari Portofino",
+        "year": 2018,
+        "price_range": "1228 - 1228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-portofino-2018",
+        "variants": [
+            {
+                "trim_name": "3.8 V8",
+                "price": "1228",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "600hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488",
+        "year": 2017,
+        "price_range": "1450 - 1450",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2017",
+        "variants": [
+            {
+                "trim_name": "GTB V8",
+                "price": "1450",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488 Spider",
+        "year": 2017,
+        "price_range": "1616 - 1616",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2017",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1616",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California T",
+        "year": 2017,
+        "price_range": "1190 - 1190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2017",
+        "variants": [
+            {
+                "trim_name": "3.8 V8",
+                "price": "1190",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "560hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F12 Berlinetta",
+        "year": 2017,
+        "price_range": "1761 - 1761",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2017",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1761",
+                "body_type": "2門 2人座",
+                "engine_cc": "6262cc",
+                "horsepower": "740hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari GTC4 Lusso",
+        "year": 2017,
+        "price_range": "1390 - 1685",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-gtc4-lusso-2017",
+        "variants": [
+            {
+                "trim_name": "T V8",
+                "price": "1390",
+                "body_type": "3門 4人座",
+                "engine_cc": "3855cc",
+                "horsepower": "610hp@7500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12",
+                "price": "1685",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "690hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488",
+        "year": 2016,
+        "price_range": "1450 - 1450",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2016",
+        "variants": [
+            {
+                "trim_name": "GTB V8",
+                "price": "1450",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488 Spider",
+        "year": 2016,
+        "price_range": "1616 - 1616",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-spider-2016",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1616",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California T",
+        "year": 2016,
+        "price_range": "1190 - 1190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2016",
+        "variants": [
+            {
+                "trim_name": "3.8 V8",
+                "price": "1190",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "560hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F12 Berlinetta",
+        "year": 2016,
+        "price_range": "1761 - 1761",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2016",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1761",
+                "body_type": "2門 2人座",
+                "engine_cc": "6262cc",
+                "horsepower": "740hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari FF",
+        "year": 2016,
+        "price_range": "1713.6 - 1713.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2016",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1713.6",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "660hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458",
+        "year": 2015,
+        "price_range": "1379 - 1614",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-2015",
+        "variants": [
+            {
+                "trim_name": "Italia",
+                "price": "1379",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speciale",
+                "price": "1614",
+                "body_type": "2門 2人座",
+                "engine_cc": "4497cc",
+                "horsepower": "605hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Spider",
+        "year": 2015,
+        "price_range": "1536 - 1536",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2015",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1536",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 488",
+        "year": 2015,
+        "price_range": "1381 - 1381",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-488-gtb-2015",
+        "variants": [
+            {
+                "trim_name": "GTB V8",
+                "price": "1381",
+                "body_type": "2門 2人座",
+                "engine_cc": "3902cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California T",
+        "year": 2015,
+        "price_range": "1190 - 1190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2015",
+        "variants": [
+            {
+                "trim_name": "3.8 V8",
+                "price": "1190",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "560hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F12 Berlinetta",
+        "year": 2015,
+        "price_range": "1761 - 1761",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2015",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1761",
+                "body_type": "2門 2人座",
+                "engine_cc": "6262cc",
+                "horsepower": "740hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari FF",
+        "year": 2015,
+        "price_range": "1713.6 - 1713.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2015",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1713.6",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "660hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458",
+        "year": 2014,
+        "price_range": "1379 - 1614",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-2014",
+        "variants": [
+            {
+                "trim_name": "Italia",
+                "price": "1379",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speciale",
+                "price": "1614",
+                "body_type": "2門 2人座",
+                "engine_cc": "4497cc",
+                "horsepower": "605hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Spider",
+        "year": 2014,
+        "price_range": "1536 - 1536",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2014",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1536",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California 30",
+        "year": 2014,
+        "price_range": "1150 - 1150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-30-2014",
+        "variants": [
+            {
+                "trim_name": "4.3 V8",
+                "price": "1150",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4297cc",
+                "horsepower": "490hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California T",
+        "year": 2014,
+        "price_range": "1190 - 1190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-t-2014",
+        "variants": [
+            {
+                "trim_name": "3.8 V8",
+                "price": "1190",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3855cc",
+                "horsepower": "560hp@7500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F12 Berlinetta",
+        "year": 2014,
+        "price_range": "1761 - 1761",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2014",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1761",
+                "body_type": "2門 2人座",
+                "engine_cc": "6262cc",
+                "horsepower": "740hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari FF",
+        "year": 2014,
+        "price_range": "1713.6 - 1713.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2014",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1713.6",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "660hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Italia",
+        "year": 2013,
+        "price_range": "1345 - 1345",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2013",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "1345",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Spider",
+        "year": 2013,
+        "price_range": "1498 - 1498",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2013",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1498",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California 30",
+        "year": 2013,
+        "price_range": "1150 - 1150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-30-2013",
+        "variants": [
+            {
+                "trim_name": "4.3 V8",
+                "price": "1150",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4297cc",
+                "horsepower": "490hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F12 Berlinetta",
+        "year": 2013,
+        "price_range": "1718 - 1718",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f12-berlinetta-2013",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1718",
+                "body_type": "2門 2人座",
+                "engine_cc": "6262cc",
+                "horsepower": "740hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari FF",
+        "year": 2013,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2013",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1680",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "660hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Italia",
+        "year": 2012,
+        "price_range": "1345 - 1345",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2012",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "1345",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Spider",
+        "year": 2012,
+        "price_range": "1498 - 1498",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-spider-2012",
+        "variants": [
+            {
+                "trim_name": "V8",
+                "price": "1498",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 599 GTB Fiorano",
+        "year": 2012,
+        "price_range": "1819 - 1819",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-gtb-fiorano-2012",
+        "variants": [
+            {
+                "trim_name": "HGTE",
+                "price": "1819",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5999cc",
+                "horsepower": "620hp@7600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California 30",
+        "year": 2012,
+        "price_range": "1150 - 1150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-30-2012",
+        "variants": [
+            {
+                "trim_name": "4.3 V8",
+                "price": "1150",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4297cc",
+                "horsepower": "490hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari FF",
+        "year": 2012,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-ff-2012",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "1680",
+                "body_type": "3門 4人座",
+                "engine_cc": "6262cc",
+                "horsepower": "660hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Italia",
+        "year": 2011,
+        "price_range": "1338 - 1338",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2011",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "1338",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 599 GTB Fiorano",
+        "year": 2011,
+        "price_range": "1819 - 1819",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-gtb-fiorano-2011",
+        "variants": [
+            {
+                "trim_name": "HGTE",
+                "price": "1819",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5999cc",
+                "horsepower": "620hp@7600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 612",
+        "year": 2011,
+        "price_range": "1750 - 1750",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2011",
+        "variants": [
+            {
+                "trim_name": "Scaglietti",
+                "price": "1750",
+                "body_type": "2門 4人座",
+                "engine_cc": "5748cc",
+                "horsepower": "540hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California",
+        "year": 2011,
+        "price_range": "1160 - 1160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-2011",
+        "variants": [
+            {
+                "trim_name": "4.3",
+                "price": "1160",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4297cc",
+                "horsepower": "460hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 458 Italia",
+        "year": 2010,
+        "price_range": "1338 - 1338",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-458-italia-2010",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "1338",
+                "body_type": "2門 2人座",
+                "engine_cc": "4499cc",
+                "horsepower": "570hp@9000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 599  GTB Fiorano",
+        "year": 2010,
+        "price_range": "1819 - 1819",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-gtb-fiorano-2010",
+        "variants": [
+            {
+                "trim_name": "HGTE",
+                "price": "1819",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5999cc",
+                "horsepower": "620hp@7600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 612",
+        "year": 2010,
+        "price_range": "1750 - 1750",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2010",
+        "variants": [
+            {
+                "trim_name": "Scaglietti",
+                "price": "1750",
+                "body_type": "2門 4人座",
+                "engine_cc": "5748cc",
+                "horsepower": "540hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California",
+        "year": 2010,
+        "price_range": "1160 - 1160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-2010",
+        "variants": [
+            {
+                "trim_name": "4.3",
+                "price": "1160",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4297cc",
+                "horsepower": "460hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 599",
+        "year": 2009,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-2009",
+        "variants": [
+            {
+                "trim_name": "GTB Fiorano",
+                "price": "售價未公布",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5999cc",
+                "horsepower": "620hp@7600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 612",
+        "year": 2009,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2009",
+        "variants": [
+            {
+                "trim_name": "Scaglietti",
+                "price": "售價未公布",
+                "body_type": "2門 4人座",
+                "engine_cc": "5748cc",
+                "horsepower": "540hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari California",
+        "year": 2009,
+        "price_range": "1160 - 1160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-california-2009",
+        "variants": [
+            {
+                "trim_name": "4.3",
+                "price": "1160",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "4297cc",
+                "horsepower": "460hp@7750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F430",
+        "year": 2009,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f430-2009",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "4308cc",
+                "horsepower": "490hp@8500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Spider",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "4308cc",
+                "horsepower": "490hp@8500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 599",
+        "year": 2008,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-599-2008",
+        "variants": [
+            {
+                "trim_name": "GTB Fiorano",
+                "price": "售價未公布",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5999cc",
+                "horsepower": "620hp@7600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari 612",
+        "year": 2008,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-612-2008",
+        "variants": [
+            {
+                "trim_name": "Scaglietti",
+                "price": "售價未公布",
+                "body_type": "2門 4人座",
+                "engine_cc": "5748cc",
+                "horsepower": "540hp@7250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Ferrari",
+        "model_name": "Ferrari F430",
+        "year": 2008,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ferrari-f430-2008",
+        "variants": [
+            {
+                "trim_name": "Spider",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "4308cc",
+                "horsepower": "490hp@8500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "4308cc",
+                "horsepower": "490hp@8500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

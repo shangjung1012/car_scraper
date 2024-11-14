@@ -1,680 +1,3219 @@
 [
     {
         "brand": "Subaru",
-        "model": "2025 Subaru Forester",
-        "price": "118.8 - 129.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2025"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2024 Subaru BRZ",
-        "price": "166.8 - 167.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2024"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2024 Subaru Crosstrek",
-        "price": "114.8 - 124.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-crosstrek-2024"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2024 Subaru Forester",
-        "price": "118.8 - 138.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2024"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2024 Subaru WRX Wagon",
-        "price": "188.8 - 188.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-wagon-2024"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2023 Subaru BRZ",
-        "price": "162.8 - 166.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2023"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2023 Subaru Crosstrek",
-        "price": "111.8 - 111.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-crosstrek-2023"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2023 Subaru Forester",
-        "price": "115.8 - 135.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2023"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2023 Subaru Outback",
-        "price": "159.8 - 162.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2023"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2023 Subaru Solterra",
-        "price": "189.8 - 189.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-solterra-2023"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2023 Subaru WRX",
-        "price": "172.8 - 172.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2023"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2023 Subaru WRX Wagon",
-        "price": "178.8 - 178.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-wagon-2023"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2022 Subaru BRZ",
-        "price": "152.8 - 156.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2022"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2022 Subaru Forester",
-        "price": "125.8 - 135.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2022"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2022 Subaru Outback",
-        "price": "156.8 - 159.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2022"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2022 Subaru XV",
-        "price": "102.8 - 102.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2022"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2021 Subaru Forester",
-        "price": "112.8 - 122.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2021"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2021 Subaru Impreza 5D",
-        "price": "97.8 - 102.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2021"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2021 Subaru Outback",
-        "price": "159.8 - 159.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2021"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2021 Subaru XV",
-        "price": "107.8 - 111.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2021"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2020 Subaru BRZ",
-        "price": "132 - 133",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2020"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2020 Subaru Forester",
-        "price": "103 - 126.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2020"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2020 Subaru Impreza 5D",
-        "price": "94.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2020"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2020 Subaru Levorg",
-        "price": "129.8 - 129.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2020"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2020 Subaru Outback",
-        "price": "130 - 130",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2020"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2020 Subaru WRX",
-        "price": "125.8 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2020"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2020 Subaru XV",
-        "price": "99.8 - 109",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2020"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru BRZ",
-        "price": "132 - 133",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru Forester",
-        "price": "103 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru Impreza 4D",
-        "price": "82.8 - 97.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru Impreza 5D",
-        "price": "84.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru Levorg",
-        "price": "127 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru Outback",
-        "price": "133 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru WRX",
-        "price": "135 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2019 Subaru XV",
-        "price": "95 - 119",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2019"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru BRZ",
-        "price": "132 - 133",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru Forester",
-        "price": "99.8 - 136",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru Forester(NEW)",
-        "price": "103 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester%28new%29-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru Impreza 4D",
-        "price": "81.8 - 96.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru Impreza 5D",
-        "price": "83.8 - 98.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru Legacy",
-        "price": "122 - 127",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru Levorg",
-        "price": "0 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru Outback",
-        "price": "129.9 - 135",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru WRX",
-        "price": "127 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2018 Subaru XV",
-        "price": "95 - 113",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2018"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru BRZ",
-        "price": "132 - 133",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru Forester",
-        "price": "99.8 - 136",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru Impreza 4D",
-        "price": "79.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru Impreza 5D",
-        "price": "81.8 - 91.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru Legacy",
-        "price": "122 - 122",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru Levorg",
-        "price": "124 - 130",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru Outback",
-        "price": "135 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru WRX",
-        "price": "141 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru XV",
-        "price": "98 - 108",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2017 Subaru XV(NEW)",
-        "price": "95 - 108",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-new-2017"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru BRZ",
-        "price": "128 - 131",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru Forester",
-        "price": "99 - 133",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru Forester(NEW)",
-        "price": "103 - 136",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-new-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru Impreza",
-        "price": "80.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru Legacy",
-        "price": "122 - 122",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru Levorg",
-        "price": "122 - 128",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru Outback",
-        "price": "135 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru WRX",
-        "price": "138 - 183",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2016 Subaru XV",
-        "price": "98 - 108",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2016"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2015 Subaru BRZ",
-        "price": "128 - 131",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2015"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2015 Subaru Forester",
-        "price": "99 - 133",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2015"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2015 Subaru Impreza",
-        "price": "82.9 - 82.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2015"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2015 Subaru Legacy",
-        "price": "122 - 122",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2015"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2015 Subaru Outback",
-        "price": "129 - 136",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2015"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2015 Subaru WRX",
-        "price": "136 - 182",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2015"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2015 Subaru XV",
-        "price": "95 - 105",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2015"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru BRZ",
-        "price": "152 - 152",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru Forester",
-        "price": "102 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru Impreza",
-        "price": "82.9 - 82.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru Impreza 4D",
-        "price": "190 - 190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru Legacy Wagon",
-        "price": "120 - 132",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru Outback",
-        "price": "138 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru WRX",
-        "price": "139 - 186",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2014 Subaru XV",
-        "price": "98.8 - 115",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2014"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru BRZ",
-        "price": "152 - 152",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru Forester",
-        "price": "102 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru Impreza 4D",
-        "price": "190 - 190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru Impreza 5D",
-        "price": "190 - 190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru Impreza(NEW)",
-        "price": "82.9 - 82.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-new-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru Legacy Sedan",
-        "price": "143 - 143",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru Legacy Wagon",
-        "price": "116 - 149",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru Outback",
-        "price": "138 - 138",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2013 Subaru XV",
-        "price": "98.8 - 115",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2013"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru BRZ",
-        "price": "152 - 152",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru Forester",
-        "price": "107 - 116",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru Impreza 4D",
-        "price": "190 - 190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru Impreza 5D",
-        "price": "190 - 190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru Legacy Sedan",
-        "price": "115 - 155",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru Legacy Wagon",
-        "price": "120 - 160",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru Outback",
-        "price": "146 - 190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2012 Subaru XV",
-        "price": "111 - 124",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2012"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2011 Subaru Forester",
-        "price": "105 - 136",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2011"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2011 Subaru Impreza 4D",
-        "price": "185 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2011"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2011 Subaru Impreza 5D",
-        "price": "98 - 190",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2011"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2011 Subaru Legacy Sedan",
-        "price": "110 - 150",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2011"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2011 Subaru Legacy Wagon",
-        "price": "116 - 156",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2011"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2011 Subaru Outback",
-        "price": "140 - 183",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2011"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2010 Subaru Forester",
-        "price": "105 - 135.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2010"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2010 Subaru Impreza",
-        "price": "98 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2010"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2010 Subaru Legacy Sedan",
-        "price": "110 - 150",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2010"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2010 Subaru Legacy Wagon",
-        "price": "116 - 156",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2010"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2010 Subaru Outback",
-        "price": "140 - 178",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2010"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2009 Subaru Forester",
-        "price": "118.8 - 135.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2009"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2009 Subaru Impreza",
-        "price": "79.8 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2009"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2008 Subaru Forester",
-        "price": "99.8 - 162.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2008"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2008 Subaru Impreza",
-        "price": "113.8 - 180",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2008"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2008 Subaru Legacy Station Wagon",
-        "price": "116 - 116",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-station-wagon-2008"
-    },
-    {
-        "brand": "Subaru",
-        "model": "2008 Subaru Outback",
-        "price": "178 - 178",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2008"
+        "model_name": "Subaru Forester",
+        "year": 2025,
+        "price_range": "118.8 - 129.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2025",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "118.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "128.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0  i-S EyeSight Black Edition",
+                "price": "129.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2024,
+        "price_range": "166.8 - 167.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2024",
+        "variants": [
+            {
+                "trim_name": "2.4 6MT",
+                "price": "166.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2387cc",
+                "horsepower": "234hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 6AT",
+                "price": "167.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2387cc",
+                "horsepower": "234hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Crosstrek",
+        "year": 2024,
+        "price_range": "114.8 - 124.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-crosstrek-2024",
+        "variants": [
+            {
+                "trim_name": "2.0 i-S  EyeSight",
+                "price": "114.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S  EyeSight GT Edition Lite",
+                "price": "121.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S  EyeSight GT Edition",
+                "price": "124.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2024,
+        "price_range": "118.8 - 138.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2024",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "118.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight GT Edition Lite",
+                "price": "125.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "128.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0  i-S EyeSight Black Edition",
+                "price": "129.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight GT Edition",
+                "price": "130.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight GT Edition",
+                "price": "138.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX Wagon",
+        "year": 2024,
+        "price_range": "188.8 - 188.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-wagon-2024",
+        "variants": [
+            {
+                "trim_name": "tS 2.4 EyeSight",
+                "price": "188.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2387cc",
+                "horsepower": "275hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2023,
+        "price_range": "162.8 - 166.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2023",
+        "variants": [
+            {
+                "trim_name": "2.4 6MT",
+                "price": "162.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2387cc",
+                "horsepower": "234hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 6AT",
+                "price": "166.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2387cc",
+                "horsepower": "234hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Crosstrek",
+        "year": 2023,
+        "price_range": "111.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-crosstrek-2023",
+        "variants": [
+            {
+                "trim_name": "2.0 i-S  EyeSight",
+                "price": "111.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2023,
+        "price_range": "115.8 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2023",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "115.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight GT Edition Lite",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "125.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0  i-S EyeSight Black Edition",
+                "price": "126.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight GT Edition",
+                "price": "127.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight GT Edition",
+                "price": "135.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2023,
+        "price_range": "159.8 - 162.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2023",
+        "variants": [
+            {
+                "trim_name": "2.5i-T EyeSight Lite",
+                "price": "159.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "169hp@5000~5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-T EyeSight",
+                "price": "162.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "169hp@5000~5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Solterra",
+        "year": 2023,
+        "price_range": "189.8 - 189.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-solterra-2023",
+        "variants": [
+            {
+                "trim_name": "AWD",
+                "price": "189.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 502km",
+                "horsepower": "215hp/34.4kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2023,
+        "price_range": "172.8 - 172.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2023",
+        "variants": [
+            {
+                "trim_name": "tS 2.4 EyeSight",
+                "price": "172.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2387cc",
+                "horsepower": "275hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX Wagon",
+        "year": 2023,
+        "price_range": "178.8 - 178.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-wagon-2023",
+        "variants": [
+            {
+                "trim_name": "tS 2.4 EyeSight",
+                "price": "178.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2387cc",
+                "horsepower": "275hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2022,
+        "price_range": "152.8 - 156.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2022",
+        "variants": [
+            {
+                "trim_name": "2.4 6MT",
+                "price": "152.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2387cc",
+                "horsepower": "234hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 6AT",
+                "price": "156.8",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "2387cc",
+                "horsepower": "234hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2022,
+        "price_range": "125.8 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2022",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "125.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "135.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2022,
+        "price_range": "156.8 - 159.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2022",
+        "variants": [
+            {
+                "trim_name": "2.5i-T EyeSight Lite",
+                "price": "156.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "169hp@5000~5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-T EyeSight",
+                "price": "159.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "169hp@5000~5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2022,
+        "price_range": "102.8 - 102.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2022",
+        "variants": [
+            {
+                "trim_name": "2.0 i-S  EyeSight",
+                "price": "102.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2021,
+        "price_range": "112.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2021",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "112.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2021,
+        "price_range": "97.8 - 102.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2021",
+        "variants": [
+            {
+                "trim_name": "1.6i-S",
+                "price": "97.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S EyeSight",
+                "price": "102.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2021,
+        "price_range": "159.8 - 159.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2021",
+        "variants": [
+            {
+                "trim_name": "2.5i-T EyeSight",
+                "price": "159.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "169hp@5000~5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2021,
+        "price_range": "107.8 - 111.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2021",
+        "variants": [
+            {
+                "trim_name": "2.0 i-S",
+                "price": "107.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S  EyeSight",
+                "price": "107.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S  EyeSight Plus",
+                "price": "111.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2020,
+        "price_range": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2020",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "132",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "133",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2020,
+        "price_range": "103 - 126.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2020",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L GT Edition",
+                "price": "111.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S GT Edition",
+                "price": "116.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight GT Edition",
+                "price": "118.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight GT Edition",
+                "price": "126.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2020,
+        "price_range": "94.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2020",
+        "variants": [
+            {
+                "trim_name": "1.6i-S",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S EyeSight",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Levorg",
+        "year": 2020,
+        "price_range": "129.8 - 129.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2020",
+        "variants": [
+            {
+                "trim_name": "2.0 GT-S EyeSight",
+                "price": "129.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2020,
+        "price_range": "130 - 130",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2020",
+        "variants": [
+            {
+                "trim_name": "2.5i-S EyeSight",
+                "price": "130",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2020,
+        "price_range": "125.8 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2020",
+        "variants": [
+            {
+                "trim_name": "2.0 6MT  Premium",
+                "price": "125.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 CVT EysSight",
+                "price": "126.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5 Premium",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2020,
+        "price_range": "99.8 - 109",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2020",
+        "variants": [
+            {
+                "trim_name": "2.0 i-S",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "102.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 GT Edition",
+                "price": "109",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2019,
+        "price_range": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "132",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "133",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2019,
+        "price_range": "103 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 4D",
+        "year": 2019,
+        "price_range": "82.8 - 97.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2019",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "82.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S",
+                "price": "92.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S EyeSight",
+                "price": "97.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2019,
+        "price_range": "84.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2019",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S EyeSight",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Levorg",
+        "year": 2019,
+        "price_range": "127 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2019",
+        "variants": [
+            {
+                "trim_name": "1.6 GT-S",
+                "price": "127",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GT-S EyeSight",
+                "price": "132",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 GT-S EyeSight",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2019,
+        "price_range": "133 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2019",
+        "variants": [
+            {
+                "trim_name": "2.5i-S",
+                "price": "133",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-S EyeSight",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2019,
+        "price_range": "135 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 6MT  Premium",
+                "price": "135",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 CVT EysSight",
+                "price": "136",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5 Premium",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2019,
+        "price_range": "95 - 119",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "95",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 GT Edition",
+                "price": "119",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2018,
+        "price_range": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "132",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "133",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2018,
+        "price_range": "99.8 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 i-E",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-P",
+                "price": "114",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT-P",
+                "price": "136",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester(NEW)",
+        "year": 2018,
+        "price_range": "103 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester%28new%29-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 i-L",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L EyeSight",
+                "price": "109.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 4D",
+        "year": 2018,
+        "price_range": "81.8 - 96.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2018",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "81.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S",
+                "price": "91.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S EyeSight",
+                "price": "96.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2018,
+        "price_range": "83.8 - 98.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2018",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S",
+                "price": "93.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S EyeSight",
+                "price": "98.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy",
+        "year": 2018,
+        "price_range": "122 - 127",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2018",
+        "variants": [
+            {
+                "trim_name": "2.5i-S",
+                "price": "122",
+                "body_type": "4門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-S EyeSight",
+                "price": "127",
+                "body_type": "4門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Levorg",
+        "year": 2018,
+        "price_range": "0 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2018",
+        "variants": [
+            {
+                "trim_name": "1.6 GT",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GT-S",
+                "price": "120",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GT-S EyeSight",
+                "price": "125",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 GT-S EyeSight",
+                "price": "139.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2018,
+        "price_range": "129.9 - 135",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2018",
+        "variants": [
+            {
+                "trim_name": "2.5i-S",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-S EyeSight",
+                "price": "135",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2018,
+        "price_range": "127 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 6MT",
+                "price": "127",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 CVT",
+                "price": "130",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT  Premium",
+                "price": "130",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5",
+                "price": "176",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5 Premium",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2018,
+        "price_range": "95 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "95",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S EyeSight",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2017,
+        "price_range": "132 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "132",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "133",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2017,
+        "price_range": "99.8 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 i-E",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-P",
+                "price": "114",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT-P",
+                "price": "136",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 4D",
+        "year": 2017,
+        "price_range": "79.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2017",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "79.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S",
+                "price": "89.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2017,
+        "price_range": "81.8 - 91.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2017",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S",
+                "price": "91.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy",
+        "year": 2017,
+        "price_range": "122 - 122",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2017",
+        "variants": [
+            {
+                "trim_name": "2.5i-S",
+                "price": "122",
+                "body_type": "4門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Levorg",
+        "year": 2017,
+        "price_range": "124 - 130",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2017",
+        "variants": [
+            {
+                "trim_name": "1.6 GT",
+                "price": "124",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GT-S",
+                "price": "130",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2017,
+        "price_range": "135 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2017",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "135",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-S",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2017,
+        "price_range": "141 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2017",
+        "variants": [
+            {
+                "trim_name": "2.0i 6MT",
+                "price": "141",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0i Sport Lineartronic",
+                "price": "146",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i",
+                "price": "176",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i Premium",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2017,
+        "price_range": "98 - 108",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "98",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV(NEW)",
+        "year": 2017,
+        "price_range": "95 - 108",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-new-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "95",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "156hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2016,
+        "price_range": "128 - 131",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "128",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "131",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2016,
+        "price_range": "99 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "99",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Elegant",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Premium",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT",
+                "price": "123",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT Premium",
+                "price": "133",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester(NEW)",
+        "year": 2016,
+        "price_range": "103 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-new-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 i-E",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-L",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-P",
+                "price": "114",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT-P",
+                "price": "136",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza",
+        "year": 2016,
+        "price_range": "80.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2016",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "80.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6i-S",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy",
+        "year": 2016,
+        "price_range": "122 - 122",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2016",
+        "variants": [
+            {
+                "trim_name": "2.5i-S",
+                "price": "122",
+                "body_type": "4門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Levorg",
+        "year": 2016,
+        "price_range": "122 - 128",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-levorg-2016",
+        "variants": [
+            {
+                "trim_name": "1.6 GT",
+                "price": "122",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GT-S",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "170hp@4800~5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2016,
+        "price_range": "135 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2016",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "135",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-S",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2016,
+        "price_range": "138 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2016",
+        "variants": [
+            {
+                "trim_name": "2.0i 6MT",
+                "price": "138",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0i Sport Lineartronic",
+                "price": "143",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i",
+                "price": "174",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i Premium",
+                "price": "183",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2016,
+        "price_range": "98 - 108",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "98",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "108",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2015,
+        "price_range": "128 - 131",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2015",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "128",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "131",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2015,
+        "price_range": "99 - 133",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2015",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "99",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Elegant",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Premium",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT",
+                "price": "123",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT Premium",
+                "price": "133",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza",
+        "year": 2015,
+        "price_range": "82.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2015",
+        "variants": [
+            {
+                "trim_name": "1.6i-S",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy",
+        "year": 2015,
+        "price_range": "122 - 122",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-2015",
+        "variants": [
+            {
+                "trim_name": "2.5i-S",
+                "price": "122",
+                "body_type": "4門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2015,
+        "price_range": "129 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2015",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "129",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i-S",
+                "price": "136",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "175hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2015,
+        "price_range": "136 - 182",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2015",
+        "variants": [
+            {
+                "trim_name": "2.0i 6MT",
+                "price": "136",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0i Sport Lineartronic",
+                "price": "140",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i",
+                "price": "173",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i Premium",
+                "price": "182",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2015,
+        "price_range": "95 - 105",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2015",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "95",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "105",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2014,
+        "price_range": "152 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2014",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "152",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "152",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2014,
+        "price_range": "102 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2014",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "102",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Elegant",
+                "price": "106",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Premium",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT Premium",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza",
+        "year": 2014,
+        "price_range": "82.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2014",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 4D",
+        "year": 2014,
+        "price_range": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2014",
+        "variants": [
+            {
+                "trim_name": "WRX STI",
+                "price": "190",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Wagon",
+        "year": 2014,
+        "price_range": "120 - 132",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2014",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "120",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i",
+                "price": "132",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "173hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2014,
+        "price_range": "138 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2014",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "173hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru WRX",
+        "year": 2014,
+        "price_range": "139 - 186",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-wrx-2014",
+        "variants": [
+            {
+                "trim_name": "2.0i 6MT",
+                "price": "139",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0i Sport Lineartronic",
+                "price": "143",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "268hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i",
+                "price": "178",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI 2.5i Premium",
+                "price": "186",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2014,
+        "price_range": "98.8 - 115",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2014",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "98.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "115",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2013,
+        "price_range": "152 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2013",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "152",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "152",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2013,
+        "price_range": "102 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2013",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "102",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Premium",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT",
+                "price": "128",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 XT Premium",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 4D",
+        "year": 2013,
+        "price_range": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2013",
+        "variants": [
+            {
+                "trim_name": "WRX STI",
+                "price": "190",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2013,
+        "price_range": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2013",
+        "variants": [
+            {
+                "trim_name": "WRX STI",
+                "price": "190",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza(NEW)",
+        "year": 2013,
+        "price_range": "82.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-new-2013",
+        "variants": [
+            {
+                "trim_name": "1.6i",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1600cc",
+                "horsepower": "114hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Sedan",
+        "year": 2013,
+        "price_range": "143 - 143",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2013",
+        "variants": [
+            {
+                "trim_name": "2.5 GT",
+                "price": "143",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Wagon",
+        "year": 2013,
+        "price_range": "116 - 149",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2013",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "116",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i",
+                "price": "126",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "173hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 GT",
+                "price": "149",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2013,
+        "price_range": "138 - 138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2013",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "138",
+                "body_type": "5門 5人座",
+                "engine_cc": "2498cc",
+                "horsepower": "173hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2013,
+        "price_range": "98.8 - 115",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2013",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "98.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i-S",
+                "price": "115",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru BRZ",
+        "year": 2012,
+        "price_range": "152 - 152",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-brz-2012",
+        "variants": [
+            {
+                "trim_name": "2.0 6AT",
+                "price": "152",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 6MT",
+                "price": "152",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2012,
+        "price_range": "107 - 116",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2012",
+        "variants": [
+            {
+                "trim_name": "2.0 XS",
+                "price": "107",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 XT",
+                "price": "116",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 4D",
+        "year": 2012,
+        "price_range": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2012",
+        "variants": [
+            {
+                "trim_name": "WRX STI",
+                "price": "190",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2012,
+        "price_range": "190 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2012",
+        "variants": [
+            {
+                "trim_name": "WRX STI",
+                "price": "190",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Sedan",
+        "year": 2012,
+        "price_range": "115 - 155",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2012",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "115",
+                "body_type": "4門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i",
+                "price": "126",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "167hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 GT",
+                "price": "155",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Wagon",
+        "year": 2012,
+        "price_range": "120 - 160",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2012",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "120",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i",
+                "price": "132",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "167hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 GT",
+                "price": "160",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2012,
+        "price_range": "146 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2012",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "146",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "167hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6R",
+                "price": "190",
+                "body_type": "5門 5人座",
+                "engine_cc": "3630cc",
+                "horsepower": "260hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru XV",
+        "year": 2012,
+        "price_range": "111 - 124",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-xv-2012",
+        "variants": [
+            {
+                "trim_name": "2.0 i",
+                "price": "111",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 i Premium",
+                "price": "124",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2011,
+        "price_range": "105 - 136",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2011",
+        "variants": [
+            {
+                "trim_name": "2.0 XS",
+                "price": "105",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 XT",
+                "price": "136",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 4D",
+        "year": 2011,
+        "price_range": "185 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-4d-2011",
+        "variants": [
+            {
+                "trim_name": "WRX STI",
+                "price": "185",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza 5D",
+        "year": 2011,
+        "price_range": "98 - 190",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-5d-2011",
+        "variants": [
+            {
+                "trim_name": "2.0 RS",
+                "price": "98",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "WRX STI",
+                "price": "190",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Sedan",
+        "year": 2011,
+        "price_range": "110 - 150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2011",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "110",
+                "body_type": "4門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i",
+                "price": "123",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "157hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 GT",
+                "price": "150",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Wagon",
+        "year": 2011,
+        "price_range": "116 - 156",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2011",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "116",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5i",
+                "price": "129",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "157hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 GT",
+                "price": "156",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2011,
+        "price_range": "140 - 183",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2011",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "140",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "167hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6R",
+                "price": "183",
+                "body_type": "5門 5人座",
+                "engine_cc": "3630cc",
+                "horsepower": "260hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2010,
+        "price_range": "105 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2010",
+        "variants": [
+            {
+                "trim_name": "2.0X",
+                "price": "105",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5XT",
+                "price": "135.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza",
+        "year": 2010,
+        "price_range": "98 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2010",
+        "variants": [
+            {
+                "trim_name": "2.0RS",
+                "price": "98",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "WRX STI",
+                "price": "188",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Sedan",
+        "year": 2010,
+        "price_range": "110 - 150",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-sedan-2010",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "110",
+                "body_type": "4門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5GT",
+                "price": "150",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Wagon",
+        "year": 2010,
+        "price_range": "116 - 156",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-wagon-2010",
+        "variants": [
+            {
+                "trim_name": "2.0i",
+                "price": "116",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5GT",
+                "price": "156",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "265hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2010,
+        "price_range": "140 - 178",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2010",
+        "variants": [
+            {
+                "trim_name": "2.5i",
+                "price": "140",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "167hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6R",
+                "price": "178",
+                "body_type": "5門 5人座",
+                "engine_cc": "3630cc",
+                "horsepower": "260hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2009,
+        "price_range": "118.8 - 135.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2009",
+        "variants": [
+            {
+                "trim_name": "2.0X",
+                "price": "118.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5XT",
+                "price": "135.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza",
+        "year": 2009,
+        "price_range": "79.8 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2009",
+        "variants": [
+            {
+                "trim_name": "1.5 R 4D",
+                "price": "79.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "107hp/6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 R 5D",
+                "price": "82.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "107hp/6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RS 4D",
+                "price": "94.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp/6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 RS 5D",
+                "price": "97.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp/6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "WRX 4D",
+                "price": "137.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "WRX 5D",
+                "price": "138.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "STI",
+                "price": "188",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Forester",
+        "year": 2008,
+        "price_range": "99.8 - 162.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-forester-2008",
+        "variants": [
+            {
+                "trim_name": "2.0X",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "158hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5XT",
+                "price": "162.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Impreza",
+        "year": 2008,
+        "price_range": "113.8 - 180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-impreza-2008",
+        "variants": [
+            {
+                "trim_name": "WRX",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "230hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "WRX STi",
+                "price": "180",
+                "body_type": "5門 5人座",
+                "engine_cc": "2457cc",
+                "horsepower": "300hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Legacy Station Wagon",
+        "year": 2008,
+        "price_range": "116 - 116",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-legacy-station-wagon-2008",
+        "variants": [
+            {
+                "trim_name": "2.0R",
+                "price": "116",
+                "body_type": "5門 5人座",
+                "engine_cc": "1994cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "model_name": "Subaru Outback",
+        "year": 2008,
+        "price_range": "178 - 178",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/subaru-outback-2008",
+        "variants": [
+            {
+                "trim_name": "3.0R",
+                "price": "178",
+                "body_type": "5門 5人座",
+                "engine_cc": "3000cc",
+                "horsepower": "245hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

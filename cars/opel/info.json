@@ -1,110 +1,484 @@
 [
     {
         "brand": "Opel",
-        "model": "2023 Opel Astra",
-        "price": "117.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2023"
+        "model_name": "Opel Astra",
+        "year": 2023,
+        "price_range": "117.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2023",
+        "variants": [
+            {
+                "trim_name": "1.2  Elegance都會版",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2  GS潮流版",
+                "price": "123.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2  GS輕奢版",
+                "price": "125",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2  GS Premium旗艦版",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2023 Opel Grandland",
-        "price": "129.9 - 148.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-grandland-2023"
+        "model_name": "Opel Grandland",
+        "year": 2023,
+        "price_range": "129.9 - 148.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-grandland-2023",
+        "variants": [
+            {
+                "trim_name": "1.2 GS皮椅特仕版",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2  Business Elegance Modern＋菁英版",
+                "price": "143.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2  Business Elegance Premium旗艦版",
+                "price": "148.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2023 Opel Mokka",
-        "price": "103.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-mokka-2023"
+        "model_name": "Opel Mokka",
+        "year": 2023,
+        "price_range": "103.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-mokka-2023",
+        "variants": [
+            {
+                "trim_name": "1.2 Edition",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2 Elegance",
+                "price": "112.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1199cc",
+                "horsepower": "130hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Electric Elegance",
+                "price": "139.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 399km",
+                "horsepower": "136hp/26.5kgm",
+                "fuel_type": "電動"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2011 Opel Astra",
-        "price": "83.8 - 83.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2011"
+        "model_name": "Opel Astra",
+        "year": 2011,
+        "price_range": "83.8 - 83.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2011",
+        "variants": [
+            {
+                "trim_name": "1.8 Club",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2011 Opel Corsa",
-        "price": "86.9 - 92.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-corsa-2011"
+        "model_name": "Opel Corsa",
+        "year": 2011,
+        "price_range": "86.9 - 92.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-corsa-2011",
+        "variants": [
+            {
+                "trim_name": "1.4 3D Elegance",
+                "price": "86.9",
+                "body_type": "3門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 5D Elegance",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 5D Pleasure",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2011 Opel Insignia Sports Tourer",
-        "price": "168.8 - 168.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-insignia-sports-tourer-2011"
+        "model_name": "Opel Insignia Sports Tourer",
+        "year": 2011,
+        "price_range": "168.8 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-insignia-sports-tourer-2011",
+        "variants": [
+            {
+                "trim_name": "2.0 CDTI",
+                "price": "168.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1956cc",
+                "horsepower": "160hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2011 Opel Zafira",
-        "price": "102.8 - 102.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2011"
+        "model_name": "Opel Zafira",
+        "year": 2011,
+        "price_range": "102.8 - 102.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2011",
+        "variants": [
+            {
+                "trim_name": "1.8 VIP",
+                "price": "102.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2010 Opel Astra GTC",
-        "price": "119.8 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-gtc-2010"
+        "model_name": "Opel Astra GTC",
+        "year": 2010,
+        "price_range": "119.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-gtc-2010",
+        "variants": [
+            {
+                "trim_name": "1.8 Panorama",
+                "price": "119.8",
+                "body_type": "3門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2010 Opel Astra Sportwagon",
-        "price": "125.8 - 125.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-sportwagon-2010"
+        "model_name": "Opel Astra Sportwagon",
+        "year": 2010,
+        "price_range": "125.8 - 125.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-sportwagon-2010",
+        "variants": [
+            {
+                "trim_name": "1.9 CDTI",
+                "price": "125.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "120hp@3500~4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2010 Opel Corsa",
-        "price": "86.9 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-corsa-2010"
+        "model_name": "Opel Corsa",
+        "year": 2010,
+        "price_range": "86.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-corsa-2010",
+        "variants": [
+            {
+                "trim_name": "1.4 3D",
+                "price": "86.9",
+                "body_type": "3門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 5D Elegance",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 5D Pleasure",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "OPC",
+                "price": "119.8",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "192hp@5850rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2010 Opel Insignia Sports Tourer",
-        "price": "168.8 - 168.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-insignia-sports-tourer-2010"
+        "model_name": "Opel Insignia Sports Tourer",
+        "year": 2010,
+        "price_range": "168.8 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-insignia-sports-tourer-2010",
+        "variants": [
+            {
+                "trim_name": "2.0 CDTI",
+                "price": "168.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1956cc",
+                "horsepower": "160hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2010 Opel Zafira",
-        "price": "112.8 - 143.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2010"
+        "model_name": "Opel Zafira",
+        "year": 2010,
+        "price_range": "112.8 - 143.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2010",
+        "variants": [
+            {
+                "trim_name": "1.8 Easytronic",
+                "price": "112.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.9 CDTI",
+                "price": "143.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2009 Opel Astra",
-        "price": "99.8 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2009"
+        "model_name": "Opel Astra",
+        "year": 2009,
+        "price_range": "99.8 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2009",
+        "variants": [
+            {
+                "trim_name": "1.8 SRi",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.9 SportWagon",
+                "price": "119.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2009 Opel Corsa",
-        "price": "86.9 - 119.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-corsa-2009"
+        "model_name": "Opel Corsa",
+        "year": 2009,
+        "price_range": "86.9 - 119.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-corsa-2009",
+        "variants": [
+            {
+                "trim_name": "1.4 Enjoy 3D",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 Enjoy 5D",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 Pleasure 5D",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1364cc",
+                "horsepower": "90hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 OPC",
+                "price": "119.8",
+                "body_type": "3門 5人座",
+                "engine_cc": "1598cc",
+                "horsepower": "192hp@5850rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2009 Opel Zafira",
-        "price": "107.8 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2009"
+        "model_name": "Opel Zafira",
+        "year": 2009,
+        "price_range": "107.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2009",
+        "variants": [
+            {
+                "trim_name": "1.8 Eco",
+                "price": "107.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 Super",
+                "price": "116.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.9 CDTI",
+                "price": "139.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1910cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2008 Opel Astra",
-        "price": "99.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2008"
+        "model_name": "Opel Astra",
+        "year": 2008,
+        "price_range": "99.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-astra-2008",
+        "variants": [
+            {
+                "trim_name": "1.8 SRi",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2008 Opel Vectra",
-        "price": "188.8 - 198.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-vectra-2008"
+        "model_name": "Opel Vectra",
+        "year": 2008,
+        "price_range": "188.8 - 198.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-vectra-2008",
+        "variants": [
+            {
+                "trim_name": "2.8T五門",
+                "price": "188.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.8T四門",
+                "price": "198.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Opel",
-        "model": "2008 Opel Zafira",
-        "price": "107.8 - 139.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2008"
+        "model_name": "Opel Zafira",
+        "year": 2008,
+        "price_range": "107.8 - 139.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/opel-zafira-2008",
+        "variants": [
+            {
+                "trim_name": "1.8 Eco",
+                "price": "107.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 Super",
+                "price": "116.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1796cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.9 CDTI",
+                "price": "139.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1910cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     }
 ]

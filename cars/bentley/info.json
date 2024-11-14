@@ -1,362 +1,1574 @@
 [
     {
         "brand": "Bentley",
-        "model": "2025 Bentley Continental GT",
-        "price": "1780 - 1780",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2025"
+        "model_name": "Bentley Continental GT",
+        "year": 2025,
+        "price_range": "1780 - 1780",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2025",
+        "variants": [
+            {
+                "trim_name": "Speed",
+                "price": "1780",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "782hp/102kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2025 Bentley Continental GT Convertible",
-        "price": "1880 - 1880",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2025"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2025,
+        "price_range": "1880 - 1880",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2025",
+        "variants": [
+            {
+                "trim_name": "Speed",
+                "price": "1880",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "782hp/102kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2024 Bentley Bentayga",
-        "price": "1130 - 1550",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2024"
+        "model_name": "Bentley Bentayga",
+        "year": 2024,
+        "price_range": "1130 - 1550",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2024",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1130",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Hybrid",
+                "price": "1130",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "462hp/71.4kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "4.0 V8 EWB",
+                "price": "1380",
+                "body_type": "5門 4+1人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 EWB Azure",
+                "price": "1550",
+                "body_type": "5門 4+1人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2024 Bentley Continental GT",
-        "price": "1330 - 1720",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2024"
+        "model_name": "Bentley Continental GT",
+        "year": 2024,
+        "price_range": "1330 - 1720",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2024",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1330",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1720",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "659hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2024 Bentley Continental GT Convertible",
-        "price": "1380 - 1800",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2024"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2024,
+        "price_range": "1380 - 1800",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2024",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1380",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1800",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "659hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2024 Bentley Flying Spur",
-        "price": "1360 - 1840",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2024"
+        "model_name": "Bentley Flying Spur",
+        "year": 2024,
+        "price_range": "1360 - 1840",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2024",
+        "variants": [
+            {
+                "trim_name": "Hybrid",
+                "price": "1360",
+                "body_type": "4門 5人座",
+                "engine_cc": "2894cc",
+                "horsepower": "544hp/76.5kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "4.0 V8",
+                "price": "1360",
+                "body_type": "4門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1720",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 Mulliner",
+                "price": "1840",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2023 Bentley Bentayga",
-        "price": "1130 - 1550",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2023"
+        "model_name": "Bentley Bentayga",
+        "year": 2023,
+        "price_range": "1130 - 1550",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1130",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 EWB",
+                "price": "1380",
+                "body_type": "5門 4+1人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 EWB Azure",
+                "price": "1550",
+                "body_type": "5門 4+1人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2023 Bentley Continental GT",
-        "price": "1280 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2023"
+        "model_name": "Bentley Continental GT",
+        "year": 2023,
+        "price_range": "1280 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1280",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1680",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "659hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2023 Bentley Continental GT Convertible",
-        "price": "1330 - 1740",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2023"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2023,
+        "price_range": "1330 - 1740",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1330",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1740",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "659hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2023 Bentley Flying Spur",
-        "price": "1330 - 1800",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2023"
+        "model_name": "Bentley Flying Spur",
+        "year": 2023,
+        "price_range": "1330 - 1800",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1330",
+                "body_type": "4門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Hybrid",
+                "price": "1330",
+                "body_type": "4門 5人座",
+                "engine_cc": "2894cc",
+                "horsepower": "544hp/76.5kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1720",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 Mulliner",
+                "price": "1800",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2022 Bentley Bentayga",
-        "price": "1130 - 1330",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2022"
+        "model_name": "Bentley Bentayga",
+        "year": 2022,
+        "price_range": "1130 - 1330",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1130",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1330",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2022 Bentley Continental GT",
-        "price": "1280 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2022"
+        "model_name": "Bentley Continental GT",
+        "year": 2022,
+        "price_range": "1280 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1280",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 Mulliner",
+                "price": "1550",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1680",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "659hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2022 Bentley Continental GT Convertible",
-        "price": "1330 - 1740",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2022"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2022,
+        "price_range": "1330 - 1740",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1330",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 Mulliner",
+                "price": "1600",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1740",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "659hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2022 Bentley Flying Spur",
-        "price": "1330 - 1800",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2022"
+        "model_name": "Bentley Flying Spur",
+        "year": 2022,
+        "price_range": "1330 - 1800",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1330",
+                "body_type": "4門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1500",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 Mulliner",
+                "price": "1680",
+                "body_type": "4門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 Mulliner",
+                "price": "1800",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2021 Bentley Bentayga",
-        "price": "1130 - 1130",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2021"
+        "model_name": "Bentley Bentayga",
+        "year": 2021,
+        "price_range": "1130 - 1130",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1130",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2021 Bentley Continental GT",
-        "price": "1180 - 1420",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2021"
+        "model_name": "Bentley Continental GT",
+        "year": 2021,
+        "price_range": "1180 - 1420",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1180",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1420",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2021 Bentley Continental GT Convertible",
-        "price": "1240 - 1480",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2021"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2021,
+        "price_range": "1240 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1240",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1480",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2021 Bentley Flying Spur",
-        "price": "1280 - 1450",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2021"
+        "model_name": "Bentley Flying Spur",
+        "year": 2021,
+        "price_range": "1280 - 1450",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1280",
+                "body_type": "4門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1450",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2020 Bentley Bentayga",
-        "price": "1080 - 1580",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2020"
+        "model_name": "Bentley Bentayga",
+        "year": 2020,
+        "price_range": "1080 - 1580",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1080",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1380",
+                "body_type": "5門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "608hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed",
+                "price": "1580",
+                "body_type": "5門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2020 Bentley Continental GT",
-        "price": "1180 - 1420",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2020"
+        "model_name": "Bentley Continental GT",
+        "year": 2020,
+        "price_range": "1180 - 1420",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1180",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1420",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2020 Bentley Continental GT Convertible",
-        "price": "1240 - 1480",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2020"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2020,
+        "price_range": "1240 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1240",
+                "body_type": "2門 4人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1480",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2020 Bentley Flying Spur",
-        "price": "1420 - 1420",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2020"
+        "model_name": "Bentley Flying Spur",
+        "year": 2020,
+        "price_range": "1420 - 1420",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2020",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1420",
+                "body_type": "4門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2019 Bentley Bentayga",
-        "price": "1080 - 1860",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2019"
+        "model_name": "Bentley Bentayga",
+        "year": 2019,
+        "price_range": "1080 - 1860",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2019",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1080",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1380",
+                "body_type": "5門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "608hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 Mulliner五人座",
+                "price": "1680",
+                "body_type": "5門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "608hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 Mulliner四人座",
+                "price": "1860",
+                "body_type": "5門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "608hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2019 Bentley Continental GT",
-        "price": "1420 - 1420",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2019"
+        "model_name": "Bentley Continental GT",
+        "year": 2019,
+        "price_range": "1420 - 1420",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2019",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1420",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2019 Bentley Continental GT Convertible",
-        "price": "1480 - 1480",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2019"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2019,
+        "price_range": "1480 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2019",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1480",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2019 Bentley Mulsanne",
-        "price": "2200 - 2680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2019"
+        "model_name": "Bentley Mulsanne",
+        "year": 2019,
+        "price_range": "2200 - 2680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2019",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "512hp@4000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed",
+                "price": "2530",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "537hp@4000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.75 V8 EWB",
+                "price": "2680",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "512hp@4000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2018 Bentley Bentayga",
-        "price": "1080 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2018"
+        "model_name": "Bentley Bentayga",
+        "year": 2018,
+        "price_range": "1080 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2018",
+        "variants": [
+            {
+                "trim_name": "4.0 Diesel",
+                "price": "1080",
+                "body_type": "5門 5人座",
+                "engine_cc": "3956cc",
+                "horsepower": "435hp@3750~5000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "4.0 V8",
+                "price": "1080",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "550hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1380",
+                "body_type": "5門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "608hp@5250~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2018 Bentley Continental GT",
-        "price": "1420 - 1420",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2018"
+        "model_name": "Bentley Continental GT",
+        "year": 2018,
+        "price_range": "1420 - 1420",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2018",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1420",
+                "body_type": "2門 4人座",
+                "engine_cc": "5950cc",
+                "horsepower": "635hp@5000~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2018 Bentley Flying Spur",
-        "price": "1260 - 1540",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2018"
+        "model_name": "Bentley Flying Spur",
+        "year": 2018,
+        "price_range": "1260 - 1540",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2018",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1260",
+                "body_type": "4門 5人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1320",
+                "body_type": "4門 5人座",
+                "engine_cc": "3993cc",
+                "horsepower": "528hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1480",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 S",
+                "price": "1540",
+                "body_type": "4門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2018 Bentley Mulsanne",
-        "price": "2200 - 2680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2018"
+        "model_name": "Bentley Mulsanne",
+        "year": 2018,
+        "price_range": "2200 - 2680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2018",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "512hp@4000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed",
+                "price": "2530",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "537hp@4000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.75 V8 EWB",
+                "price": "2680",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "512hp@4000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2017 Bentley Bentayga",
-        "price": "1080 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2017"
+        "model_name": "Bentley Bentayga",
+        "year": 2017,
+        "price_range": "1080 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-bentayga-2017",
+        "variants": [
+            {
+                "trim_name": "4.0 Diesel",
+                "price": "1080",
+                "body_type": "5門 5人座",
+                "engine_cc": "3956cc",
+                "horsepower": "435hp@3750~5000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1380",
+                "body_type": "5門 5人座",
+                "engine_cc": "5950cc",
+                "horsepower": "608hp@5250~6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2017 Bentley Continental GT",
-        "price": "1280 - 1860",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2017"
+        "model_name": "Bentley Continental GT",
+        "year": 2017,
+        "price_range": "1280 - 1860",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2017",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1280",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1380",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "528hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1560",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "590hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1860",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "642hp@5900rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2017 Bentley Continental GT Convertible",
-        "price": "1380 - 1960",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2017"
+        "model_name": "Bentley Continental GT Convertible",
+        "year": 2017,
+        "price_range": "1380 - 1960",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-convertible-2017",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1380",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1480",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "528hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1660",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "590hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1960",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "642hp@5900rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2017 Bentley Continental Supersports",
-        "price": "2080 - 2080",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-supersports-2017"
+        "model_name": "Bentley Continental Supersports",
+        "year": 2017,
+        "price_range": "2080 - 2080",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-supersports-2017",
+        "variants": [
+            {
+                "trim_name": "6.0 W12 Coupe",
+                "price": "2080",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "710hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2017 Bentley Flying Spur",
-        "price": "1260 - 1480",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2017"
+        "model_name": "Bentley Flying Spur",
+        "year": 2017,
+        "price_range": "1260 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2017",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1260",
+                "body_type": "4門 5人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1320",
+                "body_type": "4門 5人座",
+                "engine_cc": "3993cc",
+                "horsepower": "528hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1480",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2017 Bentley Mulsanne",
-        "price": "2200 - 2680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2017"
+        "model_name": "Bentley Mulsanne",
+        "year": 2017,
+        "price_range": "2200 - 2680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2017",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "512hp@4000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed",
+                "price": "2530",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "537hp@4000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.75 V8 EWB",
+                "price": "2680",
+                "body_type": "4門 5人座",
+                "engine_cc": "6752cc",
+                "horsepower": "512hp@4000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2016 Bentley Continental GT",
-        "price": "1300 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2016"
+        "model_name": "Bentley Continental GT",
+        "year": 2016,
+        "price_range": "1300 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2016",
+        "variants": [
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1300",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "528hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1680",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2016 Bentley Flying Spur",
-        "price": "1168 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2016"
+        "model_name": "Bentley Flying Spur",
+        "year": 2016,
+        "price_range": "1168 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2016",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1168",
+                "body_type": "4門 5人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1380",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2016 Bentley Mulsanne",
-        "price": "2200 - 2530",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2016"
+        "model_name": "Bentley Mulsanne",
+        "year": 2016,
+        "price_range": "2200 - 2530",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2016",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6750cc",
+                "horsepower": "512hp@4200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed",
+                "price": "2530",
+                "body_type": "4門 5人座",
+                "engine_cc": "6750cc",
+                "horsepower": "539hp@4200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2015 Bentley Continental GT",
-        "price": "1230 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2015"
+        "model_name": "Bentley Continental GT",
+        "year": 2015,
+        "price_range": "1230 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2015",
+        "variants": [
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1230",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "528hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1680",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2015 Bentley Flying Spur",
-        "price": "1168 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2015"
+        "model_name": "Bentley Flying Spur",
+        "year": 2015,
+        "price_range": "1168 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2015",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1168",
+                "body_type": "4門 5人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1380",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2015 Bentley Mulsanne",
-        "price": "2200 - 2200",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2015"
+        "model_name": "Bentley Mulsanne",
+        "year": 2015,
+        "price_range": "2200 - 2200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2015",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6750cc",
+                "horsepower": "512hp@4200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2014 Bentley Continental GT",
-        "price": "1098 - 1580",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2014"
+        "model_name": "Bentley Continental GT",
+        "year": 2014,
+        "price_range": "1098 - 1580",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2014",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1098",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 S",
+                "price": "1230",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "528hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1580",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2014 Bentley Continental GTC",
-        "price": "1198 - 1680",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gtc-2014"
+        "model_name": "Bentley Continental GTC",
+        "year": 2014,
+        "price_range": "1198 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gtc-2014",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1198",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1680",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2014 Bentley Flying Spur",
-        "price": "1168 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2014"
+        "model_name": "Bentley Flying Spur",
+        "year": 2014,
+        "price_range": "1168 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-flying-spur-2014",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1168",
+                "body_type": "4門 5人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12",
+                "price": "1380",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2014 Bentley Mulsanne",
-        "price": "2200 - 2200",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2014"
+        "model_name": "Bentley Mulsanne",
+        "year": 2014,
+        "price_range": "2200 - 2200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2014",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6750cc",
+                "horsepower": "512hp@4200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2013 Bentley Continental Flying Spur",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2013"
+        "model_name": "Bentley Continental Flying Spur",
+        "year": 2013,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2013",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1280",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "560hp@6100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2013 Bentley Continental GT",
-        "price": "1098 - 1580",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2013"
+        "model_name": "Bentley Continental GT",
+        "year": 2013,
+        "price_range": "1098 - 1580",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2013",
+        "variants": [
+            {
+                "trim_name": "4.0 V8 Coupe",
+                "price": "1098",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 Coupe",
+                "price": "1380",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "575hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12 Coupe",
+                "price": "1580",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "625hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2013 Bentley Mulsanne",
-        "price": "2200 - 2200",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2013"
+        "model_name": "Bentley Mulsanne",
+        "year": 2013,
+        "price_range": "2200 - 2200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2013",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6750cc",
+                "horsepower": "512hp@4200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2012 Bentley Continental Flying Spur",
-        "price": "1280 - 1580",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2012"
+        "model_name": "Bentley Continental Flying Spur",
+        "year": 2012,
+        "price_range": "1280 - 1580",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2012",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1280",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "560hp@6100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Speed 6.0 W12",
+                "price": "1580",
+                "body_type": "4門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "610hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2012 Bentley Continental GT",
-        "price": "1098 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2012"
+        "model_name": "Bentley Continental GT",
+        "year": 2012,
+        "price_range": "1098 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2012",
+        "variants": [
+            {
+                "trim_name": "4.0 V8 Coupe",
+                "price": "1098",
+                "body_type": "2門 4人座",
+                "engine_cc": "3993cc",
+                "horsepower": "507hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "6.0 W12 Coupe",
+                "price": "1380",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "575hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2012 Bentley Continental Supersports",
-        "price": "1880 - 1880",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-supersports-2012"
+        "model_name": "Bentley Continental Supersports",
+        "year": 2012,
+        "price_range": "1880 - 1880",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-supersports-2012",
+        "variants": [
+            {
+                "trim_name": "6.0 W12 Coupe",
+                "price": "1880",
+                "body_type": "2門 2人座",
+                "engine_cc": "5998cc",
+                "horsepower": "630hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2012 Bentley Mulsanne",
-        "price": "2200 - 2200",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2012"
+        "model_name": "Bentley Mulsanne",
+        "year": 2012,
+        "price_range": "2200 - 2200",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2012",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2200",
+                "body_type": "4門 5人座",
+                "engine_cc": "6750cc",
+                "horsepower": "512hp@4200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2011 Bentley Continental Flying Spur",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2011"
+        "model_name": "Bentley Continental Flying Spur",
+        "year": 2011,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2011",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1280",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "560hp@6100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2011 Bentley Continental GT",
-        "price": "1380 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2011"
+        "model_name": "Bentley Continental GT",
+        "year": 2011,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2011",
+        "variants": [
+            {
+                "trim_name": "6.0 W12 Coupe",
+                "price": "1380",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "575hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2011 Bentley Continental Supersports",
-        "price": "1880 - 1880",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-supersports-2011"
+        "model_name": "Bentley Continental Supersports",
+        "year": 2011,
+        "price_range": "1880 - 1880",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-supersports-2011",
+        "variants": [
+            {
+                "trim_name": "6.0 W12 Coupe",
+                "price": "1880",
+                "body_type": "2門 2人座",
+                "engine_cc": "5998cc",
+                "horsepower": "630hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2011 Bentley Mulsanne",
-        "price": "2220 - 2220",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2011"
+        "model_name": "Bentley Mulsanne",
+        "year": 2011,
+        "price_range": "2220 - 2220",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-mulsanne-2011",
+        "variants": [
+            {
+                "trim_name": "6.75 V8",
+                "price": "2220",
+                "body_type": "4門 5人座",
+                "engine_cc": "6750cc",
+                "horsepower": "512hp@4200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2010 Bentley Continental Flying Spur",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2010"
+        "model_name": "Bentley Continental Flying Spur",
+        "year": 2010,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-flying-spur-2010",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1280",
+                "body_type": "4門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "560hp@6100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2010 Bentley Continental GT",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2010"
+        "model_name": "Bentley Continental GT",
+        "year": 2010,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-gt-2010",
+        "variants": [
+            {
+                "trim_name": "6.0 W12",
+                "price": "1280",
+                "body_type": "2門 4人座",
+                "engine_cc": "5998cc",
+                "horsepower": "560hp@6100rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bentley",
-        "model": "2009 Bentley Continental",
-        "price": "1280 - 1580",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-2009"
+        "model_name": "Bentley Continental",
+        "year": 2009,
+        "price_range": "1280 - 1580",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bentley-continental-2009",
+        "variants": [
+            {
+                "trim_name": "GT",
+                "price": "1280",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5998cc",
+                "horsepower": "560hp@6100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Flying Spur",
+                "price": "1280",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "560hp@6100rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Flying Spur Speed",
+                "price": "1580",
+                "body_type": "4門 5人座",
+                "engine_cc": "5998cc",
+                "horsepower": "610hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Speed",
+                "price": "1580",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5998cc",
+                "horsepower": "610hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

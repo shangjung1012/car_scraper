@@ -1,200 +1,795 @@
 [
     {
         "brand": "Lotus",
-        "model": "2024 Lotus Emira",
-        "price": "525 - 538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-emira-2024"
+        "model_name": "Lotus Emira",
+        "year": 2024,
+        "price_range": "525 - 538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-emira-2024",
+        "variants": [
+            {
+                "trim_name": "First Edition",
+                "price": "525",
+                "body_type": "2門 2人座",
+                "engine_cc": "1991cc",
+                "horsepower": "365hp",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V6 First Edition",
+                "price": "538",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "400hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2021 Lotus Elise",
-        "price": "288 - 338",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2021"
+        "model_name": "Lotus Elise",
+        "year": 2021,
+        "price_range": "288 - 338",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2021",
+        "variants": [
+            {
+                "trim_name": "Sport 220",
+                "price": "288",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 250",
+                "price": "338",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "246hp@7200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2021 Lotus Exige",
-        "price": "468 - 688",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2021"
+        "model_name": "Lotus Exige",
+        "year": 2021,
+        "price_range": "468 - 688",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2021",
+        "variants": [
+            {
+                "trim_name": "Sport 390 Final Edition",
+                "price": "468",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "397hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 430",
+                "price": "688",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "430hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2020 Lotus Elise",
-        "price": "269 - 269",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2020"
+        "model_name": "Lotus Elise",
+        "year": 2020,
+        "price_range": "269 - 269",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2020",
+        "variants": [
+            {
+                "trim_name": "Sport 220",
+                "price": "269",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "217hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2020 Lotus Exige",
-        "price": "388 - 688",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2020"
+        "model_name": "Lotus Exige",
+        "year": 2020,
+        "price_range": "388 - 688",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2020",
+        "variants": [
+            {
+                "trim_name": "Sport 350",
+                "price": "388",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "345hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 430",
+                "price": "688",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "430hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2019 Lotus Elise",
-        "price": "288 - 360",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2019"
+        "model_name": "Lotus Elise",
+        "year": 2019,
+        "price_range": "288 - 360",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2019",
+        "variants": [
+            {
+                "trim_name": "Sport 220",
+                "price": "288",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 250",
+                "price": "360",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "246hp@7200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2019 Lotus Evora",
-        "price": "588 - 588",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2019"
+        "model_name": "Lotus Evora",
+        "year": 2019,
+        "price_range": "588 - 588",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2019",
+        "variants": [
+            {
+                "trim_name": "400",
+                "price": "588",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "400hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2019 Lotus Exige",
-        "price": "438 - 688",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2019"
+        "model_name": "Lotus Exige",
+        "year": 2019,
+        "price_range": "438 - 688",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2019",
+        "variants": [
+            {
+                "trim_name": "Sport 350",
+                "price": "438",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 430",
+                "price": "688",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "430hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2018 Lotus Elise",
-        "price": "299.9 - 360",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2018"
+        "model_name": "Lotus Elise",
+        "year": 2018,
+        "price_range": "299.9 - 360",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2018",
+        "variants": [
+            {
+                "trim_name": "Sport 220",
+                "price": "299.9",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 250",
+                "price": "360",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "243hp@7200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2018 Lotus Evora",
-        "price": "628 - 699",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2018"
+        "model_name": "Lotus Evora",
+        "year": 2018,
+        "price_range": "628 - 699",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2018",
+        "variants": [
+            {
+                "trim_name": "400",
+                "price": "628",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "400hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport 410",
+                "price": "699",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "410hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2018 Lotus Exige",
-        "price": "438 - 598",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2018"
+        "model_name": "Lotus Exige",
+        "year": 2018,
+        "price_range": "438 - 598",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2018",
+        "variants": [
+            {
+                "trim_name": "Sport 350",
+                "price": "438",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport 380",
+                "price": "598",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "375hp@6700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2017 Lotus Elise",
-        "price": "298 - 298",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2017"
+        "model_name": "Lotus Elise",
+        "year": 2017,
+        "price_range": "298 - 298",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2017",
+        "variants": [
+            {
+                "trim_name": "Sport 220",
+                "price": "298",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2017 Lotus Evora",
-        "price": "628 - 628",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2017"
+        "model_name": "Lotus Evora",
+        "year": 2017,
+        "price_range": "628 - 628",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2017",
+        "variants": [
+            {
+                "trim_name": "400",
+                "price": "628",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "400hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2017 Lotus Exige",
-        "price": "438 - 438",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2017"
+        "model_name": "Lotus Exige",
+        "year": 2017,
+        "price_range": "438 - 438",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2017",
+        "variants": [
+            {
+                "trim_name": "Sport 350",
+                "price": "438",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2016 Lotus Elise",
-        "price": "259.8 - 318",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2016"
+        "model_name": "Lotus Elise",
+        "year": 2016,
+        "price_range": "259.8 - 318",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2016",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "259.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "136hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "298.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 20th Edition",
+                "price": "318",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2016 Lotus Evora",
-        "price": "628 - 628",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2016"
+        "model_name": "Lotus Evora",
+        "year": 2016,
+        "price_range": "628 - 628",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2016",
+        "variants": [
+            {
+                "trim_name": "400",
+                "price": "628",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "400hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2016 Lotus Exige",
-        "price": "490 - 518",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2016"
+        "model_name": "Lotus Exige",
+        "year": 2016,
+        "price_range": "490 - 518",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2016",
+        "variants": [
+            {
+                "trim_name": "S Coupe",
+                "price": "490",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Roadster",
+                "price": "518",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2015 Lotus Elise",
-        "price": "248 - 299",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2015"
+        "model_name": "Lotus Elise",
+        "year": 2015,
+        "price_range": "248 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2015",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "248",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "136hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Club Racer",
+                "price": "262",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "136hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "288",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Club Racer",
+                "price": "299",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2015 Lotus Evora",
-        "price": "458 - 538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2015"
+        "model_name": "Lotus Evora",
+        "year": 2015,
+        "price_range": "458 - 538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2015",
+        "variants": [
+            {
+                "trim_name": "IPS",
+                "price": "458",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "280hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "538",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2015 Lotus Exige",
-        "price": "458 - 458",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2015"
+        "model_name": "Lotus Exige",
+        "year": 2015,
+        "price_range": "458 - 458",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2015",
+        "variants": [
+            {
+                "trim_name": "S V6",
+                "price": "458",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2014 Lotus Elise",
-        "price": "246.8 - 299",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2014"
+        "model_name": "Lotus Elise",
+        "year": 2014,
+        "price_range": "246.8 - 299",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2014",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "246.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "136hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Club Racer",
+                "price": "262",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "136hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "288",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S Club Racer",
+                "price": "299",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2014 Lotus Evora",
-        "price": "458 - 558",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2014"
+        "model_name": "Lotus Evora",
+        "year": 2014,
+        "price_range": "458 - 558",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2014",
+        "variants": [
+            {
+                "trim_name": "IPS",
+                "price": "458",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "280hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "558",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2014 Lotus Exige",
-        "price": "458 - 458",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2014"
+        "model_name": "Lotus Exige",
+        "year": 2014,
+        "price_range": "458 - 458",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2014",
+        "variants": [
+            {
+                "trim_name": "S V6",
+                "price": "458",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2013 Lotus Elise",
-        "price": "222 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2013"
+        "model_name": "Lotus Elise",
+        "year": 2013,
+        "price_range": "222 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2013",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "222",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "136hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "288",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@6800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2013 Lotus Evora",
-        "price": "399 - 538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2013"
+        "model_name": "Lotus Evora",
+        "year": 2013,
+        "price_range": "399 - 538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2013",
+        "variants": [
+            {
+                "trim_name": "IPS GTN Style",
+                "price": "399",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "280hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "IPS",
+                "price": "438",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "280hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "538",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2013 Lotus Exige",
-        "price": "438 - 438",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2013"
+        "model_name": "Lotus Exige",
+        "year": 2013,
+        "price_range": "438 - 438",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2013",
+        "variants": [
+            {
+                "trim_name": "S V6",
+                "price": "438",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2012 Lotus Evora",
-        "price": "399 - 538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2012"
+        "model_name": "Lotus Evora",
+        "year": 2012,
+        "price_range": "399 - 538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2012",
+        "variants": [
+            {
+                "trim_name": "IPS GTN Style",
+                "price": "399",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "280hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "IPS",
+                "price": "438",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "280hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "538",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2012 Lotus Exige",
-        "price": "438 - 438",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2012"
+        "model_name": "Lotus Exige",
+        "year": 2012,
+        "price_range": "438 - 438",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2012",
+        "variants": [
+            {
+                "trim_name": "S",
+                "price": "438",
+                "body_type": "2門 2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2011 Lotus Elise",
-        "price": "212 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2011"
+        "model_name": "Lotus Elise",
+        "year": 2011,
+        "price_range": "212 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2011",
+        "variants": [
+            {
+                "trim_name": "1.6 Hardtop",
+                "price": "212",
+                "body_type": "2門 2人座",
+                "engine_cc": "1598cc",
+                "horsepower": "136hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SC",
+                "price": "288",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2011 Lotus Evora",
-        "price": "438 - 538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2011"
+        "model_name": "Lotus Evora",
+        "year": 2011,
+        "price_range": "438 - 538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-evora-2011",
+        "variants": [
+            {
+                "trim_name": "IPS",
+                "price": "438",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "280hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "538",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3456cc",
+                "horsepower": "350hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2011 Lotus Exige",
-        "price": "328 - 398",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2011"
+        "model_name": "Lotus Exige",
+        "year": 2011,
+        "price_range": "328 - 398",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2011",
+        "variants": [
+            {
+                "trim_name": "S240",
+                "price": "328",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "243hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 260",
+                "price": "398",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "260hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2010 Lotus Elise",
-        "price": "288 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2010"
+        "model_name": "Lotus Elise",
+        "year": 2010,
+        "price_range": "288 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-elise-2010",
+        "variants": [
+            {
+                "trim_name": "SC",
+                "price": "288",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "220hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lotus",
-        "model": "2010 Lotus Exige",
-        "price": "328 - 398",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2010"
+        "model_name": "Lotus Exige",
+        "year": 2010,
+        "price_range": "328 - 398",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lotus-exige-2010",
+        "variants": [
+            {
+                "trim_name": "S240",
+                "price": "328",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "243hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Cup 260",
+                "price": "398",
+                "body_type": "2門 2人座",
+                "engine_cc": "1796cc",
+                "horsepower": "260hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

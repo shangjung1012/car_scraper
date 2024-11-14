@@ -1,152 +1,803 @@
 [
     {
         "brand": "Saab",
-        "model": "2012 Saab 9-3 Convertible",
-        "price": "268 - 278",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2012"
+        "model_name": "Saab 9-3 Convertible",
+        "year": 2012,
+        "price_range": "268 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2012",
+        "variants": [
+            {
+                "trim_name": "Aero Griffin 2.0T",
+                "price": "268",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "INDEP.Griffin 2.0T",
+                "price": "278",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2012 Saab 9-3 Sport Sedan",
-        "price": "178 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2012"
+        "model_name": "Saab 9-3 Sport Sedan",
+        "year": 2012,
+        "price_range": "178 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2012",
+        "variants": [
+            {
+                "trim_name": "Griffin 2.0T",
+                "price": "178",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "220hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero Griffin 2.0T FWD",
+                "price": "208",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero Griffin 2.0T XWD",
+                "price": "233",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2012 Saab 9-3 SportCombi",
-        "price": "188 - 243",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2012"
+        "model_name": "Saab 9-3 SportCombi",
+        "year": 2012,
+        "price_range": "188 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2012",
+        "variants": [
+            {
+                "trim_name": "Griffin 2.0T",
+                "price": "188",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "220hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero Griffin 2.0T FWD",
+                "price": "218",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero Griffin 2.0T XWD",
+                "price": "243",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2012 Saab 9-3 X",
-        "price": "243 - 243",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-x-2012"
+        "model_name": "Saab 9-3 X",
+        "year": 2012,
+        "price_range": "243 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-x-2012",
+        "variants": [
+            {
+                "trim_name": "Griffin 2.0T XWD",
+                "price": "243",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2012 Saab 9-5 Sedan",
-        "price": "228 - 308",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sedan-2012"
+        "model_name": "Saab 9-5 Sedan",
+        "year": 2012,
+        "price_range": "228 - 308",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sedan-2012",
+        "variants": [
+            {
+                "trim_name": "Vector 2.0T",
+                "price": "228",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "220hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.0T FWD",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.0T XWD",
+                "price": "278",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TS XWD",
+                "price": "308",
+                "body_type": "4門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "330hp@5690rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2012 Saab 9-5 SportCombi",
-        "price": "273 - 328",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sportcombi-2012"
+        "model_name": "Saab 9-5 SportCombi",
+        "year": 2012,
+        "price_range": "273 - 328",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sportcombi-2012",
+        "variants": [
+            {
+                "trim_name": "Aero 2.0T FWD",
+                "price": "273",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TS XWD",
+                "price": "328",
+                "body_type": "5門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "330hp@5690rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2011 Saab 9-3 Convertible",
-        "price": "258 - 258",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2011"
+        "model_name": "Saab 9-3 Convertible",
+        "year": 2011,
+        "price_range": "258 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2011",
+        "variants": [
+            {
+                "trim_name": "Aero 2.0TS",
+                "price": "258",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2011 Saab 9-3 Sport Sedan",
-        "price": "168 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2011"
+        "model_name": "Saab 9-3 Sport Sedan",
+        "year": 2011,
+        "price_range": "168 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2011",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "168",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@5420rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2011 Saab 9-3 SportCombi",
-        "price": "178 - 198",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2011"
+        "model_name": "Saab 9-3 SportCombi",
+        "year": 2011,
+        "price_range": "178 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2011",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "178",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@5420rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "198",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2011 Saab 9-3 XWD",
-        "price": "223 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-xwd-2011"
+        "model_name": "Saab 9-3 XWD",
+        "year": 2011,
+        "price_range": "223 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-xwd-2011",
+        "variants": [
+            {
+                "trim_name": "Aero 2.0TS SS",
+                "price": "223",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.0TS SC",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0TS SC",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2011 Saab 9-5",
-        "price": "228 - 308",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-2011"
+        "model_name": "Saab 9-5",
+        "year": 2011,
+        "price_range": "228 - 308",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-2011",
+        "variants": [
+            {
+                "trim_name": "Vector 2.0T",
+                "price": "228",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "220hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.0T FWD",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.0T XWD",
+                "price": "278",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TS XWD",
+                "price": "308",
+                "body_type": "4門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "330hp@5690rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2010 Saab 9-3 Sport Sedan",
-        "price": "168 - 188",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2010"
+        "model_name": "Saab 9-3 Sport Sedan",
+        "year": 2010,
+        "price_range": "168 - 188",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2010",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "168",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@5420rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 1.9TID",
+                "price": "178",
+                "body_type": "4門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "175hp@4080rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2010 Saab 9-3 SportCombi",
-        "price": "178 - 198",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2010"
+        "model_name": "Saab 9-3 SportCombi",
+        "year": 2010,
+        "price_range": "178 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2010",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "178",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "200hp@5420rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 1.9TID",
+                "price": "188",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "175hp@4080rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "198",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2010 Saab 9-3 XWD",
-        "price": "223 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-xwd-2010"
+        "model_name": "Saab 9-3 XWD",
+        "year": 2010,
+        "price_range": "223 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-xwd-2010",
+        "variants": [
+            {
+                "trim_name": "Aero 2.0TS SS",
+                "price": "223",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0TS SC",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.0TS SC",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "240hp@5360rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2009 Saab 9-3 Convertible",
-        "price": "253 - 283",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2009"
+        "model_name": "Saab 9-3 Convertible",
+        "year": 2009,
+        "price_range": "253 - 283",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2009",
+        "variants": [
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "253",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "210hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TR",
+                "price": "283",
+                "body_type": "2門 4人座",
+                "engine_cc": "2792cc",
+                "horsepower": "280hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2009 Saab 9-3 SportCombi",
-        "price": "178 - 243",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2009"
+        "model_name": "Saab 9-3 SportCombi",
+        "year": 2009,
+        "price_range": "178 - 243",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2009",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "178",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 1.9TID",
+                "price": "193",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "175hp@4080rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "198",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "210hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TR",
+                "price": "243",
+                "body_type": "5門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "280hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 1.9TTID",
+                "price": "243",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2009 Saab 9-3 SportSedan",
-        "price": "168 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportsedan-2009"
+        "model_name": "Saab 9-3 SportSedan",
+        "year": 2009,
+        "price_range": "168 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportsedan-2009",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "168",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 1.9TID",
+                "price": "183",
+                "body_type": "4門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "175hp@4080rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "210hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TR",
+                "price": "233",
+                "body_type": "4門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "280hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2009 Saab 9-3 XWD",
-        "price": "218 - 278",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-xwd-2009"
+        "model_name": "Saab 9-3 XWD",
+        "year": 2009,
+        "price_range": "218 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-xwd-2009",
+        "variants": [
+            {
+                "trim_name": "Vector 2.0TS XWD SC",
+                "price": "218",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "210hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TR XWD SS",
+                "price": "268",
+                "body_type": "4門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "280hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TR XWD SC",
+                "price": "278",
+                "body_type": "5門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "280hp@5300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2009 Saab 9-5 Sedan",
-        "price": "188 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sedan-2009"
+        "model_name": "Saab 9-5 Sedan",
+        "year": 2009,
+        "price_range": "188 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sedan-2009",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0LPT",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "1985cc",
+                "horsepower": "210hp@5440rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.3TS",
+                "price": "228",
+                "body_type": "4門 5人座",
+                "engine_cc": "2290cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2009 Saab 9-5 SportCombi",
-        "price": "198 - 198",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sportcombi-2009"
+        "model_name": "Saab 9-5 SportCombi",
+        "year": 2009,
+        "price_range": "198 - 198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sportcombi-2009",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0LPT",
+                "price": "198",
+                "body_type": "5門 5人座",
+                "engine_cc": "1985cc",
+                "horsepower": "210hp@2100~4200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2008 Saab 9-3 Convertible",
-        "price": "243 - 273",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2008"
+        "model_name": "Saab 9-3 Convertible",
+        "year": 2008,
+        "price_range": "243 - 273",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-convertible-2008",
+        "variants": [
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "243",
+                "body_type": "2門 4人座",
+                "engine_cc": "1998cc",
+                "horsepower": "210hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TS",
+                "price": "273",
+                "body_type": "2門 4人座",
+                "engine_cc": "2792cc",
+                "horsepower": "255hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2008 Saab 9-3 Sport Sedan",
-        "price": "163 - 223",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2008"
+        "model_name": "Saab 9-3 Sport Sedan",
+        "year": 2008,
+        "price_range": "163 - 223",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sport-sedan-2008",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "163",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 1.9TID",
+                "price": "173",
+                "body_type": "4門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "175hp@4080rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "183",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "210hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TS",
+                "price": "223",
+                "body_type": "4門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "255hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2008 Saab 9-3 SportCombi",
-        "price": "173 - 233",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2008"
+        "model_name": "Saab 9-3 SportCombi",
+        "year": 2008,
+        "price_range": "173 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-3-sportcombi-2008",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0T",
+                "price": "173",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "175hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 1.9TID",
+                "price": "183",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "175hp@4080rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Vector 2.0TS",
+                "price": "193",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "210hp@5300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.8TS",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "255hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2008 Saab 9-5 Sedan",
-        "price": "178 - 218",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sedan-2008"
+        "model_name": "Saab 9-5 Sedan",
+        "year": 2008,
+        "price_range": "178 - 218",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sedan-2008",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0LPT-TUN",
+                "price": "178",
+                "body_type": "4門 5人座",
+                "engine_cc": "1985cc",
+                "horsepower": "185hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 1.9TID",
+                "price": "188",
+                "body_type": "4門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "175hp@4080rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Vector 2.3LPT",
+                "price": "198",
+                "body_type": "4門 5人座",
+                "engine_cc": "2290cc",
+                "horsepower": "220hp@5670rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.3TS",
+                "price": "218",
+                "body_type": "4門 5人座",
+                "engine_cc": "2290cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Saab",
-        "model": "2008 Saab 9-5 SportCombi",
-        "price": "188 - 238",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sportcombi-2008"
+        "model_name": "Saab 9-5 SportCombi",
+        "year": 2008,
+        "price_range": "188 - 238",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/saab-9-5-sportcombi-2008",
+        "variants": [
+            {
+                "trim_name": "Linear 2.0LPT-TUN",
+                "price": "188",
+                "body_type": "5門 5人座",
+                "engine_cc": "1985cc",
+                "horsepower": "185hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Linear 2.0LPT-TUN",
+                "price": "188",
+                "body_type": "5門 5人座",
+                "engine_cc": "1985cc",
+                "horsepower": "185hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Vector 2.3LPT",
+                "price": "208",
+                "body_type": "5門 5人座",
+                "engine_cc": "2290cc",
+                "horsepower": "220hp@5670rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.3TS",
+                "price": "228",
+                "body_type": "5門 5人座",
+                "engine_cc": "2290cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Aero 2.3TS",
+                "price": "238",
+                "body_type": "5門 5人座",
+                "engine_cc": "2290cc",
+                "horsepower": "260hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

@@ -1,38 +1,136 @@
 [
     {
         "brand": "Mahindra",
-        "model": "2022 Mahindra KUV 100",
-        "price": "57.8 - 57.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-kuv-2022"
+        "model_name": "Mahindra KUV 100",
+        "year": 2022,
+        "price_range": "57.8 - 57.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-kuv-2022",
+        "variants": [
+            {
+                "trim_name": "1.2",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1198cc",
+                "horsepower": "82hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mahindra",
-        "model": "2020 Mahindra Pick-up",
-        "price": "95.8 - 105.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2020"
+        "model_name": "Mahindra Pick-up",
+        "year": 2020,
+        "price_range": "95.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2020",
+        "variants": [
+            {
+                "trim_name": "2.2 2WD",
+                "price": "95.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "140hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 4WD",
+                "price": "105.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "140hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Mahindra",
-        "model": "2019 Mahindra KUV 100",
-        "price": "55.8 - 55.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-kuv-100-2019"
+        "model_name": "Mahindra KUV 100",
+        "year": 2019,
+        "price_range": "55.8 - 55.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-kuv-100-2019",
+        "variants": [
+            {
+                "trim_name": "1.2",
+                "price": "55.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1198cc",
+                "horsepower": "82hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Mahindra",
-        "model": "2019 Mahindra Pick-up",
-        "price": "95.8 - 105.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2019"
+        "model_name": "Mahindra Pick-up",
+        "year": 2019,
+        "price_range": "95.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2019",
+        "variants": [
+            {
+                "trim_name": "2.2 2WD",
+                "price": "95.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "140hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 4WD",
+                "price": "105.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "140hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Mahindra",
-        "model": "2018 Mahindra Pick-up",
-        "price": "95.8 - 105.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2018"
+        "model_name": "Mahindra Pick-up",
+        "year": 2018,
+        "price_range": "95.8 - 105.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2018",
+        "variants": [
+            {
+                "trim_name": "2.2 2WD",
+                "price": "95.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "140hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 4WD",
+                "price": "105.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "140hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     },
     {
         "brand": "Mahindra",
-        "model": "2017 Mahindra Pick-up",
-        "price": "88.8 - 98.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2017"
+        "model_name": "Mahindra Pick-up",
+        "year": 2017,
+        "price_range": "88.8 - 98.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mahindra-pick-up-2017",
+        "variants": [
+            {
+                "trim_name": "2.2 2WD",
+                "price": "88.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2200cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.2 4WD",
+                "price": "98.8",
+                "body_type": "4門 5人座",
+                "engine_cc": "2200cc",
+                "horsepower": "120hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
     }
 ]

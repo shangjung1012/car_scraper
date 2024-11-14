@@ -1,8 +1,43 @@
 [
     {
         "brand": "Ineos",
-        "model": "2024 Ineos Grenadier",
-        "price": "428 - 558",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/ineos-grenadier-2024"
+        "model_name": "Ineos Grenadier",
+        "year": 2024,
+        "price_range": "428 - 558",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/ineos-grenadier-2024",
+        "variants": [
+            {
+                "trim_name": "Diesel",
+                "price": "428",
+                "body_type": "6門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "249hp@3250~4200rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Petrol",
+                "price": "428",
+                "body_type": "6門 5人座",
+                "engine_cc": "2998cc",
+                "horsepower": "286hp@4750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1924 Diesel",
+                "price": "558",
+                "body_type": "6門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "249hp@3250~4200rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "1924 Petrol",
+                "price": "558",
+                "body_type": "6門 5人座",
+                "engine_cc": "2998cc",
+                "horsepower": "286hp@4750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

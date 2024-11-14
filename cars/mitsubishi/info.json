@@ -1,734 +1,4900 @@
 [
     {
         "brand": "Mitsubishi",
-        "model": "2025 Mitsubishi Colt Plus",
-        "price": "52.6 - 58.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2025"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2024 Mitsubishi CMC Zinger",
-        "price": "71.9 - 91.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger-2024"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2024 Mitsubishi Colt Plus",
-        "price": "51.9 - 57.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2024"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2024 Mitsubishi Eclipse Cross",
-        "price": "110.5 - 133.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2024"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2024 Mitsubishi Grand Lancer",
-        "price": "65.2 - 81.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2024"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2024 Mitsubishi Outlander",
-        "price": "82.9 - 108.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2024"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2023 Mitsubishi CMC Zinger",
-        "price": "67.8 - 79.4",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger-2023"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2023 Mitsubishi CMC Zinger(NEW)",
-        "price": "71.9 - 91.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger%28new%29-2023"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2023 Mitsubishi Colt Plus",
-        "price": "51.9 - 57.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2023"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2023 Mitsubishi Eclipse Cross",
-        "price": "110.5 - 131.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2023"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2023 Mitsubishi Grand Lancer",
-        "price": "65.2 - 81.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2023"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2023 Mitsubishi Outlander",
-        "price": "82.9 - 108.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2023"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2022 Mitsubishi CMC Zinger",
-        "price": "66.9 - 78.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2022"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2022 Mitsubishi Colt Plus",
-        "price": "52.9 - 56.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2022"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2022 Mitsubishi Eclipse Cross",
-        "price": "108.5 - 116.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2022"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2022 Mitsubishi Grand Lancer",
-        "price": "66.2 - 80.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2022"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2022 Mitsubishi Outlander",
-        "price": "91.5 - 113.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2022"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2021 Mitsubishi CMC Zinger",
-        "price": "65.3 - 76.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger-2021"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2021 Mitsubishi Colt Plus",
-        "price": "51.9 - 55.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2021"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2021 Mitsubishi Eclipse Cross",
-        "price": "106.9 - 115.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2021"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2021 Mitsubishi Grand Lancer",
-        "price": "61.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2021"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2021 Mitsubishi Outlander",
-        "price": "88.9 - 149.6",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlader-2021"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2020 Mitsubishi CMC Zinger",
-        "price": "65.9 - 76.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2020"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2020 Mitsubishi Colt Plus",
-        "price": "49.9 - 54.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2020"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2020 Mitsubishi Eclipse Cross",
-        "price": "94.9 - 117.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2020"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2020 Mitsubishi Grand Lancer",
-        "price": "63.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2020"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2020 Mitsubishi Outlander",
-        "price": "88.5 - 110.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2020"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2020 Mitsubishi Pajero五門款",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2020"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2019 Mitsubishi CMC Zinger",
-        "price": "63.5 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2019"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2019 Mitsubishi Colt Plus",
-        "price": "56.9 - 62.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2019"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2019 Mitsubishi Eclipse Cross",
-        "price": "94.9 - 117.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2019"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2019 Mitsubishi Grand Lancer",
-        "price": "66.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2019"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2019 Mitsubishi Outlander",
-        "price": "91.9 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2019"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2019 Mitsubishi Pajero五門款",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2019"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2018 Mitsubishi CMC Zinger",
-        "price": "62.9 - 74.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2018"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2018 Mitsubishi Colt Plus",
-        "price": "56.9 - 62.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2018"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2018 Mitsubishi Eclipse Cross",
-        "price": "95.9 - 116.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2018"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2018 Mitsubishi Grand Lancer",
-        "price": "66.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2018"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2018 Mitsubishi Outlander",
-        "price": "85.9 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2018"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2018 Mitsubishi Pajero五門款",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2018"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi CMC Zinger",
-        "price": "61.3 - 73.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Colt Plus",
-        "price": "56.2 - 63.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Colt Plus(NEW)",
-        "price": "56.9 - 62.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-new-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Grand Lancer",
-        "price": "69.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Lancer",
-        "price": "68.5 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Lancer Sportback",
-        "price": "87.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Outlander",
-        "price": "81.9 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Pajero三門款",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2017 Mitsubishi Pajero五門款",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2017"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi CMC Zinger",
-        "price": "61.3 - 71.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi Colt Plus",
-        "price": "55.9 - 66.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi Lancer",
-        "price": "64.5 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi Lancer Sportback",
-        "price": "83.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi Lancer Sportback(NEW)",
-        "price": "87.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-new-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi Outlander",
-        "price": "81.9 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi Pajero三門款",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2016 Mitsubishi Pajero五門款",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2016"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2015 Mitsubishi Colt Plus",
-        "price": "55.9 - 66.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2015"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2015 Mitsubishi Lancer",
-        "price": "64.5 - 80.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2015"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2015 Mitsubishi Lancer Sportback",
-        "price": "84.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2015"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2015 Mitsubishi Outlander",
-        "price": "81.9 - 199",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2015"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2015 Mitsubishi Pajero三門款",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2015"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2015 Mitsubishi Pajero五門款",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2015"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2015 Mitsubishi Zinger",
-        "price": "54.8 - 69.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2015"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Colt Plus",
-        "price": "55.9 - 66.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Lancer",
-        "price": "66.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Lancer Sportback",
-        "price": "84.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Lancer(NEW)",
-        "price": "64.5 - 80.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-new-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Outlander",
-        "price": "81.9 - 100.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Pajero三門款",
-        "price": "189.9 - 189.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Pajero五門款",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Savrin",
-        "price": "75.7 - 97.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2014 Mitsubishi Zinger",
-        "price": "54.8 - 69.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2014"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi ASX",
-        "price": "112.8 - 122.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-asx-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi Boss Zinger",
-        "price": "54.8 - 69.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-boss-zinger-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi Colt Plus",
-        "price": "55.9 - 63.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi Grunder",
-        "price": "84.5 - 93.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi Lancer",
-        "price": "66.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi Outlander",
-        "price": "81.9 - 102.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi Pajero",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2013 Mitsubishi Savrin",
-        "price": "75.7 - 97.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2013"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi ASX",
-        "price": "112.8 - 122.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-asx-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi Boss Zinger",
-        "price": "54.8 - 69.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-boss-zinger-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi Colt Plus",
-        "price": "55.9 - 64.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi Grunder",
-        "price": "84.5 - 93.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi Lancer",
-        "price": "66.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi Outlander",
-        "price": "81.9 - 102.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi Pajero",
-        "price": "228 - 228",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2012 Mitsubishi Savrin",
-        "price": "75.7 - 97.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2012"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2011 Mitsubishi Colt Plus",
-        "price": "54.9 - 63.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2011"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2011 Mitsubishi Grunder",
-        "price": "84.5 - 93.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2011"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2011 Mitsubishi Lancer",
-        "price": "64.9 - 77.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2011"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2011 Mitsubishi Outlander",
-        "price": "80.9 - 100.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2011"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2011 Mitsubishi Savrin",
-        "price": "74.7 - 95.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2011"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2011 Mitsubishi Super Zinger",
-        "price": "54.8 - 69.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-super-zinger-2011"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Colt Plus",
-        "price": "53.9 - 62.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Grunder",
-        "price": "82.9 - 91.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Lancer",
-        "price": "63.9 - 76.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Lancer iO",
-        "price": "76.9 - 76.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-io-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Outlander",
-        "price": "78.9 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Pajero",
-        "price": "219 - 219",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Savrin",
-        "price": "73.9 - 94.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2010 Mitsubishi Super Zinger",
-        "price": "53.8 - 68.3",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-super-zinger-2010"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Colt Plus",
-        "price": "53.5 - 62.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Grunder",
-        "price": "78.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Lancer Fortis",
-        "price": "60.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-fortis-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Lancer iO",
-        "price": "72.9 - 72.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-io-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Outlander",
-        "price": "78.9 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Pajero",
-        "price": "219 - 219",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Savrin",
-        "price": "83.9 - 94.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Savrin Inspire",
-        "price": "73.9 - 75.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-inspire-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2009 Mitsubishi Super Zinger",
-        "price": "52.8 - 73.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-super-zinger-2009"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Colt Plus",
-        "price": "50.9 - 59.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Grunder",
-        "price": "78.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Lancer Fortis",
-        "price": "60.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-fortis-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Lancer iO",
-        "price": "72.9 - 72.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-io-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Outlander",
-        "price": "76.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Pajero",
-        "price": "212 - 212",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Savrin",
-        "price": "82.9 - 95.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Savrin Inspire",
-        "price": "71.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-inspire-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Space Gear",
-        "price": "76.5 - 89.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-space-gear-2008"
-    },
-    {
-        "brand": "Mitsubishi",
-        "model": "2008 Mitsubishi Zinger",
-        "price": "52.8 - 73.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2008"
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2025,
+        "price_range": "52.6 - 58.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2025",
+        "variants": [
+            {
+                "trim_name": "享樂型",
+                "price": "52.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "輕鬆型",
+                "price": "58.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2024,
+        "price_range": "71.9 - 91.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger-2024",
+        "variants": [
+            {
+                "trim_name": "1.5T 5人標緻型",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 5人豪華型",
+                "price": "77.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 7人標緻型",
+                "price": "80.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 5人旗艦型",
+                "price": "82.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 7人豪華型",
+                "price": "86.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 7人旗艦型",
+                "price": "91.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2024,
+        "price_range": "51.9 - 57.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2024",
+        "variants": [
+            {
+                "trim_name": "享樂型",
+                "price": "51.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "輕鬆型",
+                "price": "57.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Eclipse Cross",
+        "year": 2024,
+        "price_range": "110.5 - 133.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2024",
+        "variants": [
+            {
+                "trim_name": "卓越型",
+                "price": "110.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "月影特仕版",
+                "price": "117.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "118.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "133.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2360cc",
+                "horsepower": "98hp@4000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2024,
+        "price_range": "65.2 - 81.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2024",
+        "variants": [
+            {
+                "trim_name": "1.8驚嘆型",
+                "price": "65.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "72.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "81.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2024,
+        "price_range": "82.9 - 108.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2024",
+        "variants": [
+            {
+                "trim_name": "安全型",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "典藏型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型七人座",
+                "price": "108.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2023,
+        "price_range": "67.8 - 79.4",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger-2023",
+        "variants": [
+            {
+                "trim_name": "2.4標緻型",
+                "price": "67.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "71.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "79.4",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger(NEW)",
+        "year": 2023,
+        "price_range": "71.9 - 91.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger%28new%29-2023",
+        "variants": [
+            {
+                "trim_name": "1.5T 5人標緻型",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 5人豪華型",
+                "price": "77.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 7人標緻型",
+                "price": "80.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 5人旗艦型",
+                "price": "82.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 7人豪華型",
+                "price": "86.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5T 7人旗艦型",
+                "price": "91.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "1481cc",
+                "horsepower": "172hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2023,
+        "price_range": "51.9 - 57.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2023",
+        "variants": [
+            {
+                "trim_name": "享樂型",
+                "price": "51.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "輕鬆型",
+                "price": "57.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Eclipse Cross",
+        "year": 2023,
+        "price_range": "110.5 - 131.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2023",
+        "variants": [
+            {
+                "trim_name": "卓越型",
+                "price": "110.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "118.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "131.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2360cc",
+                "horsepower": "98hp@4000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2023,
+        "price_range": "65.2 - 81.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2023",
+        "variants": [
+            {
+                "trim_name": "1.8驚嘆型",
+                "price": "65.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "72.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "81.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2023,
+        "price_range": "82.9 - 108.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2023",
+        "variants": [
+            {
+                "trim_name": "安全型",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "典藏型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "躍動型",
+                "price": "99.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型七人座",
+                "price": "108.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2022,
+        "price_range": "66.9 - 78.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2022",
+        "variants": [
+            {
+                "trim_name": "2.4標緻型",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "78.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2022,
+        "price_range": "52.9 - 56.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2022",
+        "variants": [
+            {
+                "trim_name": "享樂型",
+                "price": "52.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "輕鬆型",
+                "price": "56.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Eclipse Cross",
+        "year": 2022,
+        "price_range": "108.5 - 116.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2022",
+        "variants": [
+            {
+                "trim_name": "卓越型",
+                "price": "108.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "116.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2022,
+        "price_range": "66.2 - 80.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2022",
+        "variants": [
+            {
+                "trim_name": "1.8驚嘆型",
+                "price": "66.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "71.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "80.2",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2022,
+        "price_range": "91.5 - 113.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2022",
+        "variants": [
+            {
+                "trim_name": "典藏型",
+                "price": "91.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型",
+                "price": "95.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "躍動型",
+                "price": "99.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "102.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "110.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型七人座",
+                "price": "113.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2021,
+        "price_range": "65.3 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-cmc-zinger-2021",
+        "variants": [
+            {
+                "trim_name": "2.4標緻型",
+                "price": "65.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "69.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2021,
+        "price_range": "51.9 - 55.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2021",
+        "variants": [
+            {
+                "trim_name": "享樂型",
+                "price": "51.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "潮有型特仕版",
+                "price": "53.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "輕鬆型",
+                "price": "55.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Eclipse Cross",
+        "year": 2021,
+        "price_range": "106.9 - 115.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2021",
+        "variants": [
+            {
+                "trim_name": "卓越型",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "115.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2021,
+        "price_range": "61.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2021",
+        "variants": [
+            {
+                "trim_name": "1.8驚嘆型",
+                "price": "61.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2021,
+        "price_range": "88.9 - 149.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlader-2021",
+        "variants": [
+            {
+                "trim_name": "典藏型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD躍動型",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型七人座",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型七人座",
+                "price": "110.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "149.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "2360cc",
+                "horsepower": "134hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2020,
+        "price_range": "65.9 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2020",
+        "variants": [
+            {
+                "trim_name": "2.4標緻型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2020,
+        "price_range": "49.9 - 54.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2020",
+        "variants": [
+            {
+                "trim_name": "典藏型",
+                "price": "49.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "時尚型",
+                "price": "54.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Eclipse Cross",
+        "year": 2020,
+        "price_range": "94.9 - 117.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2020",
+        "variants": [
+            {
+                "trim_name": "傳奇型",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "菁英型",
+                "price": "100.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "卓越型",
+                "price": "108.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC行家型",
+                "price": "109.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2020,
+        "price_range": "63.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2020",
+        "variants": [
+            {
+                "trim_name": "1.8驚嘆型",
+                "price": "63.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2020,
+        "price_range": "88.5 - 110.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2020",
+        "variants": [
+            {
+                "trim_name": "典藏型",
+                "price": "88.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型",
+                "price": "92.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "躍動型",
+                "price": "97.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型七人座",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "109.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型七人座",
+                "price": "110.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero五門款",
+        "year": 2020,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2020",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2019,
+        "price_range": "63.5 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2019",
+        "variants": [
+            {
+                "trim_name": "2.4標緻型",
+                "price": "63.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "66.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4尊爵型",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2019,
+        "price_range": "56.9 - 62.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2019",
+        "variants": [
+            {
+                "trim_name": "尊貴型",
+                "price": "56.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Eclipse Cross",
+        "year": 2019,
+        "price_range": "94.9 - 117.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2019",
+        "variants": [
+            {
+                "trim_name": "傳奇型",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "菁英型",
+                "price": "100.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "卓越型",
+                "price": "108.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2019,
+        "price_range": "66.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2019",
+        "variants": [
+            {
+                "trim_name": "1.8驚嘆型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8時尚型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2019,
+        "price_range": "91.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2019",
+        "variants": [
+            {
+                "trim_name": "安全型",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "魅力型",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型七人座",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "108.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型七人座",
+                "price": "109.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "121hp@4500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero五門款",
+        "year": 2019,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2019",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2018,
+        "price_range": "62.9 - 74.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2018",
+        "variants": [
+            {
+                "trim_name": "2.4標緻型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4智能生活版",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦＋型",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2018,
+        "price_range": "56.9 - 62.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2018",
+        "variants": [
+            {
+                "trim_name": "尊貴型",
+                "price": "56.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Eclipse Cross",
+        "year": 2018,
+        "price_range": "95.9 - 116.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-eclipse-cross-2018",
+        "variants": [
+            {
+                "trim_name": "傳奇型",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "魅力型",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S-AWC旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "163hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2018,
+        "price_range": "66.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2018",
+        "variants": [
+            {
+                "trim_name": "1.8驚嘆型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8時尚型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2018,
+        "price_range": "85.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2018",
+        "variants": [
+            {
+                "trim_name": "典藏型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "魅力型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型七人座",
+                "price": "117.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "121hp@4500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero五門款",
+        "year": 2018,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2018",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2017,
+        "price_range": "61.3 - 73.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2017",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻型",
+                "price": "61.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4標緻型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2017,
+        "price_range": "56.2 - 63.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2017",
+        "variants": [
+            {
+                "trim_name": "雅緻型",
+                "price": "56.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "58.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "數位豪華型",
+                "price": "60.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "X-Sports智慧勁化版特仕車",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus(NEW)",
+        "year": 2017,
+        "price_range": "56.9 - 62.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-new-2017",
+        "variants": [
+            {
+                "trim_name": "尊貴型",
+                "price": "56.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grand Lancer",
+        "year": 2017,
+        "price_range": "69.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grand-lancer-2017",
+        "variants": [
+            {
+                "trim_name": "1.8經典型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8時尚型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8旗艦型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2017,
+        "price_range": "68.5 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2017",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "68.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8勁動型",
+                "price": "73.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8旗艦型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0炫動型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer Sportback",
+        "year": 2017,
+        "price_range": "87.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2017",
+        "variants": [
+            {
+                "trim_name": "1.8",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2017,
+        "price_range": "81.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2017",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "典藏型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "魅力型",
+                "price": "90.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "安全型",
+                "price": "91.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "躍動型",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型七人座",
+                "price": "117.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "121hp@4500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero三門款",
+        "year": 2017,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2017",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "189.9",
+                "body_type": "3門 5人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero五門款",
+        "year": 2017,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2017",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi CMC Zinger",
+        "year": 2016,
+        "price_range": "61.3 - 71.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2016",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻型",
+                "price": "61.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "64.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "69.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦影音型",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2016,
+        "price_range": "55.9 - 66.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2016",
+        "variants": [
+            {
+                "trim_name": "雅緻型",
+                "price": "55.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "57.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "X-Sports跨界雅緻型",
+                "price": "59.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "X-Sports跨界尊貴型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "X-Sports跨界豪華型",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "63.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "66.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2016,
+        "price_range": "64.5 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2016",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8傳奇型",
+                "price": "64.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "68.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8躍動型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8勁動型",
+                "price": "73.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8旗艦型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8悍動型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0炫動型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer Sportback",
+        "year": 2016,
+        "price_range": "83.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2016",
+        "variants": [
+            {
+                "trim_name": "1.8炫目版耀眼型",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8炫目版享樂型",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer Sportback(NEW)",
+        "year": 2016,
+        "price_range": "87.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-new-2016",
+        "variants": [
+            {
+                "trim_name": "1.8",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2016,
+        "price_range": "81.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2016",
+        "variants": [
+            {
+                "trim_name": "雅緻型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "時尚型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "經典型",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "華貴型",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "進階型",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "116.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "121hp@4500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero三門款",
+        "year": 2016,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2016",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "189.9",
+                "body_type": "3門 5人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero五門款",
+        "year": 2016,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2016",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2015,
+        "price_range": "55.9 - 66.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2015",
+        "variants": [
+            {
+                "trim_name": "雅緻型",
+                "price": "55.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "57.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "X-Sports跨界雅緻型",
+                "price": "59.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "X-Sports跨界尊貴型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "X-Sports跨界豪華型",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "63.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "66.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2015,
+        "price_range": "64.5 - 80.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2015",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8傳奇型",
+                "price": "64.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8躍動型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8勁動型",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8旗艦型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8悍動型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0",
+                "price": "80.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer Sportback",
+        "year": 2015,
+        "price_range": "84.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2015",
+        "variants": [
+            {
+                "trim_name": "1.8經典型",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2015,
+        "price_range": "81.9 - 199",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2015",
+        "variants": [
+            {
+                "trim_name": "雅緻型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "時尚型",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "經典型",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "華貴型",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "進階型",
+                "price": "106.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊榮型",
+                "price": "116.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2359cc",
+                "horsepower": "168hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "PHEV",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "121hp@4500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero三門款",
+        "year": 2015,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2015",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "189.9",
+                "body_type": "3門 5人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero五門款",
+        "year": 2015,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2015",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Zinger",
+        "year": 2015,
+        "price_range": "54.8 - 69.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2015",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻手排型",
+                "price": "54.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4雅緻自排型",
+                "price": "61.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "64.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "69.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2014,
+        "price_range": "55.9 - 66.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2014",
+        "variants": [
+            {
+                "trim_name": "雅緻型",
+                "price": "55.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊貴型",
+                "price": "57.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "66.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2014,
+        "price_range": "66.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2014",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8躍動型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8勁動型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8悍動型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8旗艦型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer Sportback",
+        "year": 2014,
+        "price_range": "84.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-sportback-2014",
+        "variants": [
+            {
+                "trim_name": "1.8",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer(NEW)",
+        "year": 2014,
+        "price_range": "64.5 - 80.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-new-2014",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8傳奇型",
+                "price": "64.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8躍動型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8勁動型",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8悍動型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8旗艦型",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0",
+                "price": "80.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2014,
+        "price_range": "81.9 - 100.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2014",
+        "variants": [
+            {
+                "trim_name": "2.4 2WD精緻型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD豪華型",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD尊貴型",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "100.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero三門款",
+        "year": 2014,
+        "price_range": "189.9 - 189.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%B8%89%E9%96%80%E6%AC%BE-2014",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "189.9",
+                "body_type": "3門 5人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero五門款",
+        "year": 2014,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero%E4%BA%94%E9%96%80%E6%AC%BE-2014",
+        "variants": [
+            {
+                "trim_name": "3.2 D",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin",
+        "year": 2014,
+        "price_range": "75.7 - 97.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2014",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻型五人座",
+                "price": "75.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型五人座",
+                "price": "79.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型四人座",
+                "price": "80.7",
+                "body_type": "5門 4人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型七人座",
+                "price": "90.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型六人座",
+                "price": "97.5",
+                "body_type": "5門 6人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Zinger",
+        "year": 2014,
+        "price_range": "54.8 - 69.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2014",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻手排型",
+                "price": "54.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4雅緻自排型",
+                "price": "61.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "64.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "69.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi ASX",
+        "year": 2013,
+        "price_range": "112.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-asx-2013",
+        "variants": [
+            {
+                "trim_name": "1.8 2WD",
+                "price": "112.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 4WD",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Boss Zinger",
+        "year": 2013,
+        "price_range": "54.8 - 69.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-boss-zinger-2013",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻手排型",
+                "price": "54.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4雅緻自排型",
+                "price": "61.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "64.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "69.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2013,
+        "price_range": "55.9 - 63.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2013",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "55.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "57.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO競速型",
+                "price": "58.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO勁炫型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "63.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grunder",
+        "year": 2013,
+        "price_range": "84.5 - 93.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2013",
+        "variants": [
+            {
+                "trim_name": "2.4 SEi經典型",
+                "price": "84.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi尊貴型",
+                "price": "93.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2013,
+        "price_range": "66.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2013",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8躍動型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8勁動型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8旗艦型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8悍動型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2013,
+        "price_range": "81.9 - 102.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2013",
+        "variants": [
+            {
+                "trim_name": "2.4 2WD精緻型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD豪華型",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2WD",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD尊貴型",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 4WD",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero",
+        "year": 2013,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2013",
+        "variants": [
+            {
+                "trim_name": "3.8",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3827cc",
+                "horsepower": "243hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin",
+        "year": 2013,
+        "price_range": "75.7 - 97.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2013",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻型五人座",
+                "price": "75.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型五人座",
+                "price": "79.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型四人座",
+                "price": "80.7",
+                "body_type": "5門 4人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型七人座",
+                "price": "90.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型六人座",
+                "price": "97.5",
+                "body_type": "5門 6人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi ASX",
+        "year": 2012,
+        "price_range": "112.8 - 122.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-asx-2012",
+        "variants": [
+            {
+                "trim_name": "1.8 2WD",
+                "price": "112.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "140hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 4WD",
+                "price": "122.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "150hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Boss Zinger",
+        "year": 2012,
+        "price_range": "54.8 - 69.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-boss-zinger-2012",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻手排型",
+                "price": "54.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4雅緻自排型",
+                "price": "61.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "64.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "69.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2012,
+        "price_range": "55.9 - 64.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2012",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "55.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO競速型",
+                "price": "58.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "58.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO勁炫型",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "64.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grunder",
+        "year": 2012,
+        "price_range": "84.5 - 93.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2012",
+        "variants": [
+            {
+                "trim_name": "2.4 SEi經典型",
+                "price": "84.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi尊貴型",
+                "price": "93.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2012,
+        "price_range": "66.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2012",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8躍動型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8勁動型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8旗艦型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 1.8悍動型",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0",
+                "price": "81.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2012,
+        "price_range": "81.9 - 102.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2012",
+        "variants": [
+            {
+                "trim_name": "2.4 2WD精緻型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD豪華型",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2WD",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD尊貴型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 4WD",
+                "price": "98.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero",
+        "year": 2012,
+        "price_range": "228 - 228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2012",
+        "variants": [
+            {
+                "trim_name": "3.8",
+                "price": "228",
+                "body_type": "5門 7人座",
+                "engine_cc": "3827cc",
+                "horsepower": "243hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin",
+        "year": 2012,
+        "price_range": "75.7 - 97.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2012",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻型五人座",
+                "price": "75.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型五人座",
+                "price": "79.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4尊貴型四人座",
+                "price": "85.7",
+                "body_type": "5門 4人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型七人座",
+                "price": "90.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型六人座",
+                "price": "97.5",
+                "body_type": "5門 6人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2011,
+        "price_range": "54.9 - 63.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2011",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "54.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO競速型",
+                "price": "57.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "57.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO勁炫型",
+                "price": "60.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "63.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grunder",
+        "year": 2011,
+        "price_range": "84.5 - 93.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2011",
+        "variants": [
+            {
+                "trim_name": "2.4 SEi經典型",
+                "price": "84.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi尊貴型",
+                "price": "93.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2011,
+        "price_range": "64.9 - 77.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2011",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8雅緻型",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Forits 1.8 S空力型",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8 S進階型",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0",
+                "price": "77.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2011,
+        "price_range": "80.9 - 100.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2011",
+        "variants": [
+            {
+                "trim_name": "2.4 2WD精緻型",
+                "price": "80.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD豪華型",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2WD",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD尊貴型",
+                "price": "91.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 4WD",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "100.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin",
+        "year": 2011,
+        "price_range": "74.7 - 95.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2011",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻型五人座",
+                "price": "74.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型五人座",
+                "price": "78.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4尊貴型四人座",
+                "price": "84.7",
+                "body_type": "5門 4人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型七人座",
+                "price": "88.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型六人座",
+                "price": "95.5",
+                "body_type": "5門 6人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Super Zinger",
+        "year": 2011,
+        "price_range": "54.8 - 69.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-super-zinger-2011",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻手排型",
+                "price": "54.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4雅緻自排型",
+                "price": "61.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "64.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "69.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2010,
+        "price_range": "53.9 - 62.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2010",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "53.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO競速型",
+                "price": "56.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "58.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO勁炫型",
+                "price": "60.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grunder",
+        "year": 2010,
+        "price_range": "82.9 - 91.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2010",
+        "variants": [
+            {
+                "trim_name": "2.4 SEi經典型",
+                "price": "82.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi尊貴型",
+                "price": "91.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer",
+        "year": 2010,
+        "price_range": "63.9 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-2010",
+        "variants": [
+            {
+                "trim_name": "Fortis 1.8雅緻型",
+                "price": "63.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Forits 1.8空力型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8經典型",
+                "price": "67.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8進階型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Fortis 1.8豪華型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 2.0",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer iO",
+        "year": 2010,
+        "price_range": "76.9 - 76.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-io-2010",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2010,
+        "price_range": "78.9 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2010",
+        "variants": [
+            {
+                "trim_name": "2.4 2WD精緻型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD經典型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD豪華型",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD尊貴型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0",
+                "price": "145",
+                "body_type": "5門 7人座",
+                "engine_cc": "2998cc",
+                "horsepower": "223hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero",
+        "year": 2010,
+        "price_range": "219 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2010",
+        "variants": [
+            {
+                "trim_name": "3.2 DI-D",
+                "price": "219",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin",
+        "year": 2010,
+        "price_range": "73.9 - 94.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2010",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻型五人座",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型五人座",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4尊貴型四人座",
+                "price": "83.9",
+                "body_type": "5門 4人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型七人座",
+                "price": "87.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型六人座",
+                "price": "94.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Super Zinger",
+        "year": 2010,
+        "price_range": "53.8 - 68.3",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-super-zinger-2010",
+        "variants": [
+            {
+                "trim_name": "2.4雅緻手排型",
+                "price": "53.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4雅緻自排型",
+                "price": "59.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4精緻型",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "68.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2009,
+        "price_range": "53.5 - 62.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2009",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "53.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 競速型",
+                "price": "56.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "58.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 勁炫型",
+                "price": "60.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO 勁炫型選配",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grunder",
+        "year": 2009,
+        "price_range": "78.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2009",
+        "variants": [
+            {
+                "trim_name": "2.4經典型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型",
+                "price": "85.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4風洞版",
+                "price": "86.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4尊貴型",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer Fortis",
+        "year": 2009,
+        "price_range": "60.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-fortis-2009",
+        "variants": [
+            {
+                "trim_name": "1.8雅致型",
+                "price": "60.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8空力勁裝版",
+                "price": "63.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8精典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8空力型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8科技進階版",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0科技進階版",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer iO",
+        "year": 2009,
+        "price_range": "72.9 - 72.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-io-2009",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2009,
+        "price_range": "78.9 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2009",
+        "variants": [
+            {
+                "trim_name": "2.4 2WD精緻型",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD經典型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD經典型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD豪華型",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD尊貴型",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0",
+                "price": "145",
+                "body_type": "5門 7人座",
+                "engine_cc": "2998cc",
+                "horsepower": "223hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero",
+        "year": 2009,
+        "price_range": "219 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2009",
+        "variants": [
+            {
+                "trim_name": "3.2 DI-D",
+                "price": "219",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "200hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin",
+        "year": 2009,
+        "price_range": "83.9 - 94.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2009",
+        "variants": [
+            {
+                "trim_name": "2.4尊貴型 四人座",
+                "price": "83.9",
+                "body_type": "5門 4人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4豪華型 七人座",
+                "price": "87.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4旗艦型 六人座",
+                "price": "94.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin Inspire",
+        "year": 2009,
+        "price_range": "73.9 - 75.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-inspire-2009",
+        "variants": [
+            {
+                "trim_name": "2.4 雅致型 五人座",
+                "price": "73.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 豪華型 五人座",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Super Zinger",
+        "year": 2009,
+        "price_range": "52.8 - 73.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-super-zinger-2009",
+        "variants": [
+            {
+                "trim_name": "2.4 雅致手排型",
+                "price": "52.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 雅致自排型",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 精緻型",
+                "price": "59.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 豪華型",
+                "price": "67.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 尊貴型",
+                "price": "73.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Colt Plus",
+        "year": 2008,
+        "price_range": "50.9 - 59.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-colt-plus-2008",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "50.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "iO",
+                "price": "53.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊貴型",
+                "price": "55.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1584cc",
+                "horsepower": "112hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Grunder",
+        "year": 2008,
+        "price_range": "78.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-grunder-2008",
+        "variants": [
+            {
+                "trim_name": "2.4 SEi精典型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 SEi豪華型",
+                "price": "85.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi尊貴型",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi旗艦型",
+                "price": "96.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer Fortis",
+        "year": 2008,
+        "price_range": "60.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-fortis-2008",
+        "variants": [
+            {
+                "trim_name": "1.8雅致型",
+                "price": "60.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8空力勁裝版",
+                "price": "63.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8精典型",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊榮型",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Lancer iO",
+        "year": 2008,
+        "price_range": "72.9 - 72.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-lancer-io-2008",
+        "variants": [
+            {
+                "trim_name": "2",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "157hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Outlander",
+        "year": 2008,
+        "price_range": "76.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-outlander-2008",
+        "variants": [
+            {
+                "trim_name": "2.4 2WD精緻型",
+                "price": "76.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 2WD豪華型",
+                "price": "80.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD尊貴型",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD旗艦型",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2359cc",
+                "horsepower": "172hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0",
+                "price": "139.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2998cc",
+                "horsepower": "223hp@6250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Pajero",
+        "year": 2008,
+        "price_range": "212 - 212",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-pajero-2008",
+        "variants": [
+            {
+                "trim_name": "3.2D 標準型",
+                "price": "212",
+                "body_type": "5門 7人座",
+                "engine_cc": "3200cc",
+                "horsepower": "170hp@3800rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin",
+        "year": 2008,
+        "price_range": "82.9 - 95.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-2008",
+        "variants": [
+            {
+                "trim_name": "2.4 SEi 豪華型",
+                "price": "82.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi 尊貴型",
+                "price": "87.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EXi 旗艦型",
+                "price": "95.9",
+                "body_type": "5門 6人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Savrin Inspire",
+        "year": 2008,
+        "price_range": "71.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-savrin-inspire-2008",
+        "variants": [
+            {
+                "trim_name": "2.4 雅致型",
+                "price": "71.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 豪華型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "162hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Space Gear",
+        "year": 2008,
+        "price_range": "76.5 - 89.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-space-gear-2008",
+        "variants": [
+            {
+                "trim_name": "2.4 Sei",
+                "price": "76.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2350cc",
+                "horsepower": "132hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Exi",
+                "price": "82.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2350cc",
+                "horsepower": "132hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Exceed",
+                "price": "89.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2350cc",
+                "horsepower": "132hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "model_name": "Mitsubishi Zinger",
+        "year": 2008,
+        "price_range": "52.8 - 73.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/mitsubishi-zinger-2008",
+        "variants": [
+            {
+                "trim_name": "2.4 雅致手排型",
+                "price": "52.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2351cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 雅致自排型",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 精緻型",
+                "price": "59.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 豪華型",
+                "price": "67.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "159hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 尊貴型",
+                "price": "73.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2378cc",
+                "horsepower": "136hp@5250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

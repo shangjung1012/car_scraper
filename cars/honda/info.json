@@ -1,572 +1,2817 @@
 [
     {
         "brand": "Honda",
-        "model": "2024 Honda Civic",
-        "price": "139.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2024"
-    },
-    {
-        "brand": "Honda",
-        "model": "2024 Honda CR-V",
-        "price": "105.9 - 127.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2024"
-    },
-    {
-        "brand": "Honda",
-        "model": "2024 Honda Fit",
-        "price": "75.9 - 82.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2024"
-    },
-    {
-        "brand": "Honda",
-        "model": "2024 Honda HR-V",
-        "price": "83.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2024"
-    },
-    {
-        "brand": "Honda",
-        "model": "2023 Honda Civic",
-        "price": "139.9 - 139.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2023"
-    },
-    {
-        "brand": "Honda",
-        "model": "2023 Honda CR-V",
-        "price": "99.9 - 117.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2023"
-    },
-    {
-        "brand": "Honda",
-        "model": "2023 Honda CR-V(NEW)",
-        "price": "105.9 - 127.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v%28new%29-2023"
-    },
-    {
-        "brand": "Honda",
-        "model": "2023 Honda Fit",
-        "price": "75.9 - 82.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2023"
-    },
-    {
-        "brand": "Honda",
-        "model": "2023 Honda HR-V",
-        "price": "83.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2023"
-    },
-    {
-        "brand": "Honda",
-        "model": "2022 Honda CR-V",
-        "price": "97.9 - 115.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2022"
-    },
-    {
-        "brand": "Honda",
-        "model": "2022 Honda Fit",
-        "price": "74.9 - 81.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2022"
-    },
-    {
-        "brand": "Honda",
-        "model": "2022 Honda HR-V",
-        "price": "81.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2022"
-    },
-    {
-        "brand": "Honda",
-        "model": "2021 Honda CR-V",
-        "price": "96.9 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2021"
-    },
-    {
-        "brand": "Honda",
-        "model": "2021 Honda Fit",
-        "price": "66.9 - 69.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2021"
-    },
-    {
-        "brand": "Honda",
-        "model": "2021 Honda HR-V",
-        "price": "77.7 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2021"
-    },
-    {
-        "brand": "Honda",
-        "model": "2021 Honda Odyssey",
-        "price": "162.9 - 179.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2021"
-    },
-    {
-        "brand": "Honda",
-        "model": "2020 Honda City",
-        "price": "62.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2020"
-    },
-    {
-        "brand": "Honda",
-        "model": "2020 Honda CR-V",
-        "price": "103 - 113",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2020"
-    },
-    {
-        "brand": "Honda",
-        "model": "2020 Honda Fit",
-        "price": "66.9 - 69.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2020"
-    },
-    {
-        "brand": "Honda",
-        "model": "2020 Honda HR-V",
-        "price": "77.7 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2020"
-    },
-    {
-        "brand": "Honda",
-        "model": "2020 Honda NSX",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2020"
-    },
-    {
-        "brand": "Honda",
-        "model": "2020 Honda Odyssey",
-        "price": "144.9 - 169.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2020"
-    },
-    {
-        "brand": "Honda",
-        "model": "2019 Honda City",
-        "price": "62.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2019"
-    },
-    {
-        "brand": "Honda",
-        "model": "2019 Honda CR-V",
-        "price": "103 - 113",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2019"
-    },
-    {
-        "brand": "Honda",
-        "model": "2019 Honda Fit",
-        "price": "65.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2019"
-    },
-    {
-        "brand": "Honda",
-        "model": "2019 Honda HR-V",
-        "price": "74.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2019"
-    },
-    {
-        "brand": "Honda",
-        "model": "2019 Honda HR-V(NEW)",
-        "price": "77.7 - 84",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v%28new%29-2019"
-    },
-    {
-        "brand": "Honda",
-        "model": "2019 Honda NSX",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2019"
-    },
-    {
-        "brand": "Honda",
-        "model": "2019 Honda Odyssey",
-        "price": "143.9 - 168.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2019"
-    },
-    {
-        "brand": "Honda",
-        "model": "2018 Honda City",
-        "price": "62.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2018"
-    },
-    {
-        "brand": "Honda",
-        "model": "2018 Honda CR-V",
-        "price": "91.9 - 113",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2018"
-    },
-    {
-        "brand": "Honda",
-        "model": "2018 Honda Fit",
-        "price": "65.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2018"
-    },
-    {
-        "brand": "Honda",
-        "model": "2018 Honda HR-V",
-        "price": "74.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2018"
-    },
-    {
-        "brand": "Honda",
-        "model": "2018 Honda Odyssey",
-        "price": "143.9 - 168.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2018"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda Accord",
-        "price": "179.9 - 179.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda City",
-        "price": "58.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda CR-V",
-        "price": "84.9 - 103.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda CR-V(NEW)",
-        "price": "91.9 - 113",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-new-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda Fit",
-        "price": "61.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda HR-V",
-        "price": "74.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda NSX",
-        "price": "1280 - 1280",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2017 Honda Odyssey",
-        "price": "145 - 165",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2017"
-    },
-    {
-        "brand": "Honda",
-        "model": "2016 Honda Accord",
-        "price": "129 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2016"
-    },
-    {
-        "brand": "Honda",
-        "model": "2016 Honda City",
-        "price": "58.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2016"
-    },
-    {
-        "brand": "Honda",
-        "model": "2016 Honda Civic",
-        "price": "73.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2016"
-    },
-    {
-        "brand": "Honda",
-        "model": "2016 Honda CR-V",
-        "price": "84.9 - 103.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2016"
-    },
-    {
-        "brand": "Honda",
-        "model": "2016 Honda Fit",
-        "price": "61.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2016"
-    },
-    {
-        "brand": "Honda",
-        "model": "2016 Honda Odyssey",
-        "price": "145 - 165",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2016"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda Accord",
-        "price": "129 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda City",
-        "price": "58.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda Civic",
-        "price": "73.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda CR-V",
-        "price": "85.9 - 104.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda CR-V(NEW)",
-        "price": "84.9 - 103.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-new-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda CR-Z",
-        "price": "120 - 120",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda Fit",
-        "price": "61.9 - 69.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2015 Honda Odyssey",
-        "price": "145 - 165",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2015"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda Accord",
-        "price": "129 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda City",
-        "price": "64.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda Civic",
-        "price": "74.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda Civic(NEW)",
-        "price": "73.9 - 87.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-new-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda CR-V",
-        "price": "85.9 - 104.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda CR-Z",
-        "price": "120 - 120",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda Fit",
-        "price": "63.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2014 Honda Insight Hybrid",
-        "price": "105.9 - 105.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2014"
-    },
-    {
-        "brand": "Honda",
-        "model": "2013 Honda Accord",
-        "price": "99.9 - 134.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2013"
-    },
-    {
-        "brand": "Honda",
-        "model": "2013 Honda Accord(NEW)",
-        "price": "129 - 145",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-new-2013"
-    },
-    {
-        "brand": "Honda",
-        "model": "2013 Honda Civic",
-        "price": "74.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2013"
-    },
-    {
-        "brand": "Honda",
-        "model": "2013 Honda CR-V",
-        "price": "85.9 - 104.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2013"
-    },
-    {
-        "brand": "Honda",
-        "model": "2013 Honda CR-Z",
-        "price": "120 - 120",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2013"
-    },
-    {
-        "brand": "Honda",
-        "model": "2013 Honda Fit",
-        "price": "63.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2013"
-    },
-    {
-        "brand": "Honda",
-        "model": "2013 Honda Insight Hybrid",
-        "price": "105.9 - 105.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2013"
-    },
-    {
-        "brand": "Honda",
-        "model": "2012 Honda Accord",
-        "price": "99.9 - 134.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2012"
-    },
-    {
-        "brand": "Honda",
-        "model": "2012 Honda Civic",
-        "price": "74.9 - 88.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2012"
-    },
-    {
-        "brand": "Honda",
-        "model": "2012 Honda CR-V",
-        "price": "84.9 - 103.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2012"
-    },
-    {
-        "brand": "Honda",
-        "model": "2012 Honda CR-Z",
-        "price": "139 - 139",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2012"
-    },
-    {
-        "brand": "Honda",
-        "model": "2012 Honda Fit",
-        "price": "63.9 - 66.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2012"
-    },
-    {
-        "brand": "Honda",
-        "model": "2012 Honda Insight Hybrid",
-        "price": "105.9 - 105.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2012"
-    },
-    {
-        "brand": "Honda",
-        "model": "2011 Honda Accord",
-        "price": "95.9 - 132.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2011"
-    },
-    {
-        "brand": "Honda",
-        "model": "2011 Honda Civic",
-        "price": "72.9 - 85.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2011"
-    },
-    {
-        "brand": "Honda",
-        "model": "2011 Honda CR-V",
-        "price": "83.9 - 102.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2011"
-    },
-    {
-        "brand": "Honda",
-        "model": "2011 Honda Fit",
-        "price": "62.9 - 65.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2011"
-    },
-    {
-        "brand": "Honda",
-        "model": "2011 Honda Insight Hybrid",
-        "price": "99.9 - 99.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2011"
-    },
-    {
-        "brand": "Honda",
-        "model": "2010 Honda Accord",
-        "price": "92.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2010"
-    },
-    {
-        "brand": "Honda",
-        "model": "2010 Honda Civic",
-        "price": "70.9 - 83.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2010"
-    },
-    {
-        "brand": "Honda",
-        "model": "2010 Honda CR-V",
-        "price": "81.9 - 100.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2010"
-    },
-    {
-        "brand": "Honda",
-        "model": "2010 Honda Fit",
-        "price": "59.9 - 62.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2010"
-    },
-    {
-        "brand": "Honda",
-        "model": "2009 Honda Accord",
-        "price": "90.9 - 127.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2009"
-    },
-    {
-        "brand": "Honda",
-        "model": "2009 Honda Civic",
-        "price": "69.9 - 82.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2009"
-    },
-    {
-        "brand": "Honda",
-        "model": "2009 Honda CR-V",
-        "price": "79.9 - 97.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2009"
-    },
-    {
-        "brand": "Honda",
-        "model": "2009 Honda Fit",
-        "price": "58.9 - 61.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2009"
-    },
-    {
-        "brand": "Honda",
-        "model": "2009 Honda Legend",
-        "price": "258 - 258",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-legend-2009"
-    },
-    {
-        "brand": "Honda",
-        "model": "2008 Honda Accord",
-        "price": "89.9 - 126.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2008"
-    },
-    {
-        "brand": "Honda",
-        "model": "2008 Honda Civic",
-        "price": "65 - 80.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2008"
-    },
-    {
-        "brand": "Honda",
-        "model": "2008 Honda CR-V",
-        "price": "78.9 - 96.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2008"
-    },
-    {
-        "brand": "Honda",
-        "model": "2008 Honda Legend",
-        "price": "258 - 258",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-legend-2008"
+        "model_name": "Honda Civic",
+        "year": 2024,
+        "price_range": "139.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2024",
+        "variants": [
+            {
+                "trim_name": "e：HEV",
+                "price": "139.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1993cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2024,
+        "price_range": "105.9 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2024",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Prestige",
+                "price": "127.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2024,
+        "price_range": "75.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2024",
+        "variants": [
+            {
+                "trim_name": "Home汽油版",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "e：HEV油電版",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "98hp@5600~6400rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2024,
+        "price_range": "83.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2024",
+        "variants": [
+            {
+                "trim_name": "1.5 S+勁化版",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Prestige尊榮版",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2023,
+        "price_range": "139.9 - 139.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2023",
+        "variants": [
+            {
+                "trim_name": "e：HEV",
+                "price": "139.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1993cc",
+                "horsepower": "143hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2023,
+        "price_range": "99.9 - 117.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2023",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V(NEW)",
+        "year": 2023,
+        "price_range": "105.9 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v%28new%29-2023",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "117.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Prestige",
+                "price": "127.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2023,
+        "price_range": "75.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2023",
+        "variants": [
+            {
+                "trim_name": "Home汽油版",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "e：HEV油電版",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "98hp@5600~6400rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2023,
+        "price_range": "83.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2023",
+        "variants": [
+            {
+                "trim_name": "1.5 S+勁化版",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Prestige尊榮版",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2022,
+        "price_range": "97.9 - 115.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2022",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "115.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2022,
+        "price_range": "74.9 - 81.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2022",
+        "variants": [
+            {
+                "trim_name": "Home汽油版",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "e：HEV油電版",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "98hp@5600~6400rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2022,
+        "price_range": "81.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2022",
+        "variants": [
+            {
+                "trim_name": "1.5 S+勁化版",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 Prestige尊榮版",
+                "price": "87.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "121hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2021,
+        "price_range": "96.9 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2021",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "113.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2021,
+        "price_range": "66.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2021",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2021,
+        "price_range": "77.7 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2021",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "77.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 S",
+                "price": "84",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 RS",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Odyssey",
+        "year": 2021,
+        "price_range": "162.9 - 179.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2021",
+        "variants": [
+            {
+                "trim_name": "2.4卓越版七人座",
+                "price": "162.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4登峰版八人座",
+                "price": "177.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4登峰版七人座",
+                "price": "179.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda City",
+        "year": 2020,
+        "price_range": "62.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2020",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "62.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2020,
+        "price_range": "103 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2020",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2020,
+        "price_range": "66.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2020",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2020,
+        "price_range": "77.7 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2020",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "77.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 S",
+                "price": "84",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 RS",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda NSX",
+        "year": 2020,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2020",
+        "variants": [
+            {
+                "trim_name": "Hybrid",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "3493cc",
+                "horsepower": "581hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Odyssey",
+        "year": 2020,
+        "price_range": "144.9 - 169.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2020",
+        "variants": [
+            {
+                "trim_name": "2.4 Elite七人座",
+                "price": "144.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex八人座",
+                "price": "167.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex七人座",
+                "price": "169.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda City",
+        "year": 2019,
+        "price_range": "62.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2019",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "62.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2019,
+        "price_range": "103 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2019",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "103",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2019,
+        "price_range": "65.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2019",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2019,
+        "price_range": "74.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2019",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 S",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V(NEW)",
+        "year": 2019,
+        "price_range": "77.7 - 84",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v%28new%29-2019",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "77.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 S",
+                "price": "84",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda NSX",
+        "year": 2019,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2019",
+        "variants": [
+            {
+                "trim_name": "Hybrid",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "3493cc",
+                "horsepower": "581hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Odyssey",
+        "year": 2019,
+        "price_range": "143.9 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2019",
+        "variants": [
+            {
+                "trim_name": "2.4 Elite七人座",
+                "price": "143.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex八人座",
+                "price": "166.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex七人座",
+                "price": "168.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda City",
+        "year": 2018,
+        "price_range": "62.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2018",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "62.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2018,
+        "price_range": "91.9 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2018",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2018,
+        "price_range": "65.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2018",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2018,
+        "price_range": "74.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2018",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 S",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Odyssey",
+        "year": 2018,
+        "price_range": "143.9 - 168.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2018",
+        "variants": [
+            {
+                "trim_name": "2.4 Elite七人座",
+                "price": "143.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex八人座",
+                "price": "166.8",
+                "body_type": "5門 8人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex七人座",
+                "price": "168.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2017,
+        "price_range": "179.9 - 179.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2017",
+        "variants": [
+            {
+                "trim_name": "Hybrid",
+                "price": "179.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1993cc",
+                "horsepower": "215hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda City",
+        "year": 2017,
+        "price_range": "58.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2017",
+        "variants": [
+            {
+                "trim_name": "1.5 V",
+                "price": "58.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi",
+                "price": "62.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2017,
+        "price_range": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 S",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V(NEW)",
+        "year": 2017,
+        "price_range": "91.9 - 113",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-new-2017",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "113",
+                "body_type": "5門 5人座",
+                "engine_cc": "1498cc",
+                "horsepower": "193hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2017,
+        "price_range": "61.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2017",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda HR-V",
+        "year": 2017,
+        "price_range": "74.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-hr-v-2017",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "74.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 S",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "143hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda NSX",
+        "year": 2017,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-nsx-2017",
+        "variants": [
+            {
+                "trim_name": "Hybrid",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "3493cc",
+                "horsepower": "581hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Odyssey",
+        "year": 2017,
+        "price_range": "145 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2017",
+        "variants": [
+            {
+                "trim_name": "2.4 Elite七人座",
+                "price": "145",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex七人座",
+                "price": "165",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex八人座",
+                "price": "165",
+                "body_type": "5門 8人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2016,
+        "price_range": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2016",
+        "variants": [
+            {
+                "trim_name": "2.4 VTi Deluxe",
+                "price": "129",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "180hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi Luxury",
+                "price": "134",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "180hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S Exclusive",
+                "price": "145",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "180hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda City",
+        "year": 2016,
+        "price_range": "58.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2016",
+        "variants": [
+            {
+                "trim_name": "1.5 V",
+                "price": "58.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi",
+                "price": "62.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2016,
+        "price_range": "73.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2016",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2016,
+        "price_range": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 S",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2016,
+        "price_range": "61.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2016",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "68.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Odyssey",
+        "year": 2016,
+        "price_range": "145 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2016",
+        "variants": [
+            {
+                "trim_name": "2.4 Elite",
+                "price": "145",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex",
+                "price": "165",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2015,
+        "price_range": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2015",
+        "variants": [
+            {
+                "trim_name": "2.4 VTi Deluxe",
+                "price": "129",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "180hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi Luxury",
+                "price": "134",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "180hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S Exclusive",
+                "price": "145",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "180hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda City",
+        "year": 2015,
+        "price_range": "58.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2015",
+        "variants": [
+            {
+                "trim_name": "1.5 V",
+                "price": "58.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi",
+                "price": "62.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2015,
+        "price_range": "73.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2015",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2015,
+        "price_range": "85.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2015",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 S",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V(NEW)",
+        "year": 2015,
+        "price_range": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-new-2015",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 S",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-Z",
+        "year": 2015,
+        "price_range": "120 - 120",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2015",
+        "variants": [
+            {
+                "trim_name": "1.5",
+                "price": "120",
+                "body_type": "3門 2+2人座",
+                "engine_cc": "1497cc",
+                "horsepower": "135hp/17.5kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2015,
+        "price_range": "61.9 - 69.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2015",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 S",
+                "price": "69.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Odyssey",
+        "year": 2015,
+        "price_range": "145 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-odyssey-2015",
+        "variants": [
+            {
+                "trim_name": "2.4 Elite",
+                "price": "145",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 Apex",
+                "price": "165",
+                "body_type": "5門 7人座",
+                "engine_cc": "2356cc",
+                "horsepower": "175hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2014,
+        "price_range": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2014",
+        "variants": [
+            {
+                "trim_name": "2.4 VTi Deluxe",
+                "price": "129",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "188hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi Luxury",
+                "price": "134",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "188hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S Exclusive",
+                "price": "145",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "188hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda City",
+        "year": 2014,
+        "price_range": "64.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-city-2014",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2014,
+        "price_range": "74.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2014",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic(NEW)",
+        "year": 2014,
+        "price_range": "73.9 - 87.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-new-2014",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "73.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "87.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2014,
+        "price_range": "85.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2014",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 S",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-Z",
+        "year": 2014,
+        "price_range": "120 - 120",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2014",
+        "variants": [
+            {
+                "trim_name": "1.5",
+                "price": "120",
+                "body_type": "3門 2+2人座",
+                "engine_cc": "1497cc",
+                "horsepower": "135hp/17.5kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2014,
+        "price_range": "63.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2014",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Insight Hybrid",
+        "year": 2014,
+        "price_range": "105.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2014",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1339cc",
+                "horsepower": "98hp/17.0kgm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2013,
+        "price_range": "99.9 - 134.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2013",
+        "variants": [
+            {
+                "trim_name": "2.4 VTi",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "115.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.5 V6",
+                "price": "134.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "275hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord(NEW)",
+        "year": 2013,
+        "price_range": "129 - 145",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-new-2013",
+        "variants": [
+            {
+                "trim_name": "2.4 VTi Deluxe",
+                "price": "129",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "188hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi Luxury",
+                "price": "134",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "188hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S Exclusive",
+                "price": "145",
+                "body_type": "4門 5人座",
+                "engine_cc": "2356cc",
+                "horsepower": "188hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2013,
+        "price_range": "74.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2013",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2013,
+        "price_range": "85.9 - 104.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2013",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 S",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "190hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-Z",
+        "year": 2013,
+        "price_range": "120 - 120",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2013",
+        "variants": [
+            {
+                "trim_name": "1.5",
+                "price": "120",
+                "body_type": "3門 2+2人座",
+                "engine_cc": "1497cc",
+                "horsepower": "118hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2013,
+        "price_range": "63.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2013",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Insight Hybrid",
+        "year": 2013,
+        "price_range": "105.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2013",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1339cc",
+                "horsepower": "88hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2012,
+        "price_range": "99.9 - 134.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2012",
+        "variants": [
+            {
+                "trim_name": "2.4 VTi",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "115.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.5 V6",
+                "price": "134.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "275hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2012,
+        "price_range": "74.9 - 88.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2012",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "74.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "79.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "141hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "88.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "155hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2012,
+        "price_range": "84.9 - 103.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2012",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "84.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 VTi-S",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "94.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-Z",
+        "year": 2012,
+        "price_range": "139 - 139",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-z-2012",
+        "variants": [
+            {
+                "trim_name": "1.5",
+                "price": "139",
+                "body_type": "3門 2+2人座",
+                "engine_cc": "1497cc",
+                "horsepower": "113hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2012,
+        "price_range": "63.9 - 66.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2012",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "63.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Insight Hybrid",
+        "year": 2012,
+        "price_range": "105.9 - 105.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2012",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "105.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1339cc",
+                "horsepower": "88hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2011,
+        "price_range": "95.9 - 132.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2011",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "95.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "156hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "97.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "113.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.5 V6",
+                "price": "132.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "275hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2011,
+        "price_range": "72.9 - 85.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2011",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "72.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "85.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2011,
+        "price_range": "83.9 - 102.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2011",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 VTi-S",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "93.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "102.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2011,
+        "price_range": "62.9 - 65.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2011",
+        "variants": [
+            {
+                "trim_name": "1.5 VTi",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.5 VTi-S",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Insight Hybrid",
+        "year": 2011,
+        "price_range": "99.9 - 99.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-insight-hybrid-2011",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1339cc",
+                "horsepower": "88hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2010,
+        "price_range": "92.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2010",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "92.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "156hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "102.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "110.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.5 V6",
+                "price": "129.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "275hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2010,
+        "price_range": "70.9 - 83.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2010",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "83.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2010,
+        "price_range": "81.9 - 100.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2010",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 VTi-S",
+                "price": "86.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "91.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "100.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@5800rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2010,
+        "price_range": "59.9 - 62.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2010",
+        "variants": [
+            {
+                "trim_name": "VTi",
+                "price": "59.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "VTi-S",
+                "price": "62.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2009,
+        "price_range": "90.9 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2009",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "90.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "156hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "100.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "108.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.5 V6",
+                "price": "127.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "275hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2009,
+        "price_range": "69.9 - 82.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2009",
+        "variants": [
+            {
+                "trim_name": "1.8 VTi",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 VTi-S",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "82.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2009,
+        "price_range": "79.9 - 97.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2009",
+        "variants": [
+            {
+                "trim_name": "2.0 2WD GX",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 2WD SX",
+                "price": "83.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 4WD EX",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 4WD EX-S",
+                "price": "97.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Fit",
+        "year": 2009,
+        "price_range": "58.9 - 61.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-fit-2009",
+        "variants": [
+            {
+                "trim_name": "VTi",
+                "price": "58.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "VTi-S",
+                "price": "61.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1497cc",
+                "horsepower": "120hp@6600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Legend",
+        "year": 2009,
+        "price_range": "258 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-legend-2009",
+        "variants": [
+            {
+                "trim_name": "3.5 V6",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "295hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Accord",
+        "year": 2008,
+        "price_range": "89.9 - 126.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-accord-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 VTi",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "156hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi",
+                "price": "99.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 VTi-S",
+                "price": "107.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "180hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.5 V6",
+                "price": "126.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "275hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Civic",
+        "year": 2008,
+        "price_range": "65 - 80.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-civic-2008",
+        "variants": [
+            {
+                "trim_name": "1.8 LX",
+                "price": "65",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 EX",
+                "price": "70.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 EX-S",
+                "price": "73.5",
+                "body_type": "4門 5人座",
+                "engine_cc": "1799cc",
+                "horsepower": "140hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "80.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "155hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda CR-V",
+        "year": 2008,
+        "price_range": "78.9 - 96.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-cr-v-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 GX",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 S",
+                "price": "80.9",
+                "body_type": "",
+                "engine_cc": "",
+                "horsepower": "",
+                "fuel_type": ""
+            },
+            {
+                "trim_name": "2.0 SX",
+                "price": "82.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 EX",
+                "price": "89.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "150hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.4 EX-S",
+                "price": "96.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2354cc",
+                "horsepower": "170hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Honda",
+        "model_name": "Honda Legend",
+        "year": 2008,
+        "price_range": "258 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/honda-legend-2008",
+        "variants": [
+            {
+                "trim_name": "3.5 V6",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "3471cc",
+                "horsepower": "295hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

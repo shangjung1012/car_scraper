@@ -1,92 +1,417 @@
 [
     {
         "brand": "Cadillac",
-        "model": "2011 Cadillac CTS",
-        "price": "229 - 259",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2011"
+        "model_name": "Cadillac CTS",
+        "year": 2011,
+        "price_range": "229 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2011",
+        "variants": [
+            {
+                "trim_name": "3.0 SIDI",
+                "price": "229",
+                "body_type": "4門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "277hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 SIDI",
+                "price": "259",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2011 Cadillac SRX",
-        "price": "238 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2011"
+        "model_name": "Cadillac SRX",
+        "year": 2011,
+        "price_range": "238 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2011",
+        "variants": [
+            {
+                "trim_name": "3.0 Brilliance",
+                "price": "238",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "269hp@6950rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Elegance",
+                "price": "258",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "269hp@6950rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Premium",
+                "price": "288",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "269hp@6950rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2010 Cadillac CTS",
-        "price": "199 - 259",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2010"
+        "model_name": "Cadillac CTS",
+        "year": 2010,
+        "price_range": "199 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2010",
+        "variants": [
+            {
+                "trim_name": "2.8 Elegance",
+                "price": "199",
+                "body_type": "4門 5人座",
+                "engine_cc": "2792cc",
+                "horsepower": "211hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 SIDI Elegance",
+                "price": "229",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 SIDI Premium",
+                "price": "259",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2010 Cadillac DTS",
-        "price": "349 - 349",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-dts-2010"
+        "model_name": "Cadillac DTS",
+        "year": 2010,
+        "price_range": "349 - 349",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-dts-2010",
+        "variants": [
+            {
+                "trim_name": "4.6 Platinum",
+                "price": "349",
+                "body_type": "4門 5人座",
+                "engine_cc": "4565cc",
+                "horsepower": "292hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2010 Cadillac Escalade",
-        "price": "439 - 439",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-escalade-2010"
+        "model_name": "Cadillac Escalade",
+        "year": 2010,
+        "price_range": "439 - 439",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-escalade-2010",
+        "variants": [
+            {
+                "trim_name": "6.2 Premium",
+                "price": "439",
+                "body_type": "5門 7人座",
+                "engine_cc": "6162cc",
+                "horsepower": "403hp@5700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2010 Cadillac SRX",
-        "price": "238 - 288",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2010"
+        "model_name": "Cadillac SRX",
+        "year": 2010,
+        "price_range": "238 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2010",
+        "variants": [
+            {
+                "trim_name": "3.0 Brilliance",
+                "price": "238",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "269hp@6950rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Elegance",
+                "price": "258",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "269hp@6950rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Premium",
+                "price": "288",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "269hp@6950rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2010 Cadillac STS",
-        "price": "258 - 278",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-sts-2010"
+        "model_name": "Cadillac STS",
+        "year": 2010,
+        "price_range": "258 - 278",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-sts-2010",
+        "variants": [
+            {
+                "trim_name": "3.6 SIDI Elegance",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 SIDI Premium",
+                "price": "278",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2009 Cadillac CTS",
-        "price": "198 - 259",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2009"
+        "model_name": "Cadillac CTS",
+        "year": 2009,
+        "price_range": "198 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2009",
+        "variants": [
+            {
+                "trim_name": "2.8 L",
+                "price": "198",
+                "body_type": "4門 5人座",
+                "engine_cc": "2796cc",
+                "horsepower": "211hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 E",
+                "price": "229",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 P",
+                "price": "259",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2009 Cadillac DTS",
-        "price": "349 - 439",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-dts-2009"
+        "model_name": "Cadillac DTS",
+        "year": 2009,
+        "price_range": "349 - 439",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-dts-2009",
+        "variants": [
+            {
+                "trim_name": "4.6",
+                "price": "349",
+                "body_type": "4門 5人座",
+                "engine_cc": "4565cc",
+                "horsepower": "292hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Limo",
+                "price": "439",
+                "body_type": "4門 5人座",
+                "engine_cc": "4565cc",
+                "horsepower": "275hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2009 Cadillac SRX",
-        "price": "259 - 279",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2009"
+        "model_name": "Cadillac SRX",
+        "year": 2009,
+        "price_range": "259 - 279",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2009",
+        "variants": [
+            {
+                "trim_name": "3.6 E",
+                "price": "259",
+                "body_type": "5門 7人座",
+                "engine_cc": "3564cc",
+                "horsepower": "258hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 P",
+                "price": "279",
+                "body_type": "5門 7人座",
+                "engine_cc": "3564cc",
+                "horsepower": "258hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2009 Cadillac STS",
-        "price": "258 - 448",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-sts-2009"
+        "model_name": "Cadillac STS",
+        "year": 2009,
+        "price_range": "258 - 448",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-sts-2009",
+        "variants": [
+            {
+                "trim_name": "3.6 E",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "255hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.6 P",
+                "price": "288",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "320hp@6400rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V",
+                "price": "448",
+                "body_type": "4門 5人座",
+                "engine_cc": "4371cc",
+                "horsepower": "476hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2008 Cadillac CTS",
-        "price": "198 - 259",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2008"
+        "model_name": "Cadillac CTS",
+        "year": 2008,
+        "price_range": "198 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-cts-2008",
+        "variants": [
+            {
+                "trim_name": "2.8 Elegance",
+                "price": "198",
+                "body_type": "4門 5人座",
+                "engine_cc": "2796cc",
+                "horsepower": "211hp@6800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 SIDI Elegance",
+                "price": "229",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.6 SIDI Premium",
+                "price": "259",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "311hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2008 Cadillac DTS",
-        "price": "320 - 1399",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-dts-2008"
+        "model_name": "Cadillac DTS",
+        "year": 2008,
+        "price_range": "320 - 1399",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-dts-2008",
+        "variants": [
+            {
+                "trim_name": "4.6 Plutinm",
+                "price": "320",
+                "body_type": "4門 5人座",
+                "engine_cc": "4565cc",
+                "horsepower": "292hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Limo",
+                "price": "399",
+                "body_type": "4門 5人座",
+                "engine_cc": "4565cc",
+                "horsepower": "275hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.6 Armor 川普",
+                "price": "1099",
+                "body_type": "4門 5人座",
+                "engine_cc": "4565cc",
+                "horsepower": "275hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.6 Armor 元首級",
+                "price": "1399",
+                "body_type": "4門 5人座",
+                "engine_cc": "4565cc",
+                "horsepower": "275hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2008 Cadillac SRX",
-        "price": "269 - 338",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2008"
+        "model_name": "Cadillac SRX",
+        "year": 2008,
+        "price_range": "269 - 338",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-srx-2008",
+        "variants": [
+            {
+                "trim_name": "3.6 Premium",
+                "price": "269",
+                "body_type": "5門 7人座",
+                "engine_cc": "3564cc",
+                "horsepower": "258hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.6 Premium",
+                "price": "338",
+                "body_type": "5門 7人座",
+                "engine_cc": "4572cc",
+                "horsepower": "320hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Cadillac",
-        "model": "2008 Cadillac STS",
-        "price": "258 - 258",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-sts-2008"
+        "model_name": "Cadillac STS",
+        "year": 2008,
+        "price_range": "258 - 258",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/cadillac-sts-2008",
+        "variants": [
+            {
+                "trim_name": "3.6",
+                "price": "258",
+                "body_type": "4門 5人座",
+                "engine_cc": "3564cc",
+                "horsepower": "255hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

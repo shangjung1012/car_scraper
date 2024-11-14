@@ -1,38 +1,104 @@
 [
     {
         "brand": "Bugatti",
-        "model": "2020 Bugatti Chiron",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chiron-2020"
+        "model_name": "Bugatti Chiron",
+        "year": 2020,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chiron-2020",
+        "variants": [
+            {
+                "trim_name": "W16",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "7993cc",
+                "horsepower": "1500hp@6700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bugatti",
-        "model": "2019 Bugatti Chiron",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chiron-2019"
+        "model_name": "Bugatti Chiron",
+        "year": 2019,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chiron-2019",
+        "variants": [
+            {
+                "trim_name": "W16",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "7993cc",
+                "horsepower": "1500hp@6700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bugatti",
-        "model": "2018 Bugatti Chiron",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chirion-2018"
+        "model_name": "Bugatti Chiron",
+        "year": 2018,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chirion-2018",
+        "variants": [
+            {
+                "trim_name": "W16",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "7993cc",
+                "horsepower": "1500hp@6700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bugatti",
-        "model": "2017 Bugatti Chiron",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chiron-2017"
+        "model_name": "Bugatti Chiron",
+        "year": 2017,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-chiron-2017",
+        "variants": [
+            {
+                "trim_name": "W16",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "7993cc",
+                "horsepower": "1500hp@6700rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bugatti",
-        "model": "2011 Bugatti Veyron",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-veyron-2011"
+        "model_name": "Bugatti Veyron",
+        "year": 2011,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-veyron-2011",
+        "variants": [
+            {
+                "trim_name": "16.4",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "7993cc",
+                "horsepower": "1001hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Bugatti",
-        "model": "2010 Bugatti Veyron",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-veyron-2010"
+        "model_name": "Bugatti Veyron",
+        "year": 2010,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bugatti-veyron-2010",
+        "variants": [
+            {
+                "trim_name": "16.4",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "7993cc",
+                "horsepower": "1001hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

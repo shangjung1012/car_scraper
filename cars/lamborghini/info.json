@@ -1,344 +1,1211 @@
 [
     {
         "brand": "Lamborghini",
-        "model": "2024 Lamborghini Huracan Sterrato",
-        "price": "1658 - 1658",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-sterrato-2024"
+        "model_name": "Lamborghini Huracan Sterrato",
+        "year": 2024,
+        "price_range": "1658 - 1658",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-sterrato-2024",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1658",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2024 Lamborghini Huracan Tecnica",
-        "price": "1408 - 1408",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-tecnica-2024"
+        "model_name": "Lamborghini Huracan Tecnica",
+        "year": 2024,
+        "price_range": "1408 - 1408",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-tecnica-2024",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1408",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2024 Lamborghini Revuelto",
-        "price": "2799 - 2799",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-revuelto-2024"
+        "model_name": "Lamborghini Revuelto",
+        "year": 2024,
+        "price_range": "2799 - 2799",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-revuelto-2024",
+        "variants": [
+            {
+                "trim_name": "V12 Hybrid",
+                "price": "2799",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498.5cc",
+                "horsepower": "1015hp",
+                "fuel_type": "油電混合"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2024 Lamborghini Urus",
-        "price": "1200 - 1408",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2024"
+        "model_name": "Lamborghini Urus",
+        "year": 2024,
+        "price_range": "1200 - 1408",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2024",
+        "variants": [
+            {
+                "trim_name": "S 4.0 V8",
+                "price": "1200",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "666hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SE",
+                "price": "1298",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "800hp@6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Performante",
+                "price": "1408",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "666hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2023 Lamborghini Huracan EVO Coupe",
-        "price": "1508.8 - 1508.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2023"
+        "model_name": "Lamborghini Huracan EVO Coupe",
+        "year": 2023,
+        "price_range": "1508.8 - 1508.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2023",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1508.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2023 Lamborghini Huracan STO",
-        "price": "1990 - 1990",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-sto-2023"
+        "model_name": "Lamborghini Huracan STO",
+        "year": 2023,
+        "price_range": "1990 - 1990",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-sto-2023",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1990",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2023 Lamborghini Huracan Tecnica",
-        "price": "1368 - 1368",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-tecnica-2023"
+        "model_name": "Lamborghini Huracan Tecnica",
+        "year": 2023,
+        "price_range": "1368 - 1368",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-tecnica-2023",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1368",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2023 Lamborghini Urus",
-        "price": "1198 - 1380",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2023"
+        "model_name": "Lamborghini Urus",
+        "year": 2023,
+        "price_range": "1198 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2023",
+        "variants": [
+            {
+                "trim_name": "S 4.0 V8",
+                "price": "1198",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "666hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Performante",
+                "price": "1380",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "666hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2022 Lamborghini Huracan EVO Coupe",
-        "price": "1508.8 - 1508.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2022"
+        "model_name": "Lamborghini Huracan EVO Coupe",
+        "year": 2022,
+        "price_range": "1508.8 - 1508.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2022",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1508.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2022 Lamborghini Huracan EVO Spyder",
-        "price": "1658.8 - 1658.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-spyder-2022"
+        "model_name": "Lamborghini Huracan EVO Spyder",
+        "year": 2022,
+        "price_range": "1658.8 - 1658.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-spyder-2022",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1658.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2022 Lamborghini Huracan STO",
-        "price": "1990 - 1990",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2022"
+        "model_name": "Lamborghini Huracan STO",
+        "year": 2022,
+        "price_range": "1990 - 1990",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2022",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1990",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2022 Lamborghini Urus",
-        "price": "999.89 - 999.89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2022"
+        "model_name": "Lamborghini Urus",
+        "year": 2022,
+        "price_range": "999.89 - 999.89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "999.89",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "650hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2021 Lamborghini Aventador S Coupe",
-        "price": "2700 - 2700",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2021"
+        "model_name": "Lamborghini Aventador S Coupe",
+        "year": 2021,
+        "price_range": "2700 - 2700",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2021",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2700",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2021 Lamborghini Aventador S Roadster",
-        "price": "2800 - 2800",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2021"
+        "model_name": "Lamborghini Aventador S Roadster",
+        "year": 2021,
+        "price_range": "2800 - 2800",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2021",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2800",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2021 Lamborghini Huracan EVO Coupe",
-        "price": "1508.8 - 1508.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2021"
+        "model_name": "Lamborghini Huracan EVO Coupe",
+        "year": 2021,
+        "price_range": "1508.8 - 1508.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2021",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1508.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2021 Lamborghini Huracan EVO Spyder",
-        "price": "1658.8 - 1658.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-spyder-2021"
+        "model_name": "Lamborghini Huracan EVO Spyder",
+        "year": 2021,
+        "price_range": "1658.8 - 1658.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-spyder-2021",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1658.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2021 Lamborghini Urus",
-        "price": "999.89 - 999.89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2021"
+        "model_name": "Lamborghini Urus",
+        "year": 2021,
+        "price_range": "999.89 - 999.89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "999.89",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "650hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2020 Lamborghini Aventador S Coupe",
-        "price": "2700 - 2700",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2020"
+        "model_name": "Lamborghini Aventador S Coupe",
+        "year": 2020,
+        "price_range": "2700 - 2700",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2020",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2700",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2020 Lamborghini Aventador S Roadster",
-        "price": "2800 - 2800",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2020"
+        "model_name": "Lamborghini Aventador S Roadster",
+        "year": 2020,
+        "price_range": "2800 - 2800",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2020",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2800",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2020 Lamborghini Huracan EVO Coupe",
-        "price": "1508.8 - 1508.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2020"
+        "model_name": "Lamborghini Huracan EVO Coupe",
+        "year": 2020,
+        "price_range": "1508.8 - 1508.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-coupe-2020",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1508.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2020 Lamborghini Huracan EVO Spyder",
-        "price": "1658.8 - 1658.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-spyder-2020"
+        "model_name": "Lamborghini Huracan EVO Spyder",
+        "year": 2020,
+        "price_range": "1658.8 - 1658.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-evo-spyder-2020",
+        "variants": [
+            {
+                "trim_name": "V10",
+                "price": "1658.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2020 Lamborghini Urus",
-        "price": "999.89 - 999.89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2020"
+        "model_name": "Lamborghini Urus",
+        "year": 2020,
+        "price_range": "999.89 - 999.89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "999.89",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "650hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2019 Lamborghini Aventador S Coupe",
-        "price": "2700 - 2700",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2019"
+        "model_name": "Lamborghini Aventador S Coupe",
+        "year": 2019,
+        "price_range": "2700 - 2700",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2019",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2700",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2019 Lamborghini Aventador S Roadster",
-        "price": "2800 - 2800",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2019"
+        "model_name": "Lamborghini Aventador S Roadster",
+        "year": 2019,
+        "price_range": "2800 - 2800",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2019",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2800",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2019 Lamborghini Huracan Coupe",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2019"
+        "model_name": "Lamborghini Huracan Coupe",
+        "year": 2019,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2019",
+        "variants": [
+            {
+                "trim_name": "Performante",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2019 Lamborghini Huracan Spyder",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2019"
+        "model_name": "Lamborghini Huracan Spyder",
+        "year": 2019,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2019",
+        "variants": [
+            {
+                "trim_name": "Performante",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2019 Lamborghini Urus",
-        "price": "999.89 - 999.89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2019"
+        "model_name": "Lamborghini Urus",
+        "year": 2019,
+        "price_range": "999.89 - 999.89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2019",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "999.89",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "650hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2018 Lamborghini Aventador S Coupe",
-        "price": "2700 - 2700",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2018"
+        "model_name": "Lamborghini Aventador S Coupe",
+        "year": 2018,
+        "price_range": "2700 - 2700",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2018",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2700",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2018 Lamborghini Aventador S Roadster",
-        "price": "2800 - 2800",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2018"
+        "model_name": "Lamborghini Aventador S Roadster",
+        "year": 2018,
+        "price_range": "2800 - 2800",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-roadster-2018",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2800",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2018 Lamborghini Huracan Coupe",
-        "price": "1258 - 1900",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-coupe-2018"
+        "model_name": "Lamborghini Huracan Coupe",
+        "year": 2018,
+        "price_range": "1258 - 1900",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-coupe-2018",
+        "variants": [
+            {
+                "trim_name": "V10 RWD",
+                "price": "1258",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "580hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V10",
+                "price": "1508",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Performante",
+                "price": "1900",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2018 Lamborghini Huracan Spyder",
-        "price": "0 - 1600",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2018"
+        "model_name": "Lamborghini Huracan Spyder",
+        "year": 2018,
+        "price_range": "0 - 1600",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2018",
+        "variants": [
+            {
+                "trim_name": "Performante",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V10 RWD",
+                "price": "1358",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "580hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V10",
+                "price": "1600",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2018 Lamborghini Urus",
-        "price": "999.89 - 999.89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2018"
+        "model_name": "Lamborghini Urus",
+        "year": 2018,
+        "price_range": "999.89 - 999.89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-urus-2018",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "999.89",
+                "body_type": "5門 5人座",
+                "engine_cc": "3996cc",
+                "horsepower": "650hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2017 Lamborghini Aventador Roadster",
-        "price": "2888 - 2888",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2017"
+        "model_name": "Lamborghini Aventador Roadster",
+        "year": 2017,
+        "price_range": "2888 - 2888",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2017",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2888",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2017 Lamborghini Aventador S Coupe",
-        "price": "2700 - 2700",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2017"
+        "model_name": "Lamborghini Aventador S Coupe",
+        "year": 2017,
+        "price_range": "2700 - 2700",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-s-coupe-2017",
+        "variants": [
+            {
+                "trim_name": "V12",
+                "price": "2700",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "740hp@8400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2017 Lamborghini Huracan Coupe",
-        "price": "1258 - 1900",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-coupe-2017"
+        "model_name": "Lamborghini Huracan Coupe",
+        "year": 2017,
+        "price_range": "1258 - 1900",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-coupe-2017",
+        "variants": [
+            {
+                "trim_name": "V10 RWD",
+                "price": "1258",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "580hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V10",
+                "price": "1508",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Performante",
+                "price": "1900",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "640hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2017 Lamborghini Huracan Spyder",
-        "price": "1358 - 1600",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2017"
+        "model_name": "Lamborghini Huracan Spyder",
+        "year": 2017,
+        "price_range": "1358 - 1600",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2017",
+        "variants": [
+            {
+                "trim_name": "V10 RWD",
+                "price": "1358",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "580hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V10",
+                "price": "1600",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2016 Lamborghini Aventador",
-        "price": "2538 - 2538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2016"
+        "model_name": "Lamborghini Aventador",
+        "year": 2016,
+        "price_range": "2538 - 2538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2016",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2538",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2016 Lamborghini Aventador Roadster",
-        "price": "2888 - 2888",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2016"
+        "model_name": "Lamborghini Aventador Roadster",
+        "year": 2016,
+        "price_range": "2888 - 2888",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2016",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2888",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2016 Lamborghini Huracan",
-        "price": "1258 - 1508",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2016"
+        "model_name": "Lamborghini Huracan",
+        "year": 2016,
+        "price_range": "1258 - 1508",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2016",
+        "variants": [
+            {
+                "trim_name": "LP 580-2 Coupe",
+                "price": "1258",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "580hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 610-4 Coupe",
+                "price": "1508",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2016 Lamborghini Huracan Spyder",
-        "price": "1600 - 1600",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2016"
+        "model_name": "Lamborghini Huracan Spyder",
+        "year": 2016,
+        "price_range": "1600 - 1600",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-spyder-2016",
+        "variants": [
+            {
+                "trim_name": "LP 610-4",
+                "price": "1600",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2015 Lamborghini Aventador",
-        "price": "2538 - 2538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2015"
+        "model_name": "Lamborghini Aventador",
+        "year": 2015,
+        "price_range": "2538 - 2538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2015",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2538",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2015 Lamborghini Aventador Roadster",
-        "price": "2888 - 2888",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2015"
+        "model_name": "Lamborghini Aventador Roadster",
+        "year": 2015,
+        "price_range": "2888 - 2888",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2015",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2888",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2015 Lamborghini Huracan",
-        "price": "1508 - 1508",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2015"
+        "model_name": "Lamborghini Huracan",
+        "year": 2015,
+        "price_range": "1508 - 1508",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2015",
+        "variants": [
+            {
+                "trim_name": "LP 610-4 Coupe",
+                "price": "1508",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2014 Lamborghini Aventador",
-        "price": "2538 - 2538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2014"
+        "model_name": "Lamborghini Aventador",
+        "year": 2014,
+        "price_range": "2538 - 2538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2014",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2538",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2014 Lamborghini Aventador Roadster",
-        "price": "2888 - 2888",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2014"
+        "model_name": "Lamborghini Aventador Roadster",
+        "year": 2014,
+        "price_range": "2888 - 2888",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-roadster-2014",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2888",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2014 Lamborghini Gallardo",
-        "price": "1488 - 1488",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2014"
+        "model_name": "Lamborghini Gallardo",
+        "year": 2014,
+        "price_range": "1488 - 1488",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2014",
+        "variants": [
+            {
+                "trim_name": "LP 560-4 Coupe",
+                "price": "1488",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2014 Lamborghini Huracan",
-        "price": "1508 - 1508",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2014"
+        "model_name": "Lamborghini Huracan",
+        "year": 2014,
+        "price_range": "1508 - 1508",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-huracan-2014",
+        "variants": [
+            {
+                "trim_name": "LP 610-4 Coupe",
+                "price": "1508",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "610hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2013 Lamborghini Aventador",
-        "price": "2538 - 2538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2013"
+        "model_name": "Lamborghini Aventador",
+        "year": 2013,
+        "price_range": "2538 - 2538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2013",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2538",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2013 Lamborghini Gallardo",
-        "price": "1488 - 1588",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2013"
+        "model_name": "Lamborghini Gallardo",
+        "year": 2013,
+        "price_range": "1488 - 1588",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2013",
+        "variants": [
+            {
+                "trim_name": "LP 560-4 Coupe",
+                "price": "1488",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 560-4 Spyder",
+                "price": "1588",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2012 Lamborghini Aventador",
-        "price": "2538 - 2538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2012"
+        "model_name": "Lamborghini Aventador",
+        "year": 2012,
+        "price_range": "2538 - 2538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2012",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2538",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2012 Lamborghini Gallardo",
-        "price": "1388 - 1828",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2012"
+        "model_name": "Lamborghini Gallardo",
+        "year": 2012,
+        "price_range": "1388 - 1828",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2012",
+        "variants": [
+            {
+                "trim_name": "LP 550-2 Coupe",
+                "price": "1388",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "550hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 550-2 Tricolore Coupe",
+                "price": "1399",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "550hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 560-4 Bicore Coupe",
+                "price": "1538",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 560-4 Coupe",
+                "price": "1538",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 560-4 Spyder",
+                "price": "1638",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 570-4 Superleggera Coupe",
+                "price": "1688",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "570hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 570-4 Spyder Performante",
+                "price": "1780",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "570hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 570-4 Super Trofeo Stradale Coupe",
+                "price": "1828",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "570hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2011 Lamborghini Aventador",
-        "price": "2538 - 2538",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2011"
+        "model_name": "Lamborghini Aventador",
+        "year": 2011,
+        "price_range": "2538 - 2538",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-aventador-2011",
+        "variants": [
+            {
+                "trim_name": "LP 700-4",
+                "price": "2538",
+                "body_type": "2門 2人座",
+                "engine_cc": "6498cc",
+                "horsepower": "700hp@8250rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2011 Lamborghini Gallardo",
-        "price": "1388 - 1780",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2011"
+        "model_name": "Lamborghini Gallardo",
+        "year": 2011,
+        "price_range": "1388 - 1780",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2011",
+        "variants": [
+            {
+                "trim_name": "LP 550-2 Coupe",
+                "price": "1388",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "550hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 550-2 Tricolore Coupe",
+                "price": "1399",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "550hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 560-4 Coupe",
+                "price": "1538",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 560-4 Bicore Coupe",
+                "price": "1538",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 560-4 Spyder",
+                "price": "1638",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 570-4 Superleggera Coupe",
+                "price": "1688",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "570hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP 570-4 Spyder Performante",
+                "price": "1780",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "570hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2010 Lamborghini Gallardo",
-        "price": "1338 - 1688",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2010"
+        "model_name": "Lamborghini Gallardo",
+        "year": 2010,
+        "price_range": "1338 - 1688",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2010",
+        "variants": [
+            {
+                "trim_name": "LP550-2 Coupe",
+                "price": "1338",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "550hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP550-2 AD",
+                "price": "1388",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "550hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP560-4 Coupe",
+                "price": "1488",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP560-4 Spyder",
+                "price": "1588",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP570-4 Superleggera",
+                "price": "1688",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "570hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2010 Lamborghini Murcielago",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-murcielago-2010"
+        "model_name": "Lamborghini Murcielago",
+        "year": 2010,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-murcielago-2010",
+        "variants": [
+            {
+                "trim_name": "LP670-4 SuperVeloce",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2010 Lamborghini Reventon",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-reventon-2010"
+        "model_name": "Lamborghini Reventon",
+        "year": 2010,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-reventon-2010",
+        "variants": [
+            {
+                "trim_name": "Roadster",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "6496cc",
+                "horsepower": "670hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Lamborghini",
-        "model": "2009 Lamborghini Gallardo",
-        "price": "1488 - 1588",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2009"
+        "model_name": "Lamborghini Gallardo",
+        "year": 2009,
+        "price_range": "1488 - 1588",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lamborghini-gallardo-2009",
+        "variants": [
+            {
+                "trim_name": "LP560-4",
+                "price": "1488",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "LP560-4 Spyder",
+                "price": "1588",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "560hp@8000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

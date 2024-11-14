@@ -1,566 +1,1992 @@
 [
     {
         "brand": "Suzuki",
-        "model": "2024 Suzuki Ignis",
-        "price": "69.5 - 69.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2024"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2024 Suzuki Jimny",
-        "price": "84.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2024"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2024 Suzuki Swift",
-        "price": "73 - 73",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2024"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2024 Suzuki SX4 S-Cross",
-        "price": "98 - 114",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-s-cross-2024"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2024 Suzuki Vitara",
-        "price": "94 - 104",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2024"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2023 Suzuki Ignis",
-        "price": "69.5 - 69.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2023"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2023 Suzuki Jimny",
-        "price": "84.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimmny-2023"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2023 Suzuki Swift",
-        "price": "72 - 82",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2023"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2023 Suzuki SX4 S-Cross",
-        "price": "98 - 114",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-s-cross-2023"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2023 Suzuki Vitara",
-        "price": "94 - 104",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2023"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2022 Suzuki Ignis",
-        "price": "69.5 - 69.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2022"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2022 Suzuki Jimny",
-        "price": "84.9 - 84.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimmny-2022"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2022 Suzuki Swift",
-        "price": "72 - 82",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2022"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2022 Suzuki Vitara",
-        "price": "94 - 104",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2022"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2021 Suzuki Ignis",
-        "price": "69.5 - 69.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2021"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2021 Suzuki Jimny",
-        "price": "79.8 - 79.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2021"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2021 Suzuki Swift",
-        "price": "72 - 82",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2021"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2021 Suzuki SX4",
-        "price": "89 - 89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2021"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2021 Suzuki Vitara",
-        "price": "87 - 92",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2021"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2020 Suzuki Baleno",
-        "price": "70.8 - 70.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2020"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2020 Suzuki Ignis",
-        "price": "63.8 - 63.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2020"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2020 Suzuki Jimny",
-        "price": "74.8 - 74.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2020"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2020 Suzuki Swift",
-        "price": "67.9 - 67.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2020"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2020 Suzuki SX4",
-        "price": "86.8 - 86.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2020"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2020 Suzuki Vitara",
-        "price": "78 - 92",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2020"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2019 Suzuki Baleno",
-        "price": "70.8 - 70.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2019"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2019 Suzuki Ignis",
-        "price": "63.8 - 63.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2019"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2019 Suzuki Jimny",
-        "price": "74.8 - 74.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2019"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2019 Suzuki Swift",
-        "price": "67.9 - 81.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2019"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2019 Suzuki SX4",
-        "price": "86.8 - 86.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2019"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2019 Suzuki Vitara",
-        "price": "76.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2019"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2019 Suzuki Vitara(NEW)",
-        "price": "78 - 92",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara%28new%29-2019"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2018 Suzuki Baleno",
-        "price": "69.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2018"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2018 Suzuki Ignis",
-        "price": "62.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2018"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2018 Suzuki Swift",
-        "price": "66.9 - 80.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2018"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2018 Suzuki SX4",
-        "price": "85.8 - 85.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2018"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2018 Suzuki Vitara",
-        "price": "76.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2018"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2017 Suzuki Baleno",
-        "price": "69.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2017"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2017 Suzuki Ignis",
-        "price": "62.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2017"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2017 Suzuki Jimny",
-        "price": "64.8 - 64.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2017"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2017 Suzuki Swift",
-        "price": "57.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2017"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2017 Suzuki SX4",
-        "price": "85.8 - 85.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2017"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2017 Suzuki SX4 Crossover",
-        "price": "78.5 - 89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2017"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2017 Suzuki Vitara",
-        "price": "76.8 - 89.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2017"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2016 Suzuki Grand Vitara JP",
-        "price": "103.8 - 103.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2016"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2016 Suzuki Jimny",
-        "price": "64.8 - 64.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2016"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2016 Suzuki Swift",
-        "price": "57.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2016"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2016 Suzuki SX4 Crossover",
-        "price": "78.5 - 89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2016"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2015 Suzuki Grand Vitara JP",
-        "price": "103.8 - 103.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2015"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2015 Suzuki Jimny",
-        "price": "64.8 - 64.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2015"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2015 Suzuki Swift",
-        "price": "57.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2015"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2015 Suzuki SX4 Crossover",
-        "price": "78.5 - 89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2015"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2014 Suzuki Alto",
-        "price": "46.8 - 46.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2014"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2014 Suzuki Grand Vitara JP",
-        "price": "103.8 - 103.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2014"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2014 Suzuki Jimny",
-        "price": "64.8 - 64.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2014"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2014 Suzuki Swift",
-        "price": "57.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2014"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2014 Suzuki SX4",
-        "price": "69.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2014"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2014 Suzuki SX4 Crossover",
-        "price": "78.5 - 89",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2014"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2013 Suzuki Alto",
-        "price": "46.8 - 46.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2013"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2013 Suzuki Grand Vitara JP",
-        "price": "103.8 - 103.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2013"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2013 Suzuki Jimny",
-        "price": "64.8 - 64.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2013"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2013 Suzuki Super Carry",
-        "price": "46.8 - 46.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2013"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2013 Suzuki Swift",
-        "price": "59.8 - 79.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2013"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2013 Suzuki SX4",
-        "price": "69.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2013"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2012 Suzuki Alto",
-        "price": "46.8 - 46.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2012"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2012 Suzuki Grand Vitara JP",
-        "price": "103.8 - 103.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2012"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2012 Suzuki Jimny",
-        "price": "64.8 - 64.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2012"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2012 Suzuki Super Carry",
-        "price": "46.8 - 46.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2012"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2012 Suzuki Swift",
-        "price": "59.8 - 79.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2012"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2012 Suzuki SX4",
-        "price": "69.8 - 69.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2012"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2011 Suzuki Alto",
-        "price": "45.9 - 45.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2011"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2011 Suzuki Grand Vitara JP",
-        "price": "102.5 - 102.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2011"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2011 Suzuki Jimny",
-        "price": "63.5 - 63.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2011"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2011 Suzuki Super Carry",
-        "price": "46 - 46",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2011"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2011 Suzuki Swift",
-        "price": "58.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2011"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2011 Suzuki SX4",
-        "price": "67.5 - 67.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2011"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2010 Suzuki Alto",
-        "price": "44.8 - 44.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2010"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2010 Suzuki Grand Vitara JP",
-        "price": "99.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2010"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2010 Suzuki Jimny",
-        "price": "61.5 - 61.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2010"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2010 Suzuki Super Carry",
-        "price": "45 - 45",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2010"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2010 Suzuki SX-4 Hatchback",
-        "price": "65.8 - 65.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx-4-hatchback-2010"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2010 Suzuki SX-4 Sedan",
-        "price": "56.8 - 64.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx-4-sedan-2010"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2009 Suzuki Grand Vitara JP",
-        "price": "99.8 - 99.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2009"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2009 Suzuki Jimny",
-        "price": "61.5 - 61.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2009"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2009 Suzuki Solio",
-        "price": "45.8 - 49.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-solio-2009"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2009 Suzuki Super Carry",
-        "price": "45 - 45",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2009"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2009 Suzuki Swift",
-        "price": "54.8 - 59.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2009"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2009 Suzuki SX4",
-        "price": "56.8 - 65.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2009"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2008 Suzuki Grand Vitara",
-        "price": "62.8 - 85.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-2008"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2008 Suzuki Grand Vitara JP",
-        "price": "91.5 - 104.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2008"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2008 Suzuki Jimny",
-        "price": "62.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2008"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2008 Suzuki Solio",
-        "price": "43.8 - 46.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-solio-2008"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2008 Suzuki Swift",
-        "price": "51.8 - 56.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2008"
-    },
-    {
-        "brand": "Suzuki",
-        "model": "2008 Suzuki SX4",
-        "price": "62.8 - 62.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2008"
+        "model_name": "Suzuki Ignis",
+        "year": 2024,
+        "price_range": "69.5 - 69.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2024",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "69.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "83hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2024,
+        "price_range": "84.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2024",
+        "variants": [
+            {
+                "trim_name": "1.5 GLX",
+                "price": "84.9",
+                "body_type": "3門 4人座",
+                "engine_cc": "1462cc",
+                "horsepower": "102hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2024,
+        "price_range": "73 - 73",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2024",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "73",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "82hp@5700rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4 S-Cross",
+        "year": 2024,
+        "price_range": "98 - 114",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-s-cross-2024",
+        "variants": [
+            {
+                "trim_name": "2WD",
+                "price": "98",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "AllGrip",
+                "price": "114",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2024,
+        "price_range": "94 - 104",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2024",
+        "variants": [
+            {
+                "trim_name": "S",
+                "price": "94",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "104",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Ignis",
+        "year": 2023,
+        "price_range": "69.5 - 69.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2023",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "69.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "83hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2023,
+        "price_range": "84.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimmny-2023",
+        "variants": [
+            {
+                "trim_name": "1.5 GLX",
+                "price": "84.9",
+                "body_type": "3門 4人座",
+                "engine_cc": "1462cc",
+                "horsepower": "102hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2023,
+        "price_range": "72 - 82",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2023",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "72",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "83hp@6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "82",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4 S-Cross",
+        "year": 2023,
+        "price_range": "98 - 114",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-s-cross-2023",
+        "variants": [
+            {
+                "trim_name": "2WD",
+                "price": "98",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "AllGrip",
+                "price": "114",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2023,
+        "price_range": "94 - 104",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2023",
+        "variants": [
+            {
+                "trim_name": "S",
+                "price": "94",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "104",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Ignis",
+        "year": 2022,
+        "price_range": "69.5 - 69.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2022",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "69.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "83hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2022,
+        "price_range": "84.9 - 84.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimmny-2022",
+        "variants": [
+            {
+                "trim_name": "1.5 GLX",
+                "price": "84.9",
+                "body_type": "3門 4人座",
+                "engine_cc": "1462cc",
+                "horsepower": "102hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2022,
+        "price_range": "72 - 82",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2022",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "72",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "83hp@6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "82",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2022,
+        "price_range": "94 - 104",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2022",
+        "variants": [
+            {
+                "trim_name": "S",
+                "price": "94",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "104",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Ignis",
+        "year": 2021,
+        "price_range": "69.5 - 69.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2021",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "69.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "83hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2021,
+        "price_range": "79.8 - 79.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2021",
+        "variants": [
+            {
+                "trim_name": "1.5 GLX",
+                "price": "79.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1462cc",
+                "horsepower": "102hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2021,
+        "price_range": "72 - 82",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2021",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "72",
+                "body_type": "5門 5人座",
+                "engine_cc": "1197cc",
+                "horsepower": "83hp@6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "82",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "129.2hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2021,
+        "price_range": "89 - 89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2021",
+        "variants": [
+            {
+                "trim_name": "1.4 GLX",
+                "price": "89",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2021,
+        "price_range": "87 - 92",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2021",
+        "variants": [
+            {
+                "trim_name": "S",
+                "price": "87",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "92",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Baleno",
+        "year": 2020,
+        "price_range": "70.8 - 70.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2020",
+        "variants": [
+            {
+                "trim_name": "1.0 GLX",
+                "price": "70.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "111hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Ignis",
+        "year": 2020,
+        "price_range": "63.8 - 63.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2020",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "63.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "91hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2020,
+        "price_range": "74.8 - 74.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2020",
+        "variants": [
+            {
+                "trim_name": "1.5 GLX",
+                "price": "74.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1462cc",
+                "horsepower": "102hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2020,
+        "price_range": "67.9 - 67.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2020",
+        "variants": [
+            {
+                "trim_name": "1.0 GLX",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "111hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2020,
+        "price_range": "86.8 - 86.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2020",
+        "variants": [
+            {
+                "trim_name": "1.4 GLX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2020,
+        "price_range": "78 - 92",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2020",
+        "variants": [
+            {
+                "trim_name": "GLX",
+                "price": "78",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "119hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "87",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "92",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Baleno",
+        "year": 2019,
+        "price_range": "70.8 - 70.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2019",
+        "variants": [
+            {
+                "trim_name": "1.0 GLX",
+                "price": "70.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "111hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Ignis",
+        "year": 2019,
+        "price_range": "63.8 - 63.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2019",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "63.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "91hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2019,
+        "price_range": "74.8 - 74.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2019",
+        "variants": [
+            {
+                "trim_name": "1.5 GLX",
+                "price": "74.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1462cc",
+                "horsepower": "102hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2019,
+        "price_range": "67.9 - 81.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2019",
+        "variants": [
+            {
+                "trim_name": "1.0 GLX",
+                "price": "67.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "111hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "81.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2019,
+        "price_range": "86.8 - 86.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2019",
+        "variants": [
+            {
+                "trim_name": "1.4 GLX",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2019,
+        "price_range": "76.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2019",
+        "variants": [
+            {
+                "trim_name": "GLX",
+                "price": "76.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "119hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara(NEW)",
+        "year": 2019,
+        "price_range": "78 - 92",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara%28new%29-2019",
+        "variants": [
+            {
+                "trim_name": "GLX",
+                "price": "78",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "119hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "87",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "92",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Baleno",
+        "year": 2018,
+        "price_range": "69.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2018",
+        "variants": [
+            {
+                "trim_name": "1.0 GLX",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "111hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Ignis",
+        "year": 2018,
+        "price_range": "62.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2018",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "91hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2018,
+        "price_range": "66.9 - 80.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2018",
+        "variants": [
+            {
+                "trim_name": "1.0 GLX",
+                "price": "66.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "111hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Sport",
+                "price": "80.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2018,
+        "price_range": "85.8 - 85.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2018",
+        "variants": [
+            {
+                "trim_name": "1.4 GLX",
+                "price": "85.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2018,
+        "price_range": "76.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2018",
+        "variants": [
+            {
+                "trim_name": "GLX",
+                "price": "76.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "119hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Baleno",
+        "year": 2017,
+        "price_range": "69.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-baleno-2017",
+        "variants": [
+            {
+                "trim_name": "1.0 GLX",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "998cc",
+                "horsepower": "111hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Ignis",
+        "year": 2017,
+        "price_range": "62.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-ignis-2017",
+        "variants": [
+            {
+                "trim_name": "1.2 GLX",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "91hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2017,
+        "price_range": "64.8 - 64.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2017",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "64.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1328cc",
+                "horsepower": "84.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2017,
+        "price_range": "57.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2017",
+        "variants": [
+            {
+                "trim_name": "1.2 GL",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2 GLX",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2017,
+        "price_range": "85.8 - 85.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2017",
+        "variants": [
+            {
+                "trim_name": "1.4 GLX",
+                "price": "85.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4 Crossover",
+        "year": 2017,
+        "price_range": "78.5 - 89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2017",
+        "variants": [
+            {
+                "trim_name": "1.6 GL Plus",
+                "price": "78.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GLX",
+                "price": "89",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Vitara",
+        "year": 2017,
+        "price_range": "76.8 - 89.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-vitara-2017",
+        "variants": [
+            {
+                "trim_name": "GLX",
+                "price": "76.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "119hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S AllGrip",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1373cc",
+                "horsepower": "140hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2016,
+        "price_range": "103.8 - 103.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2016",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2016,
+        "price_range": "64.8 - 64.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2016",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "64.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1328cc",
+                "horsepower": "84.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2016,
+        "price_range": "57.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2016",
+        "variants": [
+            {
+                "trim_name": "1.2 GL",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2 GLX",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4 Crossover",
+        "year": 2016,
+        "price_range": "78.5 - 89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2016",
+        "variants": [
+            {
+                "trim_name": "1.6 GL Plus",
+                "price": "78.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GLX",
+                "price": "89",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2015,
+        "price_range": "103.8 - 103.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2015",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2015,
+        "price_range": "64.8 - 64.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2015",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "64.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1328cc",
+                "horsepower": "84.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2015,
+        "price_range": "57.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2015",
+        "variants": [
+            {
+                "trim_name": "1.2 GL",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2 GLX",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4 Crossover",
+        "year": 2015,
+        "price_range": "78.5 - 89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2015",
+        "variants": [
+            {
+                "trim_name": "1.6 GL Plus",
+                "price": "78.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GLX",
+                "price": "89",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Alto",
+        "year": 2014,
+        "price_range": "46.8 - 46.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2014",
+        "variants": [
+            {
+                "trim_name": "1.0",
+                "price": "46.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "996cc",
+                "horsepower": "67.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2014,
+        "price_range": "103.8 - 103.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2014",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2014,
+        "price_range": "64.8 - 64.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2014",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "64.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1328cc",
+                "horsepower": "84.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2014,
+        "price_range": "57.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2014",
+        "variants": [
+            {
+                "trim_name": "1.2 GL",
+                "price": "57.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.2 GLX",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1242cc",
+                "horsepower": "93.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2014,
+        "price_range": "69.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2014",
+        "variants": [
+            {
+                "trim_name": "1.6 GLX",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "119.6hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4 Crossover",
+        "year": 2014,
+        "price_range": "78.5 - 89",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-crossover-2014",
+        "variants": [
+            {
+                "trim_name": "1.6 GL Plus",
+                "price": "78.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GLX",
+                "price": "89",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "118hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Alto",
+        "year": 2013,
+        "price_range": "46.8 - 46.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2013",
+        "variants": [
+            {
+                "trim_name": "1.0",
+                "price": "46.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "996cc",
+                "horsepower": "67.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2013,
+        "price_range": "103.8 - 103.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2013",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2013,
+        "price_range": "64.8 - 64.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2013",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "64.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1328cc",
+                "horsepower": "84.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Super Carry",
+        "year": 2013,
+        "price_range": "46.8 - 46.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2013",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "46.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1590cc",
+                "horsepower": "92.4hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2013,
+        "price_range": "59.8 - 79.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2013",
+        "variants": [
+            {
+                "trim_name": "1.4 GL",
+                "price": "59.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1372cc",
+                "horsepower": "95.1hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 GLX",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1372cc",
+                "horsepower": "95.1hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Sport",
+                "price": "79.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "135.9hp@6900rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2013,
+        "price_range": "69.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2013",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "119.6hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Alto",
+        "year": 2012,
+        "price_range": "46.8 - 46.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2012",
+        "variants": [
+            {
+                "trim_name": "1.0",
+                "price": "46.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "996cc",
+                "horsepower": "67.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2012,
+        "price_range": "103.8 - 103.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2012",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2012,
+        "price_range": "64.8 - 64.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2012",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "64.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1328cc",
+                "horsepower": "84.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Super Carry",
+        "year": 2012,
+        "price_range": "46.8 - 46.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2012",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "46.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1590cc",
+                "horsepower": "92.4hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2012,
+        "price_range": "59.8 - 79.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2012",
+        "variants": [
+            {
+                "trim_name": "1.4 GL",
+                "price": "59.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1372cc",
+                "horsepower": "95.1hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 GLX",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1372cc",
+                "horsepower": "95.1hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 Sport",
+                "price": "79.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "135.9hp@6900rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2012,
+        "price_range": "69.8 - 69.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2012",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "111.4hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Alto",
+        "year": 2011,
+        "price_range": "45.9 - 45.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2011",
+        "variants": [
+            {
+                "trim_name": "1.0",
+                "price": "45.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "996cc",
+                "horsepower": "67.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2011,
+        "price_range": "102.5 - 102.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2011",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "102.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2011,
+        "price_range": "63.5 - 63.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2011",
+        "variants": [
+            {
+                "trim_name": "1.3",
+                "price": "63.5",
+                "body_type": "3門 4人座",
+                "engine_cc": "1328cc",
+                "horsepower": "84.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Super Carry",
+        "year": 2011,
+        "price_range": "46 - 46",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2011",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "46",
+                "body_type": "2門 2人座",
+                "engine_cc": "1590cc",
+                "horsepower": "92.4hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2011,
+        "price_range": "58.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2011",
+        "variants": [
+            {
+                "trim_name": "1.4 GL",
+                "price": "58.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1372cc",
+                "horsepower": "95.1hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.4 GLX",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1372cc",
+                "horsepower": "95.1hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2011,
+        "price_range": "67.5 - 67.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2011",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "67.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "111.4hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Alto",
+        "year": 2010,
+        "price_range": "44.8 - 44.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-alto-2010",
+        "variants": [
+            {
+                "trim_name": "1.0",
+                "price": "44.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "996cc",
+                "horsepower": "67.9hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2010,
+        "price_range": "99.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2010",
+        "variants": [
+            {
+                "trim_name": "2.4",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2010,
+        "price_range": "61.5 - 61.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2010",
+        "variants": [
+            {
+                "trim_name": "1.5",
+                "price": "61.5",
+                "body_type": "3門 4人座",
+                "engine_cc": "1298cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Super Carry",
+        "year": 2010,
+        "price_range": "45 - 45",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2010",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "45",
+                "body_type": "2門 2人座",
+                "engine_cc": "1590cc",
+                "horsepower": "92.4hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX-4 Hatchback",
+        "year": 2010,
+        "price_range": "65.8 - 65.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx-4-hatchback-2010",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "65.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "107hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX-4 Sedan",
+        "year": 2010,
+        "price_range": "56.8 - 64.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx-4-sedan-2010",
+        "variants": [
+            {
+                "trim_name": "GL",
+                "price": "56.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "107hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLX",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "107hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2009,
+        "price_range": "99.8 - 99.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2009",
+        "variants": [
+            {
+                "trim_name": "2.4 JLX",
+                "price": "99.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2393cc",
+                "horsepower": "165.8hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2009,
+        "price_range": "61.5 - 61.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2009",
+        "variants": [
+            {
+                "trim_name": "1.5",
+                "price": "61.5",
+                "body_type": "3門 4人座",
+                "engine_cc": "1298cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Solio",
+        "year": 2009,
+        "price_range": "45.8 - 49.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-solio-2009",
+        "variants": [
+            {
+                "trim_name": "1.3 超值型",
+                "price": "45.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1328cc",
+                "horsepower": "94hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.3 豪華型",
+                "price": "49.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1328cc",
+                "horsepower": "94hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Super Carry",
+        "year": 2009,
+        "price_range": "45 - 45",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-super-carry-2009",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "45",
+                "body_type": "2門 2人座",
+                "engine_cc": "1590cc",
+                "horsepower": "92.4hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2009,
+        "price_range": "54.8 - 59.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2009",
+        "variants": [
+            {
+                "trim_name": "GL",
+                "price": "54.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "101hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLX",
+                "price": "58.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "101hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLX+",
+                "price": "59.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "101hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2009,
+        "price_range": "56.8 - 65.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2009",
+        "variants": [
+            {
+                "trim_name": "1.6 GL",
+                "price": "56.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "107hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 GLX",
+                "price": "64.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "107hp@5600rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 5D",
+                "price": "65.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "107hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara",
+        "year": 2008,
+        "price_range": "62.8 - 85.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 2WD標準版",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 2WD精裝版",
+                "price": "69.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 4WD標準版",
+                "price": "71.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 4WD精裝版",
+                "price": "77.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1995cc",
+                "horsepower": "128hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 4WD標準版",
+                "price": "80.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2493cc",
+                "horsepower": "144hp@6200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.5 4WD精裝版",
+                "price": "85.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2493cc",
+                "horsepower": "144hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Grand Vitara JP",
+        "year": 2008,
+        "price_range": "91.5 - 104.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-grand-vitara-jp-2008",
+        "variants": [
+            {
+                "trim_name": "2.7 GL",
+                "price": "91.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2736cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.7 GLX",
+                "price": "104.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2736cc",
+                "horsepower": "188hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Jimny",
+        "year": 2008,
+        "price_range": "62.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-jimny-2008",
+        "variants": [
+            {
+                "trim_name": "1.5",
+                "price": "62.8",
+                "body_type": "3門 4人座",
+                "engine_cc": "1298cc",
+                "horsepower": "85hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Solio",
+        "year": 2008,
+        "price_range": "43.8 - 46.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-solio-2008",
+        "variants": [
+            {
+                "trim_name": "1.3超值型",
+                "price": "43.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1328cc",
+                "horsepower": "94hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.3 GLX",
+                "price": "46.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1328cc",
+                "horsepower": "94hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki Swift",
+        "year": 2008,
+        "price_range": "51.8 - 56.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-swift-2008",
+        "variants": [
+            {
+                "trim_name": "GL",
+                "price": "51.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "101hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLX",
+                "price": "55.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "101hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GLX+",
+                "price": "56.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1490cc",
+                "horsepower": "101hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "model_name": "Suzuki SX4",
+        "year": 2008,
+        "price_range": "62.8 - 62.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/suzuki-sx4-2008",
+        "variants": [
+            {
+                "trim_name": "1.6",
+                "price": "62.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1586cc",
+                "horsepower": "107hp@5600rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

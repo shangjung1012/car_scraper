@@ -1,422 +1,3256 @@
 [
     {
         "brand": "Luxgen",
-        "model": "2024 Luxgen n7",
-        "price": "99.9 - 149.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-n7-2024"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2024 Luxgen U6",
-        "price": "75.8 - 83.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2024"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2024 Luxgen URX",
-        "price": "89.8 - 115.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2024"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2023 Luxgen U6",
-        "price": "74.8 - 82.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2023"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2023 Luxgen U6(NEW)",
-        "price": "75.8 - 86.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6%28new%29-2023"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2023 Luxgen URX",
-        "price": "89.8 - 115.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2023"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2022 Luxgen U6",
-        "price": "74.8 - 85.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2022"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2022 Luxgen URX",
-        "price": "84.8 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2022"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2021 Luxgen M7 Turbo ECO Hyper",
-        "price": "94.5 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2021"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2021 Luxgen U6",
-        "price": "74.8 - 82.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2021"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2021 Luxgen URX",
-        "price": "84.8 - 114.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2021"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2021 Luxgen V7 Turbo ECO Hyper",
-        "price": "107.9 - 116.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2021"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2020 Luxgen M7 Turbo ECO Hyper",
-        "price": "94.5 - 113.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2020"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2020 Luxgen S5",
-        "price": "69.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-2020"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2020 Luxgen U6",
-        "price": "83.5 - 101.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2020"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2020 Luxgen U7 Turbo ECO Hyper",
-        "price": "97.3 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-2020"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2020 Luxgen URX",
-        "price": "84.8 - 111.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2020"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2020 Luxgen V7 Turbo ECO Hyper",
-        "price": "107.9 - 116.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2020"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen M7 Turbo ECO Hyper",
-        "price": "91.5 - 127.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen S3",
-        "price": "55.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen S5",
-        "price": "69.9 - 89.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen S5 Turbo ECO Hyper",
-        "price": "65.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen U5",
-        "price": "65.9 - 79.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u5-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen U6",
-        "price": "77.9 - 101.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen U7 Turbo ECO Hyper",
-        "price": "97.3 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2019 Luxgen V7 Turbo ECO Hyper",
-        "price": "104.9 - 116.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2019"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2018 Luxgen M7 Turbo ECO Hyper",
-        "price": "87.2 - 130.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2018"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2018 Luxgen S3",
-        "price": "55.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2018"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2018 Luxgen S5 Turbo ECO Hyper",
-        "price": "65.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2018"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2018 Luxgen U5",
-        "price": "65.9 - 78.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u5-suv-2018"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2018 Luxgen U6",
-        "price": "77.9 - 101.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2018"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2018 Luxgen U7 Turbo ECO Hyper",
-        "price": "97.3 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2018"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2018 Luxgen V7 Turbo ECO Hyper",
-        "price": "104.9 - 116.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2018"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2017 Luxgen M7 Turbo ECO Hyper",
-        "price": "87.2 - 130.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2017"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2017 Luxgen S3",
-        "price": "54.9 - 71.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2017"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2017 Luxgen S5 Turbo ECO Hyper",
-        "price": "65.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2017"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2017 Luxgen U6 Turbo ECO Hyper",
-        "price": "76.2 - 96.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-eco-hyper-2017"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2017 Luxgen U7 Turbo ECO Hyper",
-        "price": "97.3 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2017"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2017 Luxgen V7 Turbo ECO Hyper",
-        "price": "104.9 - 116.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2017"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2016 Luxgen M7 Turbo ECO Hyper",
-        "price": "87.2 - 130.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2016"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2016 Luxgen S3",
-        "price": "54.9 - 68.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2016"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2016 Luxgen S5 Turbo ECO Hyper",
-        "price": "65.9 - 86.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2016"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2016 Luxgen U6 Turbo ECO Hyper",
-        "price": "76.2 - 96.2",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-eco-hyper-2016"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2016 Luxgen U7 Turbo ECO Hyper",
-        "price": "97.3 - 137.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2016"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2016 Luxgen V7 Turbo ECO Hyper",
-        "price": "104.9 - 116.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2016"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2015 Luxgen M7 Turbo",
-        "price": "84.5 - 129",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-2015"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2015 Luxgen M7 Turbo ECO Hyper",
-        "price": "86.9 - 129.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2015"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2015 Luxgen S5 Turbo",
-        "price": "64.6 - 85",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-2015"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2015 Luxgen U6 Turbo",
-        "price": "72.9 - 95.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-2015"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2015 Luxgen U6 Turbo ECO Hyper",
-        "price": "75.9 - 95.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-eco-hyper-2015"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2015 Luxgen U7 Turbo",
-        "price": "94 - 119.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-2015"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2015 Luxgen U7 Turbo ECO Hyper",
-        "price": "97 - 137.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2015"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2014 Luxgen M7 Turbo",
-        "price": "84.5 - 129",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-2014"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2014 Luxgen S5 Turbo",
-        "price": "64.6 - 85",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-2014"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2014 Luxgen U6 Turbo",
-        "price": "72.9 - 95.9",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-2014"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2014 Luxgen U7 Turbo",
-        "price": "94 - 119.5",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-2014"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2013 Luxgen 5 Sedan",
-        "price": "66 - 91",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-5-sedan-2013"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2013 Luxgen 7 CEO",
-        "price": "185 - 185",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-ceo-2013"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2013 Luxgen 7 MPV",
-        "price": "83 - 110",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2013"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2013 Luxgen 7 SUV",
-        "price": "87 - 127",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2013"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2012 Luxgen 5 Sedan",
-        "price": "69 - 91",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-5-sedan-2012"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2012 Luxgen 7 CEO",
-        "price": "168 - 168",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-ceo-2012"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2012 Luxgen 7 MPV",
-        "price": "83 - 110",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2012"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2012 Luxgen 7 SUV",
-        "price": "87 - 127",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2012"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2011 Luxgen 7 CEO",
-        "price": "165 - 165",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-ceo-2011"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2011 Luxgen 7 MPV",
-        "price": "82 - 109",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2011"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2011 Luxgen 7 SUV",
-        "price": "86 - 117",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2011"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2010 Luxgen 7 MPV",
-        "price": "79.8 - 106.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2010"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2010 Luxgen 7 SUV",
-        "price": "83.8 - 114.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2010"
-    },
-    {
-        "brand": "Luxgen",
-        "model": "2009 Luxgen 7 MPV",
-        "price": "79.8 - 106.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2009"
+        "model_name": "Luxgen n7",
+        "year": 2024,
+        "price_range": "99.9 - 149.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-n7-2024",
+        "variants": [
+            {
+                "trim_name": "\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u00155人純粹版",
+                "price": "99.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 505km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u00155人滿電特仕版",
+                "price": "103.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 505km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015LR 5人粹鍊版",
+                "price": "119.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 711km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015LR 5人粹鍊+版",
+                "price": "124.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 711km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u00155人亮點版",
+                "price": "129.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 505km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u00157人亮點版",
+                "price": "134.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "滿電續航 489km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015LR 5人亮點版",
+                "price": "144.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 664km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "LR \u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u0015\u0012\u0018\u0014\u0013\u00157人亮點版",
+                "price": "149.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "滿電續航 664km",
+                "horsepower": "230hp/34.7kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6",
+        "year": 2024,
+        "price_range": "75.8 - 83.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2024",
+        "variants": [
+            {
+                "trim_name": "Neo極智勁速版",
+                "price": "75.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo環景勁化版",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen URX",
+        "year": 2024,
+        "price_range": "89.8 - 115.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2024",
+        "variants": [
+            {
+                "trim_name": "Neo 5＋1樂活版",
+                "price": "89.8",
+                "body_type": "5門 6人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo 5人大生活家版",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo 7人樂活版",
+                "price": "99.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo 7人大生活家版",
+                "price": "115.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6",
+        "year": 2023,
+        "price_range": "74.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2023",
+        "variants": [
+            {
+                "trim_name": "GT智遊版",
+                "price": "74.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Aero",
+                "price": "82.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6(NEW)",
+        "year": 2023,
+        "price_range": "75.8 - 86.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6%28new%29-2023",
+        "variants": [
+            {
+                "trim_name": "Neo極智勁速版",
+                "price": "75.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo環景勁化版",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo  Rays勁階版",
+                "price": "86.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen URX",
+        "year": 2023,
+        "price_range": "89.8 - 115.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2023",
+        "variants": [
+            {
+                "trim_name": "Neo 5＋1樂活版",
+                "price": "89.8",
+                "body_type": "5門 6人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo 5人大生活家版",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo 7人樂活版",
+                "price": "99.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Neo 7人大生活家版",
+                "price": "115.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6",
+        "year": 2022,
+        "price_range": "74.8 - 85.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2022",
+        "variants": [
+            {
+                "trim_name": "GT智遊版",
+                "price": "74.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT藍調倍適版",
+                "price": "82.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT Aero",
+                "price": "85.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen URX",
+        "year": 2022,
+        "price_range": "84.8 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2022",
+        "variants": [
+            {
+                "trim_name": "5人ARD智行板",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5人ADAS極緻紳活版",
+                "price": "90.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5人WildFun",
+                "price": "92.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5＋1環景樂活版",
+                "price": "96.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5＋1全景樂活版",
+                "price": "96.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "7人健康樂活版",
+                "price": "100.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "7人全景樂活版",
+                "price": "100.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "7人旗艦紳活版",
+                "price": "113.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "7人WildFun",
+                "price": "113.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo ECO Hyper",
+        "year": 2021,
+        "price_range": "94.5 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2021",
+        "variants": [
+            {
+                "trim_name": "智能影音八人座",
+                "price": "94.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級旗艦七人座",
+                "price": "113.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6",
+        "year": 2021,
+        "price_range": "74.8 - 82.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2021",
+        "variants": [
+            {
+                "trim_name": "GT智遊特仕版",
+                "price": "74.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT AR好行版",
+                "price": "80.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT藍調倍適版",
+                "price": "82.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen URX",
+        "year": 2021,
+        "price_range": "84.8 - 114.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2021",
+        "variants": [
+            {
+                "trim_name": "五人ARD智行板",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5＋1樂活智行款",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "五人ADAS巡弋版",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "五人ADAS極緻紳活版",
+                "price": "94.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "五人AR環景款",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5＋1環景樂活版",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "7人健康樂活版",
+                "price": "98.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人ARD智行款",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人健康旗艦款",
+                "price": "111.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人旗艦紳活版",
+                "price": "114.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen V7 Turbo ECO Hyper",
+        "year": 2021,
+        "price_range": "107.9 - 116.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2021",
+        "variants": [
+            {
+                "trim_name": "智能影音型",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo ECO Hyper",
+        "year": 2020,
+        "price_range": "94.5 - 113.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2020",
+        "variants": [
+            {
+                "trim_name": "智能影音八人座",
+                "price": "94.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級旗艦七人座",
+                "price": "113.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5",
+        "year": 2020,
+        "price_range": "69.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-2020",
+        "variants": [
+            {
+                "trim_name": "GT經典款",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "205hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT女王款",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "205hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT智能款",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "205hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT225 AP賽道智能款",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "225hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6",
+        "year": 2020,
+        "price_range": "83.5 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2020",
+        "variants": [
+            {
+                "trim_name": "GT APA智駕版",
+                "price": "83.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT AR環景版",
+                "price": "89.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT220旗艦",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "222hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo ECO Hyper",
+        "year": 2020,
+        "price_range": "97.3 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-2020",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "97.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "120.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型7人座",
+                "price": "137.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen URX",
+        "year": 2020,
+        "price_range": "84.8 - 111.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-urx-2020",
+        "variants": [
+            {
+                "trim_name": "五人ARD智行款",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5＋1樂活智行款",
+                "price": "84.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "五人ADAS智駕款",
+                "price": "89.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "五人AR環景款",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5＋1樂活環景款",
+                "price": "94.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "五人旗艦款",
+                "price": "97.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "7人座樂活款",
+                "price": "99.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人ARD智行款",
+                "price": "99.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "七人旗艦款",
+                "price": "111.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen V7 Turbo ECO Hyper",
+        "year": 2020,
+        "price_range": "107.9 - 116.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2020",
+        "variants": [
+            {
+                "trim_name": "智能影音型",
+                "price": "107.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo ECO Hyper",
+        "year": 2019,
+        "price_range": "91.5 - 127.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2019",
+        "variants": [
+            {
+                "trim_name": "雅智八人座",
+                "price": "91.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "舒適八人座",
+                "price": "99.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華七人座",
+                "price": "101.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級旗艦七人座",
+                "price": "113.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級旗艦七人座(客車版)",
+                "price": "127.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S3",
+        "year": 2019,
+        "price_range": "55.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2019",
+        "variants": [
+            {
+                "trim_name": "1.6 3D安全經典版",
+                "price": "55.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 3D安全豪華版",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 APA智駕版",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 AR環景旗艦版",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5",
+        "year": 2019,
+        "price_range": "69.9 - 89.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-2019",
+        "variants": [
+            {
+                "trim_name": "GT經典款",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "205hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT女王款",
+                "price": "75.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "205hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT智能款",
+                "price": "76.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "205hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT225 AP賽道智能款",
+                "price": "89.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "225hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5 Turbo ECO Hyper",
+        "year": 2019,
+        "price_range": "65.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2019",
+        "variants": [
+            {
+                "trim_name": "1.8T雅緻型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T 3D安全經典型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T 3D安全尊爵型",
+                "price": "80.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T旗艦型",
+                "price": "86.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U5",
+        "year": 2019,
+        "price_range": "65.9 - 79.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u5-2019",
+        "variants": [
+            {
+                "trim_name": "1.6大屏幕版",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6智行版",
+                "price": "70.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 AR環景版",
+                "price": "73.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦Hi-Fi版",
+                "price": "76.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦Vogue+版",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6",
+        "year": 2019,
+        "price_range": "77.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2019",
+        "variants": [
+            {
+                "trim_name": "GT大屏幕版",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT APA智駕版",
+                "price": "83.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT AR環景版",
+                "price": "89.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT220",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "222hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT旗艦智駕版",
+                "price": "95.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT220旗艦",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "222hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo ECO Hyper",
+        "year": 2019,
+        "price_range": "97.3 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2019",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "97.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "120.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型7人座",
+                "price": "137.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen V7 Turbo ECO Hyper",
+        "year": 2019,
+        "price_range": "104.9 - 116.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2019",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo ECO Hyper",
+        "year": 2018,
+        "price_range": "87.2 - 130.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2018",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "87.2",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3D安全豪華型",
+                "price": "99.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3D安全尊爵型",
+                "price": "107.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "114.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型(客車版)",
+                "price": "128.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型大三排座椅(客車版)",
+                "price": "130.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S3",
+        "year": 2018,
+        "price_range": "55.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2018",
+        "variants": [
+            {
+                "trim_name": "1.6 3D安全經典版",
+                "price": "55.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 3D安全豪華版",
+                "price": "59.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 APA智駕版",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 AR環景旗艦版",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5 Turbo ECO Hyper",
+        "year": 2018,
+        "price_range": "65.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2018",
+        "variants": [
+            {
+                "trim_name": "1.8T雅緻型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T 3D安全經典型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T 3D安全尊爵型",
+                "price": "80.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T旗艦型",
+                "price": "86.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U5",
+        "year": 2018,
+        "price_range": "65.9 - 78.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u5-suv-2018",
+        "variants": [
+            {
+                "trim_name": "1.6大屏幕版",
+                "price": "65.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 APA智駕版",
+                "price": "69.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 AR環景版",
+                "price": "73.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦Hi-Fi版",
+                "price": "76.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦Vogue+版",
+                "price": "78.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "120hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6",
+        "year": 2018,
+        "price_range": "77.9 - 101.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-2018",
+        "variants": [
+            {
+                "trim_name": "GT大屏幕版",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT APA智駕版",
+                "price": "83.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT AR環景版",
+                "price": "89.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT220",
+                "price": "92.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "222hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT旗艦智駕版",
+                "price": "95.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "202hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT220旗艦",
+                "price": "101.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "222hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo ECO Hyper",
+        "year": 2018,
+        "price_range": "97.3 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2018",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "97.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "120.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型7人座",
+                "price": "137.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen V7 Turbo ECO Hyper",
+        "year": 2018,
+        "price_range": "104.9 - 116.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2018",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo ECO Hyper",
+        "year": 2017,
+        "price_range": "87.2 - 130.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2017",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "87.2",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3D安全豪華型",
+                "price": "99.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3D安全尊爵型",
+                "price": "107.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "114.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型(客車版)",
+                "price": "128.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型大三排座椅(客車版)",
+                "price": "130.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S3",
+        "year": 2017,
+        "price_range": "54.9 - 71.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2017",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "54.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6經典型",
+                "price": "58.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "61.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6 3D安全尊爵型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6撼動版旗艦型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5 Turbo ECO Hyper",
+        "year": 2017,
+        "price_range": "65.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2017",
+        "variants": [
+            {
+                "trim_name": "1.8T雅緻型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T 3D安全經典型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T 3D安全尊爵型",
+                "price": "80.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T旗艦型",
+                "price": "86.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6 Turbo ECO Hyper",
+        "year": 2017,
+        "price_range": "76.2 - 96.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-eco-hyper-2017",
+        "variants": [
+            {
+                "trim_name": "1.8時尚型",
+                "price": "76.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8經典型",
+                "price": "81.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "86.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 3D安全型",
+                "price": "89.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "91.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "96.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo ECO Hyper",
+        "year": 2017,
+        "price_range": "97.3 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2017",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "97.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "120.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型7人座",
+                "price": "137.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen V7 Turbo ECO Hyper",
+        "year": 2017,
+        "price_range": "104.9 - 116.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2017",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo ECO Hyper",
+        "year": 2016,
+        "price_range": "87.2 - 130.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2016",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "87.2",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "97.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "105.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "114.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型(客車版)",
+                "price": "128.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型大三排座椅(客車版)",
+                "price": "130.2",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S3",
+        "year": 2016,
+        "price_range": "54.9 - 68.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s3-2016",
+        "variants": [
+            {
+                "trim_name": "1.6雅緻型",
+                "price": "54.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6經典型",
+                "price": "58.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6豪華型",
+                "price": "61.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6尊爵型",
+                "price": "64.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.6旗艦型",
+                "price": "68.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1556cc",
+                "horsepower": "116hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5 Turbo ECO Hyper",
+        "year": 2016,
+        "price_range": "65.9 - 86.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-eco-hyper-2016",
+        "variants": [
+            {
+                "trim_name": "1.8T雅緻型",
+                "price": "65.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T經典型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8T尊爵型",
+                "price": "78.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0T旗艦型",
+                "price": "86.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6 Turbo ECO Hyper",
+        "year": 2016,
+        "price_range": "76.2 - 96.2",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-eco-hyper-2016",
+        "variants": [
+            {
+                "trim_name": "1.8時尚型",
+                "price": "76.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8經典型",
+                "price": "81.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "86.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "91.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "96.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo ECO Hyper",
+        "year": 2016,
+        "price_range": "97.3 - 137.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2016",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "97.3",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "103.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "120.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型7人座",
+                "price": "137.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen V7 Turbo ECO Hyper",
+        "year": 2016,
+        "price_range": "104.9 - 116.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-v7-turbo-eco-hyper-2016",
+        "variants": [
+            {
+                "trim_name": "尊爵型",
+                "price": "104.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "116.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo",
+        "year": 2015,
+        "price_range": "84.5 - 129",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-2015",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "84.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "精緻型(客車版)",
+                "price": "94",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "94.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "102.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "110",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型(客車版)",
+                "price": "127",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型大三排座椅(客車版)",
+                "price": "129",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo ECO Hyper",
+        "year": 2015,
+        "price_range": "86.9 - 129.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-eco-hyper-2015",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "86.9",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "96.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "104.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "111.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型(客車版)",
+                "price": "127.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型大三排座椅(客車版)",
+                "price": "129.9",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5 Turbo",
+        "year": 2015,
+        "price_range": "64.6 - 85",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-2015",
+        "variants": [
+            {
+                "trim_name": "1.8雅緻型",
+                "price": "64.6",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8經典型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0豪華型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8尊爵型",
+                "price": "76.6",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "85",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6 Turbo",
+        "year": 2015,
+        "price_range": "72.9 - 95.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-2015",
+        "variants": [
+            {
+                "trim_name": "1.8尊貴型",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0極致型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊爵型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6 Turbo ECO Hyper",
+        "year": 2015,
+        "price_range": "75.9 - 95.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-eco-hyper-2015",
+        "variants": [
+            {
+                "trim_name": "1.8時尚型",
+                "price": "75.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8經典型",
+                "price": "79.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8魅力型",
+                "price": "85.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "170hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0頂級型",
+                "price": "90.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "191hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo",
+        "year": 2015,
+        "price_range": "94 - 119.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-2015",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "94",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "100",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "112.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "119.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo ECO Hyper",
+        "year": 2015,
+        "price_range": "97 - 137.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-eco-hyper-2015",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "97",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "103.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "120.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型7人座",
+                "price": "137.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "202hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen M7 Turbo",
+        "year": 2014,
+        "price_range": "84.5 - 129",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-m7-turbo-2014",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "84.5",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "精緻型(客車版)",
+                "price": "94",
+                "body_type": "5門 8人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "94.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "102.5",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "110",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "113",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型(客車版)",
+                "price": "127",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型大三排座椅(客車版)",
+                "price": "129",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen S5 Turbo",
+        "year": 2014,
+        "price_range": "64.6 - 85",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-s5-turbo-2014",
+        "variants": [
+            {
+                "trim_name": "1.8雅緻型",
+                "price": "64.6",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8經典型",
+                "price": "69.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0豪華型",
+                "price": "71.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8尊爵型",
+                "price": "76.6",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "85",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U6 Turbo",
+        "year": 2014,
+        "price_range": "72.9 - 95.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u6-turbo-2014",
+        "variants": [
+            {
+                "trim_name": "1.8尊貴型",
+                "price": "72.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8豪華型",
+                "price": "77.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "150hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0極致型",
+                "price": "81.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊爵型",
+                "price": "88.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "95.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen U7 Turbo",
+        "year": 2014,
+        "price_range": "94 - 119.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-u7-turbo-2014",
+        "variants": [
+            {
+                "trim_name": "豪華型",
+                "price": "94",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "100",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "112.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4WD旗艦型",
+                "price": "119.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 5 Sedan",
+        "year": 2013,
+        "price_range": "66 - 91",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-5-sedan-2013",
+        "variants": [
+            {
+                "trim_name": "1.8手排型",
+                "price": "66",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8精緻型",
+                "price": "69",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8尊貴型",
+                "price": "73",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8 M+",
+                "price": "73",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0豪華型",
+                "price": "77",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8頂級型",
+                "price": "80",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊爵型",
+                "price": "84",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "91",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 CEO",
+        "year": 2013,
+        "price_range": "185 - 185",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-ceo-2013",
+        "variants": [
+            {
+                "trim_name": "2.2",
+                "price": "185",
+                "body_type": "5門 4人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 MPV",
+        "year": 2013,
+        "price_range": "83 - 110",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2013",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "83",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "93",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "101",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "107",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "110",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 SUV",
+        "year": 2013,
+        "price_range": "87 - 127",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2013",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "87",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "94",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "101",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型2WD",
+                "price": "111",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SPORTS+",
+                "price": "116",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型4WD",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型7人座",
+                "price": "127",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 5 Sedan",
+        "year": 2012,
+        "price_range": "69 - 91",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-5-sedan-2012",
+        "variants": [
+            {
+                "trim_name": "1.8精緻型",
+                "price": "69",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8尊貴型",
+                "price": "73",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0豪華型",
+                "price": "77",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.8頂級型",
+                "price": "80",
+                "body_type": "4門 5人座",
+                "engine_cc": "1798cc",
+                "horsepower": "154hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0尊爵型",
+                "price": "84",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0旗艦型",
+                "price": "91",
+                "body_type": "4門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "170hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 CEO",
+        "year": 2012,
+        "price_range": "168 - 168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-ceo-2012",
+        "variants": [
+            {
+                "trim_name": "2.2",
+                "price": "168",
+                "body_type": "5門 4人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 MPV",
+        "year": 2012,
+        "price_range": "83 - 110",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2012",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "83",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "93",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "101",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "107",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "110",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 SUV",
+        "year": 2012,
+        "price_range": "87 - 127",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2012",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "87",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "94",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "101",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型2WD",
+                "price": "111",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SPORTS+",
+                "price": "116",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型4WD",
+                "price": "118",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型7人座",
+                "price": "127",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 CEO",
+        "year": 2011,
+        "price_range": "165 - 165",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-ceo-2011",
+        "variants": [
+            {
+                "trim_name": "2.2",
+                "price": "165",
+                "body_type": "5門 4人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 MPV",
+        "year": 2011,
+        "price_range": "82 - 109",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2011",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "82",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "92",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "100",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "106",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "109",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 SUV",
+        "year": 2011,
+        "price_range": "86 - 117",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2011",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "86",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "93",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "100",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型2WD",
+                "price": "110",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SPORTS+",
+                "price": "115",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型4WD",
+                "price": "117",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 MPV",
+        "year": 2010,
+        "price_range": "79.8 - 106.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2010",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "79.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "89.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "97.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型",
+                "price": "103.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "106.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 SUV",
+        "year": 2010,
+        "price_range": "83.8 - 114.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-suv-2010",
+        "variants": [
+            {
+                "trim_name": "精緻型",
+                "price": "83.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型",
+                "price": "90.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型",
+                "price": "97.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型",
+                "price": "107.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型4WD",
+                "price": "114.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Luxgen",
+        "model_name": "Luxgen 7 MPV",
+        "year": 2009,
+        "price_range": "79.8 - 106.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/luxgen-7-mpv-2009",
+        "variants": [
+            {
+                "trim_name": "精緻型8人座",
+                "price": "79.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "豪華型7人座",
+                "price": "89.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "尊爵型7人座",
+                "price": "97.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "頂級型7人座",
+                "price": "103.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "旗艦型7人座",
+                "price": "106.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "2198cc",
+                "horsepower": "175hp@5200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]

@@ -1,80 +1,247 @@
 [
     {
         "brand": "Morgan",
-        "model": "2025 Morgan Plus Four",
-        "price": "529 - 529",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-four-2025"
+        "model_name": "Morgan Plus Four",
+        "year": 2025,
+        "price_range": "529 - 529",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-four-2025",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "529",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "255hp@4400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2025 Morgan Plus Six",
-        "price": "647 - 647",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2025"
+        "model_name": "Morgan Plus Six",
+        "year": 2025,
+        "price_range": "647 - 647",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2025",
+        "variants": [
+            {
+                "trim_name": "3.0",
+                "price": "647",
+                "body_type": "2門 2人座",
+                "engine_cc": "2998cc",
+                "horsepower": "335hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2024 Morgan Plus Four",
-        "price": "515 - 515",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-four-2024"
+        "model_name": "Morgan Plus Four",
+        "year": 2024,
+        "price_range": "515 - 515",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-four-2024",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "515",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "255hp@4400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2024 Morgan Plus Six",
-        "price": "653 - 653",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2024"
+        "model_name": "Morgan Plus Six",
+        "year": 2024,
+        "price_range": "653 - 653",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2024",
+        "variants": [
+            {
+                "trim_name": "3.0",
+                "price": "653",
+                "body_type": "2門 2人座",
+                "engine_cc": "2998cc",
+                "horsepower": "335hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2023 Morgan Plus Four",
-        "price": "495 - 495",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2023"
+        "model_name": "Morgan Plus Four",
+        "year": 2023,
+        "price_range": "495 - 495",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2023",
+        "variants": [
+            {
+                "trim_name": "2.0",
+                "price": "495",
+                "body_type": "2門 2人座",
+                "engine_cc": "1998cc",
+                "horsepower": "255hp@4400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2023 Morgan Plus Six",
-        "price": "618 - 618",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2023"
+        "model_name": "Morgan Plus Six",
+        "year": 2023,
+        "price_range": "618 - 618",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2023",
+        "variants": [
+            {
+                "trim_name": "3.0",
+                "price": "618",
+                "body_type": "2門 2人座",
+                "engine_cc": "2998cc",
+                "horsepower": "335hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2021 Morgan Plus Six",
-        "price": "618 - 618",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2021"
+        "model_name": "Morgan Plus Six",
+        "year": 2021,
+        "price_range": "618 - 618",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-six-2021",
+        "variants": [
+            {
+                "trim_name": "3.0",
+                "price": "618",
+                "body_type": "2門 2人座",
+                "engine_cc": "2998cc",
+                "horsepower": "335hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2017 Morgan Aero Coupe",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-aero-coupe-2017"
+        "model_name": "Morgan Aero Coupe",
+        "year": 2017,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-aero-coupe-2017",
+        "variants": [
+            {
+                "trim_name": "4.8 V8",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "4799cc",
+                "horsepower": "368hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2017 Morgan Plus 4",
-        "price": "0",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2017"
+        "model_name": "Morgan Plus 4",
+        "year": 2017,
+        "price_range": "0",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2017",
+        "variants": [
+            {
+                "trim_name": "2.0四座版",
+                "price": "售價未公布",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0雙座版",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2015 Morgan Aero Coupe",
-        "price": "888.8 - 888.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-aero-coupe-2015"
+        "model_name": "Morgan Aero Coupe",
+        "year": 2015,
+        "price_range": "888.8 - 888.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-aero-coupe-2015",
+        "variants": [
+            {
+                "trim_name": "4.8 V8",
+                "price": "888.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "4799cc",
+                "horsepower": "368hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2015 Morgan Plus 4",
-        "price": "298.8 - 318.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2015"
+        "model_name": "Morgan Plus 4",
+        "year": 2015,
+        "price_range": "298.8 - 318.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2015",
+        "variants": [
+            {
+                "trim_name": "2.0雙座版",
+                "price": "298.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0四座版",
+                "price": "318.8",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2014 Morgan Aero Coupe",
-        "price": "888.8 - 888.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-aero-coupe-2014"
+        "model_name": "Morgan Aero Coupe",
+        "year": 2014,
+        "price_range": "888.8 - 888.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-aero-coupe-2014",
+        "variants": [
+            {
+                "trim_name": "4.8 V8",
+                "price": "888.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "4799cc",
+                "horsepower": "368hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     },
     {
         "brand": "Morgan",
-        "model": "2014 Morgan Plus 4",
-        "price": "298.8 - 318.8",
-        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2014"
+        "model_name": "Morgan Plus 4",
+        "year": 2014,
+        "price_range": "298.8 - 318.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/morgan-plus-4-2014",
+        "variants": [
+            {
+                "trim_name": "2.0雙座版",
+                "price": "298.8",
+                "body_type": "2門 2人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0四座版",
+                "price": "318.8",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "154hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
     }
 ]
