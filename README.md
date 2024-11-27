@@ -7,10 +7,11 @@ car_scraper/
 │   ├── car_model.py        # Defines CarModel and CarVariant classes
 │   ├── scraper.py          # Contains scraping functions
 │   ├── saver.py            # Handles saving data to files
-│   ├── config.py           # Configuration settings
-│   └── utils.py            # Utility functions (if any)
+│   ├── loader.py           # Handles loading data from files
+│   └── config.py           # Configuration settings
 ├── logs/
-│   └── scraper.log         # Log file for recording scraper activities
+│   └── ...                 # Log file for recording scraper activities
 ├── requirements.txt        # List of Python dependencies
+├── load_data.py            # Script to load and display car data
 └── main.py                 # Entry point of the application
 ```
