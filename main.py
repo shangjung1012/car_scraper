@@ -6,7 +6,7 @@ import random
 from pathlib import Path
 from car_scraper.scraper import setup_session, get_car_brands, get_cars_of_brand
 from car_scraper.saver import save_brand_data
-from car_scraper.config import HEADERS, LOG_DIR, LOG_FILE
+from car_scraper.config import HEADERS, LOG_DIR, LOG_FILE_SCRAPER
 
 def setup_logging():
     """
@@ -19,7 +19,7 @@ def setup_logging():
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler(LOG_FILE, mode='w', encoding='utf-8'),
+            logging.FileHandler(LOG_FILE_SCRAPER, mode='w', encoding='utf-8'),
             logging.StreamHandler()  # Enable console logging
         ]
     )
