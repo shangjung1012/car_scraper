@@ -9,6 +9,17 @@ class CarVariant:
         self.horsepower = horsepower
         self.fuel_type = fuel_type
 
+    @classmethod
+    def from_dict(cls, data: dict):
+        return cls(
+            trim_name=data.get('trim_name'),
+            price=data.get('price'),
+            body_type=data.get('body_type'),
+            engine_cc=data.get('engine_cc'),
+            horsepower=data.get('horsepower'),
+            fuel_type=data.get('fuel_type')
+        )
+
     def to_dict(self):
         """
         Converts the CarVariant object into a dictionary for JSON serialization.
@@ -40,6 +51,20 @@ class CarModel:
 
     def add_variant(self, variant: CarVariant):
         self.variants.append(variant)
+
+    @classmethod
+    def from_dict(cls, data: dict):
+        car_model = cls(
+            brand=data.get('brand'),
+            model_name=data.get('model_name'),
+            year=data.get('year'),
+            price_range=data.get('price_range'),
+            url=data.get('url')
+        )
+        for variant_data in data.get('variants', []):
+            variant = CarVariant.from_dict(variant_data)
+            car_model.add_variant(variant)
+        return car_model
 
     def to_dict(self):
         """
