@@ -1,0 +1,3751 @@
+[
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Defender",
+        "year": 2025,
+        "price_range": "276 - 858",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-defender-2025",
+        "variants": [
+            {
+                "trim_name": "90 D300 S",
+                "price": "276",
+                "body_type": "3門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "90 D300  X-Dynamic HSE",
+                "price": "314",
+                "body_type": "3門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 D300 X-Dynamic SE",
+                "price": "317",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 D300 X-Dynamic HSE",
+                "price": "337",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 V8 OCTA",
+                "price": "788",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 V8 OCTA Edition One",
+                "price": "858",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "635hp@6000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2025,
+        "price_range": "357 - 357",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2025",
+        "variants": [
+            {
+                "trim_name": "D250 Dynamic SE 35th Edition",
+                "price": "357",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "D250 Dynamic SE",
+                "price": "357",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2025,
+        "price_range": "223 - 248",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2025",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "223",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 Dynamic SE",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 Dynamic SE 35th Edition",
+                "price": "248",
+                "body_type": "5門 7人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2025,
+        "price_range": "605 - 1013",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2025",
+        "variants": [
+            {
+                "trim_name": "D350 SE SWB",
+                "price": "605",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "350hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 SE SWB",
+                "price": "605",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE LWB",
+                "price": "672",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE 7-Seat LWB",
+                "price": "679",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Autobiography LWB",
+                "price": "742",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P615 SV SWB",
+                "price": "898",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "615hp@5855~7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P615 SV LWB",
+                "price": "1013",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "615hp@5855~7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2025,
+        "price_range": "234 - 268",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2025",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "234",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 Dynamic SE",
+                "price": "268",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2025,
+        "price_range": "389 - 730",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2025",
+        "variants": [
+            {
+                "trim_name": "D300黯影版",
+                "price": "389",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P635 SV Edition Two",
+                "price": "730",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "635hp@6000~7000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2025,
+        "price_range": "309 - 345",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2025",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "345",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Defender",
+        "year": 2024,
+        "price_range": "266 - 441",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-defender-2024",
+        "variants": [
+            {
+                "trim_name": "90 D300 S",
+                "price": "266",
+                "body_type": "3門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "90 D300  X-Dynamic HSE",
+                "price": "300",
+                "body_type": "3門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 D300 SE",
+                "price": "302",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 P300 X-Dynamic HSE",
+                "price": "312",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "110 D300 X-Dynamic HSE",
+                "price": "324",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "130 X P400",
+                "price": "441",
+                "body_type": "5門 8人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2024,
+        "price_range": "341 - 341",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2024",
+        "variants": [
+            {
+                "trim_name": "D250 Dynamic SE",
+                "price": "341",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2024,
+        "price_range": "228 - 248",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2024",
+        "variants": [
+            {
+                "trim_name": "P200 Dynamic SE",
+                "price": "228",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 Dynamic SE",
+                "price": "248",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2024,
+        "price_range": "597 - 988",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2024",
+        "variants": [
+            {
+                "trim_name": "D350 SE SWB",
+                "price": "597",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "350hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 SE SWB",
+                "price": "597",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE LWB",
+                "price": "641",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE 7-Seat LWB",
+                "price": "645",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Autobiography LWB",
+                "price": "709",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P615 SV SWB",
+                "price": "883",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "615hp@7000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P615 SV LWB",
+                "price": "988",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "615hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2024,
+        "price_range": "226 - 268",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2024",
+        "variants": [
+            {
+                "trim_name": "P200 R-Dynamic SE",
+                "price": "226",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "268",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2024,
+        "price_range": "462 - 474",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2024",
+        "variants": [
+            {
+                "trim_name": "D300 Dynamic SE",
+                "price": "462",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Dynamic SE",
+                "price": "474",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2024,
+        "price_range": "313 - 353",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2024",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "313",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "353",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Defender",
+        "year": 2023,
+        "price_range": "246 - 683",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-defender-2023",
+        "variants": [
+            {
+                "trim_name": "90 D250 S",
+                "price": "246",
+                "body_type": "3門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 D250 SE",
+                "price": "274",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 P300 HSE",
+                "price": "302",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "130 X P400",
+                "price": "446",
+                "body_type": "5門 8人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "90 V8 Carpathian Edition",
+                "price": "667",
+                "body_type": "3門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "525hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "110 V8 Carpathian Edition",
+                "price": "683",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "525hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2023,
+        "price_range": "340 - 366",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2023",
+        "variants": [
+            {
+                "trim_name": "D250 R-Dynamic SE",
+                "price": "340",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P300 R-Dynamic SE",
+                "price": "366",
+                "body_type": "5門 7人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2023,
+        "price_range": "203 - 236",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2023",
+        "variants": [
+            {
+                "trim_name": "P200 SE",
+                "price": "203",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "236",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2023,
+        "price_range": "597 - 945",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2023",
+        "variants": [
+            {
+                "trim_name": "P400 SE SWB",
+                "price": "597",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "D350 SE SWB",
+                "price": "597",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "350hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE LWB",
+                "price": "641",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE 7-Seat LWB",
+                "price": "645",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Autobiography LWB",
+                "price": "708",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P530 SV SWB",
+                "price": "845",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "530hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P530 SV LWB",
+                "price": "945",
+                "body_type": "5門 5人座",
+                "engine_cc": "4395cc",
+                "horsepower": "530hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2023,
+        "price_range": "219 - 262",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2022",
+        "variants": [
+            {
+                "trim_name": "P200 R-Dynamic S",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Pronze Collection",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "262",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2023,
+        "price_range": "459 - 471",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2023",
+        "variants": [
+            {
+                "trim_name": "D300 Dynamic SE",
+                "price": "459",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Dynamic SE",
+                "price": "471",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2023,
+        "price_range": "304 - 331",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2023",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "304",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P250 R-Dynamic S",
+                "price": "331",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Defender",
+        "year": 2022,
+        "price_range": "239 - 300",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-defender-2022",
+        "variants": [
+            {
+                "trim_name": "90 D250 S",
+                "price": "239",
+                "body_type": "3門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 D250 SE",
+                "price": "268",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 P300 HSE",
+                "price": "300",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2022,
+        "price_range": "329 - 357",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2022",
+        "variants": [
+            {
+                "trim_name": "D250 R-Dynamic SE",
+                "price": "329",
+                "body_type": "5門 7人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P300 R-Dynamic SE",
+                "price": "357",
+                "body_type": "5門 7人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2022,
+        "price_range": "203 - 236",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2022",
+        "variants": [
+            {
+                "trim_name": "P200 SE",
+                "price": "203",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "236",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2022,
+        "price_range": "414 - 1107",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2022",
+        "variants": [
+            {
+                "trim_name": "D300 HSE",
+                "price": "414",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Westminster",
+                "price": "555",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Autobiography LWB",
+                "price": "692",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "5.0 SVAutobiography Dynamic",
+                "price": "904",
+                "body_type": "5門 5人座",
+                "engine_cc": "5000cc",
+                "horsepower": "565hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SVAutobiography LWB",
+                "price": "1107",
+                "body_type": "5門 4人座",
+                "engine_cc": "5000cc",
+                "horsepower": "565hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2022,
+        "price_range": "219 - 262",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2022",
+        "variants": [
+            {
+                "trim_name": "P200 R-Dynamic S",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Pronze Collection",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "262",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2022,
+        "price_range": "371 - 702",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2022",
+        "variants": [
+            {
+                "trim_name": "P300 HSE",
+                "price": "371",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P400 HSE",
+                "price": "419",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE Dynamic",
+                "price": "483",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "SVR",
+                "price": "702",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "575hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2022,
+        "price_range": "295 - 321",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2022",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "295",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P250 R-Dynamic S",
+                "price": "321",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Defender",
+        "year": 2021,
+        "price_range": "267 - 300",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-defender-2021",
+        "variants": [
+            {
+                "trim_name": "110 D250 SE",
+                "price": "267",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "249hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "110 P300 HSE",
+                "price": "300",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2021,
+        "price_range": "205 - 238",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2021",
+        "variants": [
+            {
+                "trim_name": "P200 SE",
+                "price": "205",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "D200 SE",
+                "price": "220",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "204hp@3750rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "238",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2021,
+        "price_range": "417 - 1125",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2021",
+        "variants": [
+            {
+                "trim_name": "D300 HSE",
+                "price": "417",
+                "body_type": "5門 5人座",
+                "engine_cc": "2997cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Westminster",
+                "price": "555",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Autobiography LWB",
+                "price": "711",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVAutobiography Dynamic",
+                "price": "908",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "565hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVAutobiography LWB",
+                "price": "1125",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "565hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2021,
+        "price_range": "220 - 261",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2021",
+        "variants": [
+            {
+                "trim_name": "P200 R-Dynamic S",
+                "price": "220",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 SE",
+                "price": "242",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "261",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2021,
+        "price_range": "368 - 702",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2021",
+        "variants": [
+            {
+                "trim_name": "P300 HSE",
+                "price": "368",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P400 HSE",
+                "price": "416",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE Dynamic",
+                "price": "480",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "SVR",
+                "price": "702",
+                "body_type": "5門 5人座",
+                "engine_cc": "5000cc",
+                "horsepower": "575hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2021,
+        "price_range": "298 - 324",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2021",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "298",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P250 R-Dynamic S",
+                "price": "324",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2020,
+        "price_range": "347 - 409",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2020",
+        "variants": [
+            {
+                "trim_name": "P300 SE",
+                "price": "347",
+                "body_type": "5門 7人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SCV6 HSE",
+                "price": "406",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SDV6 HSE",
+                "price": "409",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2020,
+        "price_range": "199 - 233",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2020",
+        "variants": [
+            {
+                "trim_name": "P200 SE",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "D180 SE",
+                "price": "211",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "233",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2020,
+        "price_range": "413 - 1125",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2020",
+        "variants": [
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "413",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "275hp@4250rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "P400 Vogue",
+                "price": "548",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 Autobiography LWB",
+                "price": "711",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVAutobiography Dynamic",
+                "price": "908",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "565hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVAutobiography LWB",
+                "price": "1125",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "565hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2020,
+        "price_range": "215 - 280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2020",
+        "variants": [
+            {
+                "trim_name": "P200 R-Dynamic S",
+                "price": "215",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "200hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 SE",
+                "price": "238",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 R-Dynamic SE",
+                "price": "260",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P250 First Edition",
+                "price": "280",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "249hp@5500rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2020,
+        "price_range": "367 - 703",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2020",
+        "variants": [
+            {
+                "trim_name": "P300 HSE",
+                "price": "367",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P400 HSE",
+                "price": "415",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "P400 HSE Dynamic",
+                "price": "483",
+                "body_type": "5門 5人座",
+                "engine_cc": "2996cc",
+                "horsepower": "400hp@6500rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "SVR",
+                "price": "703",
+                "body_type": "5門 5人座",
+                "engine_cc": "5000cc",
+                "horsepower": "575hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2020,
+        "price_range": "314 - 552",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2020",
+        "variants": [
+            {
+                "trim_name": "P250 S",
+                "price": "314",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P300 R-Dynamic S",
+                "price": "351",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P380 R-Dynamic S",
+                "price": "395",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "P380 R-Dynamic HSE",
+                "price": "460",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SVAutobiography Dynamic Edition",
+                "price": "552",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2019,
+        "price_range": "318 - 395",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 Si4 SE",
+                "price": "318",
+                "body_type": "5門 7人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Si4 HSE",
+                "price": "355",
+                "body_type": "5門 7人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Si6 SE",
+                "price": "359",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Td6 SE",
+                "price": "359",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 Si6 HSE",
+                "price": "395",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Td6 HSE",
+                "price": "395",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@3750rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2019,
+        "price_range": "194 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 TD4 S",
+                "price": "194",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Si4 S",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TD4 SE",
+                "price": "208",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 TD4 HSE",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Si4 SE",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Si4 HSE",
+                "price": "249",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2019,
+        "price_range": "409 - 914",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2019",
+        "variants": [
+            {
+                "trim_name": "3.0 TDV6 HSE",
+                "price": "409",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 TDV6 Vogue",
+                "price": "489",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 Vogue",
+                "price": "530",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SCV6 Autobiography LWB",
+                "price": "676",
+                "body_type": "5門 4人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography",
+                "price": "714",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "525hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography LWB",
+                "price": "747",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "525hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVAutobiography Dynamic",
+                "price": "914",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "565hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2019,
+        "price_range": "202 - 268",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2019",
+        "variants": [
+            {
+                "trim_name": "5D TD4 SE",
+                "price": "202",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5D Si4 SE",
+                "price": "207",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE",
+                "price": "248",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE Dynamic",
+                "price": "268",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque Convertible",
+        "year": 2019,
+        "price_range": "309 - 309",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-convertible-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 HSE Dynamic",
+                "price": "309",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2019,
+        "price_range": "352 - 698",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2019",
+        "variants": [
+            {
+                "trim_name": "2.0 Si4 HSE",
+                "price": "352",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SCV6 SE",
+                "price": "371",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 SE",
+                "price": "371",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "412",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 HSE",
+                "price": "418",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE Dynamic",
+                "price": "442",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 HSE Dynamic",
+                "price": "448",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVR",
+                "price": "698",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "575hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2019,
+        "price_range": "309 - 463",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2019",
+        "variants": [
+            {
+                "trim_name": "S D180",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S P250",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S D180R-Dynamic",
+                "price": "325",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S P250R-Dynamic",
+                "price": "325",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S D240R-Dynamic",
+                "price": "338",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S P300R-Dynamic",
+                "price": "338",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S D300R-Dynamic",
+                "price": "383",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S P380R-Dynamic",
+                "price": "385",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SE D300R-Dynamic",
+                "price": "449",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SE P380R-Dynamic",
+                "price": "451",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "HSE D300R-Dynamic",
+                "price": "461",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "HSE P380R-Dynamic",
+                "price": "463",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2018,
+        "price_range": "359 - 395",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2018",
+        "variants": [
+            {
+                "trim_name": "3.0 Td6 SE",
+                "price": "359",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 Si6 SE",
+                "price": "359",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 Td6 HSE",
+                "price": "395",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@3750rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 Si6 HSE",
+                "price": "395",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2018,
+        "price_range": "194 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 TD4 S",
+                "price": "194",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Si4 S",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TD4 SE",
+                "price": "208",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 TD4 HSE",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Si4 SE",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 Si4 HSE",
+                "price": "249",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2018,
+        "price_range": "202 - 268",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2018",
+        "variants": [
+            {
+                "trim_name": "5D TD4 SE",
+                "price": "202",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5D Si4 SE",
+                "price": "207",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE",
+                "price": "248",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE Dynamic",
+                "price": "268",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque Convertible",
+        "year": 2018,
+        "price_range": "309 - 309",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-convertible-2018",
+        "variants": [
+            {
+                "trim_name": "2.0 HSE Dynamic",
+                "price": "309",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Velar",
+        "year": 2018,
+        "price_range": "309 - 463",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-velar-2018",
+        "variants": [
+            {
+                "trim_name": "S P250",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S D180",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S P250R-Dynamic",
+                "price": "325",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "250hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S D180R-Dynamic",
+                "price": "325",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S P300R-Dynamic",
+                "price": "338",
+                "body_type": "5門 5人座",
+                "engine_cc": "1997cc",
+                "horsepower": "300hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S D240R-Dynamic",
+                "price": "338",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S D300R-Dynamic",
+                "price": "383",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "S P380R-Dynamic",
+                "price": "385",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "SE D300R-Dynamic",
+                "price": "449",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "SE P380R-Dynamic",
+                "price": "451",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "HSE D300R-Dynamic",
+                "price": "461",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "300hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "HSE P380R-Dynamic",
+                "price": "463",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "380hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2017,
+        "price_range": "199 - 249",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 Si4 S",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TD4 S",
+                "price": "199",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Si4 SE",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TD4 SE",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Si4 HSE",
+                "price": "249",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 TD4 HSE",
+                "price": "249",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2017,
+        "price_range": "635 - 1408",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2017",
+        "variants": [
+            {
+                "trim_name": "3.0 TDV6 HSE",
+                "price": "635",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 TDV6 Vogue",
+                "price": "690",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 Vogue",
+                "price": "735",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography",
+                "price": "985",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography LWB",
+                "price": "1075",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVAutobiography LWB",
+                "price": "1408",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "550hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2017,
+        "price_range": "239 - 339",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2017",
+        "variants": [
+            {
+                "trim_name": "5D TD4 SE",
+                "price": "239",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "180hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5D Si4 SE",
+                "price": "249",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE",
+                "price": "289",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE Dynamic",
+                "price": "339",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Si4 HSE Dynamic",
+                "price": "339",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque Convertible",
+        "year": 2017,
+        "price_range": "339 - 339",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-convertible-2017",
+        "variants": [
+            {
+                "trim_name": "2.0 HSE Dynamic",
+                "price": "339",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2017,
+        "price_range": "465 - 875",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2017",
+        "variants": [
+            {
+                "trim_name": "3.0 SCV6 SE",
+                "price": "465",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 SE",
+                "price": "505",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 HSE Dynamic",
+                "price": "555",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "575",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography Dynamic",
+                "price": "725",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVR",
+                "price": "875",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "550hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2016,
+        "price_range": "379 - 379",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2016",
+        "variants": [
+            {
+                "trim_name": "3.0 SCV6 Graphite HSE",
+                "price": "379",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 Graphite HSE",
+                "price": "379",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "256hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2016,
+        "price_range": "248 - 276",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 Si4 SE",
+                "price": "248",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 SD4 SE",
+                "price": "248",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0 Si4 HSE",
+                "price": "276",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2 SD4 HSE",
+                "price": "276",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2016,
+        "price_range": "715 - 1568",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2016",
+        "variants": [
+            {
+                "trim_name": "3.0 TDV6 HSE",
+                "price": "715",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 TDV6 Vogue",
+                "price": "765",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 Vogue",
+                "price": "795",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography",
+                "price": "1158",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography LWB",
+                "price": "1308",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVAutobiography LWB",
+                "price": "1568",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "550hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2016,
+        "price_range": "269 - 369",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2016",
+        "variants": [
+            {
+                "trim_name": "5D TD4 SE",
+                "price": "269",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5D Si4 SE",
+                "price": "279",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 HSE Dynamic",
+                "price": "369",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Si4 HSE Dynamic",
+                "price": "369",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque Convertible",
+        "year": 2016,
+        "price_range": "329 - 429",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-convertible-2016",
+        "variants": [
+            {
+                "trim_name": "2.0 SE Dynamic",
+                "price": "329",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.0 HSE Dynamic",
+                "price": "429",
+                "body_type": "2門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2016,
+        "price_range": "509 - 985",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2016",
+        "variants": [
+            {
+                "trim_name": "3.0 SCV6 SE",
+                "price": "509",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 SE",
+                "price": "535",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 HSE Dynamic",
+                "price": "609",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "615",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5.0 SCV8 Autobiography Dynamic",
+                "price": "829",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 SCV8 SVR",
+                "price": "985",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "550hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery",
+        "year": 2015,
+        "price_range": "366 - 366",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-2015",
+        "variants": [
+            {
+                "trim_name": "3.0 SCV6 HSE",
+                "price": "366",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "366",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "256hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery Sport",
+        "year": 2015,
+        "price_range": "238 - 266",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-sport-2015",
+        "variants": [
+            {
+                "trim_name": "2.0i SE",
+                "price": "238",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2D SE",
+                "price": "238",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.0i HSE",
+                "price": "266",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5800rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "2.2D HSE",
+                "price": "266",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2015,
+        "price_range": "235 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2015",
+        "variants": [
+            {
+                "trim_name": "SD4 HSE",
+                "price": "235",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Si4 HSE",
+                "price": "242",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2015,
+        "price_range": "695 - 1438",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2015",
+        "variants": [
+            {
+                "trim_name": "3.0 TDV6 HSE",
+                "price": "695",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC HSE",
+                "price": "708",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 TDV6 Vogue",
+                "price": "745",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC Vogue",
+                "price": "775",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Vogue SE",
+                "price": "1028",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography",
+                "price": "1128",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography LWB",
+                "price": "1278",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography Black LWB",
+                "price": "1438",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2015,
+        "price_range": "259 - 359",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2015",
+        "variants": [
+            {
+                "trim_name": "5D TD4 Pure",
+                "price": "259",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5D Si4 Pure",
+                "price": "269",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 Prestige",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Si4 Dynamic+",
+                "price": "359",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Si4 Dynamic+",
+                "price": "359",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2015,
+        "price_range": "489 - 805",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2015",
+        "variants": [
+            {
+                "trim_name": "3.0 V6 SC SE",
+                "price": "489",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 SE",
+                "price": "515",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC HSE Dynamic",
+                "price": "589",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "595",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "306hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SDV6 Hybrid HSE",
+                "price": "685",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "340hp/71.4kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography Dynamic",
+                "price": "805",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery 4",
+        "year": 2014,
+        "price_range": "366 - 366",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-4-2014",
+        "variants": [
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "366",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "256hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SCV6 HSE",
+                "price": "366",
+                "body_type": "5門 7人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2014,
+        "price_range": "235 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2014",
+        "variants": [
+            {
+                "trim_name": "SD4 HSE",
+                "price": "235",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Si4 HSE",
+                "price": "242",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2014,
+        "price_range": "678 - 1408",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2014",
+        "variants": [
+            {
+                "trim_name": "3.0 TDV6 HSE",
+                "price": "678",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC HSE",
+                "price": "708",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 TDV6 Vogue",
+                "price": "728",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC Vogue",
+                "price": "758",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Vogue SE",
+                "price": "998",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography",
+                "price": "1098",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography LWB",
+                "price": "1248",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography Black LWB",
+                "price": "1408",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2014,
+        "price_range": "279 - 359",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2014",
+        "variants": [
+            {
+                "trim_name": "5D Pure",
+                "price": "279",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Prestige",
+                "price": "309",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Dynamic+",
+                "price": "359",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Dynamic+",
+                "price": "359",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2014,
+        "price_range": "479 - 789",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2014",
+        "variants": [
+            {
+                "trim_name": "3.0 V6 SC SE",
+                "price": "479",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 SE",
+                "price": "499",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "292hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC HSE Dynamic",
+                "price": "579",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "579",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "292hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography Dynamic",
+                "price": "789",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery 4",
+        "year": 2013,
+        "price_range": "365 - 385",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-4-2013",
+        "variants": [
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "365",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "256hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE Black Design",
+                "price": "385",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "256hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2013,
+        "price_range": "235 - 242",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2013",
+        "variants": [
+            {
+                "trim_name": "SD4 HSE",
+                "price": "235",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "190hp@3500rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "Si4 HSE",
+                "price": "242",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2013,
+        "price_range": "678 - 1098",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2013",
+        "variants": [
+            {
+                "trim_name": "3.0 TDV6 HSE",
+                "price": "678",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC HSE",
+                "price": "708",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "3.0 TDV6 Vogue",
+                "price": "728",
+                "body_type": "5門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "258hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 V6 SC Vogue",
+                "price": "758",
+                "body_type": "5門 5人座",
+                "engine_cc": "2995cc",
+                "horsepower": "340hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Vogue SE",
+                "price": "998",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.0 V8 SC Autobiography",
+                "price": "1098",
+                "body_type": "5門 4人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000~6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2013,
+        "price_range": "269 - 349",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2013",
+        "variants": [
+            {
+                "trim_name": "5D Pure",
+                "price": "269",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Pure",
+                "price": "269",
+                "body_type": "3門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Prestige",
+                "price": "299",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Dynamic",
+                "price": "299",
+                "body_type": "3門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Dynamic+",
+                "price": "349",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Dynamic+",
+                "price": "349",
+                "body_type": "3門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2013,
+        "price_range": "609 - 609",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2013",
+        "variants": [
+            {
+                "trim_name": "5.0 V8 SC",
+                "price": "609",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery 4",
+        "year": 2012,
+        "price_range": "359 - 429",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-4-2012",
+        "variants": [
+            {
+                "trim_name": "3.0 SDV6 HSE",
+                "price": "359",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "256hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.0 SDV6 HSE+",
+                "price": "429",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "256hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2012,
+        "price_range": "219 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2012",
+        "variants": [
+            {
+                "trim_name": "Easy",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2012,
+        "price_range": "769 - 769",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2012",
+        "variants": [
+            {
+                "trim_name": "5.0 V8 SC",
+                "price": "769",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2012,
+        "price_range": "259 - 339",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2012",
+        "variants": [
+            {
+                "trim_name": "5D Pure",
+                "price": "259",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Prestige",
+                "price": "289",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Dynamic",
+                "price": "289",
+                "body_type": "3門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Dynamic+",
+                "price": "339",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Dynamic+",
+                "price": "339",
+                "body_type": "3門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2012,
+        "price_range": "609 - 609",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2012",
+        "variants": [
+            {
+                "trim_name": "5.0 V8 SC",
+                "price": "609",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery 4",
+        "year": 2011,
+        "price_range": "356 - 356",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-4-2011",
+        "variants": [
+            {
+                "trim_name": "3.0 SDV6",
+                "price": "356",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "245hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2011,
+        "price_range": "219 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2011",
+        "variants": [
+            {
+                "trim_name": "Easy",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2011,
+        "price_range": "689 - 689",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2011",
+        "variants": [
+            {
+                "trim_name": "5.0 V8 SC",
+                "price": "689",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Evoque",
+        "year": 2011,
+        "price_range": "259 - 339",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-evoque-2011",
+        "variants": [
+            {
+                "trim_name": "5D Pure",
+                "price": "259",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Prestige",
+                "price": "289",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Dynamic",
+                "price": "289",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Coupe Dynamic+",
+                "price": "339",
+                "body_type": "3門 4人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5D Dynamic+",
+                "price": "339",
+                "body_type": "5門 5人座",
+                "engine_cc": "1999cc",
+                "horsepower": "240hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2011,
+        "price_range": "539 - 539",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2011",
+        "variants": [
+            {
+                "trim_name": "5.0 V8 SC",
+                "price": "539",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery 4",
+        "year": 2010,
+        "price_range": "349 - 349",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-4-2010",
+        "variants": [
+            {
+                "trim_name": "3.0 TDV6",
+                "price": "349",
+                "body_type": "5門 7人座",
+                "engine_cc": "2993cc",
+                "horsepower": "245hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2010,
+        "price_range": "229 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2010",
+        "variants": [
+            {
+                "trim_name": "TD4",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "160hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2010,
+        "price_range": "682 - 682",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2010",
+        "variants": [
+            {
+                "trim_name": "5.0 V8",
+                "price": "682",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2010,
+        "price_range": "529 - 529",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2010",
+        "variants": [
+            {
+                "trim_name": "5.0 V8 Supercharged",
+                "price": "529",
+                "body_type": "5門 5人座",
+                "engine_cc": "4999cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery 3",
+        "year": 2009,
+        "price_range": "319 - 325",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-3-2009",
+        "variants": [
+            {
+                "trim_name": "2.7 TDV6",
+                "price": "319",
+                "body_type": "5門 5人座",
+                "engine_cc": "2720cc",
+                "horsepower": "190hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "4.4 V8",
+                "price": "325",
+                "body_type": "5門 5人座",
+                "engine_cc": "4394cc",
+                "horsepower": "295hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2009,
+        "price_range": "229 - 229",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2009",
+        "variants": [
+            {
+                "trim_name": "2.2 TD4",
+                "price": "229",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "160hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2009,
+        "price_range": "599 - 599",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2009",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "599",
+                "body_type": "5門 5人座",
+                "engine_cc": "4197cc",
+                "horsepower": "396hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2009,
+        "price_range": "416 - 446",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2009",
+        "variants": [
+            {
+                "trim_name": "4.2SC",
+                "price": "416",
+                "body_type": "5門 5人座",
+                "engine_cc": "4197cc",
+                "horsepower": "396hp@5750rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.2SC Stormer",
+                "price": "446",
+                "body_type": "5門 5人座",
+                "engine_cc": "4197cc",
+                "horsepower": "396hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Discovery 3",
+        "year": 2008,
+        "price_range": "295 - 325",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-discovery-3-2008",
+        "variants": [
+            {
+                "trim_name": "2.7 TDV6",
+                "price": "295",
+                "body_type": "5門 5人座",
+                "engine_cc": "2720cc",
+                "horsepower": "190hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "4.4 V8",
+                "price": "325",
+                "body_type": "5門 5人座",
+                "engine_cc": "4394cc",
+                "horsepower": "295hp@5500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Freelander 2",
+        "year": 2008,
+        "price_range": "209 - 216",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-freelander-2-2008",
+        "variants": [
+            {
+                "trim_name": "2.2 TD4",
+                "price": "209",
+                "body_type": "5門 5人座",
+                "engine_cc": "2179cc",
+                "horsepower": "160hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2",
+                "price": "216",
+                "body_type": "5門 5人座",
+                "engine_cc": "3192cc",
+                "horsepower": "233hp@6300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover",
+        "year": 2008,
+        "price_range": "550 - 550",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-2008",
+        "variants": [
+            {
+                "trim_name": "4.2",
+                "price": "550",
+                "body_type": "5門 5人座",
+                "engine_cc": "4197cc",
+                "horsepower": "396hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Land rover",
+        "model_name": "Land Rover Range Rover Sport",
+        "year": 2008,
+        "price_range": "360 - 416",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/land-rover-range-rover-sport-2008",
+        "variants": [
+            {
+                "trim_name": "4.4 V8",
+                "price": "360",
+                "body_type": "5門 5人座",
+                "engine_cc": "4394cc",
+                "horsepower": "295hp@5500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.2",
+                "price": "416",
+                "body_type": "5門 5人座",
+                "engine_cc": "4197cc",
+                "horsepower": "390hp@4500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    }
+]

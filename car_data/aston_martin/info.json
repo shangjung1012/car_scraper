@@ -1,0 +1,1443 @@
+[
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB12",
+        "year": 2024,
+        "price_range": "1288 - 1288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db12-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1288",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "680hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB12 Volante",
+        "year": 2024,
+        "price_range": "1388 - 1388",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db12-volante-2024",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1388",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "680hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBX",
+        "year": 2024,
+        "price_range": "1158 - 1438",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbx-2024",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1158",
+                "body_type": "5門 5人座",
+                "engine_cc": "3982cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "707",
+                "price": "1438",
+                "body_type": "5門 5人座",
+                "engine_cc": "3982cc",
+                "horsepower": "707hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2024,
+        "price_range": "1168 - 1168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2024",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1168",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "665hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2023,
+        "price_range": "1168 - 1168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1168",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11 Volante",
+        "year": 2023,
+        "price_range": "1198 - 1198",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-volante-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1198",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2023,
+        "price_range": "1768 - 1768",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2023",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1768",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS Volante",
+        "year": 2023,
+        "price_range": "1938 - 1938",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-volante-2023",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1938",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBX",
+        "year": 2023,
+        "price_range": "1158 - 1438",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbx-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1158",
+                "body_type": "5門 5人座",
+                "engine_cc": "3982cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "707",
+                "price": "1438",
+                "body_type": "5門 5人座",
+                "engine_cc": "3982cc",
+                "horsepower": "707hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2023,
+        "price_range": "928 - 1138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "928",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 F1 Edition",
+                "price": "1138",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "535hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage Roadster",
+        "year": 2023,
+        "price_range": "928 - 1228",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-roadster-2023",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "928",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 F1 Edition",
+                "price": "1228",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "535hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2022,
+        "price_range": "1038 - 1038",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1038",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11 Volante",
+        "year": 2022,
+        "price_range": "1138 - 1138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-volante-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1138",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2022,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2022",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1680",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS Volante",
+        "year": 2022,
+        "price_range": "1848 - 1848",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-volante-2022",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1848",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBX",
+        "year": 2022,
+        "price_range": "1018 - 1438",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbx-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1018",
+                "body_type": "5門 5人座",
+                "engine_cc": "3982cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "707",
+                "price": "1438",
+                "body_type": "5門 5人座",
+                "engine_cc": "3982cc",
+                "horsepower": "707hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2022,
+        "price_range": "0 - 1088",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2022",
+        "variants": [
+            {
+                "trim_name": "5.2 V12",
+                "price": "售價未公布",
+                "body_type": "2門 2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "700hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8",
+                "price": "880",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 F1 Edition",
+                "price": "1088",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "535hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage Roadster",
+        "year": 2022,
+        "price_range": "880 - 1168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-roadster-2022",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "880",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 F1 Edition",
+                "price": "1168",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "535hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2021,
+        "price_range": "1038 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1038",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "AMR",
+                "price": "1480",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "639hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11 Volante",
+        "year": 2021,
+        "price_range": "1138 - 1138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-volante-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1138",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2021,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2021",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1680",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS Volante",
+        "year": 2021,
+        "price_range": "1848 - 1848",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-volante-2021",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1848",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBX",
+        "year": 2021,
+        "price_range": "988 - 988",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbx-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "988",
+                "body_type": "5門 5人座",
+                "engine_cc": "3982cc",
+                "horsepower": "550hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2021,
+        "price_range": "880 - 1088",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "880",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 F1 Edition",
+                "price": "1088",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "535hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage Roadster",
+        "year": 2021,
+        "price_range": "980 - 1168",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-roadster-2021",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "980",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "4.0 V8 F1 Edition",
+                "price": "1168",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "535hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2020,
+        "price_range": "1038 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1038",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "AMR",
+                "price": "1480",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "639hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11 Volante",
+        "year": 2020,
+        "price_range": "1138 - 1138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-volante-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1138",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2020,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2020",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1680",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS Volante",
+        "year": 2020,
+        "price_range": "1848 - 1848",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-volante-2020",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1848",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2020,
+        "price_range": "880 - 880",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "880",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage Roadster",
+        "year": 2020,
+        "price_range": "980 - 980",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-roadster-2020",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "980",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2019,
+        "price_range": "1038 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2019",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1038",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "AMR",
+                "price": "1480",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "639hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11 Volante",
+        "year": 2019,
+        "price_range": "1138 - 1138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-volante-2019",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1138",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2019,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2019",
+        "variants": [
+            {
+                "trim_name": "Superleggera 5.2 V12",
+                "price": "1680",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "725hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2019,
+        "price_range": "880 - 880",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2019",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "880",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2018,
+        "price_range": "1038 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2018",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1038",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "5.2 V12",
+                "price": "1280",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "608hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11 Volante",
+        "year": 2018,
+        "price_range": "1138 - 1138",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-volante-2018",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "1138",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2018,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2018",
+        "variants": [
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "558hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vanquish",
+        "year": 2018,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vanquish-2018",
+        "variants": [
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "588hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2018,
+        "price_range": "880 - 880",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2018",
+        "variants": [
+            {
+                "trim_name": "4.0 V8",
+                "price": "880",
+                "body_type": "2門 2人座",
+                "engine_cc": "3982cc",
+                "horsepower": "510hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2017,
+        "price_range": "1480 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2017",
+        "variants": [
+            {
+                "trim_name": "5.2 V12",
+                "price": "1480",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "608hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2017,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2017",
+        "variants": [
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "558hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vanquish",
+        "year": 2017,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vanquish-2017",
+        "variants": [
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "588hp@7000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2017,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2017",
+        "variants": [
+            {
+                "trim_name": "V12 S",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB11",
+        "year": 2016,
+        "price_range": "1480 - 1480",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db11-2016",
+        "variants": [
+            {
+                "trim_name": "5.2 V12",
+                "price": "1480",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5204cc",
+                "horsepower": "608hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2016,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2016",
+        "variants": [
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "558hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vanquish",
+        "year": 2016,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vanquish-2016",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2016,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2016",
+        "variants": [
+            {
+                "trim_name": "V12 S",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2015,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2015",
+        "variants": [
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "558hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vanquish",
+        "year": 2015,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vanquish-2015",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2015,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2015",
+        "variants": [
+            {
+                "trim_name": "V12 S",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB9",
+        "year": 2014,
+        "price_range": "1180 - 1180",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db9-2014",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1180",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2014,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2014",
+        "variants": [
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "558hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vanquish",
+        "year": 2014,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vanquish-2014",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2014,
+        "price_range": "938 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2014",
+        "variants": [
+            {
+                "trim_name": "V8 S",
+                "price": "938",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "436hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12 S",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2013,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2013",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2013,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2013",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "477hp@6000rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "S 6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "558hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vanquish",
+        "year": 2013,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vanquish-2013",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "573hp@6750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2013,
+        "price_range": "868 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2013",
+        "variants": [
+            {
+                "trim_name": "V8 Coupe",
+                "price": "868",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "426hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V8 S Coupe",
+                "price": "938",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "436hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12 Coupe",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB9",
+        "year": 2012,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db9-2012",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1280",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "477hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2012,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2012",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2012,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2012",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "477hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2012,
+        "price_range": "868 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2012",
+        "variants": [
+            {
+                "trim_name": "V8 Coupe",
+                "price": "868",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "426hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V8 S Coupe",
+                "price": "938",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "436hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12 Coupe",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Virage",
+        "year": 2012,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-virage-2012",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1380",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "497hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB9",
+        "year": 2011,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db9-2011",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1280",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "477hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2011,
+        "price_range": "1680 - 1680",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2011",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2011,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2011",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1380",
+                "body_type": "5門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "477hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Vantage",
+        "year": 2011,
+        "price_range": "868 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-vantage-2011",
+        "variants": [
+            {
+                "trim_name": "V8 Coupe",
+                "price": "868",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "426hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V8 S",
+                "price": "938",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "436hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V8 N420",
+                "price": "958",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "426hp@7300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "GT4",
+                "price": "1180",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "450hp",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "V12 Coupe",
+                "price": "1280",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Virage",
+        "year": 2011,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-virage-2011",
+        "variants": [
+            {
+                "trim_name": "6.0 V12 Coupe",
+                "price": "1380",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "497hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DB9",
+        "year": 2010,
+        "price_range": "1280 - 1280",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-db9-2010",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "1280",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "477hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin DBS",
+        "year": 2010,
+        "price_range": "1680 - 1780",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-dbs-2010",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "1680",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "Volante",
+                "price": "1780",
+                "body_type": "2門 2人座",
+                "engine_cc": "5935cc",
+                "horsepower": "517hp@6500rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin Rapide",
+        "year": 2010,
+        "price_range": "1380 - 1380",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-rapide-2010",
+        "variants": [
+            {
+                "trim_name": "6.0 V12",
+                "price": "1380",
+                "body_type": "4門 4人座",
+                "engine_cc": "5935cc",
+                "horsepower": "470hp@6000rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Aston martin",
+        "model_name": "Aston Martin V8 Vantage",
+        "year": 2010,
+        "price_range": "868 - 868",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/aston-martin-v8-vantage-2010",
+        "variants": [
+            {
+                "trim_name": "Coupe",
+                "price": "868",
+                "body_type": "2門 2人座",
+                "engine_cc": "4735cc",
+                "horsepower": "426hp@7300rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    }
+]

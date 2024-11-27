@@ -51,6 +51,23 @@
     },
     {
         "brand": "Volkswagen",
+        "model_name": "Volkswagen Amarok",
+        "year": 2024,
+        "price_range": "184.9 - 184.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volkswagen-amarok-2024",
+        "variants": [
+            {
+                "trim_name": "V6 3.0 TDI",
+                "price": "184.9",
+                "body_type": "4門 5人座",
+                "engine_cc": "2993cc",
+                "horsepower": "241hp@3250rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Volkswagen",
         "model_name": "Volkswagen Caddy",
         "year": 2024,
         "price_range": "86.8 - 148.8",

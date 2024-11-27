@@ -154,7 +154,7 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
         list: A list of CarModel objects for the specified brand.
     """
     car_models = []
-    url = f'https://autos.yahoo.com.tw/new-cars/make/{brand}'
+    url = f'https://autos.yahoo.com.tw/new-cars/make/{brand.replace(" ", "-")}'
 
     try:
         res = session.get(url, headers=headers, timeout=10)
@@ -176,7 +176,7 @@ def get_cars_of_brand(session, headers, brand: str) -> list:
 
     for year in years:
         logging.info(f"Processing year: {year}")
-        api_url = f'https://autos.yahoo.com.tw/ajax/api_car_make/{brand}?year={year}'
+        api_url = f'https://autos.yahoo.com.tw/ajax/api_car_make/{brand.replace(" ", "-")}?year={year}'
 
         try:
             response = session.get(api_url, headers=headers, timeout=10)

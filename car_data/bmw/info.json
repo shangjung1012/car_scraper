@@ -1,6 +1,39 @@
 [
     {
         "brand": "Bmw",
+        "model_name": "BMW 1-Series",
+        "year": 2025,
+        "price_range": "155 - 268",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/bmw-1-series-2025",
+        "variants": [
+            {
+                "trim_name": "120 Sport",
+                "price": "155",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "156hp@4700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "120 M Sport",
+                "price": "183",
+                "body_type": "5門 5人座",
+                "engine_cc": "1499cc",
+                "horsepower": "156hp@4700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "M135 xDrive",
+                "price": "268",
+                "body_type": "5門 5人座",
+                "engine_cc": "1998cc",
+                "horsepower": "300hp@5750rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Bmw",
         "model_name": "BMW 3-Series Sedan",
         "year": 2025,
         "price_range": "618 - 618",

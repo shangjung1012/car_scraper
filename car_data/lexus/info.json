@@ -1,6 +1,55 @@
 [
     {
         "brand": "Lexus",
+        "model_name": "Lexus IS",
+        "year": 2025,
+        "price_range": "199 - 221",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/lexus-is-2025",
+        "variants": [
+            {
+                "trim_name": "300h豪華版",
+                "price": "199",
+                "body_type": "4門 5人座",
+                "engine_cc": "2494cc",
+                "horsepower": "223hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "300h F Sport Design",
+                "price": "201",
+                "body_type": "4門 5人座",
+                "engine_cc": "2494cc",
+                "horsepower": "223hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "300h F Sport版",
+                "price": "205",
+                "body_type": "4門 5人座",
+                "engine_cc": "2494cc",
+                "horsepower": "223hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "300h頂級版",
+                "price": "209",
+                "body_type": "4門 5人座",
+                "engine_cc": "2494cc",
+                "horsepower": "223hp",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "300h F Sport Mode Black IV版",
+                "price": "221",
+                "body_type": "4門 5人座",
+                "engine_cc": "2494cc",
+                "horsepower": "223hp",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Lexus",
         "model_name": "Lexus LC",
         "year": 2025,
         "price_range": "620 - 650",

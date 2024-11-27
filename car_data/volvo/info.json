@@ -1,6 +1,56 @@
 [
     {
         "brand": "Volvo",
+        "model_name": "Volvo EC40",
+        "year": 2025,
+        "price_range": "201 - 232",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-ec40-2025",
+        "variants": [
+            {
+                "trim_name": "Plus Single Motor",
+                "price": "191",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 567km",
+                "horsepower": "238hp/42.8kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Ultra Twin Motor",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 623km",
+                "horsepower": "408hp/68.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo EX40",
+        "year": 2025,
+        "price_range": "191 - 222",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-ec40-2025",
+        "variants": [
+            {
+                "trim_name": "Plus Single Motor",
+                "price": "191",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 567km",
+                "horsepower": "238hp/42.8kgm",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Ultra Twin Motor",
+                "price": "222",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 623km",
+                "horsepower": "408hp/68.3kgm",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
         "model_name": "Volvo XC40",
         "year": 2025,
         "price_range": "167.2 - 199",
@@ -20,6 +70,55 @@
                 "body_type": "5門 5人座",
                 "engine_cc": "1969cc",
                 "horsepower": "197hp@4750~5250rpm",
+                "fuel_type": "油電混合"
+            }
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "model_name": "Volvo XC60",
+        "year": 2025,
+        "price_range": "232 - 328.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volvo-xc60-2025",
+        "variants": [
+            {
+                "trim_name": "Plus B5 AWD",
+                "price": "232",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Plus Recharge T8",
+                "price": "257.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultra B5 AWD",
+                "price": "262.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "250hp@5400~5700rpm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Ultra Recharge T8",
+                "price": "294.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
+                "fuel_type": "油電混合"
+            },
+            {
+                "trim_name": "Rechrge T8 Polestar",
+                "price": "328.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "1969cc",
+                "horsepower": "455hp/72.3kgm",
                 "fuel_type": "油電混合"
             }
         ]

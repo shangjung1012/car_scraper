@@ -5,7 +5,7 @@ import logging
 from pathlib import Path
 from .car_model import CarModel
 
-def save_brand_data(brand: str, cars_list: list, base_dir: str = './cars'):
+def save_brand_data(brand: str, cars_list: list, base_dir: str = './car_data'):
     """
     Saves the list of Car objects to a JSON file within a brand-specific directory.
 

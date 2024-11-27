@@ -1,0 +1,128 @@
+[
+    {
+        "brand": "Alfa romeo",
+        "model_name": "Alfa Romeo 147",
+        "year": 2008,
+        "price_range": "142 - 148",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/alfa-romeo-147-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 T Spark",
+                "price": "142",
+                "body_type": "5門 5人座",
+                "engine_cc": "1970cc",
+                "horsepower": "150hp@6300rpm",
+                "fuel_type": "汽油"
+            },
+            {
+                "trim_name": "1.9 JTDM",
+                "price": "148",
+                "body_type": "5門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Alfa romeo",
+        "model_name": "Alfa Romeo 159",
+        "year": 2008,
+        "price_range": "182 - 259",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/alfa-romeo-159-2008",
+        "variants": [
+            {
+                "trim_name": "1.9 JTDM",
+                "price": "182",
+                "body_type": "4門 5人座",
+                "engine_cc": "1910cc",
+                "horsepower": "150hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "2.4 JTDM",
+                "price": "209",
+                "body_type": "4門 5人座",
+                "engine_cc": "2387cc",
+                "horsepower": "200hp@4000rpm",
+                "fuel_type": "柴油"
+            },
+            {
+                "trim_name": "3.2 JTS Q4",
+                "price": "259",
+                "body_type": "4門 5人座",
+                "engine_cc": "3195cc",
+                "horsepower": "260hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Alfa romeo",
+        "model_name": "Alfa Romeo 159 Sportwagon",
+        "year": 2008,
+        "price_range": "219 - 219",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/alfa-romeo-159-sportwagon-2008",
+        "variants": [
+            {
+                "trim_name": "2.4 JTDM",
+                "price": "219",
+                "body_type": "5門 5人座",
+                "engine_cc": "2387cc",
+                "horsepower": "200hp@4000rpm",
+                "fuel_type": "柴油"
+            }
+        ]
+    },
+    {
+        "brand": "Alfa romeo",
+        "model_name": "Alfa Romeo Brera",
+        "year": 2008,
+        "price_range": "288 - 288",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/alfa-romeo-brera-2008",
+        "variants": [
+            {
+                "trim_name": "3.2 JTS Q4",
+                "price": "288",
+                "body_type": "2門 4人座",
+                "engine_cc": "3195cc",
+                "horsepower": "260hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Alfa romeo",
+        "model_name": "Alfa Romeo GT",
+        "year": 2008,
+        "price_range": "169 - 169",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/alfa-romeo-gt-2008",
+        "variants": [
+            {
+                "trim_name": "2.0 JTS",
+                "price": "169",
+                "body_type": "2門 4人座",
+                "engine_cc": "1970cc",
+                "horsepower": "165hp@6400rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    },
+    {
+        "brand": "Alfa romeo",
+        "model_name": "Alfa Romeo Spyder",
+        "year": 2008,
+        "price_range": "298 - 298",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/alfa-romeo-spyder-2008",
+        "variants": [
+            {
+                "trim_name": "3.2 JTS Q4",
+                "price": "298",
+                "body_type": "2門 2+2人座",
+                "engine_cc": "3195cc",
+                "horsepower": "260hp@6200rpm",
+                "fuel_type": "汽油"
+            }
+        ]
+    }
+]
