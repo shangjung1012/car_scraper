@@ -51,6 +51,23 @@
     },
     {
         "brand": "Volkswagen",
+        "model_name": "Volkswagen ID.Buzz",
+        "year": 2025,
+        "price_range": "239.8 - 239.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/volkswagen-id.buzz-2025",
+        "variants": [
+            {
+                "trim_name": "PRO S",
+                "price": "239.8",
+                "body_type": "5門 7人座",
+                "engine_cc": "滿電續航 487km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Volkswagen",
         "model_name": "Volkswagen Amarok",
         "year": 2024,
         "price_range": "184.9 - 184.9",

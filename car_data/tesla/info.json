@@ -419,5 +419,343 @@
                 "fuel_type": "電動"
             }
         ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model 3",
+        "year": 2020,
+        "price_range": "160.99 - 220.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2020",
+        "variants": [
+            {
+                "trim_name": "Standard Range Plus",
+                "price": "160.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 409km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "192.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 560km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "220.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航 530km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model S",
+        "year": 2020,
+        "price_range": "305.4 - 372.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2020",
+        "variants": [
+            {
+                "trim_name": "Long Range",
+                "price": "305.4",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 610km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "372.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 593km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model X",
+        "year": 2020,
+        "price_range": "332.8 - 389.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2020",
+        "variants": [
+            {
+                "trim_name": "Long Range",
+                "price": "332.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 507km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "389.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航 487km",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model 3",
+        "year": 2019,
+        "price_range": "155.99 - 214.99",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-3-2019",
+        "variants": [
+            {
+                "trim_name": "Standard Range Plus",
+                "price": "155.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "186.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "214.99",
+                "body_type": "4門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model S",
+        "year": 2019,
+        "price_range": "282.1 - 335.5",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2019",
+        "variants": [
+            {
+                "trim_name": "Standard Range",
+                "price": "282.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "314.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "335.5",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model X",
+        "year": 2019,
+        "price_range": "300.4 - 343.4",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2019",
+        "variants": [
+            {
+                "trim_name": "Standard Range",
+                "price": "300.4",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Long Range",
+                "price": "332.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "Performance",
+                "price": "343.4",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model S",
+        "year": 2018,
+        "price_range": "333.6 - 641.6",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2018",
+        "variants": [
+            {
+                "trim_name": "75D",
+                "price": "333.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "100D",
+                "price": "451.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "P100D",
+                "price": "641.6",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model X",
+        "year": 2018,
+        "price_range": "385.7 - 666.8",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2018",
+        "variants": [
+            {
+                "trim_name": "75D",
+                "price": "385.7",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "100D",
+                "price": "463.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "P100D",
+                "price": "666.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model S",
+        "year": 2017,
+        "price_range": "0 - 638.9",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-s-2017",
+        "variants": [
+            {
+                "trim_name": "90D",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "75",
+                "price": "288.8",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "75D",
+                "price": "330.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "100D",
+                "price": "449.2",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "P100D",
+                "price": "638.9",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
+    },
+    {
+        "brand": "Tesla",
+        "model_name": "Tesla Model X",
+        "year": 2017,
+        "price_range": "0 - 664.1",
+        "url": "https://autos.yahoo.com.tw/new-cars/model/tesla-model-x-2017",
+        "variants": [
+            {
+                "trim_name": "90D",
+                "price": "售價未公布",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "75D",
+                "price": "383",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "100D",
+                "price": "461.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            },
+            {
+                "trim_name": "P100D",
+                "price": "664.1",
+                "body_type": "5門 5人座",
+                "engine_cc": "滿電續航",
+                "horsepower": "Unknown Horsepower",
+                "fuel_type": "電動"
+            }
+        ]
     }
 ]

@@ -105,18 +105,27 @@ def get_car_variants(session, headers, car_url: str) -> list:
             trim = spec.find('div', class_='model-title').text.strip()
             details = spec.find('ul').find_all('li')
 
-            # Ensure there are enough details
-            if len(details) < 7:
+           
+            # fuel car
+            if len(details) == 7:
+                body_type = details[0].text.strip()
+                price = spec.find_all('span')[1].text.strip() if len(spec.find_all('span')) > 1 else 'Unknown Price'
+                engine_cc = details[2].text.strip()
+                horsepower = details[4].text.strip()
+                fuel_type = details[6].text.strip()
+                
+            # electric car(for tesla)
+            elif len(details) == 5:
+                body_type = details[0].text.strip()
+                price = spec.find_all('span')[1].text.strip() if len(spec.find_all('span')) > 1 else 'Unknown Price'
+                engine_cc = details[2].text.strip()
+                horsepower = 'Unknown Horsepower'
+                fuel_type = details[4].text.strip()
+
+            else:
+                # Ensure there are enough details
                 logging.warning(f"Insufficient details for variant '{trim}' in URL: {car_url}")
                 continue
-
-            body_type = details[0].text.strip()
-            price = spec.find_all('span')[1].text.strip() if len(spec.find_all('span')) > 1 else 'Unknown Price'
-            # engine_cc = details[2].text.strip().replace('cc', '').strip()
-            engine_cc = details[2].text.strip()
-            # horsepower = details[4].text.strip().replace('hp', '').strip()
-            horsepower = details[4].text.strip()
-            fuel_type = details[6].text.strip()
 
            
             variant = CarVariant(
