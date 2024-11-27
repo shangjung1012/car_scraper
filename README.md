@@ -1,6 +1,6 @@
 ```
 car_scraper/
-├── cars/
+├── car_data/
 │   └── ...                 # Directory where scraped data will be saved
 ├── car_scraper/
 │   ├── __init__.py
